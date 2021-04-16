@@ -6,9 +6,8 @@ redirect_from:
   - /license/
 ---
 
-The following license is what the wiki is currently licensed under. [Click here](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/License) to view it on GitHub.
+### The following license is what the wiki is currently licensed under. [Click here](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/License) to view it on GitHub.
 
-```
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -348,4 +347,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-```
