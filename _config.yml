@@ -55,6 +55,7 @@ defaults:
       is_update_log: true
       author_profile: true
       author: "BOB"
+      comments: true
       categories:
         - Update Logs
       sidebar:
@@ -66,6 +67,7 @@ defaults:
       categories:
       listed: false
       short_description: ""
+      comments: false
       categories:
         - Old Update Logs
 
