@@ -1,0 +1,77 @@
+---
+permalink: /Posts/Update-Log/3-1-0
+title: "V3.1.0 Update Log"
+short_description: "BOB's new showcase called [Techtation](https://www.roblox.com/games/6201734639/) has been directly integrated into the game"
+tags:
+  - V3
+redirect_from:
+  - /Posts/update-Log/3-1-0
+  - /Posts/Update-log/3-1-0
+  - /Posts/update-log/3-1-0
+  - /Posts/Update-Log/3-1-0/
+  - /Posts/update-Log/3-1-0/
+  - /Posts/Update-log/3-1-0/
+  - /Posts/update-log/3-1-0/
+  
+  - /Update-Log/3-1-0
+  - /update-Log/3-1-0
+  - /Update-log/3-1-0
+  - /update-log/3-1-0
+  - /Update-Log/3-1-0/
+  - /update-Log/3-1-0/
+  - /Update-log/3-1-0/
+  - /update-log/3-1-0/
+  
+  - /Update/3-1-0
+  - /update/3-1-0
+  - /Update/3-1-0/
+  - /update/3-1-0/
+  
+  - /V3-1-0
+  - /v3-1-0
+  - /V3-1-0/
+  - /v3-1-0/
+  
+#  - /V3-1
+#  - /V3-1/
+---
+
+# Summary of this update:
+* My/BOB's new showcase called [Techtation](https://www.roblox.com/games/6201734639/) has been directly integrated into the game.
+* Add a major update to the guy that types lines of fake code into the computer with the fake console open.
+* Added better phone compatibility in the part of the intro that has the play button.
+* Added other minor changes to backend systems.
+
+## Here's a list of changes that were included in this update:
+
+* The [Techtation](https://www.roblox.com/games/6201734639/) showcase has been directly integrated into the game. You can find the integration of it at the end of the map.
+* * This means you can directly travel in between each of the games. Note: Due to design issues while making the new systems you can only travel one way. This is unlikely to ever change.
+* Added a few edits to the game's device prediction algorithm (so it now reliably knows when a user is on console).
+* While ago a system was implemented to kick the player if they are using VR as the game does not support it; so now the system will now detect if there is new VR input as well as check at game join (which is originally what it only did).
+* Fixed a weird lighting issue with the ends of the conveyor belts.
+* Added a major update to the guy that types lines of fake code into the computer with the fake console open:
+* * The most notable change in this list is that the resolution of the screen (aka the pixels per stud) has been increased (from 70 to 150) (finally). It should now be easier to read now.
+* * * The UI has also been resized because of the change above this (so that will also help in the overall readability improvement).
+* * The system will no longer use the same input twice in a row.
+* * The backend of the system that runs it has been reorganized.
+* * The following lines of code have had their outputs changed to:
+* * * Input: `print("Yes")`
+Output: <s class="spoiler">`But what if I don't want to?`</s>
+* * * Input: `local Answer = QuestionAnswerer("Did BOB write this question?") print(Answer)`
+Output: <s class="spoiler">`Maybe :b`</s>
+* * The following lines of code have had their inputs changed to:
+* * * Input: `local Answer = QuestionAnswerer("How much of the game is made by?") print(Answer)`
+Output: <s class="spoiler">`A lot of it as there are only a few things in this game that are not made by BOB`</s>
+* * The following lines of code have been removed (due to being too generic + actually looking like they would have done something + referencing systems that are no longer in the game (as of V3)):
+* * * `Docks.DockSelected.OpenStatus = 1`
+* * * `Docks.DockSelected.OpenStatus = 2`
+* * * `Docks.DockSelected.OpenStatus = 3`
+* * The following lines of code have been removed for not the same reasons as above:
+* * * `if CanIGoHome == false then print("No") elseif CanIGoHome == true then print("Yes") end`
+* Added a few (unrelated to the previous change) changes to the game's device prediction again. This time they include general updates like increased probability for certain actions and decreased probability for others.
+* The automatic sizing the game's UI (which currently only includes the part of the intro with the play button) has been updated.
+* * It will now live update. There was a bug preventing it from doing this as it was supposed to do this before but now that bug has been identified and fixed.
+* * It will now work on any screen size instead of only applying if the screen size is lower than a set number (while using a phone). What this means is depending on the pixel resolution of your Roblox client window the UI will be sized according to a few numbers that originate from the pixel resolution of your Roblox client window.
+* * * No special sizing of any UI elements will take place because of this system when your Roblox client window is the size of 1920 x 1080 as that is what the game is made and optimized for.
+* * * The part of the intro where the play button is located has a minimum of how far it can be scaled down. It is currently a 60% of it's normal size. Also currently there is no maximum set.
+* * If the game thinks you're on mobile the part of the intro with the play button will now change it's background transparency and background color if it needs to be scaled down to anything below 75% of its original size.

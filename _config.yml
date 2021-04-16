@@ -1,0 +1,107 @@
+remote_theme: "BOBDevStudio/Minimal-Mistakes-Fork-Theme"
+
+# --//Main customisation:
+
+title: "RBAP Official Wiki"
+description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
+baseurl: /RBAP
+logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
+tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
+name: "BOB Development Studio"
+
+exclude:
+  - Readme.md
+  - .github
+#include:
+
+# --//Page defaults:
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      is_home_page: false
+      author: "BOBDevStudio"
+      toc: false
+      author_profile: false
+      related: false
+      navigation_buttons: false
+      comments: false
+      is_update_log: false
+#  - scope:
+#      path: ""
+#      type: pages
+#    values:
+#      
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      related: true
+      pinned: false
+      listed: true
+  - scope:
+      path: "Wiki/*"
+    values:
+      sidebar:
+        nav: "Wiki"
+  - scope:
+      path: "_posts/update-log/*"
+      type: posts
+    values:
+      is_update_log: true
+      author_profile: true
+      author: "BOB"
+      categories:
+        - Update Logs
+      sidebar:
+        nav: "UpdateLogs"
+  - scope:
+      path: "_posts/update-log/old/*"
+      type: posts
+    values:
+      categories:
+      listed: false
+      short_description: ""
+      categories:
+        - Old Update Logs
+
+# --//Plugin related stuff:
+
+safe: true
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-redirect-from
+  - jekyll-gist
+#  - jekyll-sitemap
+whitelist:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-redirect-from
+  - jekyll-gist
+#  - jekyll-sitemap
+
+# --//Comment provider settings:
+
+#repository: "BOBDevStudio/" -- Coming soon!
+#comments:
+#  provider: "utterances"
+#  utterances:
+#    theme: "github-light" # Can be set to "github-light" or "github-dark"
+#    issue_term: "Page Comments"
+
+# --//No need to edit really:
+
+locale: "en-US"
+title_separator: "-"
+atom_feed:
+  hide: true
+category_archive:
+  type: liquid
+  path: /Categories
+tag_archive:
+  type: liquid
+  path: /Tags

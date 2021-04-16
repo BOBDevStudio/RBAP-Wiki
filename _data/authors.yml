@@ -1,0 +1,65 @@
+BOBDevStudio:
+  name: "BOB Development Studio"
+  bio: "BOB Development Studio is a group on Roblox owned by BOB. It is also the owner of Random Buildings And Parts."
+  avatar: "/Assets/Images/Author-Icon-Images/BOBDevStudio.png"
+  links:
+    - label: "BDS on Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/groups/8499452/-"
+    - label: "@TheBOBDevStudio"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TheBOBDevStudio"
+    - label: "BOBDevStudio"
+      icon: "fab fa-github"
+      url: "https://github.com/BOBDevStudio"
+    - label: "BDS's Discord Server"
+      icon: "fab fa-discord"
+      url: "https://discord.gg/DJxXsGt"
+
+RBAP:
+  name: "Random Buildings And Parts"
+  bio: "Random Buildings And Parts is a showcase game on Roblox made by BOB."
+  avatar: "/Assets/Images/Author-Icon-Images/RBAP.png"
+  links:
+    - label: "RBAP on Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/games/6033036061/"
+    - label: "@RBAPGame"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RBAPGame"
+
+BOB:
+  name: "BOB"
+  bio: "BOB is the owner of the BOB Development Studio which is the owner of Random Buildings And Parts."
+  avatar: "/Assets/Images/Author-Icon-Images/BOB.png"
+  links:
+    - label: "BOB on Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/users/241903094/profile"
+    - label: "@ThisBeBOB_"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ThisBeBOB_"
+    - label: "TheOneBOB"
+      icon: "fab fa-github"
+      url: "https://github.com/TheOneBOB"
+
+BDSSystem:
+  name: "BDS's System"
+  bio: "BDS's System is an announcement poster account for the BOB Development Studio. The name BDS's System can also represent a bot account owned by the BOB Development Studio."
+  avatar: "/Assets/Images/Author-Icon-Images/BDS System.png"
+  links:
+    - label: "BDS's System on Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/users/863421912/profile"
+    - label: "BDSSystem"
+      icon: "fab fa-github"
+      url: "https://github.com/BDSSystem"
+
+RBAPSystem:
+  name: "RBAP's System"
+  bio: "RBAP's System is an announcement poster account for the Random Buildings And Parts. The name RBAP's System can also represent a bot account that is related to Random Buildings And Parts in some way and is owned by the BOB Development Studio."
+  avatar: "/Assets/Images/Author-Icon-Images/RBAP System.png"
+  links:
+    - label: "RBAP's System on Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/users/1091398363/profile"
