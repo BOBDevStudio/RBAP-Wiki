@@ -87,12 +87,12 @@ whitelist:
 
 # --//Comment provider settings:
 
-#repository: "BOBDevStudio/" -- Coming soon!
-#comments:
-#  provider: "utterances"
-#  utterances:
-#    theme: "github-light" # Can be set to "github-light" or "github-dark"
-#    issue_term: "Page Comments"
+repository: "BOBDevStudio/RBAP-Wiki-Comments"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # Can be set to "github-light" or "github-dark"
+    issue_term: "Page Comments"
 
 # --//No need to edit really:
 
