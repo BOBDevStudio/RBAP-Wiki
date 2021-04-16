@@ -12,6 +12,7 @@ name: "BOB Development Studio"
 exclude:
   - Readme.md
   - .github
+  - License
 #include:
 
 # --//Page defaults:
