@@ -30,14 +30,14 @@ redirect_from:
 
 | Value Type |
 |-|
-| [Number](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#number) |
-| [String](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| [Table](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#table) |
-| [Array](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#array) |
-| [Boolean](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| [Color](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| [Blank](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#blank) |
-| [RBAP Version](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#rbap-version) |
+| [Number](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#number) |
+| [String](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| [Table](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#table) |
+| [Array](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#array) |
+| [Boolean](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| [Color](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| [Blank](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#blank) |
+| [RBAP Version](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#rbap-version) |
 
 ## Number
 
@@ -89,7 +89,7 @@ A value type that represents a value not being set to anything. On the wiki it i
 
 ## RBAP Version
 
-A value of this type describes a certain version of Random Buildings And Parts. Each version can be viewed on [this post](RBAP/Go-To/RBAP-Update-Log). The update logs for each update can also be found [here on the website](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Categories#update-log). As should be pretty obvious this is a value type exclusive to the wiki.
+A value of this type describes a certain version of Random Buildings And Parts. Each version can be viewed on [this post](RBAP/Go-To/RBAP-Update-Log). The update logs for each update can also be found [here on the website](https://bobdevstudio.github.io/RBAP/Categories#update-log). As should be pretty obvious this is a value type exclusive to the wiki.
 
-**Note:** The update logs currently on the website are only of the [`V3`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Tags#v3) series of updates. Any update logs for the updates before that are not *guaranteed* to be added anytime soon.
+**Note:** The update logs currently on the website are only of the [`V3`](https://bobdevstudio.github.io/RBAP/Tags#v3) series of updates. Any update logs for the updates before that are not *guaranteed* to be added anytime soon.
 {: .notice--warning}

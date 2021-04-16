@@ -35,15 +35,15 @@ What is a system dock? System docks are currently being classified as docks that
 
 | Dock Type |
 |-|
-| [Open](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#open) |
-| [Under Maintenance](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#under-maintenance) |
-| [Closed](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#closed) |
-| [On Cooldown](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#on-cooldown) |
-| [Seasonally Closed](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#seasonally-closed) |
-| [Temporary Dock Location](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#temporary-dock-location) |
-| [Dock Preview](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#temporary-dock-location) |
-| [Server Dock](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#server-dock) |
-| [Hidden Dock](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Dock-Types#hidden-dock) |
+| [Open](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#open) |
+| [Under Maintenance](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#under-maintenance) |
+| [Closed](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#closed) |
+| [On Cooldown](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#on-cooldown) |
+| [Seasonally Closed](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#seasonally-closed) |
+| [Temporary Dock Location](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#temporary-dock-location) |
+| [Dock Preview](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#temporary-dock-location) |
+| [Server Dock](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#server-dock) |
+| [Hidden Dock](https://bobdevstudio.github.io/RBAP/Wiki/Dock-Types#hidden-dock) |
 
 ## Open
 
@@ -51,19 +51,19 @@ This is the generic open dock type. It is pretty self-explanatory why it is used
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently open`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently open`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light3`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Open.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Open.png)
 
 ## Under Maintenance
 
@@ -71,19 +71,19 @@ This is the generic under maintenance dock type. This dock type is used when a d
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently under maintenance`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently under maintenance`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light2`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Under%20Maintenance.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Under%20Maintenance.png)
 
 ## Closed
 
@@ -91,19 +91,19 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently closed`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently closed`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Closed.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Closed.png)
 
 ## On Cooldown
 
@@ -111,19 +111,19 @@ This dock type was originally added for the mine dock but the idea of using it t
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`Falue`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently on cooldown`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`Falue`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently on cooldown`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Blue.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Blue.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Cooldown.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Cooldown.png)
 
 ## Seasonally Closed
 
@@ -131,19 +131,19 @@ This dock type was used in the winter of 2019 to 2020 due to snow going through 
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`Falue`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently closed for the season`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`Falue`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently closed for the season`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Seasonally%20Closed.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Seasonally%20Closed.png)
 
 ## Temporary Dock Location
 
@@ -151,19 +151,19 @@ This dock type Indicates that the current location of the dock connected to it i
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock entrance is currently the temporary location for this dock`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock entrance is currently the temporary location for this dock`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light3`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Temporary%20Location.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Temporary%20Location.png)
 
 ## Dock Preview
 
@@ -171,54 +171,54 @@ This dock type is used when BOB wants to showcase a dock but it isn't quite fini
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is only a preview and is not yet fully in the game yet`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is only a preview and is not yet fully in the game yet`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Green.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Dock%20Preview.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Dock%20Preview.png)
 
 ## Server Dock
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`[Server Dock]: This dock contains statistics about the server and the game`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) - [Server And Game Info Dock](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Docks#server-and-game-info-dock) |
-| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`[Server Dock]: This dock contains statistics about the server and the game`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) - [Server And Game Info Dock](https://bobdevstudio.github.io/RBAP/Wiki/Docks#server-and-game-info-dock) |
+| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`, `Light2`, and `Light3`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Server%20Dock.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Server%20Dock.png)
 
 ## Hidden Dock
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in game event. There are currently none in the game as previous ones were removed in [`V3`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system).
+Hidden docks are docks that are hidden by default unless they are triggered to appear by some in game event. There are currently none in the game as previous ones were removed in [`V3`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system).
 
 | Value Name           | Value |
 |-|-|
-| Can Be Found In Game | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is currently open`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#boolean) |
+| Can Be Found In Game | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Sign Text            | [`This dock is currently open`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`True`](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light3`} |
-| `Light1` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Purple.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Wiki/Value-Types#color) |
+| `Light1` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light2` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Yellow.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| `Light3` Color       | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Purple.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 1         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/Red.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
+| Gate Color 2         | [![](https://bobdevstudio.github.io/RBAP/Assets/Images/Color-Images/White.png)](https://bobdevstudio.github.io/RBAP/Wiki/Value-Types#color) |
 
-![](https://bobdevstudio.github.io/_New-RBAP-Wiki-Test/Assets/Images/Dock-Type-Images/Hidden%20Dock.png)
+![](https://bobdevstudio.github.io/RBAP/Assets/Images/Dock-Type-Images/Hidden%20Dock.png)
