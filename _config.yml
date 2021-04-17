@@ -94,7 +94,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light" # Can be set to "github-light" or "github-dark"
-    issue_term: "Page Comments"
+    issue_term: "pathname"
 
 # --//No need to edit really:
 
