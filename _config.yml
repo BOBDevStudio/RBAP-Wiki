@@ -43,6 +43,7 @@ defaults:
       related: true
       pinned: false
       listed: true
+      locked: false
   - scope:
       path: "Wiki/*"
     values:
