@@ -43,7 +43,7 @@ defaults:
       related: true
       pinned: false
       listed: true
-      locked: false
+      locked: false # This is technically the wrong but this is supposed to be used if the issue behind the comments gets locked
   - scope:
       path: "Wiki/*"
     values:
