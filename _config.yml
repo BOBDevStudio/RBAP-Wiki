@@ -7,6 +7,7 @@ description: "This is the official wiki for the Roblox game called Random Buildi
 #baseurl: /RBAP
 logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
+update_log_time_zone: "PDT"
 name: "BOB Development Studio"
 
 exclude:
