@@ -2,6 +2,7 @@
 permalink: /Posts/Update-Log/3-1-0
 title: "V3.1.0 Update Log"
 short_description: "BOB's new showcase called [Techtation](https://www.roblox.com/games/6201734639/) has been directly integrated into the game"
+update_published_at: "2021-03-21 12:00:00 +00:00"
 tags:
   - V3
 redirect_from:

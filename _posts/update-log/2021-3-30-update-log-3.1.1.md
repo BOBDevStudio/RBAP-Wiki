@@ -2,6 +2,7 @@
 permalink: /Posts/Update-Log/3-1-1
 title: "V3.1.1 Update Log"
 short_description: "Added mostly quality improvements, nothing huge to the average player."
+update_published_at: "2021-03-30 04:15:00 +00:00"
 pinned: true
 tags:
   - V3
