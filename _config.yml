@@ -91,7 +91,7 @@ whitelist:
   - jekyll-gist
 #  - jekyll-sitemap
 
-# --//Comment provider settings:
+# --//Comment settings:
 
 repository: "BOBDevStudio/RBAP-Wiki-Comments"
 comments:
@@ -99,6 +99,12 @@ comments:
   utterances:
     theme: "github-light" # Can be set to "github-light" or "github-dark"
     issue_term: "pathname"
+
+# --//Search settings:
+
+search: true
+search_full_content: true
+search_provider: "lunr"
 
 # --//No need to edit really:
 
