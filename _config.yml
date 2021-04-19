@@ -38,6 +38,11 @@ defaults:
 #    values:
 #      
   - scope:
+      path: "Wiki/*"
+    values:
+      sidebar:
+        nav: "Wiki"
+  - scope:
       path: ""
       type: posts
     values:
@@ -48,12 +53,7 @@ defaults:
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
       only_list_update_logs: false
   - scope:
-      path: "Wiki/*"
-    values:
-      sidebar:
-        nav: "Wiki"
-  - scope:
-      path: "_posts/update-log/*"
+      path: "_posts/Update-Logs/*"
       type: posts
     values:
       is_update_log: true
@@ -65,7 +65,7 @@ defaults:
       sidebar:
         nav: "UpdateLogs"
   - scope:
-      path: "_posts/update-log/old/*"
+      path: "_posts/Update-Logs/Old/*"
       type: posts
     values:
       categories:
