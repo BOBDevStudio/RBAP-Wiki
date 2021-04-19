@@ -2,7 +2,7 @@ main:
   - title: "Wiki"
     url: "/Wiki"
   - title: "Update Logs"
-    url: "/Categories#update-logs"
+    url: "/Update-Logs"
   - title: "Posts"
     url: "/Posts"
 
