@@ -1,4 +1,5 @@
 ---
+permalink: /Update-Logs
 title: "Random Buildings And Parts Update Logs"
 layout: categories
 only_list_update_logs: true
