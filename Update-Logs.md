@@ -14,4 +14,6 @@ redirect_from:
   - /updates
   - /Updates/
   - /updates/
+categories:
+  - Update Logs
 ---
