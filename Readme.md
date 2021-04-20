@@ -4,7 +4,7 @@
 
 ### Links:
 
-* [The wiki's website](https://bobdevstudio.github.io/RBAP/)
+* [The wiki's website](https://bobdevstudio.github.io/RBAP-WIki/)
 * [Random Buildings And Parts](https://www.roblox.com/games/6033036061/)
 * [BOB Development Studio](https://www.roblox.com/groups/8499452/)
 * [BOB Development Studio on Github](https://github.com/BOBDevStudio)
