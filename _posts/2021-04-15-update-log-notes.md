@@ -23,7 +23,11 @@ sidebar:
   nav: "UpdateLogs"
 ---
 
-* Updates before March 9th, 2019 are not logged anywhere due to the update log post on the Roblox dev forum not existing before then.
+* Most updates before March 9th, 2019 are not logged anywhere due to the update log post on the Roblox dev forum not existing before then.
+* * Some of the update logs have been recovered from older versions of Random Buildings And Parts due to there being an old update log system but that system was set up and ran differently to how the current update log system is run. Bottom line is don't be expecting it to be full-proof.
+* * * To add on to that there were periods of time where the game had no update log system in place. For example there was a time (which was roughly 2 months long) in between when the old system got removed and the update log post was made where no updates were logged.
+* Update logs describing updates that are older than March 9th, 2019 do not have version numbers and have no guarantees they will have the exact time the update was published.
+* * This is due to the fact that they predate the update log post and were actually made for a system from around late 2018. Plus they had to be extracted from older versions of Random Buildings And Parts.
 * Any update log for a version before V3 is considered not being actively maintained. When an update log is considered this they are purposely hard to find.
 * * Reasons for this are as follows:
 * * * BOB is less familiar with those updates since it's been a while since he's made them.
