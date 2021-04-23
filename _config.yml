@@ -75,13 +75,6 @@ defaults:
       comments: false
       categories:
         - Old Update Logs
-  - scope:
-      path: "_posts/Update-Logs/Old/Really Old/*"
-      type: posts
-    values:
-      tags:
-        - Old Update Log System Extracted
-        - RBAP Beta
 
 # --//Plugin related stuff:
 
