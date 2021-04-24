@@ -13,8 +13,9 @@ name: "BOB Development Studio"
 
 exclude:
   - Readme.md
-  - .github
   - License
+  - .github
+  - Code of Conduct.md
   - WIP
 #include:
 
