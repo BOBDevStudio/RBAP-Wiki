@@ -11,6 +11,12 @@ update_log_time_zone: "PST/PDT"
 redirect_update_logs_category: true
 name: "BOB Development Studio"
 
+footer:
+  links:
+    - label: "License"
+      icon: "fas fa-scroll"
+      url: "https://bobdevstudio.github.io/RBAP-Wiki/License"
+
 exclude:
   - Readme.md
   - License
