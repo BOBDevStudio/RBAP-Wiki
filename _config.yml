@@ -41,6 +41,7 @@ defaults:
       navigation_buttons: false
       comments: false
       is_update_log: false
+      is_post: false
 #  - scope:
 #      path: ""
 #      type: pages
@@ -55,6 +56,7 @@ defaults:
       path: ""
       type: posts
     values:
+      is_post: true
       author_profile: true
       related: true
       pinned: false
