@@ -23,7 +23,8 @@ exclude:
   - .github
   - Code of Conduct.md
   - WIP
-#include:
+include:
+  - _github-no
 
 # --//Page defaults:
 
