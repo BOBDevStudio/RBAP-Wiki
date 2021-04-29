@@ -67,6 +67,13 @@ Wiki:
         url: "/Wiki/Dock-Types#server-dock"
       - title: "Hidden Dock"
         url: "/Wiki/Dock-Types#hidden-dock"
+  - title: "Walkway Transportation"
+    url: "/Wiki/Map-Transportation"
+    children:
+      - title: "Player Conveyors"
+        url: "/Wiki/Map-Transportation#player-conveyors"
+      - title: "The Traveler"
+        url: "/Wiki/Map-Transportation#the-traveler"
   - title: "Value Types"
     url: "/Wiki/Value-Types"
     children:
