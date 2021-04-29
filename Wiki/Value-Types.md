@@ -30,14 +30,14 @@ redirect_from:
 
 | Value Type |
 |-|
-| [Number](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| [String](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#string) |
-| [Table](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#table) |
-| [Array](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#array) |
-| [Boolean](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| [Color](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#color) |
-| [Blank](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#blank) |
-| [RBAP Version](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#rbap-version) |
+| [Number](/RBAP-Wiki/Wiki/Value-Types#number) |
+| [String](/RBAP-Wiki/Wiki/Value-Types#string) |
+| [Table](/RBAP-Wiki/Wiki/Value-Types#table) |
+| [Array](/RBAP-Wiki/Wiki/Value-Types#array) |
+| [Boolean](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| [Color](/RBAP-Wiki/Wiki/Value-Types#color) |
+| [Blank](/RBAP-Wiki/Wiki/Value-Types#blank) |
+| [RBAP Version](/RBAP-Wiki/Wiki/Value-Types#rbap-version) |
 
 ## Number
 
@@ -89,7 +89,7 @@ A value type that represents a value not being set to anything. On the wiki it i
 
 ## RBAP Version
 
-A value of this type describes a certain version of Random Buildings And Parts. Each version can be viewed on [this post](RBAP/Go-To/RBAP-Update-Log). The update logs for each update can also be found [here on the website](https://bobdevstudio.github.io/RBAP-Wiki/Categories#update-log). As should be pretty obvious this is a value type exclusive to the wiki.
+A value of this type describes a certain version of Random Buildings And Parts. Each version can be viewed on [this post](RBAP/Go-To/RBAP-Update-Log). The update logs for each update can also be found [here on the website](/RBAP-Wiki/Categories#update-log). As should be pretty obvious this is a value type exclusive to the wiki.
 
-**Note:** The update logs currently on the website are only of the [`V3`](https://bobdevstudio.github.io/RBAP-Wiki/Tags#v3) series of updates. Any update logs for the updates before that are not *guaranteed* to be added anytime soon.
+**Note:** The update logs currently on the website are only of the [`V3`](/RBAP-Wiki/Tags#v3) series of updates. Any update logs for the updates before that are not *guaranteed* to be added anytime soon.
 {: .notice--warning}
