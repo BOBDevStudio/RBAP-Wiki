@@ -87,7 +87,7 @@ BOB was inspired to make this dock was made after a reply to a post that BOB mad
 | Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
 
-###### (For now pretend like there's an image here. BOB hasn't really had time and commitment to make a image of this dock for this dock.)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Bob%20the%20Mob%20Dock.png)
 
 ## Camp Fire Dock
 
