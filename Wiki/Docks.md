@@ -53,6 +53,7 @@ In the current version of the Random Buildings And Parts most docks are automati
 | [Mine Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#mine-dock) |
 | [No Standing Joke Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#no-standing-joke-dock) |
 | [NPCs Key Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#npcs-key-dock) |
+| [Roblox Icons Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#roblox-icons-dock) |
 | [Server And Game Info Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#server-and-game-info-dock) |
 | [Showcase Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-dock) |
 | [Showcase Remastered Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-remastered-dock) |
@@ -221,6 +222,21 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/NPCs%20Key%20Dock.png)
+
+## Roblox Icons Dock
+
+###### Read the text on the dock for description on this dock. It's pretty in-depth so didn't feel need to put it here.
+
+| Value Name                 | Value |
+|-|-|
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Reserved Dock Entrance     |  |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Roblox%20Icons%20Dock.png)
 
 ## Server And Game Info Dock
 
