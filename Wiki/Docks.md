@@ -53,7 +53,7 @@ In the current version of the Random Buildings And Parts most docks are automati
 | [Mine Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#mine-dock) |
 | [No Standing Joke Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#no-standing-joke-dock) |
 | [NPCs Key Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#npcs-key-dock) |
-| [Roblox Icons Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#roblox-icons-dock) |
+| [Roblox Icons Dock](/RBAP-Wiki/Wiki/Docks#roblox-icons-dock) |
 | [Server And Game Info Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#server-and-game-info-dock) |
 | [Showcase Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-dock) |
 | [Showcase Remastered Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-remastered-dock) |
