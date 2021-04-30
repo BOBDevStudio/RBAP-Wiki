@@ -26,39 +26,39 @@ redirect_from:
 
 What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills.
 
-In the current version of the Random Buildings And Parts most docks are automatically placed by a system that was introduced in [`V3`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game. So that means most docks are placed completely randomly and can be moved anytime. Some of the values that are on display are actually values from the dock placing system (but are made so you the reader can understand them).
+In the current version of the Random Buildings And Parts most docks are automatically placed by a system that was introduced in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game. So that means most docks are placed completely randomly and can be moved anytime. Some of the values that are on display are actually values from the dock placing system (but are made so you the reader can understand them).
 
 ### Here's a list of each of the values and what type of data they hold and a description of them:
 
 | Value                      | Type                                                                                                                                                                            | Description |
 |-|-|-|
-| Reserved Dock Entrance     | [`Number`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)/[`Blank`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#blank)     | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
-| Dock Entrances Used Up     | [`Number`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)                                                                                          | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
-| Dock Entrances Centered On | [`Array`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#array) of [`Numbers`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) | Without going into the very technical details about this this specifies what dock entrances (of the `Dock Entrances Used Up` value) the dock is to be centered on. |
-| Dock Types                 | [`Table`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#table) of [`Dock Types`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types)      | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
-| Side Placed On             | [`Number`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)                                                                                          | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
+| Reserved Dock Entrance     | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)/[`Blank`](/RBAP-Wiki/Wiki/Value-Types#blank)     | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
+| Dock Entrances Used Up     | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                                                          | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
+| Dock Entrances Centered On | [`Array`](/RBAP-Wiki/Wiki/Value-Types#array) of [`Numbers`](/RBAP-Wiki/Wiki/Value-Types#number) | Without going into the very technical details about this this specifies what dock entrances (of the `Dock Entrances Used Up` value) the dock is to be centered on. |
+| Dock Types                 | [`Table`](/RBAP-Wiki/Wiki/Value-Types#table) of [`Dock Types`](/RBAP-Wiki/Wiki/Dock-Types)      | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
+| Side Placed On             | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                                                          | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
 
 ### All of the docks that are (or were) in Random Buildings And Parts (base/main version) are as follows:
 
 | Dock |
 |-|
-| [Bloxy Statue Remade Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#bloxy-statue-remade-dock) |
-| [Bob The Mob Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#bob-the-mob-dock) |
-| [Camp Fire Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#camp-fire-dock) |
-| [Construction Barrier Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#construction-barrier-dock) |
-| [Donation Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#donation-dock) |
-| [Ice Cube Tray Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#ice-cube-tray-dock) |
-| [Industrial Light Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#industrial-light-dock) |
-| [Lighthouse Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#lighthouse-dock) |
-| [Mine Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#mine-dock) |
-| [No Standing Joke Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#no-standing-joke-dock) |
-| [NPCs Key Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#npcs-key-dock) |
+| [Bloxy Statue Remade Dock](/RBAP-Wiki/Wiki/Docks#bloxy-statue-remade-dock) |
+| [Bob The Mob Dock](/RBAP-Wiki/Wiki/Docks#bob-the-mob-dock) |
+| [Camp Fire Dock](/RBAP-Wiki/Wiki/Docks#camp-fire-dock) |
+| [Construction Barrier Dock](/RBAP-Wiki/Wiki/Docks#construction-barrier-dock) |
+| [Donation Dock](/RBAP-Wiki/Wiki/Docks#donation-dock) |
+| [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks#ice-cube-tray-dock) |
+| [Industrial Light Dock](/RBAP-Wiki/Wiki/Docks#industrial-light-dock) |
+| [Lighthouse Dock](/RBAP-Wiki/Wiki/Docks#lighthouse-dock) |
+| [Mine Dock](/RBAP-Wiki/Wiki/Docks#mine-dock) |
+| [No Standing Joke Dock](/RBAP-Wiki/Wiki/Docks#no-standing-joke-dock) |
+| [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks#npcs-key-dock) |
 | [Roblox Icons Dock](/RBAP-Wiki/Wiki/Docks#roblox-icons-dock) |
-| [Server And Game Info Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#server-and-game-info-dock) |
-| [Showcase Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-dock) |
-| [Showcase Remastered Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#showcase-remastered-dock) |
-| [The Stage](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#the-stage) |
-| [Weird Hills Dock](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Docks#weird-hills-dock) |
+| [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks#server-and-game-info-dock) |
+| [Showcase Dock](/RBAP-Wiki/Wiki/Docks#showcase-dock) |
+| [Showcase Remastered Dock](/RBAP-Wiki/Wiki/Docks#showcase-remastered-dock) |
+| [The Stage](/RBAP-Wiki/Wiki/Docks#the-stage) |
+| [Weird Hills Dock](/RBAP-Wiki/Wiki/Docks#weird-hills-dock) |
 
 ## Bloxy Statue Remade Dock
 
@@ -66,14 +66,14 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 
 | Value Name | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](RBAP/https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Bloxy%20Statue%20Remade%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Bloxy%20Statue%20Remade%20Dock.png)
 
 ## Bob The Mob Dock
 
@@ -81,12 +81,12 @@ BOB was inspired to make this dock was made after a reply to a post that BOB mad
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Images/Bob%20the%20Mob%20Dock.png)
 
@@ -94,14 +94,14 @@ BOB was inspired to make this dock was made after a reply to a post that BOB mad
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean)|
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean)|
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)|
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number)|
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Camp%20Fire%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Camp%20Fire%20Dock.png)
 
 ## Construction Barrier Dock
 
@@ -109,14 +109,14 @@ This construction barrier was originally made for/in a secret project made by BO
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Construction%20Barrier%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Construction%20Barrier%20Dock.png)
 
 ## Donation Dock
 
@@ -124,14 +124,14 @@ After a lot of the UI in the game was removed this dock was added to replace the
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Reserved Dock Entrance     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Reserved Dock Entrance     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Donation%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Donation%20Dock.png)
 
 ## Ice Cube Tray Dock
 
@@ -139,14 +139,14 @@ After a lot of the UI in the game was removed this dock was added to replace the
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Ice%20Cube%20Tray%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Ice%20Cube%20Tray%20Dock.png)
 
 ## Industrial Light Dock
 
@@ -154,14 +154,14 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Industrial%20Light%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Industrial%20Light%20Dock.png)
 
 ## Lighthouse Dock
 
@@ -169,14 +169,14 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Lighthouse%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Lighthouse%20Dock.png)
 
 ## Mine Dock
 
@@ -184,14 +184,14 @@ This dock was created just for the fun of it and partly because it was because B
 
 | Value Name | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Mine%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Mine%20Dock.png)
 
 ## No Standing Joke Dock
 
@@ -199,14 +199,14 @@ This was created sometime after BOB was thinking about road signs and then reali
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/No%20Standing%20Joke%20Dock.png)
 
 ## NPCs Key Dock
 
@@ -214,14 +214,14 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Reserved Dock Entrance     | [`12`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Reserved Dock Entrance     | [`12`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/NPCs%20Key%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/NPCs%20Key%20Dock.png)
 
 ## Roblox Icons Dock
 
@@ -240,18 +240,18 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 ## Server And Game Info Dock
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#rbap-version). This dock has always been a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). This dock has always been a system dock.
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Reserved Dock Entrance     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#server-dock)} |
-| Side Placed On             | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Reserved Dock Entrance     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types#server-dock)} |
+| Side Placed On             | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Server%20And%20Game%20Info%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Server%20And%20Game%20Info%20Dock.png)
 
 ## Showcase Dock
 
@@ -259,14 +259,14 @@ This was created when BOB wanted to make a window with sunlight coming through i
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Dock.png)
 
 ## Showcase Remastered Dock
 
@@ -274,20 +274,20 @@ This is recreation of the old window showcase. This one was made in the late bet
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Remastered%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Remastered%20Dock.png)
 
 ## The Stage
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 
 
-This dock has a long history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
+This dock has a long history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
 
 The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
 
@@ -306,14 +306,14 @@ The design of the stage has changed a little bit over the years. Here's a list o
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Reserved Dock Entrance     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`0.1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Reserved Dock Entrance     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`0.1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Stage%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Stage%20Dock.png)
 
 ## Weird Hills Dock
 
@@ -321,14 +321,14 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 
 | Value Name                 | Value |
 |-|-|
-| Can Be Found In Game       | [`True`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Can Be Found In Game       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance     |  |
-| Dock Entrances Used Up     | [`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
-| Dock Entrances Centered On | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types                 | {[`1`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On             | [`2`](https://bobdevstudio.github.io/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Used Up     | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Entrances Centered On | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types                 | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Weird%20Hills%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Weird%20Hills%20Dock.png)
 
 # Joke Docks
 
@@ -339,24 +339,24 @@ Docks that are considered joke docks only appear in a special server in RBAP and
 
 ## 404 Dock Not Found Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
 
 ## Default Roblox Base Plate Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
 
 ## Lazy Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Lazy%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Lazy%20Dock.png)
 
 ## Other No Standing Joke Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
 
 ## Statue Of BOB Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
 
 ## Weird Character Physics Dock
 
-![](https://bobdevstudio.github.io/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)
