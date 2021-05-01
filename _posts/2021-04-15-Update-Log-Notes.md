@@ -18,6 +18,7 @@ redirect_from:
   - /posts/update-Log-Notes
   - /posts/Update-log-Notes
 pinned: true
+comments: true
 author: "RBAP"
 sidebar:
   nav: "UpdateLogs"
