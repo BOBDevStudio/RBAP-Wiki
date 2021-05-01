@@ -89,8 +89,10 @@ defaults:
       path: "_posts/Update-Logs/Old/Really Old/*"
       type: posts
     values:
-      tags:
+      categories:
+        - Old Update Logs
         - Old Update Log System Extracted
+      tags:
         - RBAP Beta
 
 # --//Plugin related stuff:
