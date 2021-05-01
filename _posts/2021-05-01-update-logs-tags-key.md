@@ -37,6 +37,8 @@ sidebar:
   nav: "UpdateLogs"
 ---
 
+<br>
+
 | Tag Name                 | Tag Info |
 |-|-|
 | Most Recent              | The update that is the most recently added (to the main game). |
