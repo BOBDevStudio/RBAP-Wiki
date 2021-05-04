@@ -97,6 +97,8 @@ Wiki:
 UpdateLogs:
   - title: "Notes about the update log system"
     url: "Posts/Update-Log-Notes"
+  - title: "Update logs tags key"
+    url: "Posts/Update-Logs-Tags"
   - title: "V3 Series of Updates"
     url: "/Tags#v3"
     children:

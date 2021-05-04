@@ -1,6 +1,8 @@
 ---
 permalink: /Posts/Old-Update-Log/Date/2019/01/12
 title: "1/12/2019 Update Log"
+post_created_at: "2021-04-22 00:00:00 +00:00"
+post_updated_at: "2021-05-01 00:00:00 +00:00"
 ---
 
 **Note:** Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn't affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that used to be used in update logs are unlikely to be fixed.
