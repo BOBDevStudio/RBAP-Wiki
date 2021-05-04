@@ -34,7 +34,7 @@ feature_row:
     excerpt: "The value types used in the wiki."
     url: "/Wiki/Value-Types"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
