@@ -1,6 +1,7 @@
 ---
 title: Walkway Transportation
 redirect_from:
+  - /Wiki/Map-Transportation
   - /Wiki/map-Transportation
   - /Wiki/Map-transportation
   - /Wiki/map-transportation
@@ -8,7 +9,7 @@ redirect_from:
   - /Wiki/map-Transportation/
   - /Wiki/Map-transportation/
   - /Wiki/map-transportation/
-  - /Wiki/Walkway-Transportation
+#  - /Wiki/Walkway-Transportation
   - /Wiki/walkway-Transportation
   - /Wiki/Walkway-transportation
   - /Wiki/walkway-transportation

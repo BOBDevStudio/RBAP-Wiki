@@ -32,7 +32,7 @@ feature_row:
     alt: "Walkway Transportation Page"
     title: "Walkway Transportation"
     excerpt: "Ways to get to the start and end of the map."
-    url: "/Wiki/Map-Transportation"
+    url: "/Wiki/Walkway-Transportation"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
   - image_path: "Assets/Images/Home-Page-Icon-Images/Other%20-%20Unset.png"
