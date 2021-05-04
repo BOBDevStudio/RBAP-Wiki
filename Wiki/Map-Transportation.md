@@ -16,6 +16,22 @@ redirect_from:
   - /Wiki/walkway-Transportation/
   - /Wiki/Walkway-transportation/
   - /Wiki/walkway-transportation/
+  - /Map-Transportation
+  - /map-Transportation
+  - /Map-transportation
+  - /map-transportation
+  - /Map-Transportation/
+  - /map-Transportation/
+  - /Map-transportation/
+  - /map-transportation/
+  - /Walkway-Transportation
+  - /walkway-Transportation
+  - /Walkway-transportation
+  - /walkway-transportation
+  - /Walkway-Transportation/
+  - /walkway-Transportation/
+  - /Walkway-transportation/
+  - /walkway-transportation/
 ---
 
 Random Buildings And Parts currently has 2 ways of transportation across the game's map. They are the [Player Conveyors](/RBAP-Wiki/Wiki/Map-Transportation#player-conveyors) and [The Traveler](/RBAP-Wiki/Wiki/Map-Transportation#the-traveler) and only one of them can be present in a server.
