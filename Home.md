@@ -1,6 +1,6 @@
 ---
 layout: splash
-#permalink: /
+permalink: /
 is_home_page: true
 redirect_from:
   - /Home
