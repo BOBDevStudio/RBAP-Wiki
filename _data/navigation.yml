@@ -102,8 +102,8 @@ UpdateLogs:
   - title: "V3 Series of Updates"
     url: "/Tags#v3"
     children:
-      - title: "V3.2.0"
-        url: "/Posts/Update-Log/3-2-0"
+      - title: "V4.0.0"
+        url: "/Posts/Update-Log/4-0-0"
       - title: "V3.1.2"
         url: "/Posts/Update-Log/3-1-2"
       - title: "V3.1.1"

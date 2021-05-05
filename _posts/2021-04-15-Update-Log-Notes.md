@@ -38,4 +38,4 @@ sidebar:
 * * * * Also there is more differences between the styles of update logs in between the old update logs and the new update logs. Overall the newer ones are more high quality than the older ones.
 * * * Many of the changes listed in them are either changed or removed.
 * Probably in the near future the update logs post on the Roblox dev forum will probably stop being used in favor of update logs hosted in the game and in this website.
-* * It has been scheduled to take place shortly after V3.2.0 gets released (which is the update that contains V1 of the new in-game update log system).
+* * It has been scheduled to take place shortly after V4.0.0 gets released (which is the update that contains V1 of the new in-game update log system).
