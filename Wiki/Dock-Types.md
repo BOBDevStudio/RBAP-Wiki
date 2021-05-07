@@ -145,46 +145,6 @@ This dock type was used in the winter of 2019 to 2020 due to snow going through 
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Seasonally%20Closed.png)
 
-## Temporary Dock Location
-
-This dock type Indicates that the current location of the dock connected to it is not its permanent location.
-
-| Value Name           | Value |
-|-|-|
-| Can Be Found In Game | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock entrance is currently the temporary location for this dock`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Lights On            | {`Light3`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-
-![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Temporary%20Location.png)
-
-## Dock Preview
-
-This dock type is used when BOB wants to showcase a dock but it isn't quite finished being worked on.
-
-| Value Name           | Value |
-|-|-|
-| Can Be Found In Game | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Sign Text            | [`This dock is only a preview and is not yet fully in the game yet`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Lights On            | {`Light1`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-
-![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Dock%20Preview.png)
-
 ## Server Dock
 
 | Value Name           | Value |
