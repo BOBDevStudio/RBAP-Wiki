@@ -42,6 +42,9 @@ defaults:
       comments: false
       is_update_log: false
       is_post: false
+      update_log_wip: false
+      update_log_old: false
+      update_log_really_old: false
       only_list_update_logs: false
 #  - scope:
 #      path: ""
@@ -68,6 +71,7 @@ defaults:
       type: posts
     values:
       is_update_log: true
+      update_log_old: true
       author_profile: true
       author: "BOB"
       comments: true
@@ -79,6 +83,7 @@ defaults:
       path: "_posts/Update-Logs/Old/*"
       type: posts
     values:
+      update_log_really_old: true
       categories:
       listed: false
       short_description: ""
