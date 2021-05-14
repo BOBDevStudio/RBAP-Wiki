@@ -90,6 +90,3 @@ A value type that represents a value not being set to anything. On the wiki it i
 ## RBAP Version
 
 A value of this type describes a certain version of Random Buildings And Parts. Each version can be viewed on [this post](RBAP/Go-To/RBAP-Update-Log). The update logs for each update can also be found [here on the website](/RBAP-Wiki/Categories#update-log). As should be pretty obvious this is a value type exclusive to the wiki.
-
-**Note:** The update logs currently on the website are only of the [`V3`](/RBAP-Wiki/Tags#v3) series of updates. Any update logs for the updates before that are not *guaranteed* to be added anytime soon.
-{: .notice--warning}
