@@ -28,13 +28,20 @@ feature_row:
     url: "/Wiki/Dock-Types"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: "Assets/Images/Home-Page-Icon-Images/Other%20-%20Walkway%20Transportation%20Page.png"
+    alt: "Walkway Transportation Page"
+    title: "Walkway Transportation"
+    excerpt: "Ways to get to the start and end of the map."
+    url: "/Wiki/Walkway-Transportation"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
   - image_path: "Assets/Images/Home-Page-Icon-Images/Other%20-%20Unset.png"
     alt: "Value Types Page"
     title: "Value Types"
     excerpt: "The value types used in the wiki."
     url: "/Wiki/Value-Types"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
