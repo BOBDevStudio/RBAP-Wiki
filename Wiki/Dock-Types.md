@@ -57,11 +57,11 @@ This is the generic open dock type. It is pretty self-explanatory why it is used
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light3`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Open.png)
 
@@ -77,11 +77,11 @@ This is the generic under maintenance dock type. This dock type is used when a d
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light2`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Under%20Maintenance.png)
 
@@ -97,11 +97,11 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Closed.png)
 
@@ -117,11 +117,11 @@ This dock type was originally added for the mine dock but the idea of using it t
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Blue.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Blue.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Cooldown.png)
 
@@ -137,11 +137,11 @@ This dock type was used in the winter of 2019 to 2020 due to snow going through 
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Green.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Seasonally%20Closed.png)
 
@@ -155,11 +155,11 @@ This dock type was used in the winter of 2019 to 2020 due to snow going through 
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light1`, `Light2`, and `Light3`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Server%20Dock.png)
 
@@ -175,10 +175,10 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Lights On            | {`Light3`} |
-| `Light1` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light2` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| `Light3` Color       | [![](/RBAP-Wiki/Assets/Images/Color-Images/Purple.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 1         | [![](/RBAP-Wiki/Assets/Images/Color-Images/Red.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
-| Gate Color 2         | [![](/RBAP-Wiki/Assets/Images/Color-Images/White.png)](/RBAP-Wiki/Wiki/Value-Types#color) |
+| `Light1` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| `Light2` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Yellow.png" alt=""></a> |
+| `Light3` Color       | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Purple.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image" src="/RBAP-Wiki/Assets/Images/Color-Images/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Type-Images/Hidden%20Dock.png)
