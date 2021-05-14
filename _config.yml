@@ -42,6 +42,10 @@ defaults:
       comments: false
       is_update_log: false
       is_post: false
+      update_log_wip: false
+      update_log_old: false
+      update_log_really_old: false
+      only_list_update_logs: false
 #  - scope:
 #      path: ""
 #      type: pages
@@ -62,7 +66,6 @@ defaults:
       pinned: false
       listed: true
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
-      only_list_update_logs: false
   - scope:
       path: "_posts/Update-Logs/*"
       type: posts
@@ -79,6 +82,7 @@ defaults:
       path: "_posts/Update-Logs/Old/*"
       type: posts
     values:
+      update_log_old: true
       categories:
       listed: false
       short_description: ""
@@ -89,6 +93,7 @@ defaults:
       path: "_posts/Update-Logs/Old/Really Old/*"
       type: posts
     values:
+      update_log_really_old: true
       categories:
         - Old Update Logs
         - Old Update Log System Extracted
