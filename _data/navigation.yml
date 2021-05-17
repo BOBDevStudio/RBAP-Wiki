@@ -13,7 +13,7 @@ Wiki:
     url: "/Wiki/Docks"
     children:
       - title: "In-Game"
-        url: "/Wiki/Docks/Category/In-Game#bloxy-statue-remade-dock"
+        url: "/Wiki/Docks/Category/In-Game"
       - title: "Removed"
         url: "/Wiki/Docks/Category/Removed"
   - title: "Docks Types"
