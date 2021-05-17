@@ -41,7 +41,7 @@ Random Buildings And Parts currently has 2 ways of transportation across the gam
 
 The player conveyors are by far much older than The Traveler. They have been in the game in many different forms since at least around late 2018. Their current form was introduced in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game and is of a futuristic looking conveyor belt featuring moving textures and is inspired by RB Battles' Season 2 hub.
 
-![](/RBAP-Wiki/Assets/Images/Walkway-Transportation-Images/Player%20Conveyors.png)
+![](/RBAP-Wiki/Assets/Images/Walkway-Transportation/Player%20Conveyors.png)
 
 ## The Traveler
 
@@ -49,7 +49,7 @@ The Traveler is a special replacement of the Player Conveyors. It takes up the s
 
 There are no plans to replace the Player Conveyors with The Traveler due to it being affected by physics and having issues related to that and also due to the fact that it only stops at the start and the end of the map.
 
-![](/RBAP-Wiki/Assets/Images/Walkway-Transportation-Images/The%20Traveler.png)
+![](/RBAP-Wiki/Assets/Images/Walkway-Transportation/The%20Traveler.png)
 
 ### Here's its schedule:
 

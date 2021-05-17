@@ -1,7 +1,7 @@
 BOBDevStudio:
   name: "BOB Development Studio"
   bio: "BOB Development Studio is a group on Roblox owned by BOB. It is also the owner of Random Buildings And Parts."
-  avatar: "/Assets/Images/Author-Icon-Images/BOBDevStudio.png"
+  avatar: "/Assets/Images/Author-Icons/BOBDevStudio.png"
   links:
     - label: "BDS on Roblox"
       icon: "fas fa-fw fa-link"
@@ -19,7 +19,7 @@ BOBDevStudio:
 RBAP:
   name: "Random Buildings And Parts"
   bio: "Random Buildings And Parts is a showcase game on Roblox made by BOB."
-  avatar: "/Assets/Images/Author-Icon-Images/RBAP.png"
+  avatar: "/Assets/Images/Author-Icons/RBAP.png"
   links:
     - label: "RBAP on Roblox"
       icon: "fas fa-fw fa-link"
@@ -31,7 +31,7 @@ RBAP:
 BOB:
   name: "BOB"
   bio: "BOB is the owner of the BOB Development Studio which is the owner of Random Buildings And Parts."
-  avatar: "/Assets/Images/Author-Icon-Images/BOB.png"
+  avatar: "/Assets/Images/Author-Icons/BOB.png"
   links:
     - label: "BOB on Roblox"
       icon: "fas fa-fw fa-link"
@@ -46,7 +46,7 @@ BOB:
 BDSSystem:
   name: "BDS's System"
   bio: "BDS's System is an announcement poster account for the BOB Development Studio. The name BDS's System can also represent a bot account owned by the BOB Development Studio."
-  avatar: "/Assets/Images/Author-Icon-Images/BDS System.png"
+  avatar: "/Assets/Images/Author-Icons/BDS System.png"
   links:
     - label: "BDS's System on Roblox"
       icon: "fas fa-fw fa-link"
@@ -58,7 +58,7 @@ BDSSystem:
 RBAPSystem:
   name: "RBAP's System"
   bio: "RBAP's System is an announcement poster account for the Random Buildings And Parts. The name RBAP's System can also represent a bot account that is related to Random Buildings And Parts in some way and is owned by the BOB Development Studio."
-  avatar: "/Assets/Images/Author-Icon-Images/RBAP System.png"
+  avatar: "/Assets/Images/Author-Icons/RBAP System.png"
   links:
     - label: "RBAP's System on Roblox"
       icon: "fas fa-fw fa-link"

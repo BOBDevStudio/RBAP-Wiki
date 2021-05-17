@@ -23,24 +23,24 @@ Docks that are considered joke docks only appear in a special server in RBAP and
 
 ## 404 Dock Not Found Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
 
 ## Default Roblox Base Plate Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
 
 ## Lazy Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Lazy%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Lazy%20Dock.png)
 
 ## Other No Standing Joke Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
 
 ## Statue Of BOB Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
 
 ## Weird Character Physics Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)

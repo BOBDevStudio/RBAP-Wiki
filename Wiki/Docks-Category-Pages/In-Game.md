@@ -40,7 +40,7 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Bloxy%20Statue%20Remade%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Bloxy%20Statue%20Remade%20Dock.png)
 
 ## Bob The Mob Dock
 
@@ -55,7 +55,7 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Bob%20the%20Mob%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Bob%20the%20Mob%20Dock.png)
 
 ## Camp Fire Dock
 
@@ -68,7 +68,7 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Camp%20Fire%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Camp%20Fire%20Dock.png)
 
 ## Construction Barrier Dock
 
@@ -83,7 +83,7 @@ This construction barrier was originally made for/in a secret project made by BO
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Construction%20Barrier%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Construction%20Barrier%20Dock.png)
 
 ## Donation Dock
 
@@ -98,7 +98,7 @@ After a lot of the UI in the game was removed this dock was added to replace the
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Donation%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Donation%20Dock.png)
 
 ## Ice Cube Tray Dock
 
@@ -113,7 +113,7 @@ After a lot of the UI in the game was removed this dock was added to replace the
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Ice%20Cube%20Tray%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Ice%20Cube%20Tray%20Dock.png)
 
 ## Industrial Light Dock
 
@@ -128,7 +128,7 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Industrial%20Light%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Industrial%20Light%20Dock.png)
 
 ## Lighthouse Dock
 
@@ -143,7 +143,7 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Lighthouse%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Lighthouse%20Dock.png)
 
 ## Mine Dock
 
@@ -158,7 +158,7 @@ This dock was created just for the fun of it and partly because it was because B
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Mine%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Mine%20Dock.png)
 
 ## No Standing Joke Dock
 
@@ -173,7 +173,7 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/No%20Standing%20Joke%20Dock.png)
 
 ## NPCs Key Dock
 
@@ -188,7 +188,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/NPCs%20Key%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/NPCs%20Key%20Dock.png)
 
 ## Roblox Icons Dock
 
@@ -203,7 +203,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Roblox%20Icons%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Roblox%20Icons%20Dock.png)
 
 ## Server And Game Info Dock
 
@@ -218,7 +218,7 @@ This dock shows all sorts of information about the server and the game. It was o
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types#server-dock)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Server%20And%20Game%20Info%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Server%20And%20Game%20Info%20Dock.png)
 
 ## Showcase Dock
 
@@ -233,7 +233,7 @@ This was created when BOB wanted to make a window with sunlight coming through i
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Showcase%20Dock.png)
 
 ## Showcase Remastered Dock
 
@@ -248,7 +248,7 @@ This is recreation of the old window showcase. This one was made in the late bet
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Showcase%20Remastered%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Showcase%20Remastered%20Dock.png)
 
 ## The Stage
 
@@ -280,7 +280,7 @@ The design of the stage has changed a little bit over the years. Here's a list o
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`0.1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Stage%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Stage%20Dock.png)
 
 ## Weird Hills Dock
 
@@ -295,7 +295,7 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Weird%20Hills%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Weird%20Hills%20Dock.png)
 
 # Joke Docks
 
@@ -306,24 +306,24 @@ Docks that are considered joke docks only appear in a special server in RBAP and
 
 ## 404 Dock Not Found Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
 
 ## Default Roblox Base Plate Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
 
 ## Lazy Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Lazy%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Lazy%20Dock.png)
 
 ## Other No Standing Joke Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
 
 ## Statue Of BOB Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
 
 ## Weird Character Physics Dock
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)

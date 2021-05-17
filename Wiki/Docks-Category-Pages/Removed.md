@@ -26,7 +26,7 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Color%20Blocks%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Color%20Blocks%20Dock.png)
 
 ## Color Mixer Dock
 
@@ -41,7 +41,7 @@ In this dock you were able to select a color and it would show up on the main ma
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Color%20Mixer%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Color%20Mixer%20Dock.png)
 
 ## Events Dock
 
@@ -56,4 +56,4 @@ This dock was used to display recent events from many different places. When the
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Dock-Images/Events%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Events%20Dock.png)
