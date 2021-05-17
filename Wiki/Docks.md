@@ -45,11 +45,11 @@ In the current version of the Random Buildings And Parts most docks are automati
 | [Bloxy Statue Remade Dock](/RBAP-Wiki/Wiki/Docks#bloxy-statue-remade-dock) |
 | [Bob The Mob Dock](/RBAP-Wiki/Wiki/Docks#bob-the-mob-dock) |
 | [Camp Fire Dock](/RBAP-Wiki/Wiki/Docks#camp-fire-dock) |
-| [Color Blocks Dock](/RBAP-Wiki/Wiki/Docks) |
-| [Color Mixer Dock](/RBAP-Wiki/Wiki/Docks) |
+| [Color Blocks Dock](/RBAP-Wiki/Wiki/Docks#color-blocks-dock) |
+| [Color Mixer Dock](/RBAP-Wiki/Wiki/Docks#color-mixer-dock) |
 | [Construction Barrier Dock](/RBAP-Wiki/Wiki/Docks#construction-barrier-dock) |
 | [Donation Dock](/RBAP-Wiki/Wiki/Docks#donation-dock) |
-| [Events Dock](/RBAP-Wiki/Wiki/Docks) |
+| [Events Dock](/RBAP-Wiki/Wiki/Docks#events-dock) |
 | [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks#ice-cube-tray-dock) |
 | [Industrial Light Dock](/RBAP-Wiki/Wiki/Docks#industrial-light-dock) |
 | [Lighthouse Dock](/RBAP-Wiki/Wiki/Docks#lighthouse-dock) |
