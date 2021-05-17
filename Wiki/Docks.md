@@ -1,27 +1,5 @@
 ---
 title: Docks
-redirect_from:
-  - /Wiki/docks
-  - /wiki/Docks
-  - /wiki/docks
-  - /Wiki/docks/
-  - /wiki/Docks/
-  - /wiki/docks/
-  - /Wiki/Dock
-  - /Wiki/dock
-  - /wiki/Dock
-  - /wiki/dock
-  - /Wiki/dock/
-  - /wiki/Dock/
-  - /wiki/dock/
-  - /Docks
-  - /docks
-  - /Docks/
-  - /docks/
-  - /Dock
-  - /dock
-  - /Dock/
-  - /dock/
 ---
 
 What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills.
