@@ -38,15 +38,18 @@ In the current version of the Random Buildings And Parts most docks are automati
 | Dock Types                 | [`Table`](/RBAP-Wiki/Wiki/Value-Types#table) of [`Dock Types`](/RBAP-Wiki/Wiki/Dock-Types)      | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
 | Side Placed On             | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                                                          | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
 
-### All of the docks that are (or were) in Random Buildings And Parts (base/main version) are as follows:
+### All of the docks that are (or were) in Random Buildings And Parts are as follows:
 
 | Dock |
 |-|
 | [Bloxy Statue Remade Dock](/RBAP-Wiki/Wiki/Docks#bloxy-statue-remade-dock) |
 | [Bob The Mob Dock](/RBAP-Wiki/Wiki/Docks#bob-the-mob-dock) |
 | [Camp Fire Dock](/RBAP-Wiki/Wiki/Docks#camp-fire-dock) |
+| [Color Blocks Dock](/RBAP-Wiki/Wiki/Docks) |
+| [Color Mixer Dock](/RBAP-Wiki/Wiki/Docks) |
 | [Construction Barrier Dock](/RBAP-Wiki/Wiki/Docks#construction-barrier-dock) |
 | [Donation Dock](/RBAP-Wiki/Wiki/Docks#donation-dock) |
+| [Events Dock](/RBAP-Wiki/Wiki/Docks) |
 | [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks#ice-cube-tray-dock) |
 | [Industrial Light Dock](/RBAP-Wiki/Wiki/Docks#industrial-light-dock) |
 | [Lighthouse Dock](/RBAP-Wiki/Wiki/Docks#lighthouse-dock) |
@@ -103,6 +106,16 @@ BOB was inspired to make this dock was made after a reply to a post that BOB mad
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Images/Camp%20Fire%20Dock.png)
 
+## Color Blocks Dock
+
+Coming soon 👀
+{: .notice--info}
+
+## Color Mixer Dock
+
+Coming soon 👀
+{: .notice--info}
+
 ## Construction Barrier Dock
 
 This construction barrier was originally made for/in a secret project made by BOB. The project that this is referring to has yet to make it very far in terms of progress.
@@ -132,6 +145,11 @@ After a lot of the UI in the game was removed this dock was added to replace the
 | Side Placed On             | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Images/Donation%20Dock.png)
+
+## Events Dock
+
+Coming soon 👀
+{: .notice--info}
 
 ## Ice Cube Tray Dock
 
