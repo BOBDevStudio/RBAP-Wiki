@@ -60,6 +60,6 @@ In the current version of the Random Buildings And Parts most docks are automati
 | Dock Types Used        | [`Table`](/RBAP-Wiki/Wiki/Value-Types#table) of [`Dock Types`](/RBAP-Wiki/Wiki/Dock-Types)      | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
 | Side Placed On         | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                  | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
 
-### Here's the list of categories of docks:
+## Here's the list of categories of docks:
 
 {% include feature_row %}
