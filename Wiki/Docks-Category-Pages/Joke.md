@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Category/Joke
 title: "Docks: Joke"
+sidebar:
+  nav: "Wiki_DocksCategory_Joke"
 ---
 
 **Warning! If you are on BOB's Roblox friends list the following contains spoilers** to stuff you may accidentally come across.

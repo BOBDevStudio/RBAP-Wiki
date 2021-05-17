@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Category/Removed
 title: "Docks: Removed"
+sidebar:
+  nav: "Wiki_DocksCategory_Removed"
 ---
 
 ### Docks in this category:
