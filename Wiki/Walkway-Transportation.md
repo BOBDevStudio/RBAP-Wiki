@@ -45,7 +45,7 @@ The player conveyors are by far much older than The Traveler. They have been in 
 
 ## The Traveler
 
-The Traveler is a special replacement of the Player Conveyors. It takes up the same amount of room as the Player Conveyors (if you don't include the guard rails). When it stops at one of its stopping points the gate (aka the guard rails nearby) are/is lowered so players can walk onto and off of it. It was introduced in [`V3.2`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game and is only available in select servers and in those select servers it replaces the Player Conveyors. It is somewhat inspired by the entrance elevator and was made completely for a fun of making it.
+The Traveler is a special replacement of the Player Conveyors. It takes up the same amount of room as the Player Conveyors (if you don't include the guard rails). When it stops at one of its stopping points the gate (aka the guard rails nearby) are/is lowered so players can walk onto and off of it. It was introduced in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game and is only available in select servers and in those select servers it replaces the Player Conveyors. It is somewhat inspired by the entrance elevator and was made completely for a fun of making it.
 
 There are no plans to replace the Player Conveyors with The Traveler due to it being affected by physics and having issues related to that and also due to the fact that it only stops at the start and the end of the map.
 
