@@ -10,7 +10,7 @@ redirect_from:
 #hidden: true
 header:
   overlay_color: "#FFFFFF"
-  overlay_image: Assets/Images/Home-Page-Icon-Images/Main.png
+  overlay_image: Assets/Images/Page-Banners/Home.png
 excerpt: >
   Welcome to the Random Buildings And Parts official wiki!
 feature_row:
