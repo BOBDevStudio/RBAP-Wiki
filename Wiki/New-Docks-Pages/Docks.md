@@ -12,7 +12,7 @@ feature_row:
     alt: "Removed Category Page"
     title: ""
     excerpt: ""
-    url: "/Wiki/Docks/Category/Romoved"
+    url: "/Wiki/Docks/Category/Removed"
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: "Assets/Images/Page-Previews/Unset.png"
