@@ -241,8 +241,12 @@ Wiki_DockTypesCategory_InGame:
         url: "/Wiki/Dock-Types/Category/In-Game#under-maintenance"
       - title: "Closed"
         url: "/Wiki/Dock-Types/Category/In-Game#closed"
+      - title: "Main Build Purchases Closed"
+        url: "/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed"
       - title: "Server Dock"
         url: "/Wiki/Dock-Types/Category/In-Game#server-dock"
+      - title: "Update Logs Dock"
+        url: "/Wiki/Dock-Types/Category/In-Game#update-logs-dock"
   - title: "Walkway Transportation"
     url: "/Wiki/Walkway-Transportation"
     children:
