@@ -20,7 +20,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -39,7 +39,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`Welcome to the default Roblox base plate`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -58,7 +58,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`this closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -77,7 +77,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`I'm too lazy to put down the bridge. Who uses that anyway! Useless!`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -96,7 +96,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`Let's see if you're confident enough to stand on this dock for a <b>huge</b> surprise`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -115,7 +115,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`All this gold costed a LOT`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
@@ -134,7 +134,7 @@ This is still a WIP.
 
 | Value Name           | Value |
 |-|-|
-| Sign Text            | [``](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text            | [`Roblox... but your character's physics are rendered by the server`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
