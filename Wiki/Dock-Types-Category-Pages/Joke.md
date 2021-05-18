@@ -117,6 +117,8 @@ sidebar:
 
 ## Statue Of BOB Dock
 
+Now this dock type is a special one. Every part of a dock entrance that this dock type set on gets turned into gold (with a few exceptions like the lights). This functionality is exclusive to this dock type and is hard-coded in to the dock entrance system.
+
 | Value Name           | Value |
 |-|-|
 | Sign Text            | [`All this gold costed a LOT`](/RBAP-Wiki/Wiki/Value-Types#string) |
