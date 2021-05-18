@@ -10,9 +10,6 @@ sidebar:
 
 ### Dock types in this category:
 
-This is still a WIP.
-{: .notice--warning}
-
 | Dock Type |
 |-|
 | [404 Dock Not Found Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#404-dock-not-found-dock) |
