@@ -31,7 +31,7 @@ This is the generic open dock type. It is pretty self-explanatory why it is used
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Open" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Open.png" alt="">
 
 ## Under Maintenance
 
@@ -50,7 +50,7 @@ This is the generic under maintenance dock type. This dock type is used when a d
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Under%20Maintenance" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Under%20Maintenance.png" alt="">
 
 ## Closed
 
@@ -69,7 +69,7 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Closed" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Closed.png" alt="">
 
 ## Server Dock
 
@@ -86,4 +86,4 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Server%20Dock" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Server%20Dock.png" alt="">
