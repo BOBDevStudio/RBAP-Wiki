@@ -88,7 +88,7 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Closed.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main%20Build%20Purchases%20Closed.png" alt="">
 
 ## Server Dock
 
