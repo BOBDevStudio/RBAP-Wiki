@@ -19,7 +19,6 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -34,7 +33,6 @@ In this dock you were able to select a color and it would show up on the main ma
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -49,7 +47,6 @@ This dock was used to display recent events from many different places. When the
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |

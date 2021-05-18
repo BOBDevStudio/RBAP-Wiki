@@ -33,7 +33,6 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -48,7 +47,6 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -61,7 +59,6 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -76,7 +73,6 @@ This construction barrier was originally made for/in a secret project made by BO
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -91,7 +87,6 @@ After a lot of the UI in the game was removed this dock was added to replace the
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -106,7 +101,6 @@ After a lot of the UI in the game was removed this dock was added to replace the
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -121,7 +115,6 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -136,7 +129,6 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -151,7 +143,6 @@ This dock was created just for the fun of it and partly because it was because B
 
 | Value Name | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -166,7 +157,6 @@ This was created sometime after BOB was thinking about road signs and then reali
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -181,7 +171,6 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance | [`12`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -196,7 +185,6 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -211,7 +199,6 @@ This dock shows all sorts of information about the server and the game. It was o
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -226,7 +213,6 @@ This was created when BOB wanted to make a window with sunlight coming through i
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -241,7 +227,6 @@ This is recreation of the old window showcase. This one was made in the late bet
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -273,7 +258,6 @@ The design of the stage has changed a little bit over the years. Here's a list o
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -288,7 +272,6 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 
 | Value Name             | Value |
 |-|-|
-| Can Be Found In Game   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
@@ -296,34 +279,3 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Weird%20Hills%20Dock.png)
-
-# Joke Docks
-
-**Warning! If you are on BOB's Roblox friends list the following contains spoilers** to stuff you may accidentally come across.
-{: .notice--danger}
-
-Docks that are considered joke docks only appear in a special server in RBAP and completely don't exist on any other server. Each joke currently has its own dock type that also will only appear in that server and completely doesn't exist in any other servers. The special server is only accessible to people on BOB's Roblox friends list.
-
-## 404 Dock Not Found Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
-
-## Default Roblox Base Plate Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
-
-## Lazy Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Lazy%20Dock.png)
-
-## Other No Standing Joke Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Other%20No%20Standing%20Joke%20Dock.png)
-
-## Statue Of BOB Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Statue%20Of%20BOB%20Dock.png)
-
-## Weird Character Physics Dock
-
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Weird%20Character%20Physics%20Dock.png)
