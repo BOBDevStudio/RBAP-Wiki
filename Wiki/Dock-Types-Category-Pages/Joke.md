@@ -15,6 +15,13 @@ This is still a WIP.
 
 | Dock Type |
 |-|
+| [404 Dock Not Found Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#404-dock-not-found-dock) |
+| [Default Roblox Baseplate Dock - Open](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#default-roblox-baseplate-dock---open) |
+| [Default Roblox Baseplate Dock - Closed](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#default-roblox-baseplate-dock---closed) |
+| [Lazy Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#lazy-dock) |
+| [Other No Standing Joke Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#other-no-standing-joke-dock) |
+| [Statue Of BOB Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#statue-of-bob-dock) |
+| [Weird Character Physics Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/Joke#weird-character-physics-dock) |
 
 ## 404 Dock Not Found Dock
 
