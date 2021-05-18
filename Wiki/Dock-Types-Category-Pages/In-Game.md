@@ -32,6 +32,7 @@ This is the generic open dock type. It is pretty self-explanatory why it is used
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Types/Open.png)
+{: .dock-type-image}
 
 ## Under Maintenance
 
@@ -51,6 +52,7 @@ This is the generic under maintenance dock type. This dock type is used when a d
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Types/Under%20Maintenance.png)
+{: .dock-type-image}
 
 ## Closed
 
@@ -70,6 +72,7 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Types/Closed.png)
+{: .dock-type-image}
 
 ## Server Dock
 
@@ -87,3 +90,4 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 
 ![](/RBAP-Wiki/Assets/Images/Dock-Types/Server%20Dock.png)
+{: .dock-type-image}
