@@ -12,6 +12,7 @@ sidebar:
 | [Open](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open) |
 | [Under Maintenance](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#under-maintenance) |
 | [Closed](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#closed) |
+| [Main Build Purchases Closed](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed) |
 | [Server Dock](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#server-dock) |
 
 ## Open
@@ -59,6 +60,23 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 | Value Name           | Value |
 |-|-|
 | Sign Text            | [`This dock is currently closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Lights On            | {`Light 1`} |
+| `Light 1` Color      | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
+| `Light 2` Color      | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Yellow.png" alt=""></a> |
+| `Light 3` Color      | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Green.png" alt=""></a> |
+| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
+| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Closed.png" alt="">
+
+## Main Build Purchases Closed
+
+| Value Name           | Value |
+|-|-|
+| Sign Text            | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
