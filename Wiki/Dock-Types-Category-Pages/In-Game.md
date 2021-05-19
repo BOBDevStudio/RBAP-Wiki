@@ -81,6 +81,10 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 
 ## Main Build Purchases Closed
 
+This dock type's purpose is to close off a dock that has purchases. The reason for this is because many of the things you can purchase in game (or actually all of them at the time of writing) are uploaded to the main build of the game instead of other special builds of the game like pre-update build. Roblox *theoretically* (or at least logically) allows purchases to be made if the asset behind the purchase is owned by the same thing as the game but in reality BOB has found this functionality to be broken or nonexistent.
+
+This dock type can never be found inside of the main build but can be found in other special builds of the game (with the exception of the dev build (for debugging purposes)). It is currently only being applied to the donations dock for the reasons listed above.
+
 | Value Name           | Value |
 |-|-|
 | Sign Text            | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
