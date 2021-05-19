@@ -46,6 +46,7 @@ defaults:
       update_log_old: false
       update_log_really_old: false
       only_list_update_logs: false
+      page_wip: false
 #  - scope:
 #      path: ""
 #      type: pages
