@@ -88,7 +88,7 @@ After a lot of the UI in the game was removed this dock was added to replace the
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} or {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed)} |
@@ -277,7 +277,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#update-logs-dock)} |
-| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Update%20Logs%20Dock.png)
 
