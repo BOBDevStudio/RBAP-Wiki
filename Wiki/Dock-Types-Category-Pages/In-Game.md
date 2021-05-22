@@ -107,7 +107,7 @@ This dock type can never be found inside of the main build but can be found in o
 | Value Name           | Value |
 |-|-|
 | Sign Text            | [`[Server Dock]: This dock contains statistics about the server and the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks#server-and-game-info-dock) |
+| Is System Dock       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock) |
 | Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
