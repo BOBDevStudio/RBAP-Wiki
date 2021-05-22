@@ -39,7 +39,7 @@ This is the generic open dock type. It is pretty self-explanatory why it is used
 
 ## Under Maintenance
 
-This is the generic under maintenance dock type. This dock type is used when a dock is in need of maintenance In some way; an example of that is when the code running a dock stops working for whatever reason.
+This is the generic under maintenance dock type. This dock type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
 
 | Value Name           | Value |
 |-|-|
