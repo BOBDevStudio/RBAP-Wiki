@@ -77,7 +77,7 @@ A value that equals either `True` or `False`.
 
 ## Color
 
-Usually a image from the color images directory representing a certain color. This value type is exclusive to the wiki.
+Usually a image from the color images directory representing a certain color.
 
 ###### For more in-depth Roblox developer documentation on it refer to this article: [https://developer.roblox.com/en-us/api-reference/datatype/Color3](https://developer.roblox.com/en-us/api-reference/datatype/Color3)
 
