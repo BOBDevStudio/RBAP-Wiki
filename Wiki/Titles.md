@@ -159,5 +159,17 @@ redirect_from:
         </ul>
       </td>
     </tr>
+	
+	<tr>
+      <td>
+       <p class="no-format" style="color:rgb(1,127,53)">Entry Level Donator</p>
+      </td>
+      <td>
+        Given to players who have donated Robux.
+      </td>
+      <td>
+        Anyone who purchases donation amount #1
+      </td>
+    </tr>
   </tbody>
 </table>
