@@ -86,11 +86,11 @@ This construction barrier was originally made for/in a secret project made by BO
 
 After a lot of the UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) (or an update before [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version)) added a little celebration animation after a player purchases any of the donation amounts available. In an upcoming update players who purchase any of the donation amounts will unlock that donation amount's corresponding title as a another way to say thank you for the purchase.
 
-The prices of each donation amounts available is meant to be able to help the user donate the exact (or close to the) amount of Robux that they want to donate.
+The prices of each of the donation amounts available is meant to be able to help the user donate the exact (or close to the) amount of Robux that they want to donate.
 
 ### Here's the list of prices for each of the donation amount available currently:
 
-| Donation Amount Id | Price |
+| Donation Amount | Price |
 |-|-|
 | #1 | 5 Robux |
 | #2 | 25 Robux |
