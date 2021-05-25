@@ -165,10 +165,58 @@ redirect_from:
        <p class="no-format" style="color:rgb(1,127,53)">Entry Level Donator</p>
       </td>
       <td>
-        Given to players who have donated Robux.
+        Given to players who have donated Robux
       </td>
       <td>
-        Anyone who purchases donation amount #1
+        Anyone who purchases donation amount #1 from the <a href="/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock">Donations Dock</a>
+      </td>
+    </tr>
+	
+	<tr>
+      <td>
+       <p class="no-format" style="color:rgb(3,176,76)">Basic Donator</p>
+      </td>
+      <td>
+        Given to players who have donated Robux
+      </td>
+      <td>
+        Anyone who purchases donation amount #2 from the <a href="/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock">Donations Dock</a>
+      </td>
+    </tr>
+	
+	<tr>
+      <td>
+       <p class="no-format" style="color:rgb(11,218,98)">Donator</p>
+      </td>
+      <td>
+        Given to players who have donated Robux
+      </td>
+      <td>
+        Anyone who purchases donation amount #3 from the <a href="/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock">Donations Dock</a>
+      </td>
+    </tr>
+	
+	<tr>
+      <td>
+       <p class="no-format" style="color:rgb(45,235,124)">Great Donator</p>
+      </td>
+      <td>
+        Given to players who have donated Robux
+      </td>
+      <td>
+        Anyone who purchases donation amount #4 from the <a href="/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock">Donations Dock</a>
+      </td>
+    </tr>
+	
+	<tr>
+      <td>
+       <p class="no-format" style="color:rgb(75,255,150)">Super Donator</p>
+      </td>
+      <td>
+        Given to players who have donated Robux
+      </td>
+      <td>
+        Anyone who purchases donation amount #5 from the <a href="/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock">Donations Dock</a>
       </td>
     </tr>
   </tbody>
