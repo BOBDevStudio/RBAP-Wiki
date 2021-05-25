@@ -74,10 +74,90 @@ redirect_from:
   - /name-tag/titles/
 ---
 
-| Title | Info | Owners |
-|-|-|-|
-| <h6><i>(Not listed on the wiki)</i></h6> | Distinguishes the creator of the game (which is BOB) | <ul> <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li> </ul> |
-| <h6><i>(Not listed on the wiki)</i></h6> | Distinguishes staff members of the BOB Development Studio | <ul> <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li> <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li> </ul> |
-| <h6><i>(Not listed on the wiki)</i></h6> | Distinguishes helpers of the BOB Development Studio | <ul> <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li> <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li> </ul> |
-| <h6><i>(Not listed on the wiki)</i></h6> | Distinguishes helpers of the BOB Development Studio | <ul> <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li> <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li> </ul> |
-| <h6><i>(Not listed on the wiki)</i></h6> | Distinguishes alts of BOB | <ul> <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li> <li><a href="https://www.roblox.com/users/335312538/profile">21MR_BOB<a></li> <li><a href="https://www.roblox.com/users/364460308/profile">22MR_BOB<a></li> <li><a href="https://www.roblox.com/users/496806079/profile">23MR_BOB<a></li> <li><a href="https://www.roblox.com/users/945096838/profile">24MR_BOB<a></li> </ul> |
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Info</th>
+      <th>Owners</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <h6><i>(Not listed on the wiki)</i></h6>
+      </td>
+      <td>
+        Distinguishes the creator of the game (which is BOB)
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <h6><i>(Not listed on the wiki)</i></h6>
+      </td>
+      <td>
+        Distinguishes staff members of the BOB Development Studio
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <h6><i>(Not listed on the wiki)</i></h6>
+      </td>
+      <td>
+        Distinguishes helpers of the BOB Development Studio
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <h6><i>(Not listed on the wiki)</i></h6>
+      </td>
+      <td>
+        Distinguishes helpers of the BOB Development Studio
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/1035672391/profile">Unbitterness<a></li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <h6><i>(Not listed on the wiki)</i></h6>
+      </td>
+      <td>
+        Distinguishes alts of BOB
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://www.roblox.com/users/241903094/profile">11MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/335312538/profile">21MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/364460308/profile">22MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/496806079/profile">23MR_BOB<a></li>
+          <li><a href="https://www.roblox.com/users/945096838/profile">24MR_BOB<a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
