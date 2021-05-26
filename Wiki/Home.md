@@ -1,7 +1,7 @@
 ---
 layout: single
+uses_splash_layout: true
 permalink: /Wiki
-is_home_page: true # -- I know this isn't actually the homepage for the website but for the purpose that value serves it's fine setting it to true even if it isn't actually the home page
 redirect_from:
   - /wiki
   - /Wiki/

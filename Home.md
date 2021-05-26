@@ -1,7 +1,7 @@
 ---
 layout: splash
+uses_splash_layout: true
 permalink: /
-is_home_page: true
 redirect_from:
   - /Home
   - /home

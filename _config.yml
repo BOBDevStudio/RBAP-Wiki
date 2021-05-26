@@ -33,7 +33,7 @@ defaults:
       path: ""
     values:
       layout: single
-      is_home_page: false
+      uses_splash_layout: false
       author: "BOBDevStudio"
       toc: false
       author_profile: false
