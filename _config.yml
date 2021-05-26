@@ -47,6 +47,9 @@ defaults:
       update_log_really_old: false
       only_list_update_logs: false
       page_wip: false
+      pinned: false
+      listed: true
+      locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
 #  - scope:
 #      path: ""
 #      type: pages
@@ -64,9 +67,6 @@ defaults:
       is_post: true
       author_profile: true
       related: true
-      pinned: false
-      listed: true
-      locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
   - scope:
       path: "_posts/Update-Logs/*"
       type: posts
