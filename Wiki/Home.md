@@ -1,6 +1,5 @@
 ---
 layout: single
-uses_splash_layout: true
 permalink: /Wiki
 redirect_from:
   - /wiki
@@ -8,6 +7,7 @@ redirect_from:
   - /wiki/
   - /Wiki/Home
   - /wiki/home
+uses_image_header: true
 header:
   overlay_color: "#FFFFFF"
   overlay_image: Assets/Images/Page-Banners/Home.png
