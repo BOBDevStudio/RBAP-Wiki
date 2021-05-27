@@ -36,7 +36,7 @@ This dock type was originally added for the mine dock but the idea of using it t
 
 ## Seasonally Closed
 
-This dock type was used in the winter of 2019 to 2020 due to snow going through covered areas. Since show falling hasn't made a return yet this dock type has yet to be used again.
+This dock type was used in the winter of 2019 and 2020 due to the snow going through covered areas. Since falling show hasn't made a return yet this dock type has yet to be used again.
 
 | Value Name           | Value |
 |-|-|
@@ -57,7 +57,7 @@ This dock type was used in the winter of 2019 to 2020 due to snow going through 
 
 ## Hidden Dock
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in game event. There are currently none in the game as previous ones were removed in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system).
+Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock type as previous ones were removed in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system).
 
 | Value Name           | Value |
 |-|-|

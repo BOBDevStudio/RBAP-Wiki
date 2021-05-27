@@ -17,7 +17,7 @@ feature_row:
   - image_path: "Assets/Images/Page-Previews/Home/Docks%20Page.png"
     alt: "Docks Page"
     title: "Docks"
-    excerpt: "Docks are arguably the most essential part of the game."
+    excerpt: "Docks are the most essential part of the game."
     url: "/Wiki/Docks"
     btn_class: "btn--primary"
     btn_label: "Learn more"

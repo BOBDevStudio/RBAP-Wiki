@@ -9,8 +9,6 @@
 * [BOB Development Studio](https://www.roblox.com/groups/8499452/)
 * [BOB Development Studio on Github](https://github.com/BOBDevStudio)
 
-##### Note that parts of this repository are best viewed in [Github's dark mode](https://github.com/settings/appearance).
-
 ## **License**
 
 This wiki/repository is under a license which can be found [here](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/License).
