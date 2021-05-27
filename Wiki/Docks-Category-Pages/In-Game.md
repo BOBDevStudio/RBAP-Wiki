@@ -70,7 +70,9 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 
 ## Construction Barrier Dock
 
-This construction barrier was originally made for/in a secret project made by BOB. The project that this is referring to has yet to make it very far in terms of progress.
+This construction barrier was originally made for and in a secret project made by BOB.
+
+The project that this is referring to has yet to make it very far in terms of progress and is unlikely to be released anytime soon. To give you an idea this dock was added shortly after BOB made the construction barrier for that project back when he was still actively working on it (before he lost commitment for it and took a very long break for the ***1st*** (and not only) time in its history) and when it was on its 1st iteration of the backend (as yes this is the project that got rewritten 3 times as mentioned in [this Tweet](https://twitter.com/ThisBeBOB_/status/1369425968931176448)). Believe it or not there are actually more reasons than just BOB lost commitment for it as to why the project is not anywhere near done but those reasons are yet to be shared publicly.
 
 | Value Name             | Value |
 |-|-|
@@ -84,7 +86,7 @@ This construction barrier was originally made for/in a secret project made by BO
 
 ## Donation Dock
 
-After a lot of the UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) (or an update before [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version)) added a little celebration animation after a player purchases any of the donation amounts available. In an upcoming update players who purchase any of the donation amounts will unlock that donation amount's corresponding title as a another way to say thank you for the purchase.
+After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) added a little celebration animation after a player purchases any of the donation amounts available. In an upcoming update players who purchase any of the donation amounts will unlock that donation amount's corresponding title as a another way to say thank you for the purchase.
 
 The prices of each of the donation amounts available is meant to be able to help the user donate the exact (or close to the) amount of Robux that they want to donate.
 
@@ -111,7 +113,7 @@ The prices of each of the donation amounts available is meant to be able to help
 
 ## Ice Cube Tray Dock
 
-###### Read the text on the dock for description on this dock. It's pretty in-depth so didn't feel need to put it here.
+###### Read the text on the dock for description of this dock. It's pretty in-depth so didn't feel need to put it here.
 
 | Value Name             | Value |
 |-|-|
@@ -139,7 +141,7 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 
 ## Lighthouse Dock
 
-BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox; he considers it successful.
+BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox and he considers that venture to be successful.
 
 | Value Name             | Value |
 |-|-|
@@ -153,7 +155,7 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 
 ## Mine Dock
 
-This dock was created just for the fun of it and partly because it was because BOB was testing out new stuff that he just found out how to use. This dock is one of the oldest in the game.
+This dock was created just for the fun of it and partly because it was because BOB was testing out new stuff that he just found out how to use. This dock is one of the oldest in the game. There have been a few times in its history when it has been placed out of service but it was repaired shortly after each of those times.
 
 | Value Name | Value |
 |-|-|
@@ -195,7 +197,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 ## Roblox Icons Dock
 
-###### Read the text on the dock for description on this dock. It's pretty in-depth so didn't feel need to put it here.
+###### Read the text on the dock for description of this dock. It's pretty in-depth so didn't feel need to put it here.
 
 | Value Name             | Value |
 |-|-|
@@ -223,7 +225,7 @@ This dock shows all sorts of information about the server and the game. It was o
 
 ## Showcase Dock
 
-This was created when BOB wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game, the second oldest being the stage (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed.
+This was created when BOB wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game the second oldest being the stage (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed due to its historical value.
 
 | Value Name             | Value |
 |-|-|
