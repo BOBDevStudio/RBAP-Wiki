@@ -47,7 +47,7 @@ The player conveyors are by far much older than The Traveler. They have been in 
 
 The Traveler is a special replacement of the Player Conveyors. It takes up the same amount of room as the Player Conveyors (if you don't include the guard rails). When it stops at one of its stopping points the gate (aka the guard rails nearby) are/is lowered so players can walk onto and off of it. It was introduced in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game and is only available in select servers and in those select servers it replaces the Player Conveyors. It is somewhat inspired by the entrance elevator and was made completely for the fun of making it.
 
-There are no plans to replace the Player Conveyors with The Traveler due to it being affected by physics thus making it very easy to break it if you do something like standing in between the barriers when they get enabled (which will most likely result in it being thrown off its track which (unless you're BOB) is something that can break it for the rest of the session). Also the fact that it only stops at the start and end of the map doesn't help much either.
+There are no plans to replace the Player Conveyors with The Traveler due to it being affected by physics thus making it very easy to break it if you do something like stand in between the barriers when they get enabled (which will most likely result in it being thrown off its track which (unless you're BOB) is something that can break it for the rest of the session). Also the fact that it only stops at the start and end of the map doesn't help much either.
 
 ![](/RBAP-Wiki/Assets/Images/Walkway-Transportation/The%20Traveler.png)
 
