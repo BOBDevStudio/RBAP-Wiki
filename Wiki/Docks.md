@@ -46,7 +46,7 @@ redirect_from:
   - /dock/
 ---
 
-What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills.
+What is a dock? Docks are where {% include BOB %} showcases his building skills and sometimes his scripting skills.
 
 In the current version of the Random Buildings And Parts most docks are automatically placed by a system that was introduced in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game. So that means most docks are placed completely randomly and can be moved anytime.
 

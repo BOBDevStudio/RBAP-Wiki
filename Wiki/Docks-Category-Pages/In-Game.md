@@ -30,7 +30,7 @@ sidebar:
 
 ## Bloxy Statue Remade Dock
 
-This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the 2018 Bloxy Awards.
+This is {% include BOB %}'s re-creation of Roblox Bloxy Statue. It was made sometime after the 2018 Bloxy Awards.
 
 | Value Name             | Value |
 |-|-|
@@ -44,7 +44,7 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 
 ## Bob The Mob Dock
 
-BOB was inspired to make this dock after a reply to a post that BOB made on Twitter. [Click here to see what remains of the post and it's replies](https://twitter.com/ThisBeBOB_/status/1114734536397451265).
+{% include BOB %} was inspired to make this dock after a reply to a post that {% include BOB %} made on Twitter. [Click here to see what remains of the post and it's replies](https://twitter.com/ThisBeBOB_/status/1114734536397451265).
 
 | Value Name             | Value |
 |-|-|
@@ -70,7 +70,7 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 
 ## Construction Barrier Dock
 
-This construction barrier was originally made for/in a secret project made by BOB. The project that this is referring to has yet to make it very far in terms of progress.
+This construction barrier was originally made for/in a secret project made by {% include BOB %}. The project that this is referring to has yet to make it very far in terms of progress.
 
 | Value Name             | Value |
 |-|-|
@@ -125,7 +125,7 @@ The prices of each of the donation amounts available is meant to be able to help
 
 ## Industrial Light Dock
 
-BOB created this light just for the fun of it. He uses it (or edited versions of it) in his projects when he needs an industrial looking light.
+{% include BOB %} created this light just for the fun of it. He uses it (or edited versions of it) in his projects when he needs an industrial looking light.
 
 | Value Name             | Value |
 |-|-|
@@ -139,7 +139,7 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 
 ## Lighthouse Dock
 
-BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox; he considers it successful.
+{% include BOB %} originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox; he considers it successful.
 
 | Value Name             | Value |
 |-|-|
@@ -153,7 +153,7 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 
 ## Mine Dock
 
-This dock was created just for the fun of it and partly because it was because BOB was testing out new stuff that he just found out how to use. This dock is one of the oldest in the game.
+This dock was created just for the fun of it and partly because it was because {% include BOB %} was testing out new stuff that he just found out how to use. This dock is one of the oldest in the game.
 
 | Value Name | Value |
 |-|-|
@@ -167,7 +167,7 @@ This dock was created just for the fun of it and partly because it was because B
 
 ## No Standing Joke Dock
 
-This was created sometime after BOB was thinking about road signs and then realized what the no standing sign says could be used literally in a joke.
+This was created sometime after {% include BOB %} was thinking about road signs and then realized what the no standing sign says could be used literally in a joke.
 
 | Value Name             | Value |
 |-|-|
@@ -223,7 +223,7 @@ This dock shows all sorts of information about the server and the game. It was o
 
 ## Showcase Dock
 
-This was created when BOB wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game, the second oldest being the stage (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed.
+This was created when {% include BOB %} wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game, the second oldest being the stage (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed.
 
 | Value Name             | Value |
 |-|-|
@@ -237,7 +237,7 @@ This was created when BOB wanted to make a window with sunlight coming through i
 
 ## Showcase Remastered Dock
 
-This is recreation of the old window showcase. This one was made in the late beta of the newest Roblox lighting technology. BOB decided to make this dock just for the fun of it seeing as the old one doesn't look as good as it did when it was made.
+This is recreation of the old window showcase. This one was made in the late beta of the newest Roblox lighting technology. {% include BOB %} decided to make this dock just for the fun of it seeing as the old one doesn't look as good as it did when it was made.
 
 | Value Name             | Value |
 |-|-|
@@ -253,11 +253,11 @@ This is recreation of the old window showcase. This one was made in the late bet
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 
 
-This dock has a long history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
+This dock has a long history of not actually being in the game. Although nowadays {% include BOB %} can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game). The reason also could have been because of lag or some code of it needing to be updated when {% include BOB %} didn't feel like it.
 
-The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
+The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones {% include BOB %} can remember:
 
-**Note:** The list below is not really in any order and is just based off what BOB remembers so it could very well be inaccurate to an extent.
+**Note:** The list below is not really in any order and is just based off what {% include BOB %} remembers so it could very well be inaccurate to an extent.
 {: .notice--warning}
 
 | Change |
@@ -282,7 +282,7 @@ The design of the stage has changed a little bit over the years. Here's a list o
 
 ## Update Logs Dock
 
-This dock houses the game's update logs. Update logs listed on the dock are retrieved from the web. Currently the dock only lists the most recent update log but that may change in the future. Currently the height of each line is set manually making it a very tedious process to do but in the future BOB hopes to have it be set automatically. This dock has always been considered a system dock.
+This dock houses the game's update logs. Update logs listed on the dock are retrieved from the web. Currently the dock only lists the most recent update log but that may change in the future. Currently the height of each line is set manually making it a very tedious process to do but in the future {% include BOB %} hopes to have it be set automatically. This dock has always been considered a system dock.
 
 | Value Name             | Value |
 |-|-|
@@ -296,7 +296,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 
 ## Weird Hills Dock
 
-BOB can never be sure why exactly he made this dock as he doesn't remember why and he can't think of any reason.
+{% include BOB %} can never be sure why exactly he made this dock as he doesn't remember why and he can't think of any reason.
 
 | Value Name             | Value |
 |-|-|
