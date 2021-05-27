@@ -3,7 +3,7 @@ permalink: /Posts/Update-Log-Notes
 title: "Notes about the update log system"
 short_description: "List of notes related to the update log system."
 post_created_at: "2021-04-15 00:00:00 +00:00"
-post_updated_at: "2021-05-01 00:00:00 +00:00"
+post_updated_at: "2021-05-26 00:00:00 +00:00"
 redirect_from:
   - /Posts/Update-log-notes
   - /Posts/update-Log-notes
