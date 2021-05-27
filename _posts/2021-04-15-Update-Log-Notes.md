@@ -33,8 +33,8 @@ sidebar:
 * * This is due to the fact that they predate the update log post and were actually made for a system from around late 2018. Plus they had to be extracted from older versions of Random Buildings And Parts.
 * Any update log for a version before V3 is considered not being actively maintained. When an update log is considered this they are purposely hard to find.
 * * Reasons for this are as follows:
-* * * {% include BOB %} is less familiar with those updates since it's been a while since he's made them.
-* * * Many of the old update logs have unnecessary hype like for example some of them may say "`ALL-NEW`". {% include BOB %} has stopped using this style of update log for quite some time now.
+* * * {% include BOB.html %} is less familiar with those updates since it's been a while since he's made them.
+* * * Many of the old update logs have unnecessary hype like for example some of them may say "`ALL-NEW`". {% include BOB.html %} has stopped using this style of update log for quite some time now.
 * * * * Also there is more differences between the styles of update logs in between the old update logs and the new update logs. Overall the newer ones are more high quality than the older ones.
 * * * Many of the changes listed in them are either changed or removed.
 * Probably in the near future the update logs post on the Roblox dev forum will probably stop being used in favor of update logs hosted in the game and in this website.

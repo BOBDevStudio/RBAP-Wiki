@@ -5,10 +5,10 @@ sidebar:
   nav: "Wiki_DocksCategory_Joke"
 ---
 
-**Warning! If you are on {% include BOB %}'s Roblox friends list the following contains spoilers** to stuff you may accidentally come across.
+**Warning! If you are on {% include BOB.html %}'s Roblox friends list the following contains spoilers** to stuff you may accidentally come across.
 {: .notice--danger}
 
-Docks that are considered joke docks only appear in a special server in RBAP and completely don't exist on any other server. Each joke currently has its own dock type that also will only appear in that server and completely doesn't exist in any other servers. The special server is only accessible to people on {% include BOB %}'s Roblox friends list.
+Docks that are considered joke docks only appear in a special server in RBAP and completely don't exist on any other server. Each joke currently has its own dock type that also will only appear in that server and completely doesn't exist in any other servers. The special server is only accessible to people on {% include BOB.html %}'s Roblox friends list.
 
 ### Docks in this category:
 
