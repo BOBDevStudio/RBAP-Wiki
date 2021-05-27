@@ -43,7 +43,7 @@ In this dock you were able to select a color and it would show up on the main ma
 
 ## Events Dock
 
-This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while {% include BOB.html %} tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the Color Mixer Dock it is very unlikely that this will ever be added back but with some new changes on [Roblox's roadmap](https://developer.roblox.com/en-us/resources/Roblox-Platform-Roadmap) there could be a new way to bring this dock back to life.
+This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while BOB tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the Color Mixer Dock it is very unlikely that this will ever be added back but with some new changes on [Roblox's roadmap](https://developer.roblox.com/en-us/resources/Roblox-Platform-Roadmap) there could be a new way to bring this dock back to life.
 
 | Value Name             | Value |
 |-|-|

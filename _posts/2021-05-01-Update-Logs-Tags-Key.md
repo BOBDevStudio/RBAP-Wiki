@@ -45,7 +45,7 @@ sidebar:
 | Tag Name                 | Tag Info |
 |-|-|
 | Most Recent              | The update that is the most recently added (to the main game). |
-| Biggest Yet              | The update is what {% include BOB.html %} considers to be the biggest (and/or probably most impactful) one yet; which that means it might not actually be the biggest (or most impactful) one yet. |
+| Biggest Yet              | The update is what BOB considers to be the biggest (and/or probably most impactful) one yet; which that means it might not actually be the biggest (or most impactful) one yet. |
 | Improvements Only        | The update only mainly improves upon stuff already in the game. |
 | Bug Fixes Only           | The update only mainly includes bug fixes. |
 | Only In Pre-Update Build | The changelog for the update is talking about a new update that is yet to be released to the main game but is released to the pre-update build of Random Buildings And Parts. |
