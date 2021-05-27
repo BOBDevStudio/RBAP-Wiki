@@ -7,7 +7,6 @@ description: "This is the official wiki for the Roblox game called Random Buildi
 #baseurl: /RBAP
 logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
-update_log_time_zone: "PST/PDT"
 redirect_update_logs_category: true
 name: "BOB Development Studio"
 
@@ -33,7 +32,7 @@ defaults:
       path: ""
     values:
       layout: single
-      is_home_page: false
+      uses_image_header: false
       author: "BOBDevStudio"
       toc: false
       author_profile: false
@@ -47,6 +46,11 @@ defaults:
       update_log_really_old: false
       only_list_update_logs: false
       page_wip: false
+      published_time_uses_pst: false
+      published_time_uses_pdt: false
+      pinned: false
+      listed: true
+      locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
 #  - scope:
 #      path: ""
 #      type: pages
@@ -64,9 +68,6 @@ defaults:
       is_post: true
       author_profile: true
       related: true
-      pinned: false
-      listed: true
-      locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
   - scope:
       path: "_posts/Update-Logs/*"
       type: posts

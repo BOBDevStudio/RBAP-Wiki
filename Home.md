@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /
-is_home_page: true
 redirect_from:
   - /Home
   - /home
   - /Home/
   - /home/
 #hidden: true
+uses_image_header: true
 header:
   overlay_color: "#FFFFFF"
   overlay_image: Assets/Images/Page-Banners/Home.png

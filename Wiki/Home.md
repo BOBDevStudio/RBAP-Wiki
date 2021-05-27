@@ -1,13 +1,13 @@
 ---
 layout: single
 permalink: /Wiki
-is_home_page: true # -- I know this isn't actually the homepage for the website but for the purpose that value serves it's fine setting it to true even if it isn't actually the home page
 redirect_from:
   - /wiki
   - /Wiki/
   - /wiki/
   - /Wiki/Home
   - /wiki/home
+uses_image_header: true
 header:
   overlay_color: "#FFFFFF"
   overlay_image: Assets/Images/Page-Banners/Home.png
