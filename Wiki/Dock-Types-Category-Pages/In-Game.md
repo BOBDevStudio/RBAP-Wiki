@@ -89,7 +89,7 @@ This dock type can never be found inside of the main build but can be found in o
 |-|-|
 | Sign Text            | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
 | Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
