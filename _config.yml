@@ -139,6 +139,7 @@ search_provider: "lunr"
 
 # --//No need to edit really:
 
+strict_front_matter: true
 locale: "en-US"
 title_separator: "-"
 atom_feed:
