@@ -6,7 +6,7 @@ sidebar:
 ---
 
 **Warning! If you are on BOB's Roblox friends list the following contains spoilers** to stuff you may accidentally come across.
-{: .notice--danger}
+{: .page-notice .page-notice-danger}
 
 Docks that are considered joke docks only appear in a special server in RBAP and completely don't exist on any other server. Each joke currently has its own dock type that also will only appear in that server and completely doesn't exist in any other servers. The special server is only accessible to people on BOB's Roblox friends list.
 

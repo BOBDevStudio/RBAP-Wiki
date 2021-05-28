@@ -274,7 +274,7 @@ This dock has a long history of not actually being in the game. Although nowaday
 The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
 
 **Note:** The list below is not really in any order and is just based off what BOB remembers so it could very well be inaccurate to an extent.
-{: .notice--warning}
+{: .page-notice .page-notice-warning}
 
 | Change |
 |-|
