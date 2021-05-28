@@ -14,6 +14,7 @@ sidebar:
 | [Camp Fire Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#camp-fire-dock) |
 | [Construction Barrier Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#construction-barrier-dock) |
 | [Donation Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock) |
+| [Game Rooms Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#game-rooms-dock) |
 | [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#ice-cube-tray-dock) |
 | [Industrial Light Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#industrial-light-dock) |
 | [Lighthouse Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#lighthouse-dock) |
@@ -110,6 +111,19 @@ The prices of each of the donation amounts available is meant to be able to help
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Donation%20Dock.png)
+
+## Game Rooms Dock
+
+This is still a WIP
+{: .page-notice .page-notice-info}
+
+| Value Name             | Value |
+|-|-|
+| Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
+| Side Placed On         | [`0.2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ## Ice Cube Tray Dock
 
