@@ -114,7 +114,7 @@ The prices of each of the donation amounts available is meant to be able to help
 
 ## Game Rooms Dock
 
-This is still a WIP
+**Note:** This is still a WIP
 {: .page-notice .page-notice-info}
 
 | Value Name             | Value |
