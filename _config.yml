@@ -24,6 +24,7 @@ exclude:
   - WIP
 include:
   - _github-no
+  - Assets
 
 # --//Page defaults:
 
