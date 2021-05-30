@@ -137,11 +137,6 @@ search: true
 search_full_content: true
 search_provider: "lunr"
 
-# --//Theme Pages Scripts:
-
-script_paths:
-  title_link_adder: "/Assets/Scripts/Title-Link-Adder-Script.js"
-
 # --//No need to edit really:
 
 strict_front_matter: true
