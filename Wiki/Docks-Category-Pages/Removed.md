@@ -29,7 +29,7 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 
 ## Color Mixer Dock
 
-In this dock you were able to select a color and it would show up on the main machine. This dock was removed from the game for multiple reasons among them are it needing to be completely recoded and the concept of it being *too* simple. Unlike the Color Blocks Dock this dock has a chance of returning although it is still unlikely.
+In this dock you were able to select a color and it would show up on the machine. This dock was removed from the game for multiple reasons among them are it needing to be completely recoded and the concept of it being *too* simple. Unlike the Color Blocks Dock this dock has a chance of returning although it is still unlikely.
 
 | Value Name             | Value |
 |-|-|
@@ -43,7 +43,7 @@ In this dock you were able to select a color and it would show up on the main ma
 
 ## Events Dock
 
-This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while BOB tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the Color Mixer Dock it is very unlikely that this will ever be added back but with some new changes on [Roblox's roadmap](https://developer.roblox.com/en-us/resources/Roblox-Platform-Roadmap) there could be a new way to bring this dock back to life.
+This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while BOB tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the Color Mixer Dock it is very unlikely that this will ever be added back.
 
 | Value Name             | Value |
 |-|-|

@@ -26,7 +26,7 @@ redirect_from:
   - /value-types/
 ---
 
-### Here's a list of each of (or most of) the value types used in this wiki:
+### Here's a list of each of (or most of) the value types used on the wiki:
 
 | Value Type |
 |-|
@@ -41,7 +41,7 @@ redirect_from:
 
 ## Number
 
-Don't think it needs to be explained, it's a number.
+Don't think it needs to be explained... it's a number.
 
 ###### For more in-depth Roblox developer documentation on it refer to this article: [https://developer.roblox.com/en-us/articles/Numbers](https://developer.roblox.com/en-us/articles/Numbers)
 

@@ -6,7 +6,9 @@ sidebar:
 ---
 
 **Warning! If you are on BOB's Roblox friends list the following contains spoilers** to stuff you may accidentally come across.
-{: .notice--danger}
+{: .page-notice .page-notice-danger}
+
+Currently all the joke dock types automatically get Rich Text enabled on the sign of the dock entrances they run on. This is hard-coded into the dock entrance system and is not set on a per dock type basis.
 
 ### Dock types in this category:
 

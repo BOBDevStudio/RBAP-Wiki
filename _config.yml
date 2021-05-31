@@ -51,6 +51,7 @@ defaults:
       pinned: false
       listed: true
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
+      update_log_listed: false
 #  - scope:
 #      path: ""
 #      type: pages
@@ -87,15 +88,18 @@ defaults:
       update_log_old: true
       categories:
       listed: false
+      update_log_listed: true
       short_description: ""
       comments: false
       categories:
         - Old Update Logs
+        - Listed Old Update Logs
   - scope:
       path: "_posts/Update-Logs/Old/Really Old/*"
       type: posts
     values:
       update_log_really_old: true
+      update_log_listed: false
       categories:
         - Old Update Logs
         - Old Update Log System Extracted
@@ -135,6 +139,8 @@ search_provider: "lunr"
 
 # --//No need to edit really:
 
+strict_front_matter: true
+incremental: false
 locale: "en-US"
 title_separator: "-"
 atom_feed:
