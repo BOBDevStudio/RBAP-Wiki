@@ -2,6 +2,7 @@
 permalink: /Wiki/Docks/Category/Joke
 title: "Docks: Joke"
 short_description: "List of joke docks in the game"
+preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 page_categories:
   docks_category_page: true
 sidebar:

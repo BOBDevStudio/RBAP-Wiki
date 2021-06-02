@@ -2,6 +2,7 @@
 permalink: /Wiki/Docks/Category/Removed
 title: "Docks: Removed"
 short_description: "List of docks that were removed from the game"
+preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 page_categories:
   docks_category_page: true
 sidebar:
