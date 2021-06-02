@@ -1,6 +1,9 @@
 ---
 permalink: /Wiki/Docks/Category/In-Game
 title: "Docks: In-Game"
+short_description: "List of docks in the game"
+page_categories:
+  docks_category_page: true
 sidebar:
   nav: "Wiki_DocksCategory_InGame"
 ---

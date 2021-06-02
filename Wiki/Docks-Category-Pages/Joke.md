@@ -1,6 +1,9 @@
 ---
 permalink: /Wiki/Docks/Category/Joke
 title: "Docks: Joke"
+short_description: "List of joke docks in the game"
+page_categories:
+  docks_category_page: true
 sidebar:
   nav: "Wiki_DocksCategory_Joke"
 ---

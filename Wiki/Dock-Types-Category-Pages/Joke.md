@@ -1,6 +1,9 @@
 ---
 permalink: /Wiki/Dock-Types/Category/Joke
 title: "Dock Types: Joke"
+short_description: "List of joke dock types that are used with joke docks in the game"
+page_categories:
+  dock_types_category_page: true
 sidebar:
   nav: "Wiki_DockTypesCategory_Joke"
 ---

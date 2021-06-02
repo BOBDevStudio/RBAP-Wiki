@@ -1,6 +1,9 @@
 ---
 permalink: /Wiki/Docks/Category/Removed
 title: "Docks: Removed"
+short_description: "List of docks that were removed from the game"
+page_categories:
+  docks_category_page: true
 sidebar:
   nav: "Wiki_DocksCategory_Removed"
 ---
