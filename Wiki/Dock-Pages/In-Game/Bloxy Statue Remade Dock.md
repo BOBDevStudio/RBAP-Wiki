@@ -25,4 +25,12 @@ page_subject_info:
 
 This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the 2018 Bloxy Awards.
 
+| Value Name             | Value |
+|-|-|
+| Reserved Dock Entrance |  |
+| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
+| Side Placed On         | [`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number) |
+
 ![](/RBAP-Wiki/Assets/Images/Docks/Bloxy%20Statue%20Remade%20Dock.png)
