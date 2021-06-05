@@ -16,11 +16,11 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Entrances Centered On"
-          value: "{[`1`](/RBAP-Wiki/Wiki/Value-Types#number)}"
+          value: "{`1`}"
         - key: "Dock Types Used"
-          value: "{[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{[`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number)}"
+          value: "{`1`}"
 ---
 
 This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the 2018 Bloxy Awards.
@@ -31,6 +31,6 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
-| Side Placed On         | [`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number) |
+| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Bloxy%20Statue%20Remade%20Dock.png)
