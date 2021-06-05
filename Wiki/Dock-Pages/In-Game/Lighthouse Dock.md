@@ -4,7 +4,7 @@ title: "Dock: Lighthouse Dock"
 page_subject_info:
   title: "Lighthouse Dock"
   color: "#FF4B4B"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Lighthouse-Dock.png"
 #  description: ""
