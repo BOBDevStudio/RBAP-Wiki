@@ -4,7 +4,7 @@ title: "Dock: Donation Dock"
 page_subject_info:
   title: "Donation Dock"
   color: "#96fa96"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Donation-Dock.png"
 #  description: ""

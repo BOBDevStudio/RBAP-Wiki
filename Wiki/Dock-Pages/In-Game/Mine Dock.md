@@ -4,7 +4,7 @@ title: "Dock: Mine Dock"
 page_subject_info:
   title: "Mine Dock"
   color: "#FF3232"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Mine-Dock.png"
 #  description: ""

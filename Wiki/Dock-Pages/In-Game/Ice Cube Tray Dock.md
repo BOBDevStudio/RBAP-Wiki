@@ -4,7 +4,7 @@ title: "Dock: Ice Cube Tray Dock"
 page_subject_info:
   title: "Ice Cube Tray Dock"
   color: "#64C8FF"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Ice-Cube-Tray-Dock.png"
 #  description: ""

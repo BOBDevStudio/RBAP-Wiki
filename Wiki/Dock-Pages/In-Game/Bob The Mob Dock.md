@@ -4,7 +4,7 @@ title: "Dock: Bob The Mob Dock"
 page_subject_info:
   title: "Bob The Mob Dock"
   color: "#00FFFF"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Bob-the-Mob-Dock.png"
 #  description: ""

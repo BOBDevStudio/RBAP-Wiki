@@ -4,7 +4,7 @@ title: "Dock: Industrial Light Dock"
 page_subject_info:
   title: "Industrial Light Dock"
   color: "#a3a2a5"
-  titles_text_color: "#000000"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Bloxy-Statue-Remade-Dock.png"
 #  description: ""
