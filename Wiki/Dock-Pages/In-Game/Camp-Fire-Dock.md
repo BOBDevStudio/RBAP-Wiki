@@ -33,4 +33,4 @@ page_subject_info:
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Camp%20Fire%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Camp-Fire-Dock.png)

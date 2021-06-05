@@ -6,7 +6,7 @@ page_subject_info:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Joke-Docks/404-Dock-Not-Found-Dock.png"
+    path: "/Assets/Images/Page-Subject-Info/Docks/Joke/404-Dock-Not-Found-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -25,4 +25,4 @@ page_subject_info:
 
 
 
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/404%20Dock%20Not%20Found%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke/404-Dock-Not-Found-Dock.png)

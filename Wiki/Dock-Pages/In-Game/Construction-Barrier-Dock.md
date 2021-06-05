@@ -35,4 +35,4 @@ The project that this is referring to has yet to make it very far in terms of pr
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Construction%20Barrier%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Construction-Barrier-Dock.png)

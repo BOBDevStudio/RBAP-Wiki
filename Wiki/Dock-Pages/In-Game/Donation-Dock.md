@@ -46,4 +46,4 @@ The prices of each of the donation amounts available is meant to be able to help
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} or {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Donation%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Donation-Dock.png)

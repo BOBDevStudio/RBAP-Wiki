@@ -33,4 +33,4 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Color%20Blocks%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Color-Blocks-Dock.png)

@@ -33,4 +33,4 @@ This was created when BOB wanted to make a window with sunlight coming through i
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Showcase%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Showcase-Dock.png)

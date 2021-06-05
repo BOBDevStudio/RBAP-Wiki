@@ -6,7 +6,7 @@ page_subject_info:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Joke-Docks/Default-Roblox-Base-Plate-Dock.png"
+    path: "/Assets/Images/Page-Subject-Info/Docks/Joke/Default-Roblox-Base-Plate-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -25,4 +25,4 @@ page_subject_info:
 
 
 
-![](/RBAP-Wiki/Assets/Images/Docks/Joke%20Docks/Default%20Roblox%20Base%20Plate%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke/Default-Roblox-Base-Plate-Dock.png)

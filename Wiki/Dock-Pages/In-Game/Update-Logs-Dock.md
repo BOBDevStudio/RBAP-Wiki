@@ -33,4 +33,4 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#update-logs-dock)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Update%20Logs%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Update-Logs-Dock.png)

@@ -33,4 +33,4 @@ In this dock you were able to select a color and it would show up on the machine
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Color%20Mixer%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Color-Mixer-Dock.png)

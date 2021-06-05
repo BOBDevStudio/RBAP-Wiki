@@ -33,4 +33,4 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/Bob%20the%20Mob%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Bob-the-Mob-Dock.png)

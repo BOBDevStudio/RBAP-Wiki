@@ -33,4 +33,4 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/NPCs%20Key%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/NPCs-Key-Dock.png)

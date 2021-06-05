@@ -33,4 +33,4 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 
-![](/RBAP-Wiki/Assets/Images/Docks/No%20Standing%20Joke%20Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png)
