@@ -3,7 +3,7 @@ permalink: /Wiki/Docks/Weird-Hills-Dock
 title: "Dock: Weird Hills Dock"
 page_subject_info:
   title: "Weird Hills Dock"
-  color: "#d7d700"
+  color: "#6c584b"
   titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Weird-Hills-Dock.png"
