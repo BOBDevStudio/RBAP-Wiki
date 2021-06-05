@@ -3,7 +3,7 @@ permalink: /Wiki/Docks/Showcase-Dock
 title: "Dock: Showcase Dock"
 page_subject_info:
   title: "Showcase Dock"
-  color: "#d7d700"
+  color: "#fff587"
   titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Showcase-Dock.png"
