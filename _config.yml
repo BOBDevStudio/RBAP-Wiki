@@ -63,6 +63,37 @@ defaults:
       sidebar:
         nav: "Wiki"
   - scope:
+      path: "Wiki/Dock-Pages/*"
+      type: pages
+    values:
+      title: "[Dock Name N/A]"
+      short_description: ""
+      preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
+  - scope:
+      path: "Wiki/Dock-Pages/In-Game/*"
+      type: pages
+    values:
+      page_categories:
+        ingame_dock_page: true
+      sidebar:
+        nav: "Wiki_DocksCategory_InGame"
+  - scope:
+      path: "Wiki/Dock-Pages/Removed/*"
+      type: pages
+    values:
+      page_categories:
+        removed_dock_page: true
+      sidebar:
+        nav: "Wiki_DocksCategory_Removed"
+  - scope:
+      path: "Wiki/Dock-Pages/Joke/*"
+      type: pages
+    values:
+      page_categories:
+        joke_dock_page: true
+      sidebar:
+        nav: "Wiki_DocksCategory_Joke"
+  - scope:
       path: ""
       type: posts
     values:
