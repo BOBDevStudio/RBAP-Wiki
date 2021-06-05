@@ -16,11 +16,11 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Entrances Centered On"
-          value: "{[`1`](/RBAP-Wiki/Wiki/Value-Types#number)}"
+          value: "{`1`}"
         - key: "Dock Types Used"
-          value: "{[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{[`1`](RBAP//RBAP-Wiki/Wiki/Value-Types#number)}"
+          value: "{`1`}"
 ---
 
 BOB was inspired to make this dock after a reply to a post that BOB made on Twitter. [Click here to see what remains of the post and it's replies](https://twitter.com/ThisBeBOB_/status/1114734536397451265).
