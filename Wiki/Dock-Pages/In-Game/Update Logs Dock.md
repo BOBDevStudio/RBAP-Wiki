@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`1`}"
+          value: "`1`"
 ---
 
 This dock houses the game's update logs. Update logs listed on the dock are retrieved from the web. Currently the dock only lists the most recent update log but that may change in the future. Currently the height of each line is set manually making it a very tedious process to do but in the future BOB hopes to have it be set automatically. This dock has always been considered a system dock.

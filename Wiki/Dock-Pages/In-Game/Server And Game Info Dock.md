@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#server-dock)}"
         - key: "Side Placed On"
-          value: "{`1`}"
+          value: "`1`"
 ---
 
 This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). This dock has always been considered a system dock.

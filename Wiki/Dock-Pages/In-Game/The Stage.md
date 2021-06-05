@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`0.1`}"
+          value: "`0.1`"
 ---
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 

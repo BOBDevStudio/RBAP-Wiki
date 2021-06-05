@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`1`}"
+          value: "`1`"
 ---
 
 ###### Read the text on the dock for description of this dock. It's pretty in-depth so didn't feel need to put it here.

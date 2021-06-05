@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`2`}"
+          value: "`2`"
 ---
 
 BOB can never be sure why exactly he made this dock as he doesn't remember why and he can't think of any reason.

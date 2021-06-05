@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`1`}"
+          value: "`1`"
 ---
 
 BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox and he considers that venture to be successful.

@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} or {`1`] = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed)}"
         - key: "Side Placed On"
-          value: "{`2`}"
+          value: "`2`"
 ---
 
 After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) added a little celebration animation after a player purchases any of the donation amounts available. In an upcoming update players who purchase any of the donation amounts will unlock that donation amount's corresponding title as a another way to say thank you for the purchase.

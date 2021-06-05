@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`1`}"
+          value: "`1`"
 ---
 
 This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined.

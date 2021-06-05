@@ -20,7 +20,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)}"
         - key: "Side Placed On"
-          value: "{`2`}"
+          value: "`2`"
 ---
 
 This was created sometime after BOB was thinking about road signs and then realized what the no standing sign says could be used literally in a joke.
