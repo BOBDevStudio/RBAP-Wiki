@@ -3,7 +3,7 @@ permalink: /Wiki/Docks/Bloxy-Statue-Remade-Dock
 title: "Dock: Bloxy Statue Remade Dock"
 page_subject_info:
   title: "Bloxy Statue Remade Dock"
-  color: "#FFFF00"
+  color: "#d7d700"
   titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Bloxy-Statue-Remade-Dock.png"
