@@ -4,7 +4,7 @@ title: "Dock: Construction Barrier Dock"
 page_subject_info:
   title: "Construction Barrier Dock"
   color: "#ff9600"
-  titles_text_color: "#3d4144"
+  titles_text_color: "#000000"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Construction-Barrier-Dock.png"
 #  description: ""

@@ -4,7 +4,7 @@ title: "Dock: Bloxy Statue Remade Dock"
 page_subject_info:
   title: "Bloxy Statue Remade Dock"
   color: "#FFFF00"
-  titles_text_color: "#3d4144"
+  titles_text_color: "#000000"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Bloxy-Statue-Remade-Dock.png"
 #  description: ""

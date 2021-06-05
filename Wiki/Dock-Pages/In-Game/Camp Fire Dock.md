@@ -4,7 +4,7 @@ title: "Dock: Camp Fire Dock"
 page_subject_info:
   title: "Camp Fire Dock"
   color: "#ff7300"
-  titles_text_color: "#3d4144"
+  titles_text_color: "#000000"
   main_image:
     path: "/Assets/Images/Page-Subject-Info/Docks/Camp-Fire-Dock.png"
 #  description: ""
