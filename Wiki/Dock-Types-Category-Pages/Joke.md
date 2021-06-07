@@ -5,7 +5,7 @@ short_description: "List of joke dock types that are used with joke docks in the
 preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 listed_page_category: "joke_docktype_page"
 page_categories:
-  dock_types_category_page: true
+  docktypes_category_page: true
 sidebar:
   nav: "Wiki_DockTypesCategory_Joke"
 ---

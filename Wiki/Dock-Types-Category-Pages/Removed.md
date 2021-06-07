@@ -5,7 +5,7 @@ short_description: "List of dock types that were removed from the game or are un
 preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 listed_page_category: "removed_docktype_page"
 page_categories:
-  dock_types_category_page: true
+  docktypes_category_page: true
 sidebar:
   nav: "Wiki_DockTypesCategory_Removed"
 ---
