@@ -9,7 +9,7 @@ page_subject_info:
     path: "/Assets/Images/Page-Subject-Info/Dock-Types/Seasonally-Closed.png"
 #  description: ""
   data:
-    - title: "Dock Data"
+    - title: "Dock Type Data"
       data:
         - key: "Sign Text"
           value: "`This dock is currently closed for the season`"

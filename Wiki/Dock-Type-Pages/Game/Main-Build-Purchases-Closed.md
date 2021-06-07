@@ -9,7 +9,7 @@ page_subject_info:
     path: "/Assets/Images/Page-Subject-Info/Dock-Types/Main-Build-Purchases-Closed.png"
 #  description: ""
   data:
-    - title: "Dock Data"
+    - title: "Dock Type Data"
       data:
         - key: "Sign Text"
           value: "`This dock is currently closed due to the fact that purchases do not work in this build of the game`"

@@ -9,7 +9,7 @@ page_subject_info:
     path: "/Assets/Images/Page-Subject-Info/Dock-Types/Joke/Weird-Character-Physics-Dock.png"
 #  description: ""
   data:
-    - title: "Dock Data"
+    - title: "Dock Type Data"
       data:
         - key: "Sign Text"
           value: "`Roblox... but your character's physics are rendered by the server`"

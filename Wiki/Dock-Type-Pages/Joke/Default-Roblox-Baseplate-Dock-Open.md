@@ -9,7 +9,7 @@ page_subject_info:
     path: "/Assets/Images/Page-Subject-Info/Dock-Types/Joke/Default-Roblox-Baseplate-Dock-Open.png"
 #  description: ""
   data:
-    - title: "Dock Data"
+    - title: "Dock Type Data"
       data:
         - key: "Sign Text"
           value: "`Welcome to the default Roblox base plate`"

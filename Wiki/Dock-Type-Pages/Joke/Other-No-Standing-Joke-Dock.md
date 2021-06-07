@@ -9,7 +9,7 @@ page_subject_info:
     path: "/Assets/Images/Page-Subject-Info/Dock-Types/Joke/Other-No-Standing-Joke-Dock.png"
 #  description: ""
   data:
-    - title: "Dock Data"
+    - title: "Dock Type Data"
       data:
         - key: "Sign Text"
           value: "`Let's see if you're confident enough to stand on this dock for a <b>huge</b> surprise`"
