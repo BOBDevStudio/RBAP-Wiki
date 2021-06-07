@@ -8,6 +8,7 @@ description: "This is the official wiki for the Roblox game called Random Buildi
 logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 redirect_update_logs_category: true
+color_images_base_path: "/Assets/Images/Colors/"
 name: "BOB Development Studio"
 
 footer:
