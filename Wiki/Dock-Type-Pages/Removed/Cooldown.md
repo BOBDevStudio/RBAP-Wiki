@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Cooldown
 title: "Cooldown"
 page_subject_info:
-  title: "Cooldown"
+  title: "Dock Type: Cooldown"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

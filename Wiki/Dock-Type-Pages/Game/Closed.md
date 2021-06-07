@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Closed
 title: "Closed"
 page_subject_info:
-  title: "Closed"
+  title: "Dock Type: Closed"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

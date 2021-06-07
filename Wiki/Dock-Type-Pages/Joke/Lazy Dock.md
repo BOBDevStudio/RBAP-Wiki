@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Lazy-Dock
 title: "Lazy Dock"
 page_subject_info:
-  title: "Lazy Dock"
+  title: "Dock Type: Dock Type: Lazy Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

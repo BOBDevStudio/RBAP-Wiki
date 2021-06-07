@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/404-Dock-Not-Found
 title: "404 Dock Not Found"
 page_subject_info:
-  title: "404 Dock Not Found"
+  title: "Dock Type: Dock Type: 404 Dock Not Found"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

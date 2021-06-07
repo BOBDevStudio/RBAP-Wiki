@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open
 title: "Default Roblox Baseplate Dock - Open"
 page_subject_info:
-  title: "Default Roblox Baseplate Dock - Open"
+  title: "Dock Type: Dock Type: Default Roblox Baseplate Dock - Open"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

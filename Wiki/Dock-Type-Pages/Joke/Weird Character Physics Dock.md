@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Weird-Character-Physics-Dock
 title: "Weird Character Physics Dock"
 page_subject_info:
-  title: "Weird Character Physics Dock"
+  title: "Dock Type: Weird Character Physics Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
