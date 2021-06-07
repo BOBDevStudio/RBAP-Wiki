@@ -23,6 +23,9 @@ exclude:
   - .github
   - Code of Conduct.md
   - WIP
+  - Dock-Types.md
+  - Dock-Type-Pages
+  - Dock-Types-Category-Pages
 include:
   - _github-no
 
