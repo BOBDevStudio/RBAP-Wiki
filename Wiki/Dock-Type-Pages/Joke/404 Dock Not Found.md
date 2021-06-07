@@ -37,6 +37,8 @@ page_subject_info:
           value: "{%- include color-image path="White.png" alt="" -%}"
 ---
 
+
+
 | Value Name           | Value |
 |-|-|
 | Sign Text            | [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Value-Types#string) |
