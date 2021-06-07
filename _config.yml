@@ -94,6 +94,37 @@ defaults:
       sidebar:
         nav: "Wiki_DocksCategory_Joke"
   - scope:
+      path: "Wiki/Dock-Type-Pages/*"
+      type: pages
+    values:
+      title: "[Dock Type Name N/A]"
+      short_description: ""
+      preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Game/*"
+      type: pages
+    values:
+      page_categories:
+        game_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Game"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Removed/*"
+      type: pages
+    values:
+      page_categories:
+        removed_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Removed"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Joke/*"
+      type: pages
+    values:
+      page_categories:
+        joke_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Joke"
+  - scope:
       path: ""
       type: posts
     values:
