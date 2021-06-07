@@ -1,6 +1,6 @@
 ---
 title: Dock Types
-listed_page_category: "dock_types_category_page"
+listed_page_category: "docktypes_category_page"
 redirect_from:
   - /Wiki/Dock-types
   - /Wiki/dock-Types
