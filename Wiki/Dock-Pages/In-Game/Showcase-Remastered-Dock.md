@@ -32,5 +32,6 @@ This is recreation of the [old window showcase](/RBAP-Wiki/Wiki/Docks/Showcase-D
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+{: .psi-panel-alternative}
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Showcase-Remastered-Dock.png)

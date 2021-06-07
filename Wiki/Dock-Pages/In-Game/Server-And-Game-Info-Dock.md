@@ -32,5 +32,6 @@ This dock shows all sorts of information about the server and the game. It was o
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#server-dock)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+{: .psi-panel-alternative}
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Server-And-Game-Info-Dock.png)

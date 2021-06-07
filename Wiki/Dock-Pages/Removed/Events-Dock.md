@@ -32,5 +32,6 @@ This dock was used to display recent events from many different places. When the
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+{: .psi-panel-alternative}
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Events-Dock.png)
