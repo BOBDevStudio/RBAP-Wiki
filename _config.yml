@@ -71,11 +71,11 @@ defaults:
       short_description: ""
       preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
   - scope:
-      path: "Wiki/Dock-Pages/In-Game/*"
+      path: "Wiki/Dock-Pages/Game/*"
       type: pages
     values:
       page_categories:
-        ingame_dock_page: true
+        game_dock_page: true
       sidebar:
         nav: "Wiki_DocksCategory_InGame"
   - scope:
