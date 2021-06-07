@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`True`"
         - key: "Light 1 Color"
-          value: "{%- include color-image fordocktypelight=true path="White.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="White.png" alt="" -%}'
         - key: "Light 2 Color"
-          value: "{%- include color-image fordocktypelight=true path="White.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="White.png" alt="" -%}'
         - key: "Light 3 Color"
-          value: "{%- include color-image fordocktypelight=true path="White.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="White.png" alt="" -%}'
         - key: "Gate Color 1"
-          value: "{%- include color-image path="Red.png" alt="" -%}"
+          value: '{%- include color-image path="Red.png" alt="" -%}'
         - key: "Gate Color 2"
-          value: "{%- include color-image path="White.png" alt="" -%}"
+          value: '{%- include color-image path="White.png" alt="" -%}'
 ---
 
 | Value Name           | Value |

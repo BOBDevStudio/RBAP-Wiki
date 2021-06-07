@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: "{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
         - key: "Light 2 Color"
-          value: "{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}'
         - key: "Light 3 Color"
-          value: "{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}'
         - key: "Gate Color 1"
-          value: "{%- include color-image path="Red.png" alt="" -%}"
+          value: '{%- include color-image path="Red.png" alt="" -%}'
         - key: "Gate Color 2"
-          value: "{%- include color-image path="White.png" alt="" -%}"
+          value: '{%- include color-image path="White.png" alt="" -%}'
 ---
 
 This is the generic under maintenance dock type. This dock type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.

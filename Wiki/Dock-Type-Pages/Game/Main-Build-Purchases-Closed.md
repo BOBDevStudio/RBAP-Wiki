@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: "{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
         - key: "Light 2 Color"
-          value: "{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}'
         - key: "Light 3 Color"
-          value: "{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}'
         - key: "Gate Color 1"
-          value: "{%- include color-image path="Red.png" alt="" -%}"
+          value: '{%- include color-image path="Red.png" alt="" -%}'
         - key: "Gate Color 2"
-          value: "{%- include color-image path="White.png" alt="" -%}"
+          value: '{%- include color-image path="White.png" alt="" -%}'
 ---
 
 This dock type's purpose is to close off a dock that has purchases. The reason for this is because many of the things you can purchase in game (or actually all of them at the time of writing) are uploaded to the main build of the game instead of other special builds of the game like pre-update build. Roblox *theoretically* (or at least logically) allows purchases to be made if the asset behind the purchase is owned by the same thing as the game but in reality BOB has found this functionality to be broken or nonexistent.

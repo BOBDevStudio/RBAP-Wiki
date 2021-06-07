@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: "{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
         - key: "Light 2 Color"
-          value: "{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}'
         - key: "Light 3 Color"
-          value: "{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}'
         - key: "Gate Color 1"
-          value: "{%- include color-image path="Red.png" alt="" -%}"
+          value: '{%- include color-image path="Red.png" alt="" -%}'
         - key: "Gate Color 2"
-          value: "{%- include color-image path="White.png" alt="" -%}"
+          value: '{%- include color-image path="White.png" alt="" -%}'
 ---
 
 This is the generic closed dock type. It is pretty self-explanatory why it is used. Also here's a fun fact before the game loads in the docks all docks entrances are set to this dock type.

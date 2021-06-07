@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: "{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
         - key: "Light 2 Color"
-          value: "{%- include color-image fordocktypelight=true path="Blue.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Blue.png" alt="" -%}'
         - key: "Light 3 Color"
-          value: "{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}"
+          value: '{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}'
         - key: "Gate Color 1"
-          value: "{%- include color-image path="Red.png" alt="" -%}"
+          value: '{%- include color-image path="Red.png" alt="" -%}'
         - key: "Gate Color 2"
-          value: "{%- include color-image path="White.png" alt="" -%}"
+          value: '{%- include color-image path="White.png" alt="" -%}'
 ---
 
 This dock type was originally added for the mine dock but the idea of using it there was later scrapped before the update that it was in came out. So this dock type was never actually used. It still has a possibility of being used but is unlikely.
