@@ -16,13 +16,13 @@ Wiki:
         url: "/Wiki/Docks/Category/In-Game"
       - title: "Removed"
         url: "/Wiki/Docks/Category/Removed"
-  - title: "Docks Types"
-    url: "/Wiki/Dock-Types"
-    children:
-      - title: "In-Game"
-        url: "/Wiki/Dock-Types/Category/In-Game"
-      - title: "Removed/Unused"
-        url: "/Wiki/Dock-Types/Category/Removed"
+#  - title: "Docks Types"
+#    url: "/Wiki/Dock-Types"
+#    children:
+#      - title: "In-Game"
+#        url: "/Wiki/Dock-Types/Category/In-Game"
+#      - title: "Removed/Unused"
+#        url: "/Wiki/Dock-Types/Category/Removed"
   - title: "Walkway Transportation"
     url: "/Wiki/Walkway-Transportation"
     children:
