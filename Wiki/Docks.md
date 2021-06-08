@@ -1,6 +1,8 @@
 ---
 title: Docks
 listed_page_category: "docks_category_page"
+page_categories:
+  dock_page: true
 redirect_from:
   - /Wiki/docks
   - /wiki/Docks
