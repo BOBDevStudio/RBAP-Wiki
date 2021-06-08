@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`True`"
         - key: "Light 1 Color"
-          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
+          value: ""
         - key: "Light 2 Color"
-          value: '{%- include color-image fordocktypelight=true path="Yellow.png" alt="" -%}'
+          value: ""
         - key: "Light 3 Color"
-          value: '{%- include color-image fordocktypelight=true path="Purple.png" alt="" -%}'
+          value: ""
         - key: "Gate Color 1"
-          value: '{%- include color-image path="Red.png" alt="" -%}'
+          value: ""
         - key: "Gate Color 2"
-          value: '{%- include color-image path="White.png" alt="" -%}'
+          value: ""
 ---
 
 Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock type as previous ones were removed in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system). Some of the limitations still have yet to be lifted as of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) the most notable being the dock placing system.
@@ -53,5 +53,6 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Purple.png" alt=""></a> |
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+{%- comment -%}{%- comment -%}{: .psi-panel-alternative}{%- endcomment -%}{%- endcomment -%}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Hidden%20Dock.png" alt="">

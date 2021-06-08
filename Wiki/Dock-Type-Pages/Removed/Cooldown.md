@@ -26,15 +26,15 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: '{%- include color-image fordocktypelight=true path="Red.png" alt="" -%}'
+          value: ""
         - key: "Light 2 Color"
-          value: '{%- include color-image fordocktypelight=true path="Blue.png" alt="" -%}'
+          value: ""
         - key: "Light 3 Color"
-          value: '{%- include color-image fordocktypelight=true path="Green.png" alt="" -%}'
+          value: ""
         - key: "Gate Color 1"
-          value: '{%- include color-image path="Red.png" alt="" -%}'
+          value: ""
         - key: "Gate Color 2"
-          value: '{%- include color-image path="White.png" alt="" -%}'
+          value: ""
 ---
 
 This dock type was originally added for the mine dock but the idea of using it there was later scrapped before the update that it was in came out. So this dock type was never actually used. It still has a possibility of being used but is unlikely.
@@ -53,5 +53,6 @@ This dock type was originally added for the mine dock but the idea of using it t
 | Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Green.png" alt=""></a> |
 | Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+{%- comment -%}{%- comment -%}{: .psi-panel-alternative}{%- endcomment -%}{%- endcomment -%}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Cooldown.png" alt="">
