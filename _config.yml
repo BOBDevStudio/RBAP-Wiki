@@ -11,6 +11,17 @@ redirect_update_logs_category: true
 color_images_base_path: "/Assets/Images/Colors/"
 name: "BOB Development Studio"
 
+# In order for a page category to be listed in a page's title there must be a homepage for that category and a name defined in the table below.
+page_category_names:
+  docks_category_page: "Docks Category Pages"
+  game_dock_page: "In-Game Docks"
+  removed_dock_page: "Removed Docks"
+  joke_dock_page: "Joke Docks"
+  docktypes_category_page: "Dock Types Category Pages"
+  game_docktype_page: "In-Game Dock Types"
+  removed_docktype_page: "Removed Dock Types"
+  joke_docktype_page: "Joke Dock Types"
+
 footer:
   links:
     - label: "License"
