@@ -66,6 +66,7 @@ defaults:
       listed: true
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
       update_log_listed: false
+      preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 #  - scope:
 #      path: ""
 #      type: pages
@@ -80,9 +81,8 @@ defaults:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
     values:
-      preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       page_categories:
-        dock_page: true
+#        dock_page: true
         docks_category_page: true
   - scope:
       path: "Wiki/Dock-Pages/*"
@@ -90,7 +90,6 @@ defaults:
     values:
       title: "[Dock Name N/A]"
       short_description: ""
-      preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
       page_categories:
         dock_page: true
   - scope:
@@ -121,9 +120,8 @@ defaults:
       path: "Wiki/Dock-Types-Category-Pages/*"
       type: pages
     values:
-      preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       page_categories:
-        docktype_page: true
+#        docktype_page: true
         docktypes_category_page: true
   - scope:
       path: "Wiki/Dock-Type-Pages/*"
@@ -131,7 +129,6 @@ defaults:
     values:
       title: "[Dock Type Name N/A]"
       short_description: ""
-      preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
       page_categories:
         docktype_page: true
   - scope:

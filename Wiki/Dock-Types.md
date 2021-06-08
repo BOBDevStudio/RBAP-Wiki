@@ -1,9 +1,8 @@
 ---
 title: Dock Types
 listed_page_category: "docktypes_category_page"
-preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
-page_categories:
-  docktype_page: true
+#page_categories:
+#  docktype_page: true
 redirect_from:
   - /Wiki/Dock-types
   - /Wiki/dock-Types
