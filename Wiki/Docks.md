@@ -1,6 +1,7 @@
 ---
 title: Docks
 listed_page_category: "docks_category_page"
+preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
 page_categories:
   dock_page: true
 redirect_from:
