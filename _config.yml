@@ -8,6 +8,7 @@ description: "This is the official wiki for the Roblox game called Random Buildi
 logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 redirect_update_logs_category: true
+color_images_base_path: "/Assets/Images/Colors/"
 name: "BOB Development Studio"
 
 footer:
@@ -22,9 +23,6 @@ exclude:
   - .github
   - Code of Conduct.md
   - WIP
-  - Wiki/Dock-Types.md
-  - Wiki/Dock-Type-Pages
-  - Wiki/Dock-Types-Category-Pages
 include:
   - _github-no
 
@@ -79,7 +77,7 @@ defaults:
       page_categories:
         game_dock_page: true
       sidebar:
-        nav: "Wiki_DocksCategory_Game"
+        nav: "Wiki_DocksCategory_InGame"
   - scope:
       path: "Wiki/Dock-Pages/Removed/*"
       type: pages
@@ -96,6 +94,37 @@ defaults:
         joke_dock_page: true
       sidebar:
         nav: "Wiki_DocksCategory_Joke"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/*"
+      type: pages
+    values:
+      title: "[Dock Type Name N/A]"
+      short_description: ""
+      preview_image_path: "/Assets/Images/Page-Subject-Info/Unset.png"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Game/*"
+      type: pages
+    values:
+      page_categories:
+        game_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Game"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Removed/*"
+      type: pages
+    values:
+      page_categories:
+        removed_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Removed"
+  - scope:
+      path: "Wiki/Dock-Type-Pages/Joke/*"
+      type: pages
+    values:
+      page_categories:
+        joke_docktype_page: true
+      sidebar:
+        nav: "Wiki_DockTypesCategory_Joke"
   - scope:
       path: ""
       type: posts
