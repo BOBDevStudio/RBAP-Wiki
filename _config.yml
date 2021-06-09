@@ -99,7 +99,7 @@ defaults:
       page_categories:
         game_dock_page: true
       sidebar:
-        nav: "Wiki_DocksCategory_InGame"
+        nav: "Wiki_DocksCategory_Game"
   - scope:
       path: "Wiki/Dock-Pages/Removed/*"
       type: pages
