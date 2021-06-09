@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Under-Maintenance
 title: "Under Maintenance"
 page_subject_info:
-  title: "Dock Type: Under Maintenance"
+  title: "Under Maintenance"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

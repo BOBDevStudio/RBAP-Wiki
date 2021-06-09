@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed
 title: "Default Roblox Baseplate Dock - Closed"
 page_subject_info:
-  title: "Dock Type: Dock Type: Default Roblox Baseplate Dock - Closed"
+  title: "Default Roblox Baseplate Dock - Closed"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

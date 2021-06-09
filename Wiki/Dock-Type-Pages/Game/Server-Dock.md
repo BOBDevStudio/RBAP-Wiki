@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Server-Dock
 title: "Server Dock"
 page_subject_info:
-  title: "Dock Type: Server Dock"
+  title: "Server Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

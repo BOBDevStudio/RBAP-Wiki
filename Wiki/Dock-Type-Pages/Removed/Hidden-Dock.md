@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Hidden Dock
 title: "Hidden Dock"
 page_subject_info:
-  title: "Dock Type: Hidden Dock"
+  title: "Hidden Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

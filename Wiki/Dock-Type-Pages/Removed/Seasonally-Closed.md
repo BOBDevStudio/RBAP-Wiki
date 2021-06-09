@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Seasonally-Closed
 title: "Seasonally Closed"
 page_subject_info:
-  title: "Dock Type: Seasonally Closed"
+  title: "Seasonally Closed"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:

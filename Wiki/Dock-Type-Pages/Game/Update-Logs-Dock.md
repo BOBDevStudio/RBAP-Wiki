@@ -2,7 +2,7 @@
 permalink: /Wiki/Dock-Types/Update-Logs-Dock
 title: "Update Logs Dock"
 page_subject_info:
-  title: "Dock Type: Update Logs Dock"
+  title: "Update Logs Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
