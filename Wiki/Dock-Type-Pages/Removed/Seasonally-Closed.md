@@ -55,4 +55,4 @@ This dock type was used in the winter of 2019 and 2020 due to the snow going thr
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Seasonally%20Closed.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Seasonally-Closed.png" alt="">

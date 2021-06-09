@@ -55,4 +55,4 @@ page_subject_info:
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke%20Dock%20Types/Other%20No%20Standing%20Joke%20Dock.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Other-No-Standing-Joke-Dock.png" alt="">

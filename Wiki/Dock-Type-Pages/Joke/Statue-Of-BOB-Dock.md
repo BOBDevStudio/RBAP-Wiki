@@ -55,4 +55,4 @@ Now this dock type is a special one. Every part of a dock entrance that this doc
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke%20Dock%20Types/Statue%20Of%20BOB%20Dock.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Statue-Of-BOB-Dock.png" alt="">

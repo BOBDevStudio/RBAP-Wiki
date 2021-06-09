@@ -57,4 +57,4 @@ This dock type can never be found inside of the main build but can be found in o
 | Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main%20Build%20Purchases%20Closed.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main-Build-Purchases-Closed.png" alt="">
