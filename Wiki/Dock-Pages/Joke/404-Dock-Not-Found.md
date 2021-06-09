@@ -1,12 +1,12 @@
 ---
-permalink: /Wiki/Docks/Other-No-Standing-Joke-Dock
-title: "Dock: Other No Standing Joke Dock"
+permalink: /Wiki/Docks/404-Dock-Not-Found
+title: "Dock: 404 Dock Not Found"
 page_subject_info:
-  title: "Other No Standing Joke Dock"
+  title: "404 Dock Not Found"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Joke/Other-No-Standing-Joke-Dock.png"
+    path: "/Assets/Images/Page-Subject-Info/Docks/Joke/404-Dock-Not-Found-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Centered On"
           value: "{`1`}"
         - key: "Dock Types Used"
-          value: "{`1` = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)}"
+          value: "{`1` = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)}"
         - key: "Side Placed On"
           value: "`2`"
 ---
@@ -30,8 +30,8 @@ page_subject_info:
 | Reserved Dock Entrance |  |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)} |
+| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Joke/Other-No-Standing-Joke-Dock.png)
+![](/RBAP-Wiki/Assets/Images/Docks/Joke/404-Dock-Not-Found-Dock.png)

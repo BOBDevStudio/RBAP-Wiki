@@ -12,17 +12,26 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "*Pending...*"
+          value: "*None*"
         - key: "Entrances Used"
-          value: "*Pending...*"
+          value: "`1`"
         - key: "Entrances Centered On"
-          value: "*Pending...*"
+          value: "{`1`}"
         - key: "Dock Types Used"
-          value: "*Pending...*"
+          value: "{`1` = [`Lazy Dock`](/RBAP-Wiki/Wiki/Dock-Types/Lazy-Dock)}"
         - key: "Side Placed On"
-          value: "*Pending...*"
+          value: "`2`"
 ---
 
 
+
+| Value Name             | Value |
+|-|-|
+| Reserved Dock Entrance |  |
+| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Lazy Dock`](/RBAP-Wiki/Wiki/Dock-Types/Lazy-Dock)} |
+| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+{: .psi-panel-alternative}
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Joke/Lazy-Dock.png)
