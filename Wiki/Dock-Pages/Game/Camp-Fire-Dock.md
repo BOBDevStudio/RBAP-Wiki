@@ -6,7 +6,7 @@ page_subject_info:
   color: "#ff7300"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Camp-Fire-Dock.png"
+    path: "/Assets/Images/Docks/Camp-Fire-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

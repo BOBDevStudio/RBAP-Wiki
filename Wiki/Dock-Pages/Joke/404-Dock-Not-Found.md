@@ -6,7 +6,7 @@ page_subject_info:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Joke/404-Dock-Not-Found.png"
+    path: "/Assets/Images/Docks/Joke/404-Dock-Not-Found.png"
 #  description: ""
   data:
     - title: "Dock Data"

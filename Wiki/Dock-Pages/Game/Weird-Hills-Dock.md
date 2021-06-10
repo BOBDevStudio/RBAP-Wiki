@@ -6,7 +6,7 @@ page_subject_info:
   color: "#6c584b"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Weird-Hills-Dock.png"
+    path: "/Assets/Images/Docks/Weird-Hills-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

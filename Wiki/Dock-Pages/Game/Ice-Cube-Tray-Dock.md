@@ -6,7 +6,7 @@ page_subject_info:
   color: "#64C8FF"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Ice-Cube-Tray-Dock.png"
+    path: "/Assets/Images/Docks/Ice-Cube-Tray-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

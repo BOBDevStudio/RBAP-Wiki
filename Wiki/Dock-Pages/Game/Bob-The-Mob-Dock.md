@@ -6,7 +6,7 @@ page_subject_info:
   color: "#00ffc8"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Bob-the-Mob-Dock.png"
+    path: "/Assets/Images/Docks/Bob-the-Mob-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

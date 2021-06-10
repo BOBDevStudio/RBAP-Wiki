@@ -6,7 +6,7 @@ page_subject_info:
   color: "#d7d700"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Bloxy-Statue-Remade-Dock.png"
+    path: "/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

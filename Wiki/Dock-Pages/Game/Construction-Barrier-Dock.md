@@ -6,7 +6,7 @@ page_subject_info:
   color: "#ff9600"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Construction-Barrier-Dock.png"
+    path: "/Assets/Images/Docks/Construction-Barrier-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

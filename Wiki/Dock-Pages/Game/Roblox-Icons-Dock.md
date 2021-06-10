@@ -6,7 +6,7 @@ page_subject_info:
   color: "#d31e0a"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Roblox-Icons-Dock.png"
+    path: "/Assets/Images/Docks/Roblox-Icons-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

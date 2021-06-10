@@ -6,7 +6,7 @@ page_subject_info:
   color: "#fff587d9"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Showcase-Dock.png"
+    path: "/Assets/Images/Docks/Showcase-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

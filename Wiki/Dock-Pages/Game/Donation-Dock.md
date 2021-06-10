@@ -6,7 +6,7 @@ page_subject_info:
   color: "#96fa96"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Donation-Dock.png"
+    path: "/Assets/Images/Docks/Donation-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"

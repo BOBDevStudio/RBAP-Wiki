@@ -6,7 +6,7 @@ page_subject_info:
   color: "#FF4B4B"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Docks/Lighthouse-Dock.png"
+    path: "/Assets/Images/Docks/Lighthouse-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
