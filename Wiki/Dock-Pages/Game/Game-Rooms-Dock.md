@@ -1,12 +1,13 @@
 ---
 permalink: /Wiki/Docks/Game-Rooms-Dock
 title: "Dock: Game Rooms Dock"
+page_wip: true
 page_subject_info:
   title: "Game Rooms Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Page-Subject-Info/Unset.png"
+    path: "/Assets/Images/Docks/Game-Rooms-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -33,3 +34,5 @@ page_subject_info:
 | Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} |
 | Side Placed On         | [`0.2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
+
+![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Dock.png)
