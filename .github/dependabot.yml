@@ -8,7 +8,8 @@ updates:
     time: "12:00"
     timezone: "America/Los_Angeles"
   open-pull-requests-limit: 10
-  pull-request-branch-name: "-"
+  pull-request-branch-name:
+    separator: "-"
   rebase-strategy: "disabled"
   labels:
   - "Dependabot"
