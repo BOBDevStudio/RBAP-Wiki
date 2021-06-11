@@ -1,5 +1,11 @@
+# Default:
 * @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+
+# Specific default overwrites:
 /.github/ @TheOneBOB
 /.github/ISSUE_TEMPLATE/ @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
 /License @TheOneBOB
 /Code\ of\ Conduct.md @TheOneBOB
+
+# To make sure this file is protected:
+/.github/CODEOWNERS @TheOneBOB
