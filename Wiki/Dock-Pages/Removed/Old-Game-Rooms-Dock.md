@@ -26,7 +26,7 @@ page_subject_info:
 
 This is the original game rooms dock. This dock was created to give the player something to do in the game. Although not widely credited for the help, BOB had play testing help from Unbitterness before its release. Before its removal it had remained largely unchanged since it was added. The [replacement for this dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) is in the same location as this dock used to be.
 
-This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) as (in that same update) the replacement for the dock had finally been enabled and made playable. The reason for replacement and then removal is pretty simple: The back end of the dock was not really up-to-date with BOB's current way of coding and was/is quite dated and pretty inefficient. Before it was removed BOB made sure that the [replacement dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had a good replacement for all the features of this dock so no one would feel like major features were lost.
+This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) as (in that same update) the [replacement for the dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had finally been enabled and made playable. The reason for replacement and then removal is pretty simple: The backend of the dock was/is not really up-to-date with BOB's current way of coding and was/is quite dated and pretty inefficient. Before it was removed BOB made sure that the [replacement dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had a good replacement for all the features of this dock so no one would feel like major features were lost.
 
 | Value Name             | Value |
 |-|-|
