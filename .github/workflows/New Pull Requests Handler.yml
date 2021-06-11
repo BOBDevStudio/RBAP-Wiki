@@ -23,3 +23,18 @@ jobs:
     - name: Assign Unbitterness
       run: |
         curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""assignees\"": [\""Valexiwasgone\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/assignees"
+  MaintainDependabotPost:
+    name: Maintain pull request by Dependabot
+    runs-on: windows-latest
+    if: ${{ github.event.sender.login == 'dependabot[bot]' && github.event.sender.type == 'Bot' }}
+    timeout-minutes: 60
+    steps:
+    - name: Lock
+      run: |
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
+    - name: Assign BOB
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""assignees\"": [\""TheOneBOB\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/assignees"
+    - name: Make BOB a reviewer
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""reviewers\"": [\""TheOneBOB\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/pulls/${{ github.event.pull_request.number }}/requested_reviewers"
