@@ -1,4 +1,4 @@
-name: Label and lock merged pull requests
+name: Label + lock merged pull requests
 
 on:
   pull_request_target:
@@ -6,9 +6,10 @@ on:
 
 jobs:
   Run:
-    name: Run Workflow
+    name: Run
     runs-on: windows-latest
     if: ${{ github.event.pull_request.merged == true && github.event.sender.login == 'TheOneBOB' || github.event.sender.login == 'BOBDevStudioBot' || github.event.sender.login == 'Valexiwasgone' }}
+    timeout-minutes: 60
     steps:
     - name: Lock
       run: |
