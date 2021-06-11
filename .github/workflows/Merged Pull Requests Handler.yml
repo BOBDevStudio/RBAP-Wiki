@@ -15,4 +15,4 @@ jobs:
         curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""lock_reason\"": \""resolved\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
     - name: Add labels
       run: |
-        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/Testing/issues/${{ github.event.pull_request.number }}/labels"
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
