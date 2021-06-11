@@ -1,0 +1,19 @@
+name: Approve pull request changes
+
+on:
+  pull_request_target:
+    types: [labeled]
+
+jobs:
+  Run:
+    name: Run
+    runs-on: windows-latest
+    if: ${{ github.event.label.name == 'Bot Approve' && github.event.sender.login == 'TheOneBOB' }}
+    timeout-minutes: 60
+    steps:
+    - name: Approve changes
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""commit_id\"": \""${{ github.event.pull_request.head.sha }}\"", \""event\"": \""APPROVE\"" }" --url "https://api.github.com/repos/BOBDevStudio/Testing/pulls/${{ github.event.pull_request.number }}/reviews"
+    - name: Remove trigger label
+      run: |
+        curl -X DELETE -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" --url "https://api.github.com/repos/BOBDevStudio/Testing/issues/${{ github.event.pull_request.number }}/labels/Bot%20Approve"
