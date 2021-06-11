@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Approve changes
       run: |
-        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""commit_id\"": \""${{ github.event.pull_request.head.sha }}\"", \""event\"": \""APPROVE\"" }" --url "https://api.github.com/repos/BOBDevStudio/Testing/pulls/${{ github.event.pull_request.number }}/reviews"
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""commit_id\"": \""${{ github.event.pull_request.head.sha }}\"", \""event\"": \""APPROVE\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/pulls/${{ github.event.pull_request.number }}/reviews"
     - name: Remove trigger label
       run: |
-        curl -X DELETE -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" --url "https://api.github.com/repos/BOBDevStudio/Testing/issues/${{ github.event.pull_request.number }}/labels/Bot%20Approve"
+        curl -X DELETE -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels/Bot%20Approve"
