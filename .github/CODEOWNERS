@@ -1,7 +1,13 @@
 # Default:
-* @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+* @BOBDevStudio/RBAP-Wiki-Reviewers
 
 # Specific default overwrites:
+/Assets/Images @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+/_posts/Update-Logs @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+Readme.md @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+/_data/authors.yml @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+/_github-no/L\ Page.md @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
+/_config.yml @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
 /.github/ @TheOneBOB
 /.github/ISSUE_TEMPLATE/ @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
 /License @TheOneBOB
