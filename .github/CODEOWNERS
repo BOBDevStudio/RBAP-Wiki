@@ -1,17 +1,12 @@
 # Default:
-* @BOBDevStudio/RBAP-Wiki-Reviewers
+* @BOBDevStudio/BOB
 
 # Specific default overwrites:
-/Assets/Images @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/_posts/Update-Logs @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-Readme.md @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/_data/authors.yml @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/_github-no/L\ Page.md @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/_config.yml @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/.github/ @TheOneBOB
-/.github/ISSUE_TEMPLATE/ @TheOneBOB @BOBDevStudio/RBAP-Wiki-Reviewers
-/License @TheOneBOB
-/Code\ of\ Conduct.md @TheOneBOB
+#/Gemfile @BOBDevStudio/BOB
+#/.github/ @BOBDevStudio/BOB
+#/.github/ISSUE_TEMPLATE/ @BOBDevStudio/BOB
+#/License @BOBDevStudio/BOB
+#/Code\ of\ Conduct.md @BOBDevStudio/BOB
 
 # To make sure this file is protected:
-/.github/CODEOWNERS @TheOneBOB
+/.github/CODEOWNERS @BOBDevStudio/BOB
