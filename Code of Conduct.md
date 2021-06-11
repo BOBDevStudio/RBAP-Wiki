@@ -2,8 +2,8 @@
 
 * Have common sense when posting anything.
 * You can post constructive criticism but at least double check that it is actually constructive criticism before you post it.
-* Any rules set in the [Contributing](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/.github/Contributing.md) file also apply here. If a rule is mentioned twice in both files take the version in **this** file as the most accurate unless stated otherwise.
-* All rules listed here and in the [Contributing](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/.github/Contributing.md) file also to the [BOBDevStudio/RBAP-Wiki-Comments](https://github.com/BOBDevStudio/RBAP-Wiki-Comments) repository.
+* Any rules set in the [Contributing](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/.github/Contributing.md) file also apply here. If a rule is mentioned in both files take the version in **this** file as the most accurate unless stated otherwise.
+* All rules listed here and in the [Contributing](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/.github/Contributing.md) file also apply to the [BOBDevStudio/RBAP-Wiki-Comments](https://github.com/BOBDevStudio/RBAP-Wiki-Comments) repository.
 
 ## Pull requests usage rules
 
