@@ -11,9 +11,28 @@ jobs:
     if: ${{ github.event.sender.login == 'TheOneBOB' }}
     timeout-minutes: 60
     steps:
+    - name: Lock
+      if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') != 'true' }}
+      run: |
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""lock_reason\"": \""resolved\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
+    - name: Add the RBAP Updates milestone
+      if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') == 'true' }}
+      run: |
+        curl -X PATCH -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""milestone\"": 1 }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}"
     - name: Assign BOB
       run: |
         curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""assignees\"": [\""TheOneBOB\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/assignees"
+    - name: Add usual labels
+      if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') != 'true' }}
+      run: |
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""For Personal To Do List\"", \""Locked\""]}" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
+    - name: Add the BOB Pull Requests milestone
+      if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') != 'true' }}
+      run: |
+        curl -X PATCH -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""milestone\"": 2 }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}"
+    - name: Approve changes
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""commit_id\"": \""${{ github.event.pull_request.head.sha }}\"", \""event\"": \""APPROVE\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/pulls/${{ github.event.pull_request.number }}/reviews"
   MaintainUnbitternessPost:
     name: Maintain pull request by Unbitterness
     runs-on: windows-latest
