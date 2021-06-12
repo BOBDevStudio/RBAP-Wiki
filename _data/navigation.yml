@@ -50,7 +50,7 @@ Wiki:
       - title: "RBAP Version"
         url: "/Wiki/Value-Types#rbap-version"
 
-Wiki_DocksCategory_InGame:
+Wiki_DocksCategory_Game:
   - title: "Home"
     url: "/Wiki"
   - title: "Docks"
@@ -222,7 +222,7 @@ Wiki_DocksCategory_Joke:
       - title: "RBAP Version"
         url: "/Wiki/Value-Types#rbap-version"
 
-Wiki_DockTypesCategory_InGame:
+Wiki_DockTypesCategory_Game:
   - title: "Home"
     url: "/Wiki"
   - title: "Docks"

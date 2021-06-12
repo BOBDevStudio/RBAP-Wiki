@@ -1,1 +1,12 @@
-* @TheOneBOB
+# Default:
+* @BOBDevStudio/BOB
+
+# Specific default overwrites:
+#/Gemfile @BOBDevStudio/BOB
+#/.github/ @BOBDevStudio/BOB
+#/.github/ISSUE_TEMPLATE/ @BOBDevStudio/BOB
+#/License @BOBDevStudio/BOB
+#/Code\ of\ Conduct.md @BOBDevStudio/BOB
+
+# To make sure this file is protected:
+/.github/CODEOWNERS @BOBDevStudio/BOB

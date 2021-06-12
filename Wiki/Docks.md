@@ -1,27 +1,8 @@
 ---
 title: Docks
-feature_row:
-  - image_path: "Assets/Images/Page-Previews/Unset.png"
-    alt: "In-Game Category Page"
-    title: "In-Game Category"
-    excerpt: "List of docks in the game"
-    url: "/Wiki/Docks/Category/In-Game"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
-  - image_path: "Assets/Images/Page-Previews/Unset.png"
-    alt: "Removed Category Page"
-    title: "Removed Category"
-    excerpt: "List of docks that were removed from the game"
-    url: "/Wiki/Docks/Category/Removed"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
-  - image_path: "Assets/Images/Page-Previews/Unset.png"
-    alt: "Joke Category Page"
-    title: "Joke Category"
-    excerpt: "List of joke docks in the game"
-    url: "/Wiki/Docks/Category/Joke"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
+listed_page_category: "docks_category_page"
+#page_categories:
+#  dock_page: true
 redirect_from:
   - /Wiki/docks
   - /wiki/Docks
@@ -61,5 +42,3 @@ In the current version of the Random Buildings And Parts most docks are automati
 | Side Placed On         | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                  | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
 
 ## Here's the list of categories of docks:
-
-{% include feature_row %}
