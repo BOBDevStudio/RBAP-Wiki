@@ -23,7 +23,7 @@ page_subject_info:
           value: "`1`"
 ---
 
-This dock houses the game's update logs. Update logs listed on the dock are retrieved from the web. Currently the dock only lists the most recent update log but that may change in the future. Currently the height of each line is set manually making it a very tedious process to do but in the future BOB hopes to have it be set automatically. This dock has always been considered a system dock.
+This dock houses the game's update logs. Update logs listed on the dock are retrieved from the web. Currently the dock only lists the most recent update log but that may change in the future. This dock has always been considered a system dock.
 
 | Value Name             | Value |
 |-|-|
