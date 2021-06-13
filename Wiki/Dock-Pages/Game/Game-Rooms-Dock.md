@@ -39,7 +39,7 @@ page_subject_info:
 
 ## Four Corners
 
-
+Four Corners is a classic game where there are four corners and only one of them will (in this case) be sunk. The four colors to choose from are red, green, purple, and blue. As of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) this game only has one round due to how the dock was originally envisioned. Fun fact: The color to be eliminated is chosen right as the central part starts to sink although it is not presented to the player that quickly.
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Four-Corners.png)
 
