@@ -51,6 +51,6 @@ This is basically the exact same thing as the Four Corners game but of course on
 
 ## Game Says
 
-Unlike the other two games currently available this one is **not** a remake of a previous game from the old game rooms dock. Rather it is a replacement for the game from the old game rooms dock called Find The Right Color and (for the time being at least) the harder variant of it called Find The Right Color: Harder And Harder.
+This game is basically the equivalent to a commonly played game called Simon Says. This game currently has 10 rounds but is soon to be lowered down to 5 rounds in the upcoming update [`V4.1`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). Unlike the other two games currently available this one is **not** a remake of a previous game from the old game rooms dock. Rather it is a replacement for the game from the old game rooms dock called Find The Right Color and (for the time being at least) the harder variant of it called Find The Right Color: Harder And Harder.
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Game-Says.png)
