@@ -39,18 +39,18 @@ page_subject_info:
 
 ## Four Corners
 
-Four Corners is a classic game where there are four corners and only one of them will (in this case) be sunk. The four colors to choose from are red, green, purple, and blue. As of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) this game only has one round due to how the dock was originally envisioned. Fun fact: The color to be eliminated is chosen right as the central part starts to sink although it is not presented to the player that quickly.
+Four Corners is a classic game where there are four corners and only one of them will (in this case) be sunk. The four colors to choose from are red, green, purple, and blue. As of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) this game only has one round due to how the dock was originally envisioned. This game was made to be a remake of the Four Corners game of the old game rooms dock. Fun fact: The color to be eliminated is chosen right as the central part starts to sink although it is not presented to the player that quickly.
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Four-Corners.png)
 
 ## Four Corners: Reversed
 
-This is basically the exact same thing as the Four Corners game but of course only one color is safe instead of three being safe.
+This is basically the exact same thing as the Four Corners game but of course only one color is safe instead of three being safe. Like the (normal) Four Corners, this game was made to be a remake of the Four Corners: Reversed game of the old game rooms dock.
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Four-Corners-Reversed.png)
 
 ## Game Says
 
-
+Unlike the other two games currently available this one is **not** a remake of a previous game from the old game rooms dock. Rather it is a replacement for the game from the old game rooms dock called Find The Right Color and (for the time being at least) the harder variant of it called Find The Right Color: Harder And Harder.
 
 ![](/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Game-Says.png)
