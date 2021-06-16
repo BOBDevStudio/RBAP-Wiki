@@ -205,17 +205,15 @@ safe: true
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-#  - jekyll-redirect-from
+  - jekyll-redirect-from
   - jekyll-gist
 #  - jekyll-sitemap
-  - bob-jekyll-redirect-from-fork
 whitelist:
   - jekyll-feed
   - jekyll-include-cache
-#  - jekyll-redirect-from
+  - jekyll-redirect-from
   - jekyll-gist
 #  - jekyll-sitemap
-  - bob-jekyll-redirect-from-fork
 
 # --//Comment settings:
 
