@@ -3,8 +3,7 @@ updates:
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
-    interval: "weekly"
-    day: "wednesday"
+    interval: "daily"
     time: "12:00"
     timezone: "America/Los_Angeles"
   open-pull-requests-limit: 10
@@ -13,3 +12,17 @@ updates:
   rebase-strategy: "disabled"
   labels:
   - "Dependabot"
+  - "Dependabot: Actions"
+- package-ecosystem: "bundler"
+  directory: "/"
+  schedule:
+    interval: "daily"
+    time: "12:00"
+    timezone: "America/Los_Angeles"
+  open-pull-requests-limit: 10
+  pull-request-branch-name:
+    separator: "-"
+  rebase-strategy: "disabled"
+  labels:
+  - "Dependabot"
+  - "Dependabot: Ruby"
