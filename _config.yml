@@ -9,6 +9,7 @@ logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
 redirect_update_logs_category: true
 color_images_base_path: "/Assets/Images/Colors/"
+color_images_file_type: "png"
 name: "BOB Development Studio"
 
 # In order for a page category to be listed in a page's title there must be a homepage for that category and a name defined in the table below.
