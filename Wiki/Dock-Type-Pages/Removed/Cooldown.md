@@ -26,33 +26,43 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Light 2 Color"
-          value: ""
+          color_image:
+            name: "Blue"
+            dock_type_color: true
         - key: "Light 3 Color"
-          value: ""
+          color_image:
+            name: "Green"
+            dock_type_color: true
         - key: "Gate Color 1"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Gate Color 2"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
 ---
 
 This dock type was originally added for the mine dock but the idea of using it there was later scrapped before the update that it was in came out. So this dock type was never actually used. It still has a possibility of being used but is unlikely.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`This dock is currently on cooldown`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Light 2 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Blue.png" alt=""></a> |
-| Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Green.png" alt=""></a> |
-| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+| Sign Text      | [`This dock is currently on cooldown`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Blue" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Cooldown.png" alt="">
