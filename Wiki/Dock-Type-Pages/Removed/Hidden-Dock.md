@@ -63,6 +63,6 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Light 3 Color  | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
 | Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
 | Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Hidden-Dock.png" alt="">

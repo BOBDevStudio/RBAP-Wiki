@@ -63,6 +63,6 @@ page_subject_info:
 | Light 3 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
 | Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
 | Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/404-Dock-Not-Found.png" alt="">

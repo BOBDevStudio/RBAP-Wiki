@@ -63,6 +63,6 @@ Now this dock type is a special one. Every part of a dock entrance that this doc
 | Light 3 Color  | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
 | Gate Color 1   | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
 | Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Statue-Of-BOB-Dock.png" alt="">

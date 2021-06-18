@@ -65,6 +65,6 @@ This dock type can never be found inside of the main build but can be found in o
 | Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
 | Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
 | Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main-Build-Purchases-Closed.png" alt="">
