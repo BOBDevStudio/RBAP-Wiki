@@ -26,15 +26,25 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Light 2 Color"
-          value: ""
+          color_image:
+            name: "Yellow"
+            dock_type_color: true
         - key: "Light 3 Color"
-          value: ""
+          color_image:
+            name: "Green"
+            dock_type_color: true
         - key: "Gate Color 1"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Gate Color 2"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
 ---
 
 This dock type's purpose is to close off a dock that has purchases. The reason for this is because many of the things you can purchase in game (or actually all of them at the time of writing) are uploaded to the main build of the game instead of other special builds of the game like pre-update build. Roblox *theoretically* (or at least logically) allows purchases to be made if the asset behind the purchase is owned by the same thing as the game but in reality BOB has found this functionality to be broken or nonexistent.
@@ -50,11 +60,11 @@ This dock type can never be found inside of the main build but can be found in o
 | Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Light 2 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Yellow.png" alt=""></a> |
-| Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Green.png" alt=""></a> |
-| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main-Build-Purchases-Closed.png" alt="">
