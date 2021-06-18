@@ -26,15 +26,25 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`False`"
         - key: "Light 1 Color"
-          value: ""
+          color_image:
+            name: "BOB-Favorite-Color"
+            dock_type_color: true
         - key: "Light 2 Color"
-          value: ""
+          color_image:
+            name: "Yellow"
+            dock_type_color: true
         - key: "Light 3 Color"
-          value: ""
+          color_image:
+            name: "BOB-Favorite-Color"
+            dock_type_color: true
         - key: "Gate Color 1"
-          value: ""
+          color_image:
+            name: "Yellow"
+            dock_type_color: true
         - key: "Gate Color 2"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
 ---
 
 Now this dock type is a special one. Every part of a dock entrance that this dock type set on gets turned into gold (with a few exceptions like the lights). This functionality is exclusive to this dock type and is hard-coded into the dock entrance system.
@@ -48,11 +58,11 @@ Now this dock type is a special one. Every part of a dock entrance that this doc
 | Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/BOB-Favorite-Color.png" alt=""></a> |
-| Light 2 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Yellow.png" alt=""></a> |
-| Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/BOB-Favorite-Color.png" alt=""></a> |
-| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Yellow.png" alt=""></a> |
-| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+| Light 1 Color        | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color        | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Statue-Of-BOB-Dock.png" alt="">
