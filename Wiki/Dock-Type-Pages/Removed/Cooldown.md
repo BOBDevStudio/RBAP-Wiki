@@ -49,20 +49,20 @@ page_subject_info:
 
 This dock type was originally added for the mine dock but the idea of using it there was later scrapped before the update that it was in came out. So this dock type was never actually used. It still has a possibility of being used but is unlikely.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`This dock is currently on cooldown`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Blue" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`This dock is currently on cooldown`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Blue" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Cooldown.png" alt="">

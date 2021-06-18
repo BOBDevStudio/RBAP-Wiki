@@ -47,20 +47,20 @@ page_subject_info:
             dock_type_color: true
 ---
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Update-Logs-Dock.png" alt="">

@@ -49,20 +49,20 @@ page_subject_info:
 
 Now this dock type is a special one. Every part of a dock entrance that this dock type set on gets turned into gold (with a few exceptions like the lights). This functionality is exclusive to this dock type and is hard-coded into the dock entrance system.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`All this gold costed a LOT`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`All this gold costed a LOT`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Statue-Of-BOB-Dock.png" alt="">

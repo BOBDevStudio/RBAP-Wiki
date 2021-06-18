@@ -49,20 +49,20 @@ page_subject_info:
 
 Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock type as previous ones were removed in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system). Some of the limitations still have yet to be lifted as of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) the most notable being the dock placing system.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`This dock is currently open`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`This dock is currently open`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Hidden-Dock.png" alt="">

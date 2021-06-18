@@ -51,20 +51,20 @@ This dock type's purpose is to close off a dock that has purchases. The reason f
 
 This dock type can never be found inside of the main build but can be found in other special builds of the game (with the exception of the dev build (for debugging purposes)). It is currently only being applied to the [donations dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#donation-dock) for the reasons listed above.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Main-Build-Purchases-Closed.png" alt="">

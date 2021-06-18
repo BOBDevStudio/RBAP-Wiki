@@ -49,20 +49,20 @@ page_subject_info:
 
 This is the generic under maintenance dock type. This dock type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`This dock is currently under maintenance`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`This dock is currently under maintenance`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Under-Maintenance.png" alt="">

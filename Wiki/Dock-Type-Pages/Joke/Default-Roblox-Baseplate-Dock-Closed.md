@@ -49,20 +49,20 @@ page_subject_info:
 
 
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`this closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down       | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
-| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Roblox-Baseplate-Grey" alt="" -%} |
-| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text      | [`this closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Bridge Down | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Roblox-Baseplate-Grey" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Default-Roblox-Baseplate-Dock-Closed.png" alt="">
