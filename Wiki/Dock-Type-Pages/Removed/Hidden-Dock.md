@@ -26,15 +26,25 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`True`"
         - key: "Light 1 Color"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Light 2 Color"
-          value: ""
+          color_image:
+            name: "Yellow"
+            dock_type_color: true
         - key: "Light 3 Color"
-          value: ""
+          color_image:
+            name: "Purple"
+            dock_type_color: true
         - key: "Gate Color 1"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Gate Color 2"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
 ---
 
 Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock type as previous ones were removed in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game due to limitations of newly-implemented systems (like the dock placing system). Some of the limitations still have yet to be lifted as of [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) the most notable being the dock placing system.
@@ -48,11 +58,11 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Light 1 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 2 On           | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
 | Light 3 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Light 2 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Yellow.png" alt=""></a> |
-| Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Purple.png" alt=""></a> |
-| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
+| Light 1 Color        | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Light 2 Color        | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Light 3 Color        | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
+| Gate Color 1         | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2         | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {% comment %}{: .psi-panel-alternative}{% endcomment %}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Hidden-Dock.png" alt="">
