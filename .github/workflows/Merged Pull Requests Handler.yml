@@ -12,8 +12,9 @@ jobs:
     timeout-minutes: 60
     steps:
     - name: Lock
+      if: ${{ github.event.pull_request.locked == false }}
       run: |
         curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""lock_reason\"": \""resolved\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
-    - name: Add labels
+    - name: Add label
       run: |
-        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"

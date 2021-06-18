@@ -26,31 +26,41 @@ page_subject_info:
         - key: "Light 3 On"
           value: "`True`"
         - key: "Light 1 Color"
-          value: ""
+          color_image:
+            name: "Orange"
+            dock_type_color: true
         - key: "Light 2 Color"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
         - key: "Light 3 Color"
-          value: ""
+          color_image:
+            name: "Orange"
+            dock_type_color: true
         - key: "Gate Color 1"
-          value: ""
+          color_image:
+            name: "Red"
+            dock_type_color: true
         - key: "Gate Color 2"
-          value: ""
+          color_image:
+            name: "White"
+            dock_type_color: true
 ---
 
-| Value Name           | Value |
+| Value Name     | Value |
 |-|-|
-| Sign Text            | [`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) |
-| Is Bridge Down       | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down         | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On           | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Orange.png" alt=""></a> |
-| Light 2 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
-| Light 3 Color        | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Orange.png" alt=""></a> |
-| Gate Color 1         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/Red.png" alt=""></a> |
-| Gate Color 2         | <a href="/RBAP-Wiki/Wiki/Value-Types#color"><img class="color-image dock-type-light-color" src="/RBAP-Wiki/Assets/Images/Colors/White.png" alt=""></a> |
-{% comment %}{: .psi-panel-alternative}{% endcomment %}
+| Sign Text      | [`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) |
+| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 3 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
+| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
+| Light 2 Color  | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
+| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+{: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Update-Logs-Dock.png" alt="">
