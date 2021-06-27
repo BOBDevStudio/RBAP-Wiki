@@ -23,7 +23,7 @@ page_subject_info:
           value: "`1`"
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
 
 | Value Name             | Value |
 |-|-|
