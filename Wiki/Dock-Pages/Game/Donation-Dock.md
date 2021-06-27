@@ -38,8 +38,8 @@ The prices of each of the donation amounts available is meant to be able to help
 | #2 | 25 Robux |
 | #3 | 50 Robux |
 | #4 | 100 Robux |
-| #5 | 1000 Robux |
-| #6 | Offsale (and hasn't been on sale for quite some time now) |
+| #5 | 250 Robux |
+| #6 | 1000 Robux |
 
 | Value Name             | Value |
 |-|-|
