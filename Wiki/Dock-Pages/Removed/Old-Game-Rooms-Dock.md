@@ -19,7 +19,7 @@ page_subject_info:
         - key: "Entrances Centered On"
           value: "{`2`}"
         - key: "Dock Types Used"
-          value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#closed), `2` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#closed)}"
+          value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)}"
         - key: "Side Placed On"
           value: "`2`"
 ---
@@ -33,7 +33,7 @@ This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Wiki/Value-
 | Reserved Dock Entrance | [`10`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`3`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`2`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#closed), [`2`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#closed)} |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), [`2`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
