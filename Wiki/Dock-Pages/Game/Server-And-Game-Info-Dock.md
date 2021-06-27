@@ -18,19 +18,19 @@ page_subject_info:
         - key: "Entrances Centered On"
           value: "{`1`}"
         - key: "Dock Types Used"
-          value: "{`1` = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#server-dock)}"
+          value: "{`1` = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Server-Dock)}"
         - key: "Side Placed On"
           value: "`1`"
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Wiki/Value-Types#rbap-version). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
 
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 | Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#server-dock)} |
+| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Types/Server-Dock)} |
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
