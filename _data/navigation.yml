@@ -293,12 +293,12 @@ Wiki_DockTypesCategory_Removed:
   - title: "Docks Types"
     url: "/Wiki/Dock-Types"
     children:
-      - title: "On Cooldown"
-        url: "/Wiki/Dock-Types/Category/Removed#on-cooldown"
-      - title: "Seasonally Closed"
-        url: "/Wiki/Dock-Types/Category/Removed#seasonally-closed"
+      - title: "Cooldown"
+        url: "/Wiki/Dock-Types/Cooldown"
       - title: "Hidden Dock"
-        url: "/Wiki/Dock-Types/Category/Removed#hidden-dock"
+        url: "/Wiki/Dock-Types/Hidden-Dock"
+      - title: "Seasonally Closed"
+        url: "/Wiki/Dock-Types/Seasonally-Closed"
   - title: "Walkway Transportation"
     url: "/Wiki/Walkway-Transportation"
     children:
