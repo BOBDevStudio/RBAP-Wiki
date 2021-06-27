@@ -29,7 +29,7 @@ redirect_from:
 
 What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills.
 
-In the current version of the Random Buildings And Parts most docks are automatically placed by a system that was introduced in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game. Most docks don't have any set positions on where they will be placed so for docks like that the system will place them in alphabetical order. So that means most docks are placed completely randomly and can be moved anytime.
+In the current version of the Random Buildings And Parts most docks are automatically placed by a system that was introduced in [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game. Most docks don't have any set positions on where they will be placed so for docks like that the system will place them in alphabetical order. So that means most docks are placed completely randomly and can be moved anytime.
 
 ### Here's a list of each of the dock data values:
 

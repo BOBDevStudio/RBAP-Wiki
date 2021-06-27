@@ -25,7 +25,7 @@ page_subject_info:
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 
 
-This dock has a history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/RBAP-Wiki/Wiki/Value-Types#rbap-version) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
+This dock has a history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
 
 The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
 
