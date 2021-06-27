@@ -14,7 +14,7 @@ jobs:
     - name: Lock
       if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') != true }}
       run: |
-        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""lock_reason\"": \""resolved\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
     - name: Add the RBAP Updates milestone
       if: ${{ startsWith(github.event.pull_request.title, 'RBAP Update') == true }}
       run: |
