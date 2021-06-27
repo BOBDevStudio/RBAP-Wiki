@@ -135,11 +135,13 @@ Wiki_DocksCategory_Removed:
     url: "/Wiki/Docks"
     children:
       - title: "Color Blocks Dock"
-        url: "/Wiki/Docks/Category/Removed#color-blocks-dock"
+        url: "/Wiki/Docks/Color-Blocks-Dock"
       - title: "Color Mixer Dock"
-        url: "/Wiki/Docks/Category/Removed#color-mixer-dock"
+        url: "/Wiki/Docks/Color-Mixer-Dock"
       - title: "Events Dock"
-        url: "/Wiki/Docks/Category/Removed#events-dock"
+        url: "/Wiki/Docks/Events-Dock"
+      - title: "Old Game Rooms Dock"
+        url: "/Wiki/Docks/Old-Game-Rooms-Dock"
   - title: "Docks Types"
     url: "/Wiki/Dock-Types"
     children:
