@@ -1,6 +1,6 @@
 ---
-permalink: /Wiki/Dock-Types/Hidden-Dock
-title: "Hidden Dock"
+permalink: /Wiki/Dock-Types/Hidden Dock
+title: "Dock Type: Hidden Dock"
 page_subject_info:
   title: "Hidden Dock"
   color: "#a3a2a5"

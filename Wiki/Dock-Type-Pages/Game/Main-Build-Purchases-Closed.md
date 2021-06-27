@@ -1,6 +1,6 @@
 ---
 permalink: /Wiki/Dock-Types/Main-Build-Purchases-Closed
-title: "Main Build Purchases Closed"
+title: "Dock Type: Main Build Purchases Closed"
 page_subject_info:
   title: "Main Build Purchases Closed"
   color: "#a3a2a5"

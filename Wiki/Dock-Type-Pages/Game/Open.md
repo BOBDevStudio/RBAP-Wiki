@@ -1,6 +1,6 @@
 ---
 permalink: /Wiki/Dock-Types/Open
-title: "Open"
+title: "Dock Type: Open"
 page_subject_info:
   title: "Open"
   color: "#a3a2a5"

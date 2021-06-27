@@ -1,6 +1,6 @@
 ---
 permalink: /Wiki/Dock-Types/Statue-Of-BOB-Dock
-title: "Statue Of BOB Dock"
+title: "Dock Type: Statue Of BOB Dock"
 page_subject_info:
   title: "Statue Of BOB Dock"
   color: "#a3a2a5"

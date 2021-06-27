@@ -1,6 +1,6 @@
 ---
 permalink: /Wiki/Dock-Types/Other-No-Standing-Joke-Dock
-title: "Other No Standing Joke Dock"
+title: "Dock Type: Other No Standing Joke Dock"
 page_subject_info:
   title: "Other No Standing Joke Dock"
   color: "#a3a2a5"
