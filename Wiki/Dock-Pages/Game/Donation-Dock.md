@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Centered On"
           value: "{`1`}"
         - key: "Dock Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} or {`1`] = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed)}"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Category/In-Game#main-build-purchases-closed)}"
         - key: "Side Placed On"
           value: "`2`"
 ---
