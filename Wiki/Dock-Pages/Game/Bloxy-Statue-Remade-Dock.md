@@ -34,4 +34,4 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" alt="">

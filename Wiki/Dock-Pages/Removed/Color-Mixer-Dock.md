@@ -34,4 +34,4 @@ In this dock you were able to select a color and it would show up on the machine
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Color-Mixer-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Color-Mixer-Dock.png" alt="">

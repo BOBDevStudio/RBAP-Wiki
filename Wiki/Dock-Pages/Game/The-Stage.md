@@ -51,4 +51,4 @@ The design of the stage has changed a little bit over the years. Here's a list o
 | Side Placed On         | [`0.1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Stage-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Stage-Dock.png" alt="">

@@ -34,4 +34,4 @@ This was created when BOB wanted to make a window with sunlight coming through i
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Showcase-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Showcase-Dock.png" alt="">

@@ -34,4 +34,4 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png" alt="">

@@ -39,4 +39,4 @@ Although this dock is largely considered removed it can still be seen in the gam
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png" alt="">

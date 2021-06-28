@@ -34,4 +34,4 @@ This dock was created just for the fun of it and partly because it was because B
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Mine-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Mine-Dock.png" alt="">
