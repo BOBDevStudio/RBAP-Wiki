@@ -34,4 +34,4 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Lighthouse-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Lighthouse-Dock.png" alt="">

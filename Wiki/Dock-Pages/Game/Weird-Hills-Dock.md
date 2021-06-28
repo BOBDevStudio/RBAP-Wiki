@@ -34,4 +34,4 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Weird-Hills-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Weird-Hills-Dock.png" alt="">

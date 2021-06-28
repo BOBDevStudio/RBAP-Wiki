@@ -34,4 +34,4 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Bob-the-Mob-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Bob-the-Mob-Dock.png" alt="">

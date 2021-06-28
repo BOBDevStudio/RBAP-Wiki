@@ -37,4 +37,4 @@ This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Posts/Updat
 | Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png" alt="">

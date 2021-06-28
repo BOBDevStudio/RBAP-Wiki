@@ -36,4 +36,4 @@ The project that this is referring to has yet to make it very far in terms of pr
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Construction-Barrier-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Construction-Barrier-Dock.png" alt="">

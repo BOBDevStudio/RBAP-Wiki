@@ -34,4 +34,4 @@ As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this is the only joke that is cu
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Joke/Default-Roblox-Base-Plate-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Default-Roblox-Base-Plate-Dock.png" alt="">

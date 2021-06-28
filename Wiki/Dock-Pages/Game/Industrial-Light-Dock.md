@@ -34,4 +34,4 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 | Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
 {: .psi-panel-alternative}
 
-![](/RBAP-Wiki/Assets/Images/Docks/Industrial-Light-Dock.png)
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Industrial-Light-Dock.png" alt="">
