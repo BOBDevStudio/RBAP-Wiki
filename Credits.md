@@ -7,10 +7,10 @@ Here's a list of everyone and everything that is help to make the wiki what it i
 # People
 {: .credits-title}
 
-| Avatar | Name | BDS Relation ([Roblox](https://www.roblox.com/groups/8499452/-)) | BDS Relation ([Github](https://github.com/BOBDevStudio)) | Relation to the wiki | Info |
+| Avatar | Name | BDS Relation | Relation to the wiki | Info |
 |-|-|-|-|-|-|
-| <img class="credits-roblox-avatar" src="https://www.roblox.com/avatar-thumbnail/image?userId=241903094&width=420&height=420&format=png" alt=""> | BOB (11MR_BOB/TheOneBOB) | Owner | Owner | Owner + Maintainer + Moderator |  |
-| <img class="credits-roblox-avatar" src="https://www.roblox.com/avatar-thumbnail/image?userId=1035672391&width=420&height=420&format=png" alt=""> | Unbitterness/Valery | Helper/Moderator | Staff | Maintainer + Moderator |  |
+| <img class="credits-roblox-avatar" src="https://www.roblox.com/avatar-thumbnail/image?userId=241903094&width=420&height=420&format=png" alt=""> | BOB (11MR_BOB/TheOneBOB) | Owner | Owner + Maintainer + Moderator |  |
+| <img class="credits-roblox-avatar" src="https://www.roblox.com/avatar-thumbnail/image?userId=1035672391&width=420&height=420&format=png" alt=""> | Unbitterness/Valery | Helper/Moderator | Maintainer + Moderator |  |
 
 # Projects
 {: .credits-title}
