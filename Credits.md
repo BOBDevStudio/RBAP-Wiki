@@ -1,5 +1,6 @@
 ---
 title: Credits
+show_sidebars: false
 ---
 
 Here's a list of everyone and everything that is help to make the wiki what it is.
