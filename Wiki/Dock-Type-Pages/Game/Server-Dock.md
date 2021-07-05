@@ -19,48 +19,68 @@ page_subject_info:
           value: "`True`"
         - key: "Is Gate Down"
           value: "`True`"
-        - key: "Light 1 On"
+        - key: "Main Light 1 On"
           value: "`True`"
-        - key: "Light 2 On"
+        - key: "Main Light 2 On"
           value: "`True`"
-        - key: "Light 3 On"
+        - key: "Main Light 3 On"
           value: "`True`"
-        - key: "Light 1 Color"
+        - key: "Main Light 1 Color"
           color_image:
             name: "White"
             dock_type_color: true
-        - key: "Light 2 Color"
+        - key: "Main Light 2 Color"
           color_image:
             name: "White"
             dock_type_color: true
-        - key: "Light 3 Color"
+        - key: "Main Light 3 Color"
           color_image:
             name: "White"
             dock_type_color: true
+        - key: "Warning Light 1 Light On"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Spinning"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Color"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Speed"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Light On"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Spinning"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Color"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Speed"
+          value: "*Default (unset)*"
         - key: "Gate Color 1"
-          color_image:
-            name: "Red"
-            dock_type_color: true
+          value: "*Default (unset)*"
         - key: "Gate Color 2"
-          color_image:
-            name: "White"
-            dock_type_color: true
+          value: "*Default (unset)*"
 ---
 
-| Value Name     | Value |
+| Value Name               | Value |
 |-|-|
-| Sign Text      | [`[Server Dock]: This dock contains statistics about the server and the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock) |
-| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color  | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-| Light 2 Color  | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-| Light 3 Color  | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text                | [`[Server Dock]: This dock contains statistics about the server and the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock           | `True` - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock) |
+| Is Bridge Down           | `True` |
+| Is Gate Down             | `True` |
+| Main Light 1 On          | `True` |
+| Main Light 2 On          | `True` |
+| Main Light 3 On          | `True` |
+| Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Warning Light 1 Light On | *Default (unset)* |
+| Warning Light 1 Spinning | *Default (unset)* |
+| Warning Light 1 Color    | *Default (unset)* |
+| Warning Light 1 Speed    | *Default (unset)* |
+| Warning Light 2 Light On | *Default (unset)* |
+| Warning Light 2 Spinning | *Default (unset)* |
+| Warning Light 2 Color    | *Default (unset)* |
+| Warning Light 2 Speed    | *Default (unset)* |
+| Gate Color 1             | *Default (unset)* |
+| Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Server-Dock.png" alt="">

@@ -19,24 +19,40 @@ page_subject_info:
           value: "`True`"
         - key: "Is Gate Down"
           value: "`True`"
-        - key: "Light 1 On"
+        - key: "Main Light 1 On"
           value: "`False`"
-        - key: "Light 2 On"
+        - key: "Main Light 2 On"
           value: "`False`"
-        - key: "Light 3 On"
+        - key: "Main Light 3 On"
           value: "`True`"
-        - key: "Light 1 Color"
+        - key: "Main Light 1 Color"
           color_image:
             name: "Red"
             dock_type_color: true
-        - key: "Light 2 Color"
+        - key: "Main Light 2 Color"
           color_image:
             name: "Yellow"
             dock_type_color: true
-        - key: "Light 3 Color"
+        - key: "Main Light 3 Color"
           color_image:
             name: "Green"
             dock_type_color: true
+        - key: "Warning Light 1 Light On"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Spinning"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Color"
+          value: "*Default (unset)*"
+        - key: "Warning Light 1 Speed"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Light On"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Spinning"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Color"
+          value: "*Default (unset)*"
+        - key: "Warning Light 2 Speed"
+          value: "*Default (unset)*"
         - key: "Gate Color 1"
           color_image:
             name: "Roblox-Baseplate-Grey"
@@ -49,20 +65,20 @@ page_subject_info:
 
 
 
-| Value Name     | Value |
+| Value Name               | Value |
 |-|-|
-| Sign Text      | [`Welcome to the default Roblox base plate`](/RBAP-Wiki/Wiki/Value-Types#string) |
-| Is System Dock | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Bridge Down | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Is Gate Down   | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 2 On     | [`False`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 3 On     | [`True`](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| Light 1 Color  | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Light 2 Color  | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Light 3 Color  | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
-| Gate Color 1   | {%- include color-image fordocktypecolor=true name="Roblox-Baseplate-Grey" alt="" -%} |
-| Gate Color 2   | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Sign Text                | [`Welcome to the default Roblox base plate`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Is System Dock           | `False` |
+| Is Bridge Down           | `True` |
+| Is Gate Down             | `True` |
+| Main Light 1 On          | `False` |
+| Main Light 2 On          | `False` |
+| Main Light 3 On          | `True` |
+| Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Gate Color 1             | {%- include color-image fordocktypecolor=true name="Roblox-Baseplate-Grey" alt="" -%} |
+| Gate Color 2             | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {: .psi-panel-alternative}
 
 <img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Joke/Default-Roblox-Baseplate-Dock-Open.png" alt="">
