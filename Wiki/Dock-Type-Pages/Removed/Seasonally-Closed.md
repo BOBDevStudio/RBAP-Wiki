@@ -63,7 +63,7 @@ This dock type was used in the winter of 2019 and 2020 due to the snow going thr
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently closed for the season`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently closed for the season` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

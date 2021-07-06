@@ -63,7 +63,7 @@ This dock type was originally added for the mine dock but the idea of using it t
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently on cooldown`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently on cooldown` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `False` |

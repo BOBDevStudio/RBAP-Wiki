@@ -61,7 +61,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`[Server Dock]: This dock contains statistics about the server and the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `[Server Dock]: This dock contains statistics about the server and the game` |
 | Is System Dock           | `True` - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |

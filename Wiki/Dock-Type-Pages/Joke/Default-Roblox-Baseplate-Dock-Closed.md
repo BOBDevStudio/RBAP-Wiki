@@ -67,7 +67,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`this closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `this closed` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

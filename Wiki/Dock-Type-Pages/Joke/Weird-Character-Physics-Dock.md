@@ -63,7 +63,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`Roblox... but your character's physics are rendered by the server`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `Roblox... but your character's physics are rendered by the server` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

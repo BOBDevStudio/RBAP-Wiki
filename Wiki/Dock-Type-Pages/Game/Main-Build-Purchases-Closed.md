@@ -65,7 +65,7 @@ This dock type can never be found inside of the main build but can be found in o
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently closed due to the fact that purchases do not work in this build of the game`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently closed due to the fact that purchases do not work in this build of the game` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `False` |

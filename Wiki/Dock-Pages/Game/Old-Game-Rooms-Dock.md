@@ -32,11 +32,11 @@ Although this dock is largely considered removed it can still be seen in the gam
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`10`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`3`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`2`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), [`2`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | `10` |
+| Entrances Used         | `3` |
+| Entrances Centered On  | {`2`} |
+| Dock Types Used        | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png" alt="">

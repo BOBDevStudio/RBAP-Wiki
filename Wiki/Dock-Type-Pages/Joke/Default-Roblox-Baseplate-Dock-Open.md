@@ -67,7 +67,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`Welcome to the default Roblox base plate`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `Welcome to the default Roblox base plate` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |

@@ -67,7 +67,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently closed` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `False` |

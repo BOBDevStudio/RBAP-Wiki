@@ -63,7 +63,7 @@ This is the generic closed dock type. It is pretty self-explanatory why it is us
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently closed`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently closed` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

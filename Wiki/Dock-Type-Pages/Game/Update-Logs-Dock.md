@@ -61,7 +61,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `[Update Logs Dock]: This dock contains Random Buildings And Parts update logs` |
 | Is System Dock           | `True` - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |

@@ -43,11 +43,11 @@ The prices of each of the donation amounts available is meant to be able to help
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | `2` |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donation-Dock.png" alt="">

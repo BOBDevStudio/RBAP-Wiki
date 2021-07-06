@@ -63,7 +63,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `404 Dock Not Found` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

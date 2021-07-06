@@ -63,7 +63,7 @@ This is the generic under maintenance dock type. This dock type is used when a d
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`This dock is currently under maintenance`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `This dock is currently under maintenance` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |

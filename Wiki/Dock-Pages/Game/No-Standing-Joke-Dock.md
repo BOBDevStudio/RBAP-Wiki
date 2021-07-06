@@ -12,7 +12,7 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "*None*"
+          value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Entrances Centered On"
@@ -27,11 +27,11 @@ This was created sometime after BOB was thinking about road signs and then reali
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | *None (unset)* |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png" alt="">

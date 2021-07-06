@@ -28,10 +28,10 @@ page_subject_info:
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Statue-Of-BOB-Dock.png" alt="">

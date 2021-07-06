@@ -63,7 +63,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`I'm too lazy to put down the bridge. Who uses that anyway! Useless!`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `I'm too lazy to put down the bridge. Who uses that anyway! Useless!` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `True` |

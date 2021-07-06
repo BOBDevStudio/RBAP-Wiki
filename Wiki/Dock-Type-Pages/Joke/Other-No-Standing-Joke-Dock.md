@@ -63,7 +63,7 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`Let's see if you're confident enough to stand on this dock for a <b>huge</b> surprise`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `Let's see if you're confident enough to stand on this dock for a <b>huge</b> surprise` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |

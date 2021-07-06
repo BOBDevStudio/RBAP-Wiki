@@ -27,11 +27,11 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Types/Update-Logs-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | `1` |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Types/Update-Logs-Dock)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Update-Logs-Dock.png" alt="">

@@ -67,7 +67,7 @@ Now this dock type is a special one. Every part of a dock entrance that this doc
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | [`All this gold costed a LOT`](/RBAP-Wiki/Wiki/Value-Types#string) |
+| Sign Text                | `All this gold costed a LOT` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |

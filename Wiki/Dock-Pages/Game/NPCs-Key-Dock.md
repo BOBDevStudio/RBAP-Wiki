@@ -27,11 +27,11 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`13`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | `13` |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
+| Side Placed On         | `1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/NPCs-Key-Dock.png" alt="">
