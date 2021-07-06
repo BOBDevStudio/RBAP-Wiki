@@ -23,7 +23,7 @@ page_subject_info:
           value: "`2`"
 ---
 
-
+The thing that is special about this dock is when you move your character on to it the physics of your character are forced to be rendered by the server. For context usually your client renders your character's physics not the server.
 
 | Value Name             | Value |
 |-|-|

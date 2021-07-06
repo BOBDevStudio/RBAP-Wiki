@@ -23,7 +23,7 @@ page_subject_info:
           value: "`2`"
 ---
 
-
+Under the hood this is the same dock as the no standing joke dock with one minor difference... instead of doing something to your character this one does a different surprise. Note that the surprise will never be listed on the wiki and is kept a secret due to it being a surprise.
 
 | Value Name             | Value |
 |-|-|

@@ -23,7 +23,7 @@ page_subject_info:
           value: "`2`"
 ---
 
-
+This dock is yet another easy joke BOB made. In order to pull off the "non-existent dock" there is actually a dock there it's just hidden.
 
 | Value Name             | Value |
 |-|-|

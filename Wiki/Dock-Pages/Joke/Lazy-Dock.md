@@ -23,7 +23,7 @@ page_subject_info:
           value: "`2`"
 ---
 
-
+This dock is mostly just an easy joke BOB made due to the current dock entrance system having the ability to have the gates down and still have the bridge up which was not possible in the previous system.
 
 | Value Name             | Value |
 |-|-|
