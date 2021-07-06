@@ -21,18 +21,18 @@ page_subject_info:
           value: "`True`"
         - key: "Main Light 1 On"
           value: "`False`"
-        - key: "Main Light 2 On"
-          value: "`False`"
-        - key: "Main Light 3 On"
-          value: "`True`"
         - key: "Main Light 1 Color"
           color_image:
             name: "Red"
             dock_type_color: true
+        - key: "Main Light 2 On"
+          value: "`False`"
         - key: "Main Light 2 Color"
           color_image:
             name: "Yellow"
             dock_type_color: true
+        - key: "Main Light 3 On"
+          value: "`True`"
         - key: "Main Light 3 Color"
           color_image:
             name: "Purple"
@@ -68,10 +68,10 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `False` |
-| Main Light 2 On          | `False` |
-| Main Light 3 On          | `True` |
 | Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Main Light 2 On          | `False` |
 | Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Main Light 3 On          | `True` |
 | Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
 | Warning Light 1 Light On | *Default (unset)* |
 | Warning Light 1 Spinning | *Default (unset)* |

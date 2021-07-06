@@ -43,10 +43,10 @@ The following list is a list of the default values for dock type data values. Wh
 | Is Bridge Down           |  |
 | Is Gate Down             |  |
 | Main Light 1 On          | `False` |
-| Main Light 2 On          | `False` |
-| Main Light 3 On          | `False` |
 | Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Main Light 2 On          | `False` |
 | Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Main Light 3 On          | `False` |
 | Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
 | Warning Light 1 Light On | `False` |
 | Warning Light 1 Spinning | `False` |

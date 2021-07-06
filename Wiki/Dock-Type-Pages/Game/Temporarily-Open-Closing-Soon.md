@@ -21,18 +21,18 @@ page_subject_info:
           value: "`True`"
         - key: "Main Light 1 On"
           value: "`False`"
-        - key: "Main Light 2 On"
-          value: "`True`"
-        - key: "Main Light 3 On"
-          value: "`False`"
         - key: "Main Light 1 Color"
           color_image:
             name: "Red"
             dock_type_color: true
+        - key: "Main Light 2 On"
+          value: "`True`"
         - key: "Main Light 2 Color"
           color_image:
             name: "Orange"
             dock_type_color: true
+        - key: "Main Light 3 On"
+          value: "`False`"
         - key: "Main Light 3 Color"
           color_image:
             name: "Green"
@@ -72,10 +72,10 @@ page_subject_info:
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `False` |
-| Main Light 2 On          | `True` |
-| Main Light 3 On          | `False` |
 | Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Main Light 2 On          | `True` |
 | Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Orange" alt="" -%} |
+| Main Light 3 On          | `False` |
 | Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
 | Warning Light 1 Light On | `True` |
 | Warning Light 1 Spinning | `True` |

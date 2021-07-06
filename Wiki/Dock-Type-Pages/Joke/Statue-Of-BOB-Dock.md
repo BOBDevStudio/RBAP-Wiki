@@ -21,18 +21,18 @@ page_subject_info:
           value: "`False`"
         - key: "Main Light 1 On"
           value: "`False`"
-        - key: "Main Light 2 On"
-          value: "`True`"
-        - key: "Main Light 3 On"
-          value: "`False`"
         - key: "Main Light 1 Color"
           color_image:
             name: "BOB-Favorite-Color"
             dock_type_color: true
+        - key: "Main Light 2 On"
+          value: "`True`"
         - key: "Main Light 2 Color"
           color_image:
             name: "Yellow"
             dock_type_color: true
+        - key: "Main Light 3 On"
+          value: "`False`"
         - key: "Main Light 3 Color"
           color_image:
             name: "BOB-Favorite-Color"
@@ -72,11 +72,19 @@ Now this dock type is a special one. Every part of a dock entrance that this doc
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `False` |
-| Main Light 2 On          | `True` |
-| Main Light 3 On          | `False` |
 | Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Main Light 2 On          | `True` |
 | Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Main Light 3 On          | `False` |
 | Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="BOB-Favorite-Color" alt="" -%} |
+| Warning Light 1 Light On | *Default (unset)* |
+| Warning Light 1 Spinning | *Default (unset)* |
+| Warning Light 1 Color    | *Default (unset)* |
+| Warning Light 1 Speed    | *Default (unset)* |
+| Warning Light 2 Light On | *Default (unset)* |
+| Warning Light 2 Spinning | *Default (unset)* |
+| Warning Light 2 Color    | *Default (unset)* |
+| Warning Light 2 Speed    | *Default (unset)* |
 | Gate Color 1             | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
 | Gate Color 2             | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
 {: .psi-panel-alternative}
