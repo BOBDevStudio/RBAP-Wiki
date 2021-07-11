@@ -28,10 +28,10 @@ This dock is yet another easy joke BOB made. In order to pull off the "non-exist
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)} |
-| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)} |
+| Side Placed On         | `1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/404-Dock-Not-Found.png" alt="">

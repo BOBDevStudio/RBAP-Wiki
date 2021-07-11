@@ -44,11 +44,11 @@ The design of the stage has changed a little bit over the years. Here's a list o
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | [`0.1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance | `1` |
+| Entrances Used         | `1` - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
+| Side Placed On         | `0.1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Stage-Dock.png" alt="">

@@ -28,10 +28,10 @@ This dock is mostly just an easy joke BOB made due to the current dock entrance 
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Lazy Dock`](/RBAP-Wiki/Wiki/Dock-Types/Lazy-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Lazy Dock`](/RBAP-Wiki/Wiki/Dock-Types/Lazy-Dock)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Lazy-Dock.png" alt="">

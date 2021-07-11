@@ -28,10 +28,10 @@ Under the hood this is the same dock as the no standing joke dock with one minor
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Other-No-Standing-Joke-Dock.png" alt="">

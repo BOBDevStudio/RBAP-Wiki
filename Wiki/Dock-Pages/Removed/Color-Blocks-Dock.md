@@ -28,10 +28,10 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
-| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types#open)} |
+| Side Placed On         | `1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Color-Blocks-Dock.png" alt="">

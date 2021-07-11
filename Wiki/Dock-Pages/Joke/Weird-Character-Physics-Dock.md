@@ -28,10 +28,10 @@ The thing that is special about this dock is when you move your character on to 
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance |  |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Weird Character Physics Dock`](/RBAP-Wiki/Wiki/Dock-Types/Weird-Character-Physics-Dock)} |
-| Side Placed On         | [`2`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Entrances Used         | `1` |
+| Entrances Centered On  | {`1`} |
+| Dock Types Used        | {`1` = [`Weird Character Physics Dock`](/RBAP-Wiki/Wiki/Dock-Types/Weird-Character-Physics-Dock)} |
+| Side Placed On         | `2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Weird-Character-Physics-Dock.png" alt="">
