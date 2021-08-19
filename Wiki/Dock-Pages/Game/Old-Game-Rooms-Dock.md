@@ -28,7 +28,7 @@ This is the original game rooms dock. This dock was created to give the player s
 
 This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) as (in that same update) the [replacement for the dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had finally been enabled and made playable. The reason for replacement and then removal is pretty simple: The backend of the dock was/is not really up-to-date with BOB's current way of coding and was/is quite dated and pretty inefficient. Before it was removed BOB made sure that the [replacement dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had a good replacement for all the features of this dock so no one would feel like major features were lost.
 
-Although this dock is largely considered removed it can still be seen in the game on the 24th of any month (in the time zone the game uses). This easter egg was added in [`V4.2`](/RBAP-Wiki/Posts/Update-Log/4-2-0) and the day was chosen by Unbitterness. This easter egg is meant to be a tribute to Unbitterness for helping out with the creation of this dock which was largely uncredited for a while.
+Although this dock is largely considered removed it can still be seen in the game on the 24th of any month (in the time zone the game uses). This easter egg was added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) and the day was chosen by Unbitterness. This easter egg is meant to be a tribute to Unbitterness for helping out with the creation of this dock which was largely uncredited for a while.
 
 | Value Name             | Value |
 |-|-|

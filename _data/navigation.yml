@@ -266,6 +266,11 @@ UpdateLogs:
     url: "Posts/Update-Log-Notes"
   - title: "Update logs tags key"
     url: "Posts/Update-Logs-Tags"
+  - title: "V5 Series of Updates"
+    url: "/Tags#v5"
+    children:
+      - title: "V5.0.0"
+        url: "/Posts/Update-Log/5-0-0"
   - title: "V4 Series of Updates"
     url: "/Tags#v4"
     children:
