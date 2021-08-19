@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Types/Open-New-Dock
 title: "Dock Type: Open - New Dock"
+page_categories:
+  new_dock_dock_type: true
 page_subject_info:
   title: "Open - New Dock"
   color: "#a3a2a5"

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Types/Under-Maintenance-New-Dock
 title: "Dock Type: Under Maintenance - New Dock"
+page_categories:
+  new_dock_dock_type: true
 page_subject_info:
   title: "Under Maintenance - New Dock"
   color: "#a3a2a5"

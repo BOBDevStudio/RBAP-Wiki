@@ -26,6 +26,7 @@ page_category_names:
   removed_docktype_page: "Removed Dock Types"
   joke_docktype_page: "Joke Dock Types"
   system_dock_type: "System Dock Types"
+  new_dock_dock_type: "New Dock Dock Types"
 
 footer:
   links:

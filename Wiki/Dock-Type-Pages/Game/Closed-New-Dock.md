@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Types/Closed-New-Dock
 title: "Dock Type: Closed - New Dock"
+page_categories:
+  new_dock_dock_type: true
 page_subject_info:
   title: "Closed - New Dock"
   color: "#a3a2a5"
