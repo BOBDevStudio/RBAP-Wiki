@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Types/Update-Logs-Dock
 title: "Dock Type: Update Logs Dock"
+page_categories:
+  system_dock: true
 page_subject_info:
   title: "Update Logs Dock"
   color: "#a3a2a5"
@@ -46,6 +48,8 @@ page_subject_info:
             name: "White"
             dock_type_color: true
 ---
+
+
 
 | Value Name     | Value |
 |-|-|
