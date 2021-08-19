@@ -15,8 +15,6 @@ page_subject_info:
           value: "`2`"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)}"
         - key: "Side Placed On"
@@ -45,7 +43,6 @@ The prices of each of the donation amounts available is meant to be able to help
 |-|-|
 | Reserved Dock Entrance | `2` |
 | Entrances Used         | `1` |
-| Entrances Centered On  | {`1`} |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)} |
 | Side Placed On         | `2` |
 {: .psi-panel-alternative}

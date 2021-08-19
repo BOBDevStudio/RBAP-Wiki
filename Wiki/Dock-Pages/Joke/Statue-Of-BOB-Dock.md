@@ -15,8 +15,6 @@ page_subject_info:
           value: "*None*"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
         - key: "Dock Types Used"
           value: "{`1` = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)}"
         - key: "Side Placed On"
@@ -29,7 +27,6 @@ page_subject_info:
 |-|-|
 | Reserved Dock Entrance |  |
 | Entrances Used         | `1` |
-| Entrances Centered On  | {`1`} |
 | Dock Types Used        | {`1` = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)} |
 | Side Placed On         | `2` |
 {: .psi-panel-alternative}

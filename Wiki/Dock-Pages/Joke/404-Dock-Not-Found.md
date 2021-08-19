@@ -15,8 +15,6 @@ page_subject_info:
           value: "*None*"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
         - key: "Dock Types Used"
           value: "{`1` = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)}"
         - key: "Side Placed On"
@@ -29,7 +27,6 @@ This dock is yet another easy joke BOB made. In order to pull off the "non-exist
 |-|-|
 | Reserved Dock Entrance |  |
 | Entrances Used         | `1` |
-| Entrances Centered On  | {`1`} |
 | Dock Types Used        | {`1` = [`404 Dock Not Found`](/RBAP-Wiki/Wiki/Dock-Types/404-Dock-Not-Found)} |
 | Side Placed On         | `1` |
 {: .psi-panel-alternative}

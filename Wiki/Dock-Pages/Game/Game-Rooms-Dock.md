@@ -16,8 +16,6 @@ page_subject_info:
           value: "`1`"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
@@ -30,7 +28,6 @@ page_subject_info:
 |-|-|
 | Reserved Dock Entrance | `1` |
 | Entrances Used         | `1` |
-| Entrances Centered On  | {`1`} |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
 | Side Placed On         | `0.2` |
 {: .psi-panel-alternative}

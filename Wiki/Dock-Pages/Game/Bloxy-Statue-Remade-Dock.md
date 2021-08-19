@@ -15,8 +15,6 @@ page_subject_info:
           value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
@@ -29,7 +27,6 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 |-|-|
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
-| Entrances Centered On  | {`1`} |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
 | Side Placed On         | `1` |
 {: .psi-panel-alternative}
