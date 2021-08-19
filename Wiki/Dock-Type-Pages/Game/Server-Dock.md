@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Types/Server-Dock
 title: "Dock Type: Server Dock"
+page_categories:
+  system_dock: true
 page_subject_info:
   title: "Server Dock"
   color: "#a3a2a5"
@@ -58,6 +60,8 @@ page_subject_info:
         - key: "Gate Color 2"
           value: "*Default (unset)*"
 ---
+
+
 
 | Value Name               | Value |
 |-|-|
