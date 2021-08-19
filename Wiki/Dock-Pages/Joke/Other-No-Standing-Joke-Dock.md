@@ -23,7 +23,12 @@ page_subject_info:
           value: "`2`"
 ---
 
+**Note:** As of [`V4.2`](/RBAP-Wiki/Posts/Update-Log/4-2-0) this dock is currently unused and cannot be seen anywhere in the game.
+{: .page-notice .page-notice-warning}
+
 Under the hood this is the same dock as the no standing joke dock with one minor difference... instead of doing something to your character this one does a different surprise. Note that the surprise will never be listed on the wiki and is kept a secret due to it being a surprise.
+
+This dock was removed along with the release of [`V4.2`](/RBAP-Wiki/Posts/Update-Log/4-2-0) due to backend systems that the surprise of this dock relies on being removed in that update.
 
 | Value Name             | Value |
 |-|-|

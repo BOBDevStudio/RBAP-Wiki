@@ -23,7 +23,10 @@ page_subject_info:
           value: "`1`"
 ---
 
-As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this is the only joke that is currently sitting unused. It used to be used but has since then had to be removed due to it quite literally breaking the game due to its massive size. When this dock is placed the system that creates the main barriers of the map somehow turns all of them at a 90 degree angle meaning barriers can be found a little ways away from the center of the map. This issue appears to be caused by some of the Roblox's engine's API which the barrier system relies on.
+**Note:** As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this dock is currently unused and cannot be seen anywhere in the game.
+{: .page-notice .page-notice-warning}
+
+As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this dock is currently sitting unused. It used to be used but has since had to be removed due to it quite literally breaking the game due to its massive size. When this dock is placed the system that creates the main barriers of the map somehow turns all of them at a 90 degree angle meaning barriers can be found a little ways away from the center of the map. This issue appears to be caused by some of the Roblox's engine's API which the barrier system relies on. This bug still hasn't been investigated much by BOB and will probably largely remain that way for quite some time.
 
 | Value Name             | Value |
 |-|-|
