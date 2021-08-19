@@ -25,7 +25,7 @@ page_category_names:
   game_docktype_page: "In-Game Dock Types"
   removed_docktype_page: "Removed Dock Types"
   joke_docktype_page: "Joke Dock Types"
-  system_dock: "System Docks"
+  system_dock_type: "System Dock Types"
 
 footer:
   links:
