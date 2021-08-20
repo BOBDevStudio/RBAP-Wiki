@@ -5,3 +5,4 @@ listed_page_category: "docktype_page"
 ---
 
 ### In this category:
+{: .pages-in-page-category-lists-header}
