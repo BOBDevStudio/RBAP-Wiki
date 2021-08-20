@@ -13,3 +13,4 @@ sidebar:
 Currently all the joke dock types automatically get Rich Text enabled on the sign of the dock entrances they run on. This is hard-coded into the dock entrance system and is not set on a per dock type basis.
 
 ### Dock types in this category:
+{: .pages-in-page-category-lists-header}

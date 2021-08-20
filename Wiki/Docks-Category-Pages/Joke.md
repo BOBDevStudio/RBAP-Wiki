@@ -13,3 +13,4 @@ sidebar:
 Docks that are considered joke docks only appear in a special server in RBAP and completely don't exist on any other server. Each joke currently has its own dock type that also will only appear in that server and completely doesn't exist in any other servers. The special server is only accessible to people on BOB's Roblox friends list.
 
 ### Docks in this category:
+{: .pages-in-page-category-lists-header}

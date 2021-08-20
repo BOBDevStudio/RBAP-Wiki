@@ -8,3 +8,4 @@ sidebar:
 ---
 
 ### Dock types in this category:
+{: .pages-in-page-category-lists-header}
