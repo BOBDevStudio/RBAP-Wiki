@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 
@@ -28,7 +28,7 @@ page_subject_info:
 | Reserved Dock Entrance |  |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Statue Of BOB Dock`](/RBAP-Wiki/Wiki/Dock-Types/Statue-Of-BOB-Dock)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Statue-Of-BOB-Dock.png" alt="">

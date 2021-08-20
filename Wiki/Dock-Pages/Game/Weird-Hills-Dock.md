@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 BOB can never be sure why exactly he made this dock as he doesn't remember why and he can't think of any reason.
@@ -28,7 +28,7 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Weird-Hills-Dock.png" alt="">

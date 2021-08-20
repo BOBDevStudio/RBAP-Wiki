@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 This was created sometime after BOB was thinking about road signs and then realized what the no standing sign says could be used literally in a joke.
@@ -28,7 +28,7 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png" alt="">

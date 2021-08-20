@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
 
@@ -28,7 +28,7 @@ page_subject_info:
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `1` |
+| Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Camp-Fire-Dock.png" alt="">

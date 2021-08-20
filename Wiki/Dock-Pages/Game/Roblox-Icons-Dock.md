@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 ###### Read the text on the dock for description of this dock. It's pretty in-depth so didn't feel need to put it here.
@@ -28,7 +28,7 @@ page_subject_info:
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Roblox-Icons-Dock.png" alt="">

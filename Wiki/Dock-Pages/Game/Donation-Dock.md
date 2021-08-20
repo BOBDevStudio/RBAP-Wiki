@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 **Note:** This dock is currently not in game due to a bug on Roblox's end. It is unknown when it's going to be fixed.
@@ -44,7 +44,7 @@ The prices of each of the donation amounts available is meant to be able to help
 | Reserved Dock Entrance | `2` |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donation-Dock.png" alt="">

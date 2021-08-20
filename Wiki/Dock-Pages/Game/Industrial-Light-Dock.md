@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
 BOB created this light just for the fun of it. He uses it (or edited versions of it) in his projects when he needs an industrial looking light.
@@ -28,7 +28,7 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `1` |
+| Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Industrial-Light-Dock.png" alt="">

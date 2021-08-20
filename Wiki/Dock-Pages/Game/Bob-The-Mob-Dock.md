@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
 BOB was inspired to make this dock after a reply to a post that BOB made on Twitter. [Click here to see what remains of the post and it's replies](https://twitter.com/ThisBeBOB_/status/1114734536397451265).
@@ -28,7 +28,7 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `1` |
+| Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Bob-the-Mob-Dock.png" alt="">

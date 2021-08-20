@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Weird Character Physics Dock`](/RBAP-Wiki/Wiki/Dock-Types/Weird-Character-Physics-Dock)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 The thing that is special about this dock is when you move your character on to it the physics of your character are forced to be rendered by the server. For context usually your client renders your character's physics not the server.
@@ -28,7 +28,7 @@ The thing that is special about this dock is when you move your character on to 
 | Reserved Dock Entrance |  |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Weird Character Physics Dock`](/RBAP-Wiki/Wiki/Dock-Types/Weird-Character-Physics-Dock)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Weird-Character-Physics-Dock.png" alt="">

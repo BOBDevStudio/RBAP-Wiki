@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 This dock was created just for the fun of it and partly because it was because BOB was testing out new stuff that he just found out how to use. This dock is one of the oldest in the game. There have been a few times in its history when it has been placed out of service but it was repaired shortly after each of those times.
@@ -28,7 +28,7 @@ This dock was created just for the fun of it and partly because it was because B
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Mine-Dock.png" alt="">

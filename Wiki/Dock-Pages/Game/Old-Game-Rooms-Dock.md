@@ -19,7 +19,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 This is the original game rooms dock. This dock was created to give the player something to do in the game. Although not widely credited for the help, BOB had play testing help from Unbitterness before its release. Before its removal it had remained largely unchanged since it was added. The [replacement for this dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) is in the same location as this dock used to be.
@@ -33,7 +33,7 @@ Although this dock is largely considered removed it can still be seen in the gam
 | Reserved Dock Entrance | `10` |
 | Entrances Used         | `3` |
 | Dock Types Used        | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png" alt="">

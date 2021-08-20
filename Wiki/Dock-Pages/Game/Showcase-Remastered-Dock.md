@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 This is recreation of the [old window showcase](/RBAP-Wiki/Wiki/Docks/Showcase-Dock). This one was made in the late beta of the newest Roblox lighting technology. BOB decided to make this dock just for the fun of it seeing as the old one doesn't look as good as it did when it was made.
@@ -28,7 +28,7 @@ This is recreation of the [old window showcase](/RBAP-Wiki/Wiki/Docks/Showcase-D
 | Reserved Dock Entrance | *None (unset)* |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Showcase-Remastered-Dock.png" alt="">

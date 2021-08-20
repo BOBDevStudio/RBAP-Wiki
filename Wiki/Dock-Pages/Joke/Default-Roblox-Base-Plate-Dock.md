@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `2` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `3` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `4` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `5` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `6` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `7` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `8` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `9` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
 **Note:** As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this dock is currently unused and cannot be seen anywhere in the game.
@@ -31,7 +31,7 @@ As of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) this dock is currently sitting u
 | Reserved Dock Entrance |  |
 | Entrances Used         | `9` |
 | Dock Types Used        | {`1` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `2` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `3` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `4` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `5` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `6` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `7` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open), `8` = [`Default Roblox Baseplate Dock - Closed`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Closed), `9` = [`Default Roblox Baseplate Dock - Open`](/RBAP-Wiki/Wiki/Dock-Types/Default-Roblox-Baseplate-Dock-Open)} |
-| Side Placed On         | `1` |
+| Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Default-Roblox-Base-Plate-Dock.png" alt="">

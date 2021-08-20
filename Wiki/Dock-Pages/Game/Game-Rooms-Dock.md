@@ -19,7 +19,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`0.2`"
+          value: "`Middle Side 2`"
 ---
 
 
@@ -29,7 +29,7 @@ page_subject_info:
 | Reserved Dock Entrance | `1` |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `0.2` |
+| Side Placed On         | `Middle Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Dock.png" alt="">

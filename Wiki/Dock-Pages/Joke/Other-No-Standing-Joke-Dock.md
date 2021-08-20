@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)}"
         - key: "Side Placed On"
-          value: "`2`"
+          value: "`Main Side 2`"
 ---
 
 **Note:** As of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) this dock is currently unused and cannot be seen anywhere in the game.
@@ -33,7 +33,7 @@ This dock was removed along with the release of [`V5`](/RBAP-Wiki/Posts/Update-L
 | Reserved Dock Entrance |  |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Other No Standing Joke Dock`](/RBAP-Wiki/Wiki/Dock-Types/Other-No-Standing-Joke-Dock)} |
-| Side Placed On         | `2` |
+| Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Joke/Other-No-Standing-Joke-Dock.png" alt="">

@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Dock Types Used"
           value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
 This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined.
@@ -28,7 +28,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Reserved Dock Entrance | `13` |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `1` |
+| Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/NPCs-Key-Dock.png" alt="">
