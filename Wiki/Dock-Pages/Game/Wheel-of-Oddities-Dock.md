@@ -202,4 +202,4 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Was going to be listed as |  |
 | Does                      | Gives you a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap) with one minor difference: No matter what it will be activated eventually. If you do not activate it yourself within 30 seconds it will be activated by itself. |
 | Expires After             | 30 seconds (sort of) |
-| Other Info                | BOB was originally wanting to do a time bomb but then figured doing it this way would have been more funny for the player to experience. |
+| Other Info                | BOB was originally wanting to give the player a time bomb but then figured doing it this way would be more funny for the player to experience. |
