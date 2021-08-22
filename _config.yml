@@ -19,12 +19,10 @@ page_category_names:
   docks_category_page: "Docks Category Pages"
   game_dock_page: "In-Game Docks"
   removed_dock_page: "Removed Docks"
-  joke_dock_page: "Joke Docks"
   docktype_page: "Dock Types"
   docktypes_category_page: "Dock Types Category Pages"
   game_docktype_page: "In-Game Dock Types"
   removed_docktype_page: "Removed Dock Types"
-  joke_docktype_page: "Joke Dock Types"
   system_dock_type: "System Dock Types"
   new_dock_dock_type: "New Dock Dock Types"
 
