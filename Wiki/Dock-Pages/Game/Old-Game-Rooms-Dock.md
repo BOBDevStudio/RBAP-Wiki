@@ -1,7 +1,6 @@
 ---
 permalink: /Wiki/Docks/Old-Game-Rooms-Dock
 title: "Dock: Old Game Rooms Dock"
-page_wip: true
 page_subject_info:
   title: "Old Game Rooms Dock"
   color: "#a3a2a5"
@@ -13,7 +12,7 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`10`"
+          value: "`14`"
         - key: "Entrances Used"
           value: "`3`"
         - key: "Dock Types Used"
@@ -30,7 +29,7 @@ Although this dock is largely considered removed it can still be seen in the gam
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | `10` |
+| Reserved Dock Entrance | `14` |
 | Entrances Used         | `3` |
 | Dock Types Used        | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
 | Side Placed On         | `Main Side 2` |
