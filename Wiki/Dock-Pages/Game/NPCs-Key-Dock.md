@@ -12,7 +12,7 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`13`"
+          value: "`15`"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Types Used"
@@ -25,7 +25,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 
 | Value Name             | Value |
 |-|-|
-| Reserved Dock Entrance | `13` |
+| Reserved Dock Entrance | `15` |
 | Entrances Used         | `1` |
 | Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
 | Side Placed On         | `Main Side 1` |
