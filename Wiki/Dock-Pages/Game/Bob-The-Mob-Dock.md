@@ -1,12 +1,12 @@
 ---
 permalink: /Wiki/Docks/Bob-The-Mob-Dock
-title: "Dock: Bob The Mob Dock"
+title: "Dock: Bob the Mob Dock"
 page_subject_info:
-  title: "Bob The Mob Dock"
+  title: "Bob the Mob Dock"
   color: "#00ffc8"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Docks/Bob-the-Mob-Dock.png"
+    path: "/Assets/Images/Docks/Bob-The-Mob-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -31,4 +31,4 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Side Placed On         | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Bob-the-Mob-Dock.png" alt="">
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Bob-The-Mob-Dock.png" alt="">
