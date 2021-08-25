@@ -21,11 +21,11 @@ page_subject_info:
           value: "`Main Side 1` but at [put time here] it will automatically be changed to `Main Side 2`"
 ---
 
-The Wheel of Oddities is a dock inspired (although not directly) by wheels you might see at a carnival or on the Wheel of Fortune game show. It features 16 different rewards all of which have the same chance of being selected and all of which (if possible) will expire after 30 seconds. The name for the dock was made by BOB and he surprisingly came up with it pretty quickly as he came up with the name right after we started thinking about names for it.
+The Wheel of Oddities is a dock inspired (although not directly) by wheels you might see at a carnival or on the Wheel of Fortune game show. It features 16 different rewards all of which have the same chance of being selected and all of which (if possible) will expire after 30 seconds. The name for the dock was made by BOB and he surprisingly came up with it pretty quickly as he came up with the name right after he started thinking about names for it.
 
-There are two determining factors that help in selecting a reward. They are Roblox physics and the amount of time the wheel is being spun for. There is a chance that you'll get the same reward twice but these two factors put together make it very rare. Fun fact: Even if the wheel is spun for the same amount of time on the first spin multiple times in a row there is still a low chance that it will land on the same thing that it did previously.
+There are two determining factors that help in selecting a reward. They are Roblox physics and the amount of time the wheel is being spun for. There is a chance that you'll get the same reward as you did on a previous spin but these two factors put together make it very rare. Fun fact: Even if the wheel is spun for the same amount of time on the first spin multiple times in a row there is still a low chance that it will land on the same thing that it did previously.
 
-The wheel can be spun for 12 to 20 seconds. When the wheel is being spun the arrow doesn't try to center itself meaning it just gets pushed off to the side by the rapidly accelerating wheel. After the wheel is no longer being spun the arrow will start to try to center itself (meaning the wheel gets slow down) and the light on the tip of it is turned on.
+The wheel can be spun for 12 to 20 seconds. When the wheel is being spun the arrow doesn't try to center itself meaning it just gets pushed off to the side by the rapidly accelerating wheel. After the wheel is no longer being spun the arrow will start to try to center itself (meaning the wheel gets slowed down) and the light on the tip of it is turned on.
 
 Once the arrow starts to try to center itself it has 30 seconds to land on something or the wheel will be hard reset. This is due to the fact that although rare the arrow can get stuck on one of the pegs in the wheel.
 
@@ -70,7 +70,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | Let's play some pinball! |
 | Was going to be listed as |  |
-| Does                      | Set your character's walk speed to a number in between 500 and 1500 |
+| Does                      | Sets your character's walk speed to a number in between 500 and 1500 |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
@@ -152,7 +152,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Was going to be listed as |  |
 | Does                      | Teleports your character on top of the top floor of the entrance elevator. |
 | Expires After             | 30 seconds |
-| Other Info                |  |
+| Other Info                | This was originally just going to teleport your character somewhere random on the map but due to that being somewhat complicated and it being cooler to be teleported to an usually off-limits area with a good view that idea got scrapped. |
 
 ### 12. Your character gets spun
 
@@ -190,7 +190,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | Ouch! I must have hurt my knee! |
 | Was going to be listed as |  |
-| Does                      | Set your character's walk speed to a number in between 1 and 10. |
+| Does                      | Sets your character's walk speed to a number in between 1 and 10. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
@@ -200,6 +200,6 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | Oh! A present for me?! |
 | Was going to be listed as |  |
-| Does                      | Gives you a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap) with one minor difference: No matter what it will be activated eventually. If you do not activate it yourself within 30 seconds it will be activated by itself. |
+| Does                      | Gives you a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap) *with **one** minor difference*: No matter what it will be activated eventually. If you do not activate it yourself within 30 seconds it will be activated by itself. |
 | Expires After             | 30 seconds (sort of) |
-| Other Info                | BOB was originally wanting to give the player a time bomb but then figured doing it this way would be more funny for the player to experience. |
+| Other Info                | BOB originally wanted to give the player a time bomb but figured doing it this way would be more funny for the player to experience. |
