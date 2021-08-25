@@ -1,12 +1,12 @@
 ---
-permalink: /Wiki/Docks/Donation-Dock
-title: "Dock: Donation Dock"
+permalink: /Wiki/Docks/Donations-Dock
+title: "Dock: Donations Dock"
 page_subject_info:
-  title: "Donation Dock"
+  title: "Donations Dock"
   color: "#96fa96"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Docks/Donation-Dock.png"
+    path: "/Assets/Images/Docks/Donations-Dock.png"
 #  description: ""
   data:
     - title: "Dock Data"
@@ -47,4 +47,4 @@ The prices of each of the donation amounts available is meant to be able to help
 | Side Placed On         | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donation-Dock.png" alt="">
+<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donations-Dock.png" alt="">
