@@ -1,43 +1,43 @@
 ---
-permalink: /Wiki/Dock-Types/Server-Dock
-title: "Dock Type: Server Dock"
+permalink: /Wiki/Dock-Entrance-Types/Open-New-Dock
+title: "Dock Entrance Type: Open - New Dock"
 page_categories:
-  system_dock_type: true
+  new_dock_dock_entrance_type: true
 page_subject_info:
-  title: "Server Dock"
+  title: "Open - New Dock"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Dock-Types/Server-Dock.png"
+    path: "/Assets/Images/Dock-Entrance-Types/Open-New-Dock.png"
 #  description: ""
   data:
-    - title: "Dock Type Data"
+    - title: "Dock Entrance Type Data"
       data:
         - key: "Sign Text"
-          value: "`[Server Dock]: This dock contains statistics about the server and the game`"
+          value: "`This dock is currently open`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`False`"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"
           value: "`True`"
         - key: "Main Light 1 On"
-          value: "`True`"
+          value: "`False`"
         - key: "Main Light 1 Color"
           color_image:
-            name: "White"
+            name: "Red"
             dock_type_color: true
         - key: "Main Light 2 On"
-          value: "`True`"
+          value: "`False`"
         - key: "Main Light 2 Color"
           color_image:
-            name: "White"
+            name: "Yellow"
             dock_type_color: true
         - key: "Main Light 3 On"
           value: "`True`"
         - key: "Main Light 3 Color"
           color_image:
-            name: "White"
+            name: "Green"
             dock_type_color: true
         - key: "Warning Light 1 Light On"
           value: "*Default (unset)*"
@@ -65,16 +65,16 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | `[Server Dock]: This dock contains statistics about the server and the game` |
-| Is System Dock           | `True` - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock) |
+| Sign Text                | `This dock is currently open` |
+| Is System Dock           | `False` |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
-| Main Light 1 On          | `True` |
-| Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
-| Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Main Light 1 On          | `False` |
+| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
+| Main Light 2 On          | `False` |
+| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
 | Main Light 3 On          | `True` |
-| Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="White" alt="" -%} |
+| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
 | Warning Light 1 Light On | *Default (unset)* |
 | Warning Light 1 Spinning | *Default (unset)* |
 | Warning Light 1 Color    | *Default (unset)* |
@@ -87,4 +87,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Server-Dock.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Open-New-Dock.png" alt="">

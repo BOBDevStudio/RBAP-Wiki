@@ -15,8 +15,8 @@ page_subject_info:
           value: "`14`"
         - key: "Entrances Used"
           value: "`3`"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -29,12 +29,12 @@ Although this dock is largely considered removed it can still be seen in the gam
 
 Although she did choose the 24th (on June 24th 2021 (that's where it came from)) she had no idea that it would be used for this. BOB decided not to tell her until a little while after she chose it for the fun of it.
 
-| Value Name             | Value |
+| Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance | `14` |
-| Entrances Used         | `3` |
-| Dock Types Used        | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Types/Closed)} |
-| Side Placed On         | `Main Side 2` |
+| Reserved Dock Entrance   | `14` |
+| Entrances Used           | `3` |
+| Dock Entrance Types Used | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed)} |
+| Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Old-Game-Rooms-Dock.png" alt="">

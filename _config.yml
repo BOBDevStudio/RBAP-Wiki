@@ -19,12 +19,12 @@ page_category_names:
   docks_category_page: "Docks Category Pages"
   game_dock_page: "In-Game Docks"
   removed_dock_page: "Removed Docks"
-  docktype_page: "Dock Types"
-  docktypes_category_page: "Dock Types Category Pages"
-  game_docktype_page: "In-Game Dock Types"
-  removed_docktype_page: "Removed Dock Types"
-  system_dock_type: "System Dock Types"
-  new_dock_dock_type: "New Dock Dock Types"
+  dockentrancetype_page: "Dock Entrance Types"
+  dockentrancetypes_category_page: "Dock Entrance Types Category Pages"
+  game_dockentrancetype_page: "In-Game Dock Entrance Types"
+  removed_dockentrancetype_page: "Removed Dock Entrance Types"
+  system_dock_entrance_type: "System Dock Entrance Types"
+  new_dock_dock_entrance_type: "New Dock Dock Entrance Types"
 
 footer:
   links:
@@ -119,44 +119,44 @@ defaults:
       sidebar:
         nav: "Wiki_DocksCategory_Joke"
   - scope:
-      path: "Wiki/Dock-Types-Category-Pages/*"
+      path: "Wiki/Dock-Entrance-Types-Category-Pages/*"
       type: pages
     values:
       page_categories:
-#        docktype_page: true
-        docktypes_category_page: true
+#        dockentrancetype_page: true
+        dockentrancetypes_category_page: true
   - scope:
-      path: "Wiki/Dock-Type-Pages/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/*"
       type: pages
     values:
-      title: "[Dock Type Name N/A]"
+      title: "[Dock Entrance Type Name N/A]"
       short_description: ""
       page_categories:
-        docktype_page: true
+        dockentrancetype_page: true
   - scope:
-      path: "Wiki/Dock-Type-Pages/Game/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/Game/*"
       type: pages
     values:
       page_categories:
-        game_docktype_page: true
+        game_dockentrancetype_page: true
       sidebar:
-        nav: "Wiki_DockTypesCategory_Game"
+        nav: "Wiki_DockEntranceTypesCategory_Game"
   - scope:
-      path: "Wiki/Dock-Type-Pages/Removed/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/Removed/*"
       type: pages
     values:
       page_categories:
-        removed_docktype_page: true
+        removed_dockentrancetype_page: true
       sidebar:
-        nav: "Wiki_DockTypesCategory_Removed"
+        nav: "Wiki_DockEntranceTypesCategory_Removed"
   - scope:
-      path: "Wiki/Dock-Type-Pages/Joke/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/Joke/*"
       type: pages
     values:
       page_categories:
-        joke_docktype_page: true
+        joke_dockentrancetype_page: true
       sidebar:
-        nav: "Wiki_DockTypesCategory_Joke"
+        nav: "Wiki_DockEntranceTypesCategory_Joke"
   - scope:
       path: ""
       type: posts

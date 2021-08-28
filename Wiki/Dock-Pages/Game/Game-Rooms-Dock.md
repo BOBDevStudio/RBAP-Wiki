@@ -16,20 +16,20 @@ page_subject_info:
           value: "`1`"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Middle Side 2`"
 ---
 
 
 
-| Value Name             | Value |
+| Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance | `1` |
-| Entrances Used         | `1` |
-| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `Middle Side 2` |
+| Reserved Dock Entrance   | `1` |
+| Entrances Used           | `1` |
+| Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
+| Side Placed On           | `Middle Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Dock.png" alt="">

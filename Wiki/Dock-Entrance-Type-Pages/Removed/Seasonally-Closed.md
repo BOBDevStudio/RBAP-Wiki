@@ -1,26 +1,26 @@
 ---
-permalink: /Wiki/Dock-Types/Hidden-Dock
-title: "Dock Type: Hidden Dock"
+permalink: /Wiki/Dock-Entrance-Types/Seasonally-Closed
+title: "Dock Entrance Type: Seasonally Closed"
 page_subject_info:
-  title: "Hidden Dock"
+  title: "Seasonally Closed"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Dock-Types/Hidden-Dock.png"
+    path: "/Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png"
 #  description: ""
   data:
-    - title: "Dock Type Data"
+    - title: "Dock Entrance Type Data"
       data:
         - key: "Sign Text"
-          value: "`This dock is currently open`"
+          value: "`This dock is currently closed for the season`"
         - key: "Is System Dock"
           value: "`False`"
         - key: "Is Bridge Down"
-          value: "`True`"
-        - key: "Is Gate Down"
-          value: "`True`"
-        - key: "Main Light 1 On"
           value: "`False`"
+        - key: "Is Gate Down"
+          value: "`False`"
+        - key: "Main Light 1 On"
+          value: "`True`"
         - key: "Main Light 1 Color"
           color_image:
             name: "Red"
@@ -32,10 +32,10 @@ page_subject_info:
             name: "Yellow"
             dock_type_color: true
         - key: "Main Light 3 On"
-          value: "`True`"
+          value: "`False`"
         - key: "Main Light 3 Color"
           color_image:
-            name: "Purple"
+            name: "Green"
             dock_type_color: true
         - key: "Warning Light 1 Light On"
           value: "*Default (unset)*"
@@ -59,20 +59,20 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock type as previous ones were removed in [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game due to limitations of newly-implemented systems (like the dock placing system). Some of the limitations still have yet to be lifted as of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) the most notable being the dock placing system.
+This dock entrance type was used in the winter of 2019 and 2020 due to the snow going through covered areas. Since falling show hasn't made a return yet this dock entrance type has yet to be used again.
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | `This dock is currently open` |
+| Sign Text                | `This dock is currently closed for the season` |
 | Is System Dock           | `False` |
-| Is Bridge Down           | `True` |
-| Is Gate Down             | `True` |
-| Main Light 1 On          | `False` |
-| Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
+| Is Bridge Down           | `False` |
+| Is Gate Down             | `False` |
+| Main Light 1 On          | `True` |
+| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
 | Main Light 2 On          | `False` |
-| Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
-| Main Light 3 On          | `True` |
-| Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Purple" alt="" -%} |
+| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
+| Main Light 3 On          | `False` |
+| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
 | Warning Light 1 Light On | *Default (unset)* |
 | Warning Light 1 Spinning | *Default (unset)* |
 | Warning Light 1 Color    | *Default (unset)* |
@@ -85,4 +85,4 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Hidden-Dock.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png" alt="">

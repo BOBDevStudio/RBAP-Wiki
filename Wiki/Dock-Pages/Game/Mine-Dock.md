@@ -15,8 +15,8 @@ page_subject_info:
           value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -25,10 +25,10 @@ This dock was created just for the fun of it and partly because it was because B
 
 | Value Name | Value |
 |-|-|
-| Reserved Dock Entrance | *None (unset)* |
-| Entrances Used         | `1` |
-| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | `Main Side 2` |
+| Reserved Dock Entrance   | *None (unset)* |
+| Entrances Used           | `1` |
+| Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
+| Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Mine-Dock.png" alt="">

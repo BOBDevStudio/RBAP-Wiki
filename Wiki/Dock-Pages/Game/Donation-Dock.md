@@ -15,8 +15,8 @@ page_subject_info:
           value: "`2`"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -39,12 +39,12 @@ The prices of each of the donation amounts available is meant to be able to help
 | #5 | 250 Robux |
 | #6 | 1000 Robux |
 
-| Value Name             | Value |
+| Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance | `2` |
-| Entrances Used         | `1` |
-| Dock Types Used        | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Types/Main-Build-Purchases-Closed)} |
-| Side Placed On         | `Main Side 2` |
+| Reserved Dock Entrance   | `2` |
+| Entrances Used           | `1` |
+| Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} or {`1` = [`Main Build Purchases Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)} |
+| Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donations-Dock.png" alt="">

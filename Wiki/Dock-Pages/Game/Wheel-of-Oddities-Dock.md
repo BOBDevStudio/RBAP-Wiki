@@ -15,8 +15,8 @@ page_subject_info:
           value: "`2` but at [put time here] it will automatically be changed to *None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 1` but at [put time here] it will automatically be changed to `Main Side 2`"
 ---
@@ -29,12 +29,12 @@ The wheel can be spun for 12 to 20 seconds. When the wheel is being spun the arr
 
 Once the arrow starts to try to center itself it has 30 seconds to land on something or the wheel will be hard reset. This is due to the fact that although rare the arrow can get stuck on one of the pegs in the wheel.
 
-| Value Name             | Value |
+| Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance | `2` but at [put time here] it will automatically be changed to *None (unset)* |
-| Entrances Used         | `1` |
-| Dock Types Used        | {`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | "`Main Side 1` but at [put time here] it will automatically be changed to `Main Side 2` |
+| Reserved Dock Entrance   | `2` but at [put time here] it will automatically be changed to *None (unset)* |
+| Entrances Used           | `1` |
+| Dock Entrance Types Used | {`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
+| Side Placed On           | "`Main Side 1` but at [put time here] it will automatically be changed to `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" alt="">

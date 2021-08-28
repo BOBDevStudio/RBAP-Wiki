@@ -37,7 +37,7 @@ In the current version of the Random Buildings And Parts most docks are automati
 |-|-|-|
 | Reserved Dock Entrance | Number or none                                      | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
 | Entrances Used         | Number                                              | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
-| Dock Types Used        | Table of [`Dock Types`](/RBAP-Wiki/Wiki/Dock-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
+| Dock Entrance Types Used        | Table of [`Dock Entrance Types`](/RBAP-Wiki/Wiki/Dock-Entrance-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
 | Side Placed On         | Side name                                           | The side of the map the dock is to be placed on. |
 
 ## Here's the list of categories of docks:

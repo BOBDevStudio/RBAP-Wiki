@@ -1,18 +1,18 @@
 ---
-permalink: /Wiki/Dock-Types/Under-Maintenance
-title: "Dock Type: Under Maintenance"
+permalink: /Wiki/Dock-Entrance-Types/Closed
+title: "Dock Entrance Type: Closed"
 page_subject_info:
-  title: "Under Maintenance"
+  title: "Closed"
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Dock-Types/Under-Maintenance.png"
+    path: "/Assets/Images/Dock-Entrance-Types/Closed.png"
 #  description: ""
   data:
-    - title: "Dock Type Data"
+    - title: "Dock Entrance Type Data"
       data:
         - key: "Sign Text"
-          value: "`This dock is currently under maintenance`"
+          value: "`This dock is currently closed`"
         - key: "Is System Dock"
           value: "`False`"
         - key: "Is Bridge Down"
@@ -20,13 +20,13 @@ page_subject_info:
         - key: "Is Gate Down"
           value: "`False`"
         - key: "Main Light 1 On"
-          value: "`False`"
+          value: "`True`"
         - key: "Main Light 1 Color"
           color_image:
             name: "Red"
             dock_type_color: true
         - key: "Main Light 2 On"
-          value: "`True`"
+          value: "`False`"
         - key: "Main Light 2 Color"
           color_image:
             name: "Yellow"
@@ -59,20 +59,20 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This is the generic under maintenance dock type. This dock type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
+This is the generic closed dock entrance type. It is pretty self-explanatory why it is used. Also here's a fun fact before the game loads in the docks all docks entrances are set to this dock entrance type.
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | `This dock is currently under maintenance` |
+| Sign Text                | `This dock is currently closed` |
 | Is System Dock           | `False` |
 | Is Bridge Down           | `False` |
 | Is Gate Down             | `False` |
-| Main Light 1 On          | `False` |
-| Main Light 1 Color       | {%- include color-image fordocktypecolor=true name="Red" alt="" -%} |
-| Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordocktypecolor=true name="Yellow" alt="" -%} |
+| Main Light 1 On          | `True` |
+| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
+| Main Light 2 On          | `False` |
+| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
 | Main Light 3 On          | `False` |
-| Main Light 3 Color       | {%- include color-image fordocktypecolor=true name="Green" alt="" -%} |
+| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
 | Warning Light 1 Light On | *Default (unset)* |
 | Warning Light 1 Spinning | *Default (unset)* |
 | Warning Light 1 Color    | *Default (unset)* |
@@ -85,4 +85,4 @@ This is the generic under maintenance dock type. This dock type is used when a d
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Types/Under-Maintenance.png" alt="">
+<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Closed.png" alt="">
