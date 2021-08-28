@@ -27,6 +27,8 @@ This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Posts/Updat
 
 Although this dock is largely considered removed it can still be seen in the game on the 24th of any month (in the time zone the game uses). This easter egg was added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) and the day was chosen by Unbitterness. This easter egg is meant to be a tribute to Unbitterness for helping out with the creation of this dock which was largely uncredited for a while.
 
+Although she did choose the 24th (on June 24th 2021 (that's where it came from)) she had no idea that it would be used for this. BOB decided not to tell her until a little while after she chose it for the fun of it.
+
 | Value Name             | Value |
 |-|-|
 | Reserved Dock Entrance | `14` |
