@@ -85,4 +85,4 @@ This dock entrance type was originally added for the [Mine Dock](/RBAP-Wiki/Wiki
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Cooldown.png" alt="">
+<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Cooldown.png" alt="">

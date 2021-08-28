@@ -85,4 +85,4 @@ This is the generic under maintenance dock entrance type. This dock entrance typ
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" alt="">
+<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" alt="">

@@ -85,4 +85,4 @@ This is the generic closed dock entrance type. It is pretty self-explanatory why
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Closed.png" alt="">
+<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Closed.png" alt="">
