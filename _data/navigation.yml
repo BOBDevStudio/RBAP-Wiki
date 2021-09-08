@@ -30,6 +30,8 @@ Wiki:
         url: "/Wiki/Walkway-Transportation#player-conveyors"
       - title: "The Traveler"
         url: "/Wiki/Walkway-Transportation#the-traveler"
+  - title: "Music"
+    url: "/Wiki/Music"
 
 Wiki_DocksCategory_Game:
   - title: "Home"
@@ -89,6 +91,8 @@ Wiki_DocksCategory_Game:
         url: "/Wiki/Walkway-Transportation#player-conveyors"
       - title: "The Traveler"
         url: "/Wiki/Walkway-Transportation#the-traveler"
+  - title: "Music"
+    url: "/Wiki/Music"
 
 Wiki_DocksCategory_Removed:
   - title: "Home"
@@ -118,6 +122,8 @@ Wiki_DocksCategory_Removed:
         url: "/Wiki/Walkway-Transportation#player-conveyors"
       - title: "The Traveler"
         url: "/Wiki/Walkway-Transportation#the-traveler"
+  - title: "Music"
+    url: "/Wiki/Music"
 
 Wiki_DockEntranceTypesCategory_Game:
   - title: "Home"
@@ -151,6 +157,8 @@ Wiki_DockEntranceTypesCategory_Game:
         url: "/Wiki/Walkway-Transportation#player-conveyors"
       - title: "The Traveler"
         url: "/Wiki/Walkway-Transportation#the-traveler"
+  - title: "Music"
+    url: "/Wiki/Music"
 
 Wiki_DockEntranceTypesCategory_Removed:
   - title: "Home"
@@ -178,6 +186,8 @@ Wiki_DockEntranceTypesCategory_Removed:
         url: "/Wiki/Walkway-Transportation#player-conveyors"
       - title: "The Traveler"
         url: "/Wiki/Walkway-Transportation#the-traveler"
+  - title: "Music"
+    url: "/Wiki/Music"
 
 UpdateLogs:
   - title: "Notes about the update log system"
