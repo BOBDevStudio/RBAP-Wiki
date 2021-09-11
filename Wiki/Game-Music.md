@@ -19,53 +19,74 @@ Random Buildings And Parts has a wide variety of music and this page is here to 
 
 # Here's the list of music in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
 
-(The lists are not in any particular order)
+In [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) music that appears in certain time frames uses the game's time zone to determine what time it is. (Also the lists are not in any particular order.)
 
 ## Main List (appears at any time):
 
-| Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Other Notes |
-|-|-|-|-|-|-|
-| `Carnival Time` | [Roblox](https://www.roblox.com/library/1848366912) + [APM Album]() | true | false | false |  |
-| `Marching To Honolulu` | [Roblox](https://www.roblox.com/library/1845891274) + [APM Album]() | true | false | false |  |
-| `On The Beach` | [Roblox](https://www.roblox.com/library/1845891180) + [APM Album]() | true | false | false |  |
-| `Seaside Parade` | [Roblox](https://www.roblox.com/library/1848368912) + [APM Album]() | true | false | false |  |
-| `Stadium Rave (A)` | [Roblox](https://www.roblox.com/library/1846368080) + [APM Album]() | false | false | true |  |
-| `Tin Hat Party Time (c)` | [Roblox](https://www.roblox.com/library/1838076985) + [APM Album]() | false | false | true |  |
-| `Believer` | [Roblox](https://www.roblox.com/library/1844348402) + [APM Album]() | false | true | false |  |
-| `Hard Bass` | [Roblox](https://www.roblox.com/library/1839247090) + [APM Album]() | false | true | false |  |
-| `Invincible` | [Roblox](https://www.roblox.com/library/1845426851) + [APM Album]() | false | true | true |  |
-| `K-kook A` | [Roblox](https://www.roblox.com/library/1847515957) + [APM Album]() | false | true | true |  |
-| `Looking at Me` | [Roblox](https://www.roblox.com/library/1837350830) + [APM Album]() | false | true | true |  |
-| `Paradise Falls` | [Roblox](https://www.roblox.com/library/1837879082) + [APM Album]() | false | true | false |  |
-| `Pop In Fashion` | [Roblox](https://www.roblox.com/library/1848347365) + [APM Album]() | false | true | false |  |
-| `Robotic Dance C` | [Roblox](https://www.roblox.com/library/1847853099) + [APM Album]() | false | true | false |  |
-| `Route 666 (a)` | [Roblox](https://www.roblox.com/library/1837711893) + [APM Album]() | false | true | true |  |
-| `Shake Shake` | [Roblox](https://www.roblox.com/library/1841590316) + [APM Album]() | false | true | false |  |
-| `Sunrise Workout` | [Roblox](https://www.roblox.com/library/1837324500) + [APM Album]() | false | true | false | Appears in the intro as well. |
-| `Take Me (a)` | [Roblox](https://www.roblox.com/library/1847177416) + [APM Album]() | false | true | true |  |
-| `Uptown` | [Roblox](https://www.roblox.com/library/1845554017) + [APM Album]() | false | true | false |  |
-| `Winners Ahead (a)` | [Roblox](https://www.roblox.com/library/1848366549) + [APM Album]() | false | false | true |  |
-| `Wonderful Day` | [Roblox](https://www.roblox.com/library/1843397729) + [APM Album]() | false | true | false |  |
-| `Fight Together` | [Roblox](https://www.roblox.com/library/1843324336) + [APM Album]() | false | true | false |  |
-| `Heavy Stepper` | [Roblox](https://www.roblox.com/library/1841675430) + [APM Album]() | false | true | false |  |
-| `Moonlight Party` | [Roblox](https://www.roblox.com/library/1843367152) + [APM Album]() | false | true | false |  |
-| `Loving Electro House` | [Roblox](https://www.roblox.com/library/1836160816) + [APM Album]() | false | true | false |  |
-| `Digiboy` | [Roblox](https://www.roblox.com/library/1841675326) + [APM Album]() | false | true | false |  |
-| `Cheerful Tropical Hous` | [Roblox](https://www.roblox.com/library/1836105254) + [APM Album]() | false | true | false |  |
-| `Hypnolove` | [Roblox](https://www.roblox.com/library/1837663800) + [APM Album]() | false | true | false |  |
-| `Sugar Sweat` | [Roblox](https://www.roblox.com/library/1841589673) + [APM Album]() | false | true | false |  |
-| `Tender Tropical House` | [Roblox](https://www.roblox.com/library/1836105293) + [APM Album]() | false | true | false |  |
-| `Light It Up (b)` | [Roblox](https://www.roblox.com/library/1837999739) + [APM Album]() | false | true | false |  |
-| `Feeling You` | [Roblox](https://www.roblox.com/library/1837693079) + [APM Album]() | false | true | false |  |
-| `Jump Up` | [Roblox](https://www.roblox.com/library/1839940083) + [APM Album]() | false | false | true |  |
-| `Angles` | [Roblox](https://www.roblox.com/library/1841675486) + [APM Album]() | false | false | true |  |
-| `Chasing the Sunrise` | [Roblox](https://www.roblox.com/library/1837997983) + [APM Album]() | false | true | false |  |
-| `Cloud 10 (a)` | [Roblox](https://www.roblox.com/library/1840067026) + [APM Album]() | true | false | false |  |
+| Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Other Notes |
+|-|-|-|-|-|-|-|
+| `Carnival Time`						| [Roblox](https://www.roblox.com/library/1848366912) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Marching To Honolulu`				| [Roblox](https://www.roblox.com/library/1845891274) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `On The Beach`						| [Roblox](https://www.roblox.com/library/1845891180) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Seaside Parade`						| [Roblox](https://www.roblox.com/library/1848368912) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Stadium Rave (A)`					| [Roblox](https://www.roblox.com/library/1846368080) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Tin Hat Party Time (c)`				| [Roblox](https://www.roblox.com/library/1838076985) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Believer` 							| [Roblox](https://www.roblox.com/library/1844348402) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Hard Bass`							| [Roblox](https://www.roblox.com/library/1839247090) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Invincible`							| [Roblox](https://www.roblox.com/library/1845426851) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `K-kook A`							| [Roblox](https://www.roblox.com/library/1847515957) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Looking at Me`						| [Roblox](https://www.roblox.com/library/1837350830) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Paradise Falls`						| [Roblox](https://www.roblox.com/library/1837879082) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Pop In Fashion`						| [Roblox](https://www.roblox.com/library/1848347365) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Robotic Dance C`						| [Roblox](https://www.roblox.com/library/1847853099) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Route 666 (a)`						| [Roblox](https://www.roblox.com/library/1837711893) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Shake Shake`							| [Roblox](https://www.roblox.com/library/1841590316) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Sunrise Workout`						| [Roblox](https://www.roblox.com/library/1837324500) + [APM]() | ❌ | ✔️ | ❌ | ❌ | Appears in the intro as well. |
+| `Take Me (a)`							| [Roblox](https://www.roblox.com/library/1847177416) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Uptown`								| [Roblox](https://www.roblox.com/library/1845554017) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Winners Ahead (a)`					| [Roblox](https://www.roblox.com/library/1848366549) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Wonderful Day`						| [Roblox](https://www.roblox.com/library/1843397729) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Fight Together`						| [Roblox](https://www.roblox.com/library/1843324336) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Heavy Stepper`						| [Roblox](https://www.roblox.com/library/1841675430) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Moonlight Party`						| [Roblox](https://www.roblox.com/library/1843367152) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Loving Electro House`				| [Roblox](https://www.roblox.com/library/1836160816) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Digiboy`								| [Roblox](https://www.roblox.com/library/1841675326) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Cheerful Tropical House`				| [Roblox](https://www.roblox.com/library/1836105254) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Hypnolove`							| [Roblox](https://www.roblox.com/library/1837663800) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Sugar Sweat`							| [Roblox](https://www.roblox.com/library/1841589673) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Tender Tropical House`				| [Roblox](https://www.roblox.com/library/1836105293) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Light It Up (b)`						| [Roblox](https://www.roblox.com/library/1837999739) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Feeling You`							| [Roblox](https://www.roblox.com/library/1837693079) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Jump Up`								| [Roblox](https://www.roblox.com/library/1839940083) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Angles`								| [Roblox](https://www.roblox.com/library/1841675486) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Chasing the Sunrise`					| [Roblox](https://www.roblox.com/library/1837997983) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Cloud 10 (a)`						| [Roblox](https://www.roblox.com/library/1840067026) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Extra Life`							| [Roblox](https://www.roblox.com/library/1836002215) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Straight To Victory`					| [Roblox](https://www.roblox.com/library/1838659202) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `The Wild One`						| [Roblox](https://www.roblox.com/library/1848269623) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Untouchable`							| [Roblox](https://www.roblox.com/library/1837681287) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Good Morning Goodbye (b)`			| [Roblox](https://www.roblox.com/library/1840058466) + [APM]() | ❌ | ✔️ | ❌ | ✔️ |  |
 
 ## Christmas (appears December 20th-26th):
 
-| Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Other Notes |
-|-|-|-|-|-|-|
-| `You Set Me Free c` | [Roblox](https://www.roblox.com/library/1841446105) + [APM Album]() | false | true | true |  |
+| Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Other Notes |
+|-|-|-|-|-|-|-|
+| `You Set Me Free c` 					| [Roblox](https://www.roblox.com/library/1841446105) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Make What You Got c` 				| [Roblox](https://www.roblox.com/library/1841445653) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Rambling Rover b` 					| [Roblox](https://www.roblox.com/library/1841445791) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Sky Lights Up c` 					| [Roblox](https://www.roblox.com/library/1841445882) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Better Day c` 						| [Roblox](https://www.roblox.com/library/1841445990) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Took My Heart c` 					| [Roblox](https://www.roblox.com/library/1841445989) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `In Ya Face b` 						| [Roblox](https://www.roblox.com/library/1841446197) + [APM]() | ❌ | ✔️ | ✔️ | ❌ |  |
+| `Catch Me If You Can - Instrumental` 	| [Roblox](https://www.roblox.com/library/1841446225) + [APM]() | ❌ | ✔️ | ❌ | ❌ |  |
+| `Going to Bristol c` 					| [Roblox](https://www.roblox.com/library/1841446286) + [APM]() | ❌ | ❌ | ✔️ | ❌ |  |
+| `Kooky Rock Out b` 					| [Roblox](https://www.roblox.com/library/1841446245) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
+| `Castles and Crayons b`			 	| [Roblox](https://www.roblox.com/library/1841446397) + [APM]() | ✔️ | ❌ | ❌ | ❌ |  |
 
-{%- comment -%} | ` ` | [Roblox](https://www.roblox.com/library/) + [APM Album]() | false | false | false |  | -- FYI this is used as a template {%- endcomment -%}
+## Christmas Day (appears December 24th-25th):
+
+| Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Other Notes |
+|-|-|-|-|-|-|-|
+| `Christmas Party`						| [Roblox](https://www.roblox.com/library/1841446876) + [APM]() | ✔️ | ✔️ | ❌ | ✔️ |  |
+
+{%- comment -%} | ` ` | [Roblox](https://www.roblox.com/library/) + [APM]() | ❌ | ❌ | ❌ | ❌ |  | -- FYI this is used as a template {%- endcomment -%}
