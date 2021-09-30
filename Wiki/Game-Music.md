@@ -89,4 +89,4 @@ All songs that were added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) were foun
 |-|-|-|-|-|-|-|-|
 | `Christmas Party`						| [Roblox](https://www.roblox.com/library/1841446876) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0803/KPM_KPM_0803_02901)				| ✔️ | ✔️ | ❌ | ✔️ | [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)	| Has triple the normal chance of playing. |
 
-{%- comment -%} | ` ` | [Roblox](https://www.roblox.com/library/) + [APM](	| ❌ | ❌ | ❌ | ❌ | [`V0`](/RBAP-Wiki/Posts/Update-Log/0-0-0)	|  | -- FYI this is used as a template {%- endcomment -%}
+{%- comment -%} | ` ` | [Roblox](https://www.roblox.com/library/) + [APM]()	| ❌ | ❌ | ❌ | ❌ | [`V0`](/RBAP-Wiki/Posts/Update-Log/0-0-0)	|  | -- FYI this is used as a template {%- endcomment -%}
