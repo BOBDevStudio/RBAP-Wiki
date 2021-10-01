@@ -14,7 +14,7 @@ Wiki:
     children:
       - title: "In-Game"
         url: "/Wiki/Docks/Category/In-Game"
-      - title: "Removed"
+      - title: "Removed/Unused"
         url: "/Wiki/Docks/Category/Removed"
   - title: "Dock Entrance Types"
     url: "/Wiki/Dock-Entrance-Types"
