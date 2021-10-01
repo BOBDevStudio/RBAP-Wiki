@@ -1,35 +1,35 @@
 ---
-permalink: /Wiki/Timed-Events
-title: Timed Events
+permalink: /Wiki/Timed-Changes
+title: Timed Changes
 redirect_from:
-  - /Wiki/timed-Events
-  - /Wiki/Timed-events
-  - /Wiki/timed-events
-  - /Wiki/Timed-Events/
-  - /Wiki/timed-Events/
-  - /Wiki/Timed-events/
-  - /Wiki/timed-events/
-  - /wiki/Timed-Events
-  - /wiki/timed-Events
-  - /wiki/Timed-events
-  - /wiki/timed-events
-  - /wiki/Timed-Events/
-  - /wiki/timed-Events/
-  - /wiki/Timed-events/
-  - /wiki/timed-events/
-  - /Timed-Events
-  - /timed-Events
-  - /Timed-events
-  - /timed-events
-  - /Timed-Events/
-  - /timed-Events/
-  - /Timed-events/
-  - /timed-events/
+  - /Wiki/timed-Changes
+  - /Wiki/Timed-changes
+  - /Wiki/timed-changes
+  - /Wiki/Timed-Changes/
+  - /Wiki/timed-Changes/
+  - /Wiki/Timed-changes/
+  - /Wiki/timed-changes/
+  - /wiki/Timed-Changes
+  - /wiki/timed-Changes
+  - /wiki/Timed-changes
+  - /wiki/timed-changes
+  - /wiki/Timed-Changes/
+  - /wiki/timed-Changes/
+  - /wiki/Timed-changes/
+  - /wiki/timed-changes/
+  - /Timed-Changes
+  - /timed-Changes
+  - /Timed-changes
+  - /timed-changes
+  - /Timed-Changes/
+  - /timed-Changes/
+  - /Timed-changes/
+  - /timed-changes/
 ---
 
-In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all. This is not to be confused with what you might normally consider a game event to be as in a limited time update to a game.
+In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all.
 
-# Here's the list of timed events in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's the list of timed changes in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
 
 The following list is listed in order by how soon it can be witnessed starting at the beginning of the year. As of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) each one uses the game's time zone. Each of them can happen live in existing servers unless otherwise noted.
 
