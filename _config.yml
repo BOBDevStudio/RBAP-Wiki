@@ -79,6 +79,10 @@ defaults:
     values:
       sidebar:
         nav: "Wiki"
+      set_notices:
+        - text: "This dock was merged into the [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock) in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)."
+          type: "merge"
+          name: "v5_game_info_dock_merged"
   - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
@@ -156,12 +160,13 @@ defaults:
       path: "_posts/Update-Logs/Old/*"
       type: posts
     values:
-      update_log_old: true
-      categories:
       listed: false
       update_log_listed: true
       short_description: ""
       comments: false
+      notices:
+        - text: "**Note:** Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that was used older in update logs is unlikely to be fixed."
+          type: "danger"
       categories:
         - Old Update Logs
         - Listed Old Update Logs
@@ -169,8 +174,10 @@ defaults:
       path: "_posts/Update-Logs/Old/Really Old/*"
       type: posts
     values:
-      update_log_really_old: true
       update_log_listed: false
+      notices:
+        - text: "**Note:** This update log was originally made for the long gone in-game update log system from around late 2018. Due to it being from the old system it is unlikely that it will ever be given a version number due to the fact that the old system predates the current version numbers system. It is also unlikely that it will ever have a listed exact publish time. More info on this is available in the [notes about the update log system](/RBAP-Wiki/Posts/Update-Log-Notes)."
+          type: "warning"
       categories:
         - Old Update Logs
         - Old Update Log System Extracted

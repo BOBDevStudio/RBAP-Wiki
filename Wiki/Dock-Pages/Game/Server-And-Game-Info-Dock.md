@@ -8,6 +8,8 @@ page_subject_info:
   main_image:
     path: "/Assets/Images/Docks/Server-And-Game-Info-Dock.png"
 #  description: ""
+  used_set_notices:
+    v5_game_info_dock_merged: true
   data:
     - title: "Dock Data"
       data:
