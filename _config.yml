@@ -100,24 +100,12 @@ defaults:
     values:
       page_categories:
         game_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Game"
   - scope:
       path: "Wiki/Dock-Pages/Removed/*"
       type: pages
     values:
       page_categories:
         removed_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Removed"
-  - scope:
-      path: "Wiki/Dock-Pages/Joke/*"
-      type: pages
-    values:
-      page_categories:
-        joke_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Joke"
   - scope:
       path: "Wiki/Dock-Entrance-Types-Category-Pages/*"
       type: pages
@@ -139,24 +127,12 @@ defaults:
     values:
       page_categories:
         game_dockentrancetype_page: true
-      sidebar:
-        nav: "Wiki_DockEntranceTypesCategory_Game"
   - scope:
       path: "Wiki/Dock-Entrance-Type-Pages/Removed/*"
       type: pages
     values:
       page_categories:
         removed_dockentrancetype_page: true
-      sidebar:
-        nav: "Wiki_DockEntranceTypesCategory_Removed"
-  - scope:
-      path: "Wiki/Dock-Entrance-Type-Pages/Joke/*"
-      type: pages
-    values:
-      page_categories:
-        joke_dockentrancetype_page: true
-      sidebar:
-        nav: "Wiki_DockEntranceTypesCategory_Joke"
   - scope:
       path: ""
       type: posts
