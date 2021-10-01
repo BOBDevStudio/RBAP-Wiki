@@ -186,7 +186,8 @@ defaults:
       short_description: ""
       comments: false
       notices:
-        - text: "**Note:** Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that was used older in update logs is unlikely to be fixed."
+        notice1:
+          text: "**Note:** Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that was used older in update logs is unlikely to be fixed."
           type: "danger"
       categories:
         - Old Update Logs
@@ -197,7 +198,8 @@ defaults:
     values:
       update_log_listed: false
       notices:
-        - text: "**Note:** This update log was originally made for the long gone in-game update log system from around late 2018. Due to it being from the old system it is unlikely that it will ever be given a version number due to the fact that the old system predates the current version numbers system. It is also unlikely that it will ever have a listed exact publish time. More info on this is available in the [notes about the update log system](/RBAP-Wiki/Posts/Update-Log-Notes)."
+        notice2:
+          text: "**Note:** This update log was originally made for the long gone in-game update log system from around late 2018. Due to it being from the old system it is unlikely that it will ever be given a version number due to the fact that the old system predates the current version numbers system. It is also unlikely that it will ever have a listed exact publish time. More info on this is available in the [notes about the update log system](/RBAP-Wiki/Posts/Update-Log-Notes)."
           type: "warning"
       categories:
         - Old Update Logs
