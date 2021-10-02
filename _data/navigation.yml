@@ -32,6 +32,8 @@ Wiki:
         url: "/Wiki/Walkway-Transportation#the-traveler"
   - title: "Music"
     url: "/Wiki/Music"
+  - title: "The Controller (NPC)"
+    url: "/Wiki/Controller-NPC"
 
 UpdateLogs:
   - title: "Notes about the update log system"
