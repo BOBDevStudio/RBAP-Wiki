@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Color-Mixer-Dock
 title: "Dock: Color Mixer Dock"
 page_subject_info:
   title: "Color Mixer Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Color-Mixer-Dock.png"
 #  description: ""

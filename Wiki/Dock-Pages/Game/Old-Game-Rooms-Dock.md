@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Old-Game-Rooms-Dock
 title: "Dock: Old Game Rooms Dock"
 page_subject_info:
   title: "Old Game Rooms Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Old-Game-Rooms-Dock.png"
 #  description: ""

@@ -75,6 +75,7 @@ defaults:
 #      
   - scope:
       path: "Wiki/*"
+      type: pages
     values:
       sidebar:
         nav: "Wiki"

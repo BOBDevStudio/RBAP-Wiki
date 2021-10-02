@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Game-Info-Dock
 title: "Dock: Game Info Dock"
 page_subject_info:
   title: "Game Info Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Game-Info-Dock.png"
 #  description: ""

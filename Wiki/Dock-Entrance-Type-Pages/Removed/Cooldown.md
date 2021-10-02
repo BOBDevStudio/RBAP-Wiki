@@ -3,8 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Cooldown
 title: "Dock Entrance Type: Cooldown"
 page_subject_info:
   title: "Cooldown"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Dock-Entrance-Types/Cooldown.png"
 #  description: ""

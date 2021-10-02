@@ -3,8 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Hidden-Dock
 title: "Dock Entrance Type: Hidden Dock"
 page_subject_info:
   title: "Hidden Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png"
 #  description: ""

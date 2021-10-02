@@ -4,8 +4,8 @@ title: "Dock: Game Rooms Dock"
 page_wip: true
 page_subject_info:
   title: "Game Rooms Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Game-Rooms-Dock.png"
 #  description: ""

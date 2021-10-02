@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Stage-Dock
 title: "Dock: The Stage"
 page_subject_info:
   title: "The Stage"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Stage-Dock.png"
 #  description: ""

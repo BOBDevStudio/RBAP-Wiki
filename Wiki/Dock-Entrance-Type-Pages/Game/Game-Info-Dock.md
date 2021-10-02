@@ -1,43 +1,43 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Under-Maintenance-New-Dock
-title: "Dock Entrance Type: Under Maintenance - New Dock"
+permalink: /Wiki/Dock-Entrance-Types/Game-Info-Dock
+title: "Dock Entrance Type: Game Info Dock"
 page_categories:
-  new_dock_dock_entrance_type: true
+  system_dock_entrance_type: true
 page_subject_info:
-  title: "Under Maintenance - New Dock"
+  title: "Game Info Dock"
 #  color: "#a3a2a5" -- Needs color
 #  titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Dock-Entrance-Types/Under-Maintenance-New-Dock.png"
+    path: "/Assets/Images/Dock-Entrance-Types/Game-Info-Dock.png"
 #  description: ""
   data:
     - title: "Dock Entrance Type Data"
       data:
         - key: "Sign Text"
-          value: "`This dock is currently under maintenance`"
+          value: "`[Game Info Dock]: This dock contains signs that give all sorts of info about the game`"
         - key: "Is System Dock"
-          value: "`False`"
+          value: "`True`"
         - key: "Is Bridge Down"
-          value: "`False`"
+          value: "`True`"
         - key: "Is Gate Down"
-          value: "`False`"
+          value: "`True`"
         - key: "Main Light 1 On"
-          value: "`False`"
+          value: "`True`"
         - key: "Main Light 1 Color"
           color_image:
-            name: "Red"
+            name: "Blue"
             dock_type_color: true
         - key: "Main Light 2 On"
           value: "`True`"
         - key: "Main Light 2 Color"
           color_image:
-            name: "Yellow"
+            name: "Green"
             dock_type_color: true
         - key: "Main Light 3 On"
-          value: "`False`"
+          value: "`True`"
         - key: "Main Light 3 Color"
           color_image:
-            name: "Green"
+            name: "Purple"
             dock_type_color: true
         - key: "Warning Light 1 Light On"
           value: "*Default (unset)*"
@@ -65,16 +65,16 @@ page_subject_info:
 
 | Value Name               | Value |
 |-|-|
-| Sign Text                | `This dock is currently under maintenance` |
-| Is System Dock           | `False` |
-| Is Bridge Down           | `False` |
-| Is Gate Down             | `False` |
-| Main Light 1 On          | `False` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
+| Sign Text                | `[Game Info Dock]: This dock contains signs that give all sorts of info about the game` |
+| Is System Dock           | `True` - [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock) |
+| Is Bridge Down           | `True` |
+| Is Gate Down             | `True` |
+| Main Light 1 On          | `True` |
+| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Blue" alt="" -%} |
 | Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
-| Main Light 3 On          | `False` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
+| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
+| Main Light 3 On          | `True` |
+| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Purple" alt="" -%} |
 | Warning Light 1 Light On | *Default (unset)* |
 | Warning Light 1 Spinning | *Default (unset)* |
 | Warning Light 1 Color    | *Default (unset)* |
@@ -87,4 +87,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Under-Maintenance-New-Dock.png" alt="">
+<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Game-Info-Dock.png" alt="">

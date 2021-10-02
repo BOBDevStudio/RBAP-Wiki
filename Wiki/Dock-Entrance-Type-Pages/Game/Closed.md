@@ -3,8 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Closed
 title: "Dock Entrance Type: Closed"
 page_subject_info:
   title: "Closed"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Dock-Entrance-Types/Closed.png"
 #  description: ""

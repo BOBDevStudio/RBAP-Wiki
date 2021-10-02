@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Moving-Spotlight-Dock
 title: "Dock: Moving Spotlight Dock"
 page_subject_info:
   title: "Moving Spotlight Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Moving-Spotlight-Dock.png"
 #  description: ""

@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Events-Dock
 title: "Dock: Events Dock"
 page_subject_info:
   title: "Events Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Events-Dock.png"
 #  description: ""

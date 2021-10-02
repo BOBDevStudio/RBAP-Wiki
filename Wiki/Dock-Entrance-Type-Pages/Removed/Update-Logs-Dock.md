@@ -5,8 +5,8 @@ page_categories:
   system_dock_entrance_type: true
 page_subject_info:
   title: "Update Logs Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Dock-Entrance-Types/Update-Logs-Dock.png"
 #  description: ""
