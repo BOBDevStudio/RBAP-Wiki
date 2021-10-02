@@ -57,11 +57,7 @@ defaults:
       comments: false
       is_update_log: false
       is_post: false
-      update_log_wip: false
-      update_log_old: false
-      update_log_really_old: false
       only_list_update_logs: false
-      page_wip: false
       published_time_uses_pst: false
       published_time_uses_pdt: false
       pinned: false
