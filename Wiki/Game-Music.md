@@ -17,7 +17,7 @@ redirect_from:
 
 Random Buildings And Parts has a wide variety of music and this page is here to list them all. Now there's a few things you should know: The game has multiple music zones which each have their own list of music that can be played while inside of them. Due to the fact that some songs will appear in more than one music zone the list is going to be listed as one big list instead of separate lists for each zone. Another thing you should know is there are some songs that will only appear at certain times and those will be listed separately in their corresponding category. Also all music in game is from Roblox's deal with APM Music.
 
-# Here's the list of music in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's the lists of music in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
 
 In [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) music that appears in certain time frames uses the game's time zone to determine what time it is. (Also the lists are not in any particular order.)
 
