@@ -21,7 +21,7 @@ page_subject_info:
           value: "`Main Side 1`"
 ---
 
-This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined.
+This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined. It was later reconsidered a system dock in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) due to BOB taking some time to think about what "system dock" should mean in the context of this dock.
 
 | Value Name               | Value |
 |-|-|
