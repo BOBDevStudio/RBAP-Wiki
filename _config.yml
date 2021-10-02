@@ -65,6 +65,9 @@ defaults:
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
+      page_subject_info:
+        color: "#a3a2a5"
+        titles_text_color: "#FFFFFF"
 #  - scope:
 #      path: ""
 #      type: pages
