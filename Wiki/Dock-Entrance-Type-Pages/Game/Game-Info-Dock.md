@@ -3,6 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Game-Info-Dock
 title: "Dock Entrance Type: Game Info Dock"
 page_categories:
   system_dock_entrance_type: true
+used_set_notices:
+  system_dock_entrance_type: true
 page_subject_info:
   title: "Game Info Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -16,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[Game Info Dock]: This dock contains signs that give all sorts of info about the game`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`True` - [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"

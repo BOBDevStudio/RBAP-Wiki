@@ -3,6 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Donations-Dock
 title: "Dock Entrance Type: Donations Dock"
 page_categories:
   system_dock_entrance_type: true
+used_set_notices:
+  system_dock_entrance_type: true
 page_subject_info:
   title: "Donations Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -16,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[Donations Dock]: This dock houses the game's donation system`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`True` - [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"

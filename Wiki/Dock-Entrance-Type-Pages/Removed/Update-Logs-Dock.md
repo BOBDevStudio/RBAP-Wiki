@@ -3,6 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Update-Logs-Dock
 title: "Dock Entrance Type: Update Logs Dock"
 page_categories:
   system_dock_entrance_type: true
+used_set_notices:
+  system_dock_entrance_type: true
 page_subject_info:
   title: "Update Logs Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -16,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`True` - [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"

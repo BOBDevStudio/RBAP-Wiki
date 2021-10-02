@@ -3,6 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/Server-Dock
 title: "Dock Entrance Type: Server Dock"
 page_categories:
   system_dock_entrance_type: true
+used_set_notices:
+  system_dock_entrance_type: true
 page_subject_info:
   title: "Server Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -16,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[Server Dock]: This dock contains statistics about the server and the game`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`True` - [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#server-and-game-info-dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"

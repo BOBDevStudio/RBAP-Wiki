@@ -3,6 +3,8 @@ permalink: /Wiki/Dock-Entrance-Types/NPCs-Key-Dock
 title: "Dock Entrance Type: NPCs Key Dock"
 page_categories:
   system_dock_entrance_type: true
+used_set_notices:
+  system_dock_entrance_type: true
 page_subject_info:
   title: "NPCs Key Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -16,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[NPCs Key Dock]: This dock contains info about each of the NPCs that can be seen in the game`"
         - key: "Is System Dock"
-          value: "`True`"
+          value: "`True` - [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks/NPCs-Key-Dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"
