@@ -63,7 +63,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-
+This dock entrance type is indirectly inspired by the [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks/NPCs-Key-Dock)'s original system dock entrance type.
 
 | Value Name               | Value |
 |-|-|
