@@ -86,6 +86,8 @@ defaults:
         - text: "This page describes a dock entrance type for system dock. Information (like of a description) about this dock entrance type may be limited due to it only ever being used on one dock."
           type: "info"
           name: "system_dock_entrance_type"
+      page_categories:
+        wiki_page: true
   - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages

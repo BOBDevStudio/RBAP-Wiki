@@ -1,5 +1,7 @@
 ---
 title: Value Types
+page_categories:
+  wiki_page: false
 notices:
   - text: "This page is no longer being actively maintained as of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update. This page will still exist for at least a little while but it will not be actively linked to."
     type: "warning"
