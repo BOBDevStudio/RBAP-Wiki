@@ -1,0 +1,51 @@
+---
+permalink: /Posts/Update-Log/4-1-2
+title: "V4.1.2 Update Log"
+short_description: "This update fixes the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donation-Dock)."
+update_published_at: "2021-10-03 05:15:00 +00:00"
+post_created_at: "2021-10-03 00:00:00 +00:00"
+post_updated_at: "2021-10-03 00:00:00 +00:00"
+published_time_uses_pst: false
+published_time_uses_pdt: true
+tags:
+  - V4
+  - Bug Fixes Only
+  - Most Recent
+redirect_from:
+  - /Posts/update-Log/4-1-2
+  - /Posts/Update-log/4-1-2
+  - /Posts/update-log/4-1-2
+  - /Posts/Update-Log/4-1-2/
+  - /Posts/update-Log/4-1-2/
+  - /Posts/Update-log/4-1-2/
+  - /Posts/update-log/4-1-2/
+  
+  - /Update-Log/4-1-2
+  - /update-Log/4-1-2
+  - /Update-log/4-1-2
+  - /update-log/4-1-2
+  - /Update-Log/4-1-2/
+  - /update-Log/4-1-2/
+  - /Update-log/4-1-2/
+  - /update-log/4-1-2/
+  
+  - /Update/4-1-2
+  - /update/4-1-2
+  - /Update/4-1-2/
+  - /update/4-1-2/
+  
+  - /V4-1-2
+  - /v4-1-2
+  - /V4-1-2/
+  - /v4-1-2/
+---
+
+# Summary of its changes
+{: .update-log-section-title}
+
+* Fixed the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donation-Dock) and added it back.
+
+# List of its changes
+{: .update-log-section-title}
+
+* Fixed the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donation-Dock) and added it back. This is a quick but not ideal fix on my end, Roblox's end is still broken.
