@@ -14,7 +14,7 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`1`"
+          value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
@@ -27,7 +27,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 
 | Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance   | `1` |
+| Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
 | Dock Entrance Types Used | {`1` = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Update-Logs-Dock)} |
 | Side Placed On           | `Main Side 2` |

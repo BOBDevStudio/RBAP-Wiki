@@ -12,7 +12,7 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`1`"
+          value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
@@ -25,7 +25,7 @@ This dock was used to display recent events from many different places. When the
 
 | Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance   | `1` |
+| Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
 | Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types#open)} |
 | Side Placed On           | `Main Side 2` |
