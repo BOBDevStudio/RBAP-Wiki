@@ -269,6 +269,8 @@ UpdateLogs:
   - title: "V4 Series of Updates"
     url: "/Tags#v4"
     children:
+      - title: "V4.1.2"
+        url: "/Posts/Update-Log/4-1-2"
       - title: "V4.1.1"
         url: "/Posts/Update-Log/4-1-1"
       - title: "V4.1.0"
