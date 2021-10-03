@@ -34,6 +34,8 @@ Wiki:
     url: "/Wiki/Music"
   - title: "The Controller (NPC)"
     url: "/Wiki/Controller-NPC"
+  - title: "Snow Cubes"
+    url: "/Wiki/Snow-Cubes"
 
 UpdateLogs:
   - title: "Notes about the update log system"
