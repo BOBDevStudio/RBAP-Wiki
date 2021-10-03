@@ -6,7 +6,7 @@ page_subject_info:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
   main_image:
-    path: "/Assets/Images/Docks/The-Controller-NPC.png"
+    path: "/Assets/Images/The-Controller-NPC.png"
   description: "The Controller NPC doing some typing"
 ---
 
