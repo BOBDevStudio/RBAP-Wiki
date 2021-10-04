@@ -2,7 +2,7 @@ name: Approve pull request changes
 
 on:
   pull_request_target:
-    types: [labeled, synchronize]
+    types: [labeled] #, synchronize]
 
 jobs:
   RunLabel:
