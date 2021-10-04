@@ -45,25 +45,21 @@ Added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) the [Old Game Rooms Dock](/RB
 
 The seasonal color palette changes to Spring at the beginning of March.
 
-This time event does not live update in existing servers.
-
 ## The seasonal color palette is changed to Summer.
 
 The seasonal color palette changes to Summer at the beginning of June.
-
-This time event does not live update in existing servers.
 
 ## The seasonal color palette is changed to Fall.
 
 The seasonal color palette changes to Fall at the beginning of September.
 
-This time event does not live update in existing servers.
+## Halloween decorations get placed.
+
+Added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) for the month of October some Halloween decorations get placed on the map.
 
 ## The seasonal color palette is changed to Winter.
 
 The seasonal color palette changes to Winter at the beginning of December.
-
-This time event does not live update in existing servers.
 
 ## [Christmas music](/RBAP-Wiki/Wiki/Music#christmas-appears-december-18th-26th) becomes available and the map gets covered in snow.
 
