@@ -165,6 +165,7 @@ defaults:
       path: "_posts/Update-Logs/Old/*"
       type: posts
     values:
+      update_log_old: true
       listed: false
       update_log_listed: true
       short_description: ""
