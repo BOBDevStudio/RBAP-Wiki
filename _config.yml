@@ -68,6 +68,7 @@ defaults:
       page_subject_info:
         color: "#a3a2a5"
         titles_text_color: "#FFFFFF"
+      post_status_icons_visible: false
 #  - scope:
 #      path: ""
 #      type: pages
@@ -149,6 +150,7 @@ defaults:
       is_post: true
       author_profile: true
       related: true
+      post_status_icons_visible: true
   - scope:
       path: "_posts/Update-Logs/*"
       type: posts
