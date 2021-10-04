@@ -67,7 +67,7 @@ All songs that were added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) were foun
 | `Untouchable`							| [Roblox](https://www.roblox.com/library/1837681287) + [APM](https://www.apmmusic.com/albums/DED_DED_0109/DED_DED_0109_01101)				| ❌ | ✔️ | ❌ | ❌ | [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)	|  |
 | `Good Morning Goodbye (b)`			| [Roblox](https://www.roblox.com/library/1840058466) + [APM](https://www.apmmusic.com/albums/KPM_JM_0164/KPM_JM_0164_04901)				| ❌ | ✔️ | ❌ | ✔️ | [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)	|  |
 
-## Christmas (appears December 20th-26th):
+## Christmas (appears December 18th-26th):
 
 | Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Added In | Other Notes |
 |-|-|-|-|-|-|-|-|

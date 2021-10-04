@@ -65,9 +65,11 @@ The seasonal color palette changes to Winter at the beginning of December.
 
 This time event does not live update in existing servers.
 
-## [Christmas music](/RBAP-Wiki/Wiki/Music#christmas-appears-december-20th-26th) becomes available.
+## [Christmas music](/RBAP-Wiki/Wiki/Music#christmas-appears-december-18th-26th) becomes available and the map gets covered in snow.
 
-Added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) [Christmas music](/RBAP-Wiki/Wiki/Music#christmas-appears-december-20th-26th) becomes available starting December 20th and ending after the 26th.
+Added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) [Christmas music](/RBAP-Wiki/Wiki/Music#christmas-appears-december-18th-26th) becomes available starting December 18th and ends after the 26th.
+
+Also added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) the map gets covered in snow and a [Snow Cubes](/RBAP-Wiki/Wiki/Snow-Cubes) tower appears near the start of the map. This also starts December 18th and ends after the 26th. This was originally going to be added along with the winter season color palette change and stay active until the color palette changed again but due to performance concerns it was limited to about a week instead.
 
 ## [Christmas day music](/RBAP-Wiki/Wiki/Music#christmas-day-appears-december-24th-25th) becomes available.
 
