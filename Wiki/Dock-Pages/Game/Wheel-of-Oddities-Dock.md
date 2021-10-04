@@ -12,11 +12,11 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`2` but at [put time here] it will automatically be changed to *None (unset)*"
+          value: "`2` but on November 3rd at noon it will automatically be changed to *None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
+          value: "{`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but on November 3rd at noon it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -31,9 +31,9 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 
 | Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance   | `2` but at [put time here] it will automatically be changed to *None (unset)* |
+| Reserved Dock Entrance   | `2` but on November 3rd at noon it will automatically be changed to *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but at [put time here] it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
+| Dock Entrance Types Used | {`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but on November 3rd at noon it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
