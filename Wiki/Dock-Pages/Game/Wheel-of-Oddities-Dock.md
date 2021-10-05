@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
 title: "Dock: Wheel of Oddities Dock"
 page_subject_info:
   title: "Wheel of Oddities Dock"
-#  color: "#a3a2a5" -- Needs color
-#  titles_text_color: "#FFFFFF"
+  color: "#c8c873"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png"
 #  description: ""
