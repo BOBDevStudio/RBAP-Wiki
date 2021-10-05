@@ -13,7 +13,6 @@ page_subject_info:
 You may not think about it much but this little model has some history. It is (as far as BOB knows) the oldest (as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)) still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Main.png" alt="">
-{%- comment -%} I know it's not actually a dock image it's just listed like that because of what the class does to the image. {%- endcomment -%}
 
 # Here's the list of all the Snow Cubes' appearances as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
 
