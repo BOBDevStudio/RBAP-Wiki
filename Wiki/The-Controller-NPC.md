@@ -13,7 +13,6 @@ page_subject_info:
 The Controller is an NPC in the game whose job it is to type out lines of code into a fake console. Each line of code that he types can actually work in Roblox's Lua implementation, provided you have the correct modules and values set. Most of lines of code are just picked randomly while some happen at certain times. Scroll down for the full list of the all.
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/The-Controller-NPC.png" alt="">
-{%- comment -%} I know it's not actually a dock image it's just listed like that because of what the class does to the image. {%- endcomment -%}
 
 # Here's every line of code available as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
 
