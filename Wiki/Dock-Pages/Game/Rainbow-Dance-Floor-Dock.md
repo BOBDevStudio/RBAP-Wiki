@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/Rainbow-Dance-Floor-Dock
 title: "Dock: Rainbow Dance Floor"
 page_subject_info:
   title: "Rainbow Dance Floor"
-#  color: "#a3a2a5" -- Needs color
-#  titles_text_color: "#FFFFFF"
+  color: "#323232"
+  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png"
 #  description: ""
