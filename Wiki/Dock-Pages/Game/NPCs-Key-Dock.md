@@ -3,8 +3,8 @@ permalink: /Wiki/Docks/NPCs-Key-Dock
 title: "Dock: NPCs Key Dock"
 page_subject_info:
   title: "NPCs Key Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
+#  color: "#a3a2a5" -- Needs color
+#  titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Docks/NPCs-Key-Dock.png"
 #  description: ""
@@ -12,26 +12,23 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`13`"
+          value: "`15`"
         - key: "Entrances Used"
           value: "`1`"
-        - key: "Entrances Centered On"
-          value: "{`1`}"
-        - key: "Dock Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)}"
+        - key: "Dock Entrance Types Used"
+          value: "{`1` = [`NPCs Key Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)}"
         - key: "Side Placed On"
-          value: "`1`"
+          value: "`Main Side 1`"
 ---
 
-This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined.
+This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined. It was later reconsidered a system dock in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) due to BOB taking some time to think about what "system dock" should mean in the context of this dock.
 
-| Value Name             | Value |
+| Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance | [`13`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Used         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
-| Entrances Centered On  | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number)} |
-| Dock Types Used        | {[`1`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Open`](/RBAP-Wiki/Wiki/Dock-Types/Open)} |
-| Side Placed On         | [`1`](/RBAP-Wiki/Wiki/Value-Types#number) |
+| Reserved Dock Entrance   | `15` |
+| Entrances Used           | `1` |
+| Dock Entrance Types Used | {`1` = [`NPCs Key Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)} |
+| Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/NPCs-Key-Dock.png" alt="">

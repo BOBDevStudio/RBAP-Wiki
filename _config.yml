@@ -19,13 +19,12 @@ page_category_names:
   docks_category_page: "Docks Category Pages"
   game_dock_page: "In-Game Docks"
   removed_dock_page: "Removed Docks"
-  joke_dock_page: "Joke Docks"
-  docktype_page: "Dock Types"
-  docktypes_category_page: "Dock Types Category Pages"
-  game_docktype_page: "In-Game Dock Types"
-  removed_docktype_page: "Removed Dock Types"
-  joke_docktype_page: "Joke Dock Types"
-  system_dock_type: "System Dock Types"
+  dockentrancetype_page: "Dock Entrance Types"
+  dockentrancetypes_category_page: "Dock Entrance Types Category Pages"
+  game_dockentrancetype_page: "In-Game Dock Entrance Types"
+  removed_dockentrancetype_page: "Removed Dock Entrance Types"
+  system_dock_entrance_type: "System Dock Entrance Types"
+  new_dock_dock_entrance_type: "New Dock Dock Entrance Types"
 
 footer:
   links:
@@ -58,11 +57,7 @@ defaults:
       comments: false
       is_update_log: false
       is_post: false
-      update_log_wip: false
-      update_log_old: false
-      update_log_really_old: false
       only_list_update_logs: false
-      page_wip: false
       published_time_uses_pst: false
       published_time_uses_pdt: false
       pinned: false
@@ -70,6 +65,9 @@ defaults:
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
+      page_subject_info_panel_defaults:
+        color: "#a3a2a5"
+        titles_text_color: "#FFFFFF"
       post_status_icons_visible: false
 #  - scope:
 #      path: ""
@@ -78,9 +76,19 @@ defaults:
 #      
   - scope:
       path: "Wiki/*"
+      type: pages
     values:
       sidebar:
         nav: "Wiki"
+      set_notices:
+        - text: "This dock was merged into the [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock) in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)."
+          type: "merge"
+          name: "v5_game_info_dock_merged"
+        - text: "This page describes a dock entrance type for system dock. Information (like of a description) about this dock entrance type may be limited due to it only ever being used on one dock."
+          type: "info"
+          name: "system_dock_entrance_type"
+      page_categories:
+        wiki_page: true
   - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
@@ -102,63 +110,39 @@ defaults:
     values:
       page_categories:
         game_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Game"
   - scope:
       path: "Wiki/Dock-Pages/Removed/*"
       type: pages
     values:
       page_categories:
         removed_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Removed"
   - scope:
-      path: "Wiki/Dock-Pages/Joke/*"
+      path: "Wiki/Dock-Entrance-Types-Category-Pages/*"
       type: pages
     values:
       page_categories:
-        joke_dock_page: true
-      sidebar:
-        nav: "Wiki_DocksCategory_Joke"
+#        dockentrancetype_page: true
+        dockentrancetypes_category_page: true
   - scope:
-      path: "Wiki/Dock-Types-Category-Pages/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/*"
       type: pages
     values:
-      page_categories:
-#        docktype_page: true
-        docktypes_category_page: true
-  - scope:
-      path: "Wiki/Dock-Type-Pages/*"
-      type: pages
-    values:
-      title: "[Dock Type Name N/A]"
+      title: "[Dock Entrance Type Name N/A]"
       short_description: ""
       page_categories:
-        docktype_page: true
+        dockentrancetype_page: true
   - scope:
-      path: "Wiki/Dock-Type-Pages/Game/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/Game/*"
       type: pages
     values:
       page_categories:
-        game_docktype_page: true
-      sidebar:
-        nav: "Wiki_DockTypesCategory_Game"
+        game_dockentrancetype_page: true
   - scope:
-      path: "Wiki/Dock-Type-Pages/Removed/*"
+      path: "Wiki/Dock-Entrance-Type-Pages/Removed/*"
       type: pages
     values:
       page_categories:
-        removed_docktype_page: true
-      sidebar:
-        nav: "Wiki_DockTypesCategory_Removed"
-  - scope:
-      path: "Wiki/Dock-Type-Pages/Joke/*"
-      type: pages
-    values:
-      page_categories:
-        joke_docktype_page: true
-      sidebar:
-        nav: "Wiki_DockTypesCategory_Joke"
+        removed_dockentrancetype_page: true
   - scope:
       path: ""
       type: posts

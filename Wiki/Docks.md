@@ -33,12 +33,11 @@ In the current version of the Random Buildings And Parts most docks are automati
 
 ### Here's a list of each of the dock data values:
 
-| Value                  | Type                                                                                            | Description |
+| Name                   | Value Type                                          | Description |
 |-|-|-|
-| Reserved Dock Entrance | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)/[`Blank`](/RBAP-Wiki/Wiki/Value-Types#blank)     | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
-| Entrances Used         | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                  | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
-| Entrances Centered On  | [`Array`](/RBAP-Wiki/Wiki/Value-Types#array) of [`Numbers`](/RBAP-Wiki/Wiki/Value-Types#number) | Without going into the very technical details about this this specifies what dock entrances (of the `Dock Entrances Used Up` value) the dock is to be centered on. |
-| Dock Types Used        | [`Table`](/RBAP-Wiki/Wiki/Value-Types#table) of [`Dock Types`](/RBAP-Wiki/Wiki/Dock-Types)      | For each dock entrance that is taken up by a dock this value specifies what the dock type of each of those dock entrances is. |
-| Side Placed On         | [`Number`](/RBAP-Wiki/Wiki/Value-Types#number)                                                  | The side of the map the dock is to be placed on. Currently supported: `1` = `Side 1`, `2` = `Side 2`, `0.1` = `Side 1 of the middle`, and `0.2` = `Side 2 of the middle` |
+| Reserved Dock Entrance | Number or none                                      | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
+| Entrances Used         | Number                                              | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
+| Dock Entrance Types Used        | Table of [`Dock Entrance Types`](/RBAP-Wiki/Wiki/Dock-Entrance-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
+| Side Placed On         | Side name                                           | The side of the map the dock is to be placed on. |
 
 ## Here's the list of categories of docks:

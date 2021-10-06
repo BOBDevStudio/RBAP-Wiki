@@ -1,5 +1,10 @@
 ---
 title: Value Types
+page_categories:
+  wiki_page: false
+notices:
+  - text: "This page is no longer being actively maintained as of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update. This page will still exist for at least a little while but it will not be actively linked to."
+    type: "warning"
 redirect_from:
   - /Wiki/Value-types
   - /Wiki/value-Types
@@ -89,4 +94,4 @@ A value type that represents a value not being set to anything. On the wiki it i
 
 ## RBAP Version
 
-A value of this type describes a certain version of Random Buildings And Parts. Update logs for the game can be found in two places as of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). Those two places are in-game on the [update logs dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) and [here on the wiki](/RBAP-Wiki/Update-Logs). As should be pretty obvious this value type is exclusive to the wiki.
+A value of this type describes a certain version of Random Buildings And Parts. Update logs for the game can be found in two places as of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). Those two places are in-game on the [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) and [here on the wiki](/RBAP-Wiki/Update-Logs). As should be pretty obvious this value type is exclusive to the wiki.
