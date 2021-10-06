@@ -11,10 +11,14 @@ jobs:
     if: ${{ github.event.pull_request.merged == true && github.event.sender.login == 'TheOneBOB' || github.event.sender.login == 'BOBDevStudioBot' || github.event.sender.login == 'Valexiwasgone' }}
     timeout-minutes: 60
     steps:
+    - name: Add Resolved Label
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
+    - name: Add Locked Label
+      if: ${{ github.event.pull_request.locked == false }}
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Locked\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
     - name: Lock
       if: ${{ github.event.pull_request.locked == false }}
       run: |
         curl -X PUT -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""lock_reason\"": \""resolved\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/lock"
-    - name: Add label
-      run: |
-        curl -X POST -H "Authorization: token ${{ secrets.KEY }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""labels\"": [\""Resolved\""] }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/issues/${{ github.event.pull_request.number }}/labels"
