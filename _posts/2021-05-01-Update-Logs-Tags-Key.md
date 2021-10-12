@@ -44,7 +44,7 @@ sidebar:
 
 | Tag Name                             | Tag Info |
 |-|-|
-| Most Recent (Feature Focused Update) | The *feature focused* update that is the most recently added (to the main game). The update that is tagged as this is likely an update that you can at least find a few ways that it is visibly different then update that came before it. This tag is not used on an update when the update already qualifies for the `Most Recent` tag. |
+| Most Recent (Feature Focused Update) | The *feature focused* update that is the most recently added (to the main game) (and must also not contain only minor changes). The update that is tagged as this is likely an update that you can at least find a few ways that it is visibly different then update that came before it. This tag is not used on an update when the update already qualifies for the `Most Recent` tag. |
 | Most Recent                          | The update that is the most recently added (to the main game). |
 | Biggest Yet                          | The update is what BOB considers to be the biggest and/or most impactful one yet. It might not actually be the biggest and/or most impactful one yet as it is just based off what BOB thinks. |
 | Improvements Only                    | The update only mainly improves upon stuff already in the game. |
