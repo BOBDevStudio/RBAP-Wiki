@@ -21,7 +21,7 @@ page_subject_info:
           value: "`Main Side 1`"
 ---
 
-BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox and he considers that venture to be successful.
+BOB originally created this dock when he was trying to make cylinders out of multiple parts instead of just the cylinder object in Roblox. He considers that venture to be successful.
 
 | Value Name               | Value |
 |-|-|
