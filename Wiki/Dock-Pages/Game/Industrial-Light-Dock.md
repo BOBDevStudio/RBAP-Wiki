@@ -21,7 +21,7 @@ page_subject_info:
           value: "`Main Side 1`"
 ---
 
-BOB created this light just for the fun of it. He uses it (or edited versions of it) in his projects when he needs an industrial looking light.
+BOB created this light just for the fun of it. He used to use it (or edited versions of it) in his projects when he needed an industrial looking light.
 
 | Value Name               | Value |
 |-|-|
