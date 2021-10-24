@@ -13,6 +13,7 @@ What is a system dock? System docks are currently being classified as docks that
 
 The following list is a list of the default values for dock entrance type data values. When a dock entrance type data value on a dock entrance type page says "*Default (unset)*" it means the value from this list will be used. If a dock entrance type does not specify a value for a dock entrance type data value then the value from this list will be used hence the word unset being used to describe the default value as mentioned earlier. (If a value on this list is blank then that means no default exists for that dock entrance type data value.)
 
+| Key | Value |
 |-|-|
 | Sign Text                |  |
 | Is System Dock           |  |
