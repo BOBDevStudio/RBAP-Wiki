@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Controller-NPC
 title: The Controller (NPC)
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "The Controller"
   color: "#a3a2a5"
@@ -14,7 +16,7 @@ The Controller is an NPC in the game whose job it is to type out lines of code i
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/The-Controller-NPC.png" alt="">
 
-# Here's every line of code available as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's every line of code available currently:
 
 Unless otherwise noted a line of code is picked at random and does not happen at certain times. The list is also in no particular order.
 

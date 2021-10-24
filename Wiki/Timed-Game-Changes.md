@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Timed-Changes
 title: Timed Changes
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 redirect_from:
   - /Wiki/timed-Changes
   - /Wiki/Timed-changes
@@ -29,9 +31,9 @@ redirect_from:
 
 In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all.
 
-# Here's the list of timed changes in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's the list of timed changes in the game currently:
 
-The following list is listed in order by how soon it can be witnessed starting at the beginning of the year. As of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) each one uses the game's time zone. Each of them can happen live in existing servers unless otherwise noted.
+The following list is listed in order by how soon it can be witnessed starting at the beginning of the year. Currently all of them use the game's time zone. Each of them can happen live in existing servers unless otherwise noted.
 
 ## An easter egg in the Game Says game on the [Game Rooms Dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock).
 

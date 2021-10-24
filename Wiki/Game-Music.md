@@ -2,6 +2,8 @@
 permalink: /Wiki/Music
 title: Music
 color_coded_table_boolean_enabled: true
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 redirect_from:
   - /Wiki/music
   - /Wiki/Music/
@@ -20,7 +22,7 @@ Random Buildings And Parts has a wide variety of music and this page is here to 
 
 All songs that were added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) were found from APM Music's website instead of how they were before, which was looking for them exclusively on Roblox. Also all or most songs added in that update were found with `Club \ Electronica`, `Electronic Instruments`, and `Instrumental Only` in the search. The only known exception to the previous statement is the Christmas music as that was all found from the same album which was found when a song from that album was in the search results.
 
-# Here's the lists of music in the game as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's the lists of music in the game currently:
 
 In [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) music that appears in certain time frames uses the game's time zone to determine what time it is. (Also the lists are not in any particular order.)
 
