@@ -59,7 +59,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This is the generic closed dock entrance type. It is pretty self-explanatory why it is used. Also here's a fun fact before the game loads in the docks all docks entrances are set to this dock entrance type.
+This is the generic closed dock entrance type. Also here's a fun fact: Before the game loads in the docks all docks entrances are set to this dock entrance type.
 
 | Value Name               | Value |
 |-|-|
