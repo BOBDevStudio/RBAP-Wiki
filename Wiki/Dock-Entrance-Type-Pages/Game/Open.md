@@ -59,7 +59,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This is the generic open dock entrance type. It is pretty self-explanatory why it is used.
+This is the generic open dock entrance type.
 
 | Value Name               | Value |
 |-|-|
