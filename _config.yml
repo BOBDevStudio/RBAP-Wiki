@@ -69,7 +69,8 @@ defaults:
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
       outside_preview:
-        site_title: "RBAP's Wiki"
+        site_title: "Random Buildings And Parts Official Wiki"
+        page_title_appended_text: "RBAP's Wiki"
         description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
 #  - scope:
 #      path: ""
@@ -238,7 +239,6 @@ search_provider: "lunr"
 strict_front_matter: true
 incremental: false
 locale: "en-US"
-tab_title_separator: "-"
 sass:
   style: "expanded"
 atom_feed:
