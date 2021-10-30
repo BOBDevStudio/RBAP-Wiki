@@ -1,12 +1,15 @@
 ---
 layout: single
 permalink: /Wiki
+title: "RBAP's Official Wiki"
 redirect_from:
   - /wiki
   - /Wiki/
   - /wiki/
   - /Wiki/Home
   - /wiki/home
+outside_preview:
+  title: "Wiki Home"
 uses_image_header: true
 header:
   overlay_color: "#FFFFFF"
