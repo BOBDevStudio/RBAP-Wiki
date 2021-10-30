@@ -232,7 +232,7 @@ search_provider: "lunr"
 strict_front_matter: true
 incremental: false
 locale: "en-US"
-title_separator: "-"
+tab_title_separator: "-"
 sass:
   style: "expanded"
 atom_feed:
