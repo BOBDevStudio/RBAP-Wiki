@@ -70,7 +70,7 @@ defaults:
       post_status_icons_visible: false
       outside_preview:
         site_title: "RBAP's Wiki"
-        description: "This is the official wiki for the Roblox game called [Random Buildings And Parts](https://www.roblox.com/games/1937246724/)"
+        description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
 #  - scope:
 #      path: ""
 #      type: pages
