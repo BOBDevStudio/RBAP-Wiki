@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Open
 title: "Dock Entrance Type: Open"
+page_categories:
+  generic_dock_entrance_type: true
 page_subject_info:
   title: "Open"
 #  color: "#a3a2a5" -- Needs color
@@ -59,7 +61,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This is the generic open dock entrance type.
+This dock entrance type is one of the [generic dock entrance types](/RBAP-Wiki/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is the primary dock entrance type that is used when a non-system dock is open.
 
 | Value Name               | Value |
 |-|-|
