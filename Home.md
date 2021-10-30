@@ -1,12 +1,15 @@
 ---
 layout: splash
 permalink: /
+title: "RBAP's Official Wiki"
 redirect_from:
   - /Home
   - /home
   - /Home/
   - /home/
 #hidden: true
+outside_preview:
+  title: "Home"
 uses_image_header: true
 header:
   overlay_color: "#FFFFFF"

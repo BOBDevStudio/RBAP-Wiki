@@ -28,7 +28,7 @@ The Moving Spotlight Dock is an interactive dock which contains an edited spotli
 | Reserved Dock Entrance   | `3` but on November 3rd at noon it will automatically be changed to *None (unset)* |
 | Entrances Used           | `1` |
 | Dock Entrance Types Used | {`1` = [`Open - New Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open-New-Dock)} but on November 3rd at noon it will automatically be changed to {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
-| Side Placed On           | "`Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2` |
+| Side Placed On           | `Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Moving-Spotlight-Dock.png" alt="">
