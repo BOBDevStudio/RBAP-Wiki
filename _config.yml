@@ -72,7 +72,7 @@ defaults:
         site_title: "Random Buildings And Parts Official Wiki"
         page_title_appended_text: " - RBAP's Wiki"
         description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
-        default_image: "/Assets/Images/Twitter-Icon.png"
+        default_image: "/Assets/Images/Outside-Default-Icon.png"
         twitter:
           username: "TheBOBDevStudio"
 #  - scope:
