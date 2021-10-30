@@ -92,6 +92,12 @@ defaults:
       page_categories:
         wiki_page: true
   - scope:
+      path: "Wiki/Ease-Of-Access-Category-Pages/*"
+      type: pages
+    values:
+      page_categories:
+        ease_of_access_category_page: true
+  - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
     values:
