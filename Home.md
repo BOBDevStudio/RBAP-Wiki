@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: "RBAP's Official Wiki"
 redirect_from:
   - /Home
   - /home

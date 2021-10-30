@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /Wiki
+title: "RBAP's Official Wiki"
 redirect_from:
   - /wiki
   - /Wiki/
