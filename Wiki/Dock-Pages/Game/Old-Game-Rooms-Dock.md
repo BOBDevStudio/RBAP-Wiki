@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Old-Game-Rooms-Dock
 title: "Dock: Old Game Rooms Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Old Game Rooms Dock"
   color: "#a3a2a5"
