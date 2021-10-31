@@ -1,20 +1,22 @@
 ---
 permalink: /Wiki/Snow-Cubes
 title: Snow Cubes
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Snow Cubes"
   color: "#e1e1e1"
   titles_text_color: "#FFFFFF"
   main_image:
     path: "/Assets/Images/Snow-Cubes/Main.png"
-  description: "The Snow Cube model is one of the oldest if not the oldest model (as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)) still used in the game to this day"
+  description: "The Snow Cube model is one of the oldest if not the oldest model still used in the game to this day"
 ---
 
-You may not think about it much but this little model has some history. It is (as far as BOB knows) the oldest (as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)) still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.
+You may not think about it much but this little model has some history. It is (as far as BOB knows) currently the oldest still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Main.png" alt="">
 
-# Here's the list of all the Snow Cubes' appearances as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0):
+# Here's the list of all the Snow Cubes' appearances currently:
 
 ## The Original
 
@@ -24,7 +26,7 @@ In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its firs
 
 ## [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Ice-Cube-Tray-Dock)
 
-Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Ice-Cube-Tray-Dock) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is (as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)) still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
+Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Ice-Cube-Tray-Dock) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" alt="">
 

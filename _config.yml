@@ -23,6 +23,8 @@ page_category_names:
   removed_dockentrancetype_page: "Removed Dock Entrance Types"
   system_dock_entrance_type: "System Dock Entrance Types"
   new_dock_dock_entrance_type: "New Dock Dock Entrance Types"
+  generic_dock_entrance_type: "Generic Dock Entrance Types"
+  ease_of_access_category_page: "Ease Of Access Page Categories"
   
 page_subject_info_panel_defaults:
   color: "#a3a2a5"
@@ -68,6 +70,8 @@ defaults:
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
+#      mentioned_game_content:
+#        last_status_check_explanation_page: ""
       outside_preview:
         site_title: "Random Buildings And Parts Official Wiki"
         page_title_appended_text: " - RBAP's Wiki"

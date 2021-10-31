@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Game-Rooms-Dock
 title: "Dock: Game Rooms Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Game Rooms Dock"
   color: "#a3a2a5"
@@ -33,7 +35,7 @@ The Game Rooms Dock is an interactive dock that contains many games a player can
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Dock.png" alt="">
 
-# Games on the dock as of [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0):
+# Games on the dock currently:
 
 ## Game Rooms 1 and 2:
 
