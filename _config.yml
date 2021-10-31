@@ -3,8 +3,8 @@ remote_theme: "BOBDevStudio/Minimal-Mistakes-Fork-Theme"
 # --//Main customisation:
 
 #baseurl: /RBAP
-logo: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
-tab_icon: "/Assets/Images/Page-Icons/Main%20Page%20Icon.ico"
+logo: "/Assets/Images/Page-Icons/Page-Icon.ico"
+tab_icon: "/Assets/Images/Page-Icons/Page-Icon.ico"
 redirect_update_logs_category: true
 color_images_base_path: "/Assets/Images/Colors/"
 color_images_file_type: "png"
@@ -70,11 +70,19 @@ defaults:
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
-      outside_preview:
-        site_title: "RBAP's Wiki"
-        description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
 #      mentioned_game_content:
 #        last_status_check_explanation_page: ""
+      outside_preview:
+        site_title: "Random Buildings And Parts Official Wiki"
+        page_title_appended_text: " - RBAP's Wiki"
+        description: "This is the official wiki for the Roblox game called Random Buildings And Parts"
+        default_image: "/Assets/Images/Outside-Default-Icon.png"
+        logo:
+          path: "/Assets/Images/Page-Icons/Page-Icon.svg"
+          color: "#078599"
+        twitter:
+          owner_username: "TheBOBDevStudio"
+          writer_username: "TheBOBDevStudio"
 #  - scope:
 #      path: ""
 #      type: pages
@@ -95,6 +103,12 @@ defaults:
           name: "system_dock_entrance_type"
       page_categories:
         wiki_page: true
+  - scope:
+      path: "Wiki/Ease-Of-Access-Category-Pages/*"
+      type: pages
+    values:
+      page_categories:
+        ease_of_access_category_page: true
   - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
@@ -169,6 +183,9 @@ defaults:
         - Update Logs
       sidebar:
         nav: "UpdateLogs"
+      outside_preview:
+        twitter:
+          writer_username: "ThisBeBOB_"
   - scope:
       path: "_posts/Update-Logs/Old/*"
       type: posts
@@ -236,7 +253,6 @@ search_provider: "lunr"
 strict_front_matter: true
 incremental: false
 locale: "en-US"
-tab_title_separator: "-"
 sass:
   style: "expanded"
 atom_feed:
