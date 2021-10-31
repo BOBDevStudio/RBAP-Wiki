@@ -68,6 +68,7 @@ defaults:
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
+      show_footer: false # THis value is to be turned on after the existing post footer is retired.
       outside_preview:
         site_title: "Random Buildings And Parts Official Wiki"
         page_title_appended_text: " - RBAP's Wiki"
