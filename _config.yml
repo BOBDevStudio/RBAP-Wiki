@@ -77,7 +77,8 @@ defaults:
           path: "/Assets/Images/Page-Icons/Page-Icon.svg"
           color: "#078599"
         twitter:
-          username: "TheBOBDevStudio"
+          owner_username: "TheBOBDevStudio"
+          writer_username: "TheBOBDevStudio"
 #  - scope:
 #      path: ""
 #      type: pages
@@ -178,6 +179,9 @@ defaults:
         - Update Logs
       sidebar:
         nav: "UpdateLogs"
+      outside_preview:
+        twitter:
+          writer_username: "ThisBeBOB_"
   - scope:
       path: "_posts/Update-Logs/Old/*"
       type: posts
