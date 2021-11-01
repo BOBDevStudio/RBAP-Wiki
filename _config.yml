@@ -30,8 +30,8 @@ page_subject_info_panel_defaults:
 
 # Disables or enables new or old major website features.
 enabled_features:
-  new_footer_enabled: false
-  old_footer_enabled: true
+  new_footer: false
+  old_footer: true
 
 footer:
   links:
