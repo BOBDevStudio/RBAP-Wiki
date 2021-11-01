@@ -28,6 +28,11 @@ page_subject_info_panel_defaults:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
 
+# Disables or enables new or old major website features.
+enabled_features:
+  new_footer_enabled: false
+  old_footer_enabled: true
+
 footer:
   links:
     - label: "License"
@@ -68,7 +73,7 @@ defaults:
       update_log_listed: false
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
-      show_footer: false # THis value is to be turned on after the existing post footer is retired.
+      show_footer: true
       outside_preview:
         site_title: "Random Buildings And Parts Official Wiki"
         page_title_appended_text: " - RBAP's Wiki"
