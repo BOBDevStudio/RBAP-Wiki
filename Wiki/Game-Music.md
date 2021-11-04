@@ -1,6 +1,6 @@
 ---
 permalink: /Wiki/Music
-title: Music
+title: "Music"
 color_coded_table_boolean_enabled: true
 redirect_from:
   - /Wiki/music
