@@ -1,8 +1,9 @@
 ---
 title: Walkway Transportation
 notices:
-  - text: "As of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update the content featured on this page is no longer very accurate as The Traveler has gone unused since that update due to multiple reasons."
-    type: "warning"
+  - type: "warning"
+    title: "Unmaintained Page"
+    text: "As of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update the content featured on this page is no longer very accurate as The Traveler has gone unused since that update due to multiple reasons."
 redirect_from:
   - /Wiki/Map-Transportation
   - /Wiki/map-Transportation
