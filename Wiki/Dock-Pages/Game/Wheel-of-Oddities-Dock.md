@@ -89,7 +89,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | This doesn't look like the moon?! |
 | Was going to be listed as | Wait this doesn't look like the moon?! |
-| Does                      | Applies low gravity to your character. Specifically the normal amount of gravity divided by 1.25 is the amount of gravity that **isn't** applied to your character. |
+| Does                      | Applies low gravity to your character. Specifically 40% of the normal amount of gravity is applied to your character. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
