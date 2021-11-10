@@ -37,16 +37,16 @@ The Game Info Dock is a dock added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0).
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Info-Dock.png" alt="">
 
-# Signs on the dock:
+## Signs on the dock:
 
-## Server And Game Info Sign
+### Server And Game Info Sign
 
 This sign was originally pulled from the old [Server And Game Info Dock](/RBAP-Wiki/Wiki/Docks/Server-And-Game-Info-Dock) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) nothing else has changed.
 
-## Update Logs Sign
+### Update Logs Sign
 
 This sign was originally pulled from the old [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Update-Logs-Dock) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, as of [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) nothing else has changed.
 
-## Credits Sign
+### Credits Sign
 
 This sign displays the game's credits and is not pulled from a previously existing dock. This sign was added along with the dock however the idea for this sign dates back to before [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) even entered production.
