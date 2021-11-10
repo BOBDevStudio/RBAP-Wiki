@@ -8,16 +8,4 @@ post_status_icons_visible: false
 show_footer: false
 categories:
   - Update Logs
-redirect_from:
-  - /update-Logs
-  - /Update-logs
-  - /update-logs
-  - /Update-Logs/
-  - /update-Logs/
-  - /Update-logs/
-  - /update-logs/
-  - /Updates
-  - /updates
-  - /Updates/
-  - /updates/
 ---

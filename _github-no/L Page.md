@@ -1,18 +1,6 @@
 ---
 permalink: /License
 title: "License"
-redirect_from:
-  - /license
-  - /License/
-  - /license/
-  - /Wiki-License
-  - /wiki-License
-  - /Wiki-license
-  - /wiki-license
-  - /Wiki-License/
-  - /wiki-License/
-  - /Wiki-license/
-  - /wiki-license/
 ---
 
 The following license is what the wiki is currently licensed under.
