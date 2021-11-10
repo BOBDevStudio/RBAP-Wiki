@@ -4,6 +4,7 @@ title: "Dock Entrance Type: Server Dock"
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
+  removed_dock_entrance_type: true
   system_dock_entrance_type: true
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"

@@ -2,6 +2,7 @@
 permalink: /Wiki/Docks/Server-And-Game-Info-Dock
 title: "Dock: Server And Game Info Dock"
 used_set_notices:
+  removed_dock: true
   v5_game_info_dock_merged: true
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"

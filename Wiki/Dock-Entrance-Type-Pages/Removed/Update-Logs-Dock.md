@@ -4,6 +4,7 @@ title: "Dock Entrance Type: Update Logs Dock"
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
+  removed_dock_entrance_type: true
   system_dock_entrance_type: true
 page_subject_info:
   title: "Update Logs Dock"
