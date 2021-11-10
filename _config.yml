@@ -74,6 +74,15 @@ defaults:
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
       show_footer: true
+      set_notices:
+        - name: "v5_game_info_dock_merged"
+          type: "merge"
+          title: "Dock Merged"
+          text: "This dock was merged into the [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock) in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)."
+        - name: "system_dock_entrance_type"
+          type: "info"
+          title: "System Dock Entrance Type"
+          text: "This page describes a dock entrance type for system dock. Information (like a description) about this dock entrance type may be limited due to it only ever being used on one dock. Also the colors that are used in the dock entrance type's lights usually have some relation (using some weird logic in some cases) to the dock."
       outside_preview:
         site_title: "Random Buildings And Parts Official Wiki"
         page_title_appended_text: " - RBAP's Wiki"
@@ -96,15 +105,6 @@ defaults:
     values:
       sidebar:
         nav: "Wiki"
-      set_notices:
-        - name: "v5_game_info_dock_merged"
-          type: "merge"
-          title: "Dock Merged"
-          text: "This dock was merged into the [Game Info Dock](/RBAP-Wiki/Wiki/Docks/Game-Info-Dock) in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0)."
-        - name: "system_dock_entrance_type"
-          type: "info"
-          title: "System Dock Entrance Type"
-          text: "This page describes a dock entrance type for system dock. Information (like a description) about this dock entrance type may be limited due to it only ever being used on one dock. Also the colors that are used in the dock entrance type's lights usually have some relation (using some weird logic in some cases) to the dock."
       page_categories:
         wiki_page: true
   - scope:
