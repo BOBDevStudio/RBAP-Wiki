@@ -41,7 +41,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 
 ## The rewards:
 
-{%- include page-notice type="danger" title="Spoilers Ahead!" text="It is **highly** advised that you experience all of the rewards yourself before reading the following as it could ruin the fun of finding out what each of them do." -%}
+{% include page-notice type="danger" title="Spoilers Ahead!" text="It is **highly** advised that you experience all of the rewards yourself before reading the following as it could ruin the fun of finding out what each of them do." %}
 
 ### 1. Your screen gets blacked out
 

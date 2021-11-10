@@ -27,7 +27,7 @@ This dock has a history of not actually being in the game. Although nowadays BOB
 
 The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
 
-{%- include page-notice type="warning" title="Note" text="The list below is not really in any order and is just based off what BOB remembers so it could very well be inaccurate to an extent." -%}
+{% include page-notice type="warning" title="Note" text="The list below is not really in any order and is just based off what BOB remembers so it could very well be inaccurate to an extent." %}
 
 | Change |
 |-|
