@@ -6,30 +6,6 @@ notices:
   - type: "warning"
     title: "Unmaintained Page"
     text: "This page is no longer being actively maintained as of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update. This page will still exist for at least a little while but it will not be actively linked to."
-redirect_from:
-  - /Wiki/Value-types
-  - /Wiki/value-Types
-  - /Wiki/value-types
-  - /wiki/Value-Types
-  - /wiki/Value-types
-  - /wiki/value-Types
-  - /wiki/value-types
-  - /Wiki/Value-Types/
-  - /Wiki/Value-types/
-  - /Wiki/value-Types/
-  - /Wiki/value-types/
-  - /wiki/Value-Types/
-  - /wiki/Value-types/
-  - /wiki/value-Types/
-  - /wiki/value-types/
-  - /Value-Types
-  - /Value-types
-  - /value-Types
-  - /value-types
-  - /Value-Types/
-  - /Value-types/
-  - /value-Types/
-  - /value-types/
 ---
 
 ### Here's a list of each of (or most of) the value types used on the wiki:

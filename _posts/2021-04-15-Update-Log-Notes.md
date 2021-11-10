@@ -4,36 +4,6 @@ title: "Notes about the update log system"
 short_description: "List of notes related to the update log system."
 post_created_at: "2021-04-15 00:00:00 +00:00"
 post_updated_at: "2021-10-11 00:00:00 +00:00"
-redirect_from:
-  - /Posts/Update-log-notes
-  - /Posts/update-Log-notes
-  - /Posts/update-log-Notes
-  - /Posts/update-log-notes
-  - /Posts/Update-Log-notes
-  - /Posts/update-Log-Notes
-  - /Posts/Update-log-Notes
-  - /posts/Update-log-notes
-  - /posts/update-Log-notes
-  - /posts/update-log-Notes
-  - /posts/update-log-notes
-  - /posts/Update-Log-notes
-  - /posts/update-Log-Notes
-  - /posts/Update-log-Notes
-  - /Posts/Update-log-Notes/
-  - /Posts/Update-log-notes/
-  - /Posts/update-Log-notes/
-  - /Posts/update-log-Notes/
-  - /Posts/update-log-notes/
-  - /Posts/Update-Log-notes/
-  - /Posts/update-Log-Notes/
-  - /Posts/Update-log-Notes/
-  - /posts/Update-log-notes/
-  - /posts/update-Log-notes/
-  - /posts/update-log-Notes/
-  - /posts/update-log-notes/
-  - /posts/Update-Log-notes/
-  - /posts/update-Log-Notes/
-  - /posts/Update-log-Notes/
 pinned: true
 comments: true
 author: "RBAP"
