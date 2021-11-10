@@ -69,7 +69,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | Let's play some pinball! |
 | Was going to be listed as |  |
-| Does                      | Sets your character's walk speed to a number in between 500 and 1500 |
+| Does                      | Sets your character's walk speed to a number in between 500 and 1500. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
@@ -119,7 +119,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | I was here a moment ago? |
 | Was going to be listed as | Well... I was here a moment ago wasn't I? |
-| Does                      | Makes your character invisible |
+| Does                      | Makes your character invisible. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
@@ -128,7 +128,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Data Name                 | Data |
 |-|-|
 | Listed As                 | I love balloons! |
-| Was going to be listed as | I love balloons! Ok... maybe not <i>that</i> one |
+| Was going to be listed as | I love balloons! Ok... maybe not *that* one |
 | Does                      | Spawns a balloon in your character's hand which itself is not affected by gravity and actually overcomes it. |
 | Expires After             | 30 seconds or after you reach a Y level of 2500 |
 | Other Info                |  |
@@ -169,11 +169,11 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | Were we in the 1900s? |
 | Was going to be listed as | Wait last I checked we were in the 2000s! |
-| Does                      | Simply makes your screen go black and white |
+| Does                      | Simply makes your screen go black and white. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 14. Your character rocketed away
+### 14. Your character rockets away
 
 | Data Name                 | Data |
 |-|-|
