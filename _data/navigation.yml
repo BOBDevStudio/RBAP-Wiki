@@ -9,6 +9,8 @@ main:
 Wiki:
   - title: "Home"
     url: "/Wiki"
+  - title: "Random Buildings And Parts"
+    url: "/Wiki/RBAP"
   - title: "Docks"
     url: "/Wiki/Docks"
     children:
