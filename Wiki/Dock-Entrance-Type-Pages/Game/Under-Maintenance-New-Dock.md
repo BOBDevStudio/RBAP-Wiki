@@ -26,19 +26,19 @@ page_subject_info:
         - key: "Main Light 1 Color"
           color_image:
             name: "Red"
-            dock_type_color: true
+            dock_entrance_type_color: true
         - key: "Main Light 2 On"
           value: "`True`"
         - key: "Main Light 2 Color"
           color_image:
             name: "Yellow"
-            dock_type_color: true
+            dock_entrance_type_color: true
         - key: "Main Light 3 On"
           value: "`False`"
         - key: "Main Light 3 Color"
           color_image:
             name: "Green"
-            dock_type_color: true
+            dock_entrance_type_color: true
         - key: "Warning Light 1 Light On"
           value: "*Default (unset)*"
         - key: "Warning Light 1 Spinning"
