@@ -3,6 +3,13 @@ permalink: /Wiki/RBAP
 title: "Random Buildings And Parts"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+page_subject_info:
+  title: "Random Buildings And Parts"
+  color: "#a0bed3"
+  titles_text_color: "#FFFFFF"
+  main_image:
+    path: "/Assets/Images/Roblox-Place/Main-Build/Icon.png"
+  description: "Above is the current icon of the game"
 ---
 
 Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox that BOB (the creator of it) uses it to showcase stuff he's built. It was originally started somewhere in 2018 and has been worked on ever since then and has evolved into what you see today.
