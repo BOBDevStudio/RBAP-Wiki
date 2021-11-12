@@ -33,3 +33,7 @@ The imaging build is the only build that is never open to anyone. It is mainly u
 ### Dev Build
 
 The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs in that build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. Joining this build is controlled by 2 whitelists (one operated by Roblox and the other one operated by the game). It is the oldest build and has used 2 Roblox places over the course of its history.
+
+## Revenue
+
+Although the game is pretty high quality (compared to something that can be made in like a week) and is definitely time-consuming to make, the game is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play even if it is at the end of the day a showcase game. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) Is there for the purpose of giving donations for not only work done on the game but also the group or any other game owned by the group.
