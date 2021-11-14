@@ -1,10 +1,6 @@
 ---
 permalink: /Wiki/Docks/Game-Info-Dock
 title: "Dock: Game Info Dock"
-notices:
-  - type: "info"
-    title: "Missing Images"
-    text: "As you may have noticed this page contains no images of the Game Info Dock. The reason for this is because it was a complete oversight on BOB's part. It is on his to do list but due to multiple reasons it *will* take awhile to get done."
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
