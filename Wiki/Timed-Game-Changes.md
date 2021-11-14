@@ -3,30 +3,6 @@ permalink: /Wiki/Timed-Changes
 title: Timed Changes
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
-redirect_from:
-  - /Wiki/timed-Changes
-  - /Wiki/Timed-changes
-  - /Wiki/timed-changes
-  - /Wiki/Timed-Changes/
-  - /Wiki/timed-Changes/
-  - /Wiki/Timed-changes/
-  - /Wiki/timed-changes/
-  - /wiki/Timed-Changes
-  - /wiki/timed-Changes
-  - /wiki/Timed-changes
-  - /wiki/timed-changes
-  - /wiki/Timed-Changes/
-  - /wiki/timed-Changes/
-  - /wiki/Timed-changes/
-  - /wiki/timed-changes/
-  - /Timed-Changes
-  - /timed-Changes
-  - /Timed-changes
-  - /timed-changes
-  - /Timed-Changes/
-  - /timed-Changes/
-  - /Timed-changes/
-  - /timed-changes/
 ---
 
 In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all.

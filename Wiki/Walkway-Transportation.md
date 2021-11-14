@@ -4,39 +4,6 @@ notices:
   - type: "warning"
     title: "Unmaintained Page"
     text: "As of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update the content featured on this page is no longer very accurate as The Traveler has gone unused since that update due to multiple reasons."
-redirect_from:
-  - /Wiki/Map-Transportation
-  - /Wiki/map-Transportation
-  - /Wiki/Map-transportation
-  - /Wiki/map-transportation
-  - /Wiki/Map-Transportation/
-  - /Wiki/map-Transportation/
-  - /Wiki/Map-transportation/
-  - /Wiki/map-transportation/
-#  - /Wiki/Walkway-Transportation
-  - /Wiki/walkway-Transportation
-  - /Wiki/Walkway-transportation
-  - /Wiki/walkway-transportation
-  - /Wiki/Walkway-Transportation/
-  - /Wiki/walkway-Transportation/
-  - /Wiki/Walkway-transportation/
-  - /Wiki/walkway-transportation/
-  - /Map-Transportation
-  - /map-Transportation
-  - /Map-transportation
-  - /map-transportation
-  - /Map-Transportation/
-  - /map-Transportation/
-  - /Map-transportation/
-  - /map-transportation/
-  - /Walkway-Transportation
-  - /walkway-Transportation
-  - /Walkway-transportation
-  - /walkway-transportation
-  - /Walkway-Transportation/
-  - /walkway-Transportation/
-  - /Walkway-transportation/
-  - /walkway-transportation/
 ---
 
 Random Buildings And Parts currently has 2 ways of transportation across the game's map. They are the [Player Conveyors](/RBAP-Wiki/Wiki/Map-Transportation#player-conveyors) and [The Traveler](/RBAP-Wiki/Wiki/Map-Transportation#the-traveler) and only one of them can be present in a server.

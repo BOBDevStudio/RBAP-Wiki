@@ -5,28 +5,6 @@ listed_page_category: "docks_category_page"
 #  dock_page: true
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
-redirect_from:
-  - /Wiki/docks
-  - /wiki/Docks
-  - /wiki/docks
-  - /Wiki/docks/
-  - /wiki/Docks/
-  - /wiki/docks/
-  - /Wiki/Dock
-  - /Wiki/dock
-  - /wiki/Dock
-  - /wiki/dock
-  - /Wiki/dock/
-  - /wiki/Dock/
-  - /wiki/dock/
-  - /Docks
-  - /docks
-  - /Docks/
-  - /docks/
-  - /Dock
-  - /dock
-  - /Dock/
-  - /dock/
 ---
 
 What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills. There are many docks in the game and some are years old while others are only months old. Some docks can even be interacted with and those are called Interactive Docks (which you usually see mentioned somewhere in the first paragraph of a dock's page).
