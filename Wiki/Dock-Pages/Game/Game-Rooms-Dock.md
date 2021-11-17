@@ -37,7 +37,7 @@ The Game Rooms Dock is an interactive dock that contains many games a player can
 
 # Games on the dock currently:
 
-## Game Rooms 1 and 2:
+## Game Rooms 1 and 2
 
 ### Four Corners
 
@@ -65,7 +65,7 @@ This game was added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0). How this game 
 
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Rooms-Games/Light-Chaser.png" alt="">
 
-## Game Room 3:
+## Game Room 3
 
 Added in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) this game room features games that load their own custom map that is specific to each game. Each game is single player compatible and has its own music that is played while players are playing the game.
 
@@ -77,12 +77,12 @@ In case you're wondering this abandoned project is the same as the one talked ab
 
 ### Door Master
 
-
+This game along with Game Room 3 in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0). It features a field of 50 numbered doors to which you have 108 seconds to find the randomly selected door. Each door can be opened by standing on the center of it. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
 
 ### Path Finder
 
-
+This game along with Game Room 3 in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0). It features a field full of many rows of invisible barriers with one barrier in each row missing. In order to win you have to find your way through each of the rows of barriers to the end platform before the time of 50 seconds runs out. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
 
 ### Path Finder: Minefield
 
-
+This game along with Game Room 3 in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0). It features a field full of many hidden randomly placed mines to which you have to navigate your way through to the end platform in order to win. This game is entirely possible to do while in single player.
