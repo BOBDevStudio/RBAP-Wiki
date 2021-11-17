@@ -46,7 +46,6 @@ exclude:
   - License
   - .github
   - Code of Conduct.md
-  - WIP
 include:
   - _github-no
 
@@ -203,30 +202,52 @@ defaults:
         twitter:
           writer_username: "ThisBeBOB_"
   - scope:
-      path: "_posts/Update-Logs/Old/*"
+      path: "_posts/Update-Logs/Unmaintained/*"
       type: posts
     values:
       update_log_old: true
-      listed: false
-      update_log_listed: true
       short_description: ""
-      comments: false
+  - scope:
+      path: "_posts/Update-Logs/Unmaintained/Decent/*"
+      type: posts
+    values:
+      listed: true
+      update_log_listed: true
+      comments: true
       global_notices:
         - type: "danger"
           title: "Old Update Log"
-          text: "Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that was used older in update logs is unlikely to be fixed."
+          text: "Due to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and wording is unlikely to be fixed or changed."
+        - type: "info"
+          title: "Comments Still Allowed"
+          text: "Although this update log is old it is still considered pretty decent so comments are still allowed on it."
       categories:
         - Old Update Logs
         - Listed Old Update Logs
   - scope:
-      path: "_posts/Update-Logs/Old/Really Old/*"
+      path: "_posts/Update-Logs/Unmaintained/Unfavored/*"
       type: posts
     values:
+      listed: false
       update_log_listed: false
+      comments: false
       global_notices:
         - type: "danger"
           title: "Old Update Log"
-          text: "Do to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and overall unnecessary hype that was used older in update logs is unlikely to be fixed."
+          text: "Due to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and wording is unlikely to be fixed or changed."
+      categories:
+        - Old Update Logs
+  - scope:
+      path: "_posts/Update-Logs/Unmaintained/Ancient/*"
+      type: posts
+    values:
+      listed: false
+      update_log_listed: false
+      comments: false
+      global_notices:
+        - type: "danger"
+          title: "Old Update Log"
+          text: "Due to how old the update described in this update log is this update log is not being actively maintained. This shouldn’t affect the usability of the page but stuff like spelling mistakes and wording is unlikely to be fixed or changed."
         - type: "warning"
           title: "Old Update Log System Extracted"
           text: "This update log was originally made for the long gone in-game update log system from around late 2018. Due to it being from the old system it is unlikely that it will ever be given a version number due to the fact that the old system predates the current version numbers system. It is also unlikely that it will ever have a listed exact publish time. More info on this is available in the [notes about the update log system](/RBAP-Wiki/Posts/Update-Log-Notes)."
