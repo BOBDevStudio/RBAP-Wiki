@@ -41,4 +41,4 @@ This list does not include stuff like features that were ported over from the de
 | Enter private messaging via clicking on a name in a message						| ✔️ | ❌ | RBAP's chat does not have support for this due to it logistically not being possible. |
 | System message translation support												| ✔️ | ❌ | RBAP has no translation support so RBAP's chat also has no translation support. |
 | Display names being widely used													| ✔️ | ❌ | This is BOB's personal preference as people chatting with the same display name could get confusing for readers. Stuff like mentions support them though. |
-| Use of deprecated API from Roblox's engine										| ✔️ | ❌ | You would think that they would not use deprecated API because they're the one that deprecated the API in the first place but apparently not lol. That sentence applies to the latest version of it at the time of writing lol. BOB is listing this here just because he found it funny but it's **not** really of any importance. |
+| Chat fading in and out															| ✔️ | ❌ | RBAP's chat doesn't *yet* have support for this but will hopefully in the future. |
