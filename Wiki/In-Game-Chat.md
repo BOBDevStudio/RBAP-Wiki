@@ -34,7 +34,7 @@ This list does not include stuff like features that were ported over from the de
 | Better system messages															| ❌ | ✔️ | This includes stuff like indicating an error or success message and indicating what command a system message came from. |
 | Joining friend gets notified that they have joined a server with their friends	| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
 | Mute and unmute commands can run on multiple players								| ❌ | ✔️ |  |
-| Help command is automatically compiled											| ❌ | ✔️ | Roblox's chat's help command is written out manually meaning if you add a new command you have to directly edit it in order for it to list the command. |
+| Automatically compiled help command												| ❌ | ✔️ | Roblox's chat's help command is written out manually meaning if you add a new command you have to directly edit it in order for it to list the command. |
 | Animations for the chat bar's informational text									| ❌ | ✔️ |  |
 | Many other backend related feature improvements									| ❌ | ✔️ |  |
 | Easier upgrade support															| ❌ | ✔️ | Since BOB is the one who coded it It is easy for him to add new features to it. Which is unlike Roblox's chat where he would have to do time-consuming research to figure out how to add a feature. |
@@ -42,4 +42,4 @@ This list does not include stuff like features that were ported over from the de
 | Enter private messaging via clicking on a name in a message						| ✔️ | ❌ | RBAP's chat does not have support for this due to it logistically not being possible. |
 | System message translation support												| ✔️ | ❌ | RBAP has no translation support so RBAP's chat also has no translation support. |
 | Display names being widely used													| ✔️ | ❌ | This is BOB's personal preference as people chatting with the same display name could get confusing for readers. Stuff like mentions support them though. |
-| Chat fading in and out															| ✔️ | ❌ | RBAP's chat doesn't *yet* have support for this but will hopefully in the future. |
+| Chat fading in and out															| ✔️ | ❌ | RBAP's chat doesn't *yet* have support for this but hopefully will in the future. |
