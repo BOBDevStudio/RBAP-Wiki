@@ -6,7 +6,7 @@ mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 ---
 
-As you may know Roblox's default (text) chat is a bit lacking in terms of visuals and features compared to many popular chat apps. Well RBAP's chat is here to fix that! Added in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) it features a usual design overhaul that brings it in line with Roblox's top bar design language among other things.
+As you may know Roblox's default (text) chat is a bit lacking in terms of visuals and features compared to many popular chat apps. Well RBAP's chat is here to fix that! Added in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) it features a visual design overhaul that brings it in line with Roblox's top bar design language among other things.
 
 The purpose of this custom chat by BOB was to the merge the following things together:
 * Roblox's design language for the top bar buttons.
