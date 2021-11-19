@@ -22,7 +22,7 @@ This list does not include stuff like features that were ported over from the de
 |-|-|-|-|
 | Automatic scrolling of the chat log												| ✔️ | ✔️ | RBAP's chat animates the process while Roblox's chat does not. This may sound simple but there were a **ton** of technical issues that kept popping up in the making of it. |
 | Private messaging																	| ✔️ | ✔️ | Roblox's chat uses a command (like `/w 11MR_BOB Hello`) while RBAP's chat uses a mention placed at the very beginning of the message (like `@11MR_BOB Hello`). |
-| A help command																	| ✔️ | ✔️ | Only difference here is RBAP's chat formats it differently. |
+| A help command																	| ✔️ | ✔️ | RBAP's chat formats it differently aiming to show more info about the each command. |
 | @mention support																	| ❌ | ✔️ | Works with usernames, display names, and user ids. |
 | Listed time sent																	| ❌ | ✔️ |  |
 | Visual design that interlocks with Roblox's										| ❌ | ✔️ |  |
@@ -34,6 +34,7 @@ This list does not include stuff like features that were ported over from the de
 | Better system messages															| ❌ | ✔️ | This includes stuff like indicating an error or success message and indicating what command a system message came from. |
 | Joining friend gets notified that they have joined a server with their friends	| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
 | Mute and unmute commands can run on multiple players								| ❌ | ✔️ |  |
+| Help command is automatically compiled											| ❌ | ✔️ | Roblox's chat's help command is written out manually meaning if you add a new command you have to directly edit it in order for it to list the command. |
 | Animations for the chat bar's informational text									| ❌ | ✔️ |  |
 | Many other backend related feature improvements									| ❌ | ✔️ |  |
 | Easier upgrade support															| ❌ | ✔️ | Since BOB is the one who coded it It is easy for him to add new features to it. Which is unlike Roblox's chat where he would have to do time-consuming research to figure out how to add a feature. |
