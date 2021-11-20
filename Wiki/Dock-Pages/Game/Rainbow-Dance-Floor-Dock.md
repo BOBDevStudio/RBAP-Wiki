@@ -35,4 +35,4 @@ During most of the dock's history it has had its own music zone (although the mu
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" alt="">

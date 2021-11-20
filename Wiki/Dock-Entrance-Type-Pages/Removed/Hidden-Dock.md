@@ -87,4 +87,4 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" alt="">

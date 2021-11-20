@@ -47,4 +47,4 @@ The design of the stage has changed a little bit over the years. Here's a list o
 | Side Placed On           | `Middle Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Stage-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Stage-Dock.png" alt="">

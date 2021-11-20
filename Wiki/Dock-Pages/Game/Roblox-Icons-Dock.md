@@ -31,4 +31,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Roblox-Icons-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Roblox-Icons-Dock.png" alt="">

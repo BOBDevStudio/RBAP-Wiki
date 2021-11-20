@@ -44,4 +44,4 @@ The prices of each of the donation amounts available is meant to be able to help
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Donations-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Donations-Dock.png" alt="">

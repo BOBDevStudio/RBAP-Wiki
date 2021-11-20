@@ -37,7 +37,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" alt="">
 
 ## The rewards:
 

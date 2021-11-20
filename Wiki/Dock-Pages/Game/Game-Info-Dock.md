@@ -33,7 +33,7 @@ The Game Info Dock is a dock added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0).
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Info-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Game-Info-Dock.png" alt="">
 
 ## Signs on the dock:
 

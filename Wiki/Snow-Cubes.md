@@ -14,7 +14,7 @@ page_subject_info:
 
 You may not think about it much but this little model has some history. It is (as far as BOB knows) currently the oldest still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Main.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Main.png" alt="">
 
 # Here's the list of all the Snow Cubes' appearances currently:
 
@@ -22,13 +22,13 @@ You may not think about it much but this little model has some history. It is (a
 
 In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its first appearance. Surprisingly the Roblox Union object behind the shape of the Snow Cube model has actually stood the test of time as it has not been edited since.
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Original.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Original.png" alt="">
 
 ## [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Ice-Cube-Tray-Dock)
 
 Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock](/RBAP-Wiki/Wiki/Docks/Ice-Cube-Tray-Dock) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" alt="">
 
 ## Trees?
 
@@ -42,4 +42,4 @@ Much like with the trees the Snow Cubes made another (differently colored and sh
 
 Starting in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Snow-Day.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Snow-Cubes/Snow-Day.png" alt="">

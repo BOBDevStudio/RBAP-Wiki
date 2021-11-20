@@ -31,4 +31,4 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/No-Standing-Joke-Dock.png" alt="">

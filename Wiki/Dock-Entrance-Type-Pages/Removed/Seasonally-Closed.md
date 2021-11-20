@@ -85,4 +85,4 @@ This dock entrance type was used in the winter of 2019 and 2020 due to the snow 
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png" alt="">

@@ -89,4 +89,4 @@ This dock entrance type is indirectly inspired by the [NPCs Key Dock](/RBAP-Wiki
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" alt="">

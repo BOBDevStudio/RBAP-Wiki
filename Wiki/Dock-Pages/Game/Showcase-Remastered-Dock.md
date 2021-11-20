@@ -31,4 +31,4 @@ This is recreation of the [old window showcase](/RBAP-Wiki/Wiki/Docks/Showcase-D
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Showcase-Remastered-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Showcase-Remastered-Dock.png" alt="">

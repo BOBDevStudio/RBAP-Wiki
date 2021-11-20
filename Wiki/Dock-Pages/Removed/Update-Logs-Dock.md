@@ -34,4 +34,4 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Update-Logs-Dock.png" alt="">
+<img src="/RBAP-Wiki/Assets/Images/Docks/Update-Logs-Dock.png" alt="">
