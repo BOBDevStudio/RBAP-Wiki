@@ -91,6 +91,8 @@ This game along with Game Room 3 in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0).
 
 This game along with Game Room 3 in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0). It features a field full of many rows of invisible barriers with one barrier in each row missing. In order to win you have to find your way through each of the rows of barriers to the end platform before the time of 50 seconds runs out. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
 
+The map that is used by this game is also **heavily** inspired by the original map which was what the construction barrier model on the [Construction Barrier Dock](/RBAP-Wiki/Wiki/Docks/Construction-Barrier-Dock) was made for before it ever came to RBAP. In fact both uses of the construction barrier in either of the maps is the same.
+
 <img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Game-Rooms/Games/Path-Finder.png" alt="">
 
 ### Path Finder: Minefield
