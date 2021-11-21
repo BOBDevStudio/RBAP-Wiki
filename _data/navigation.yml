@@ -45,6 +45,8 @@ UpdateLogs:
   - title: "V5 Series of Updates"
     url: "/Tags#v5"
     children:
+      - title: "V5.1.2"
+        url: "/Posts/Update-Log/5-1-2"
       - title: "V5.1.1"
         url: "/Posts/Update-Log/5-1-1"
       - title: "V5.1.0"
