@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
 title: "Dock: Wheel of Oddities Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Wheel of Oddities Dock"
   color: "#c8c873"

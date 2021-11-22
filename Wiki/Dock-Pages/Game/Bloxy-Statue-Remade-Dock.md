@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Bloxy-Statue-Remade-Dock
 title: "Dock: Bloxy Statue Remade Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Bloxy Statue Remade Dock"
   color: "#d7d700"

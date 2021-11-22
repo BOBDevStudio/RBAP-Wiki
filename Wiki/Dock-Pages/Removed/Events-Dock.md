@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Events-Dock
 title: "Dock: Events Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Events Dock"
 #  color: "#a3a2a5" -- Needs color
