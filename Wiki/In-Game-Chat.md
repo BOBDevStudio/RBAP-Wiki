@@ -16,16 +16,14 @@ The purpose of this custom chat by BOB was to the merge the following things tog
 
 ## Here's a list of feature comparison between each chat:
 
-This list does not include stuff like features that were ported over from the default chat with no frontend changes and backand features that weren't ported over.
+This list does not include stuff like features that were ported over from the default chat with no frontend changes and backend features that weren't ported over. This list is also not meant to purposely make RBAP's chat look like it is better than Roblox's chat it is just here to show you what's different.
 
 | Feature | Roblox | RBAP | Other Notes |
 |-|-|-|-|
-| Automatic scrolling of the chat log												| ✔️ | ✔️ | RBAP's chat animates the process while Roblox's chat does not. This may sound simple but there were a **ton** of technical issues that kept popping up in the making of it. |
 | Private messaging																	| ✔️ | ✔️ | Roblox's chat uses a command (like `/w 11MR_BOB Hello`) while RBAP's chat uses a mention placed at the very beginning of the message (like `@11MR_BOB Hello`). |
-| A help command																	| ✔️ | ✔️ | RBAP's chat formats it differently aiming to show more info about the each command. |
 | @mention support																	| ❌ | ✔️ | Works with usernames, display names, and user ids. |
 | Listed time sent																	| ❌ | ✔️ |  |
-| Visual design that interlocks with Roblox's										| ❌ | ✔️ |  |
+| Visual design that interlocks with (some of) Roblox's								| ❌ | ✔️ |  |
 | Filtered message indicator														| ❌ | ✔️ | When Roblox's filter edits a message there is an indicator that is placed to tell users that that is not what the original message looked like. Note that the filter edits it per user so if one player sees the indicator and another doesn't that's why. |
 | Not sending attempts to run invalid commands										| ❌ | ✔️ |  |
 | Toggling on or off chat bubbles													| ❌ | ✔️ | Refer to the help command for more info. |
@@ -35,9 +33,9 @@ This list does not include stuff like features that were ported over from the de
 | Joining friend gets notified that they have joined a server with their friends	| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
 | Mute and unmute commands can run on multiple players								| ❌ | ✔️ |  |
 | Automatically compiled help command												| ❌ | ✔️ | Roblox's chat's help command is written out manually meaning if you add a new command you have to directly edit it in order for it to list the command. |
-| Animations for the chat bar's informational text									| ❌ | ✔️ |  |
+| More/different animations to make everything look more smooth						| ❌ | ✔️ | Examples of this include the automatic scrolling of the chat log (just the animation of it not the automatic scrolling) and the fading of the info text on the chat bar. Note that none of this is easy to pull off with all the moving parts that a chat inherently has. |
 | Many other backend related feature improvements									| ❌ | ✔️ |  |
-| Easier upgrade support															| ❌ | ✔️ | Since BOB is the one who coded it It is easy for him to add new features to it. Which is unlike Roblox's chat where he would have to do time-consuming research to figure out how to add a feature. |
+| Easier upgrade support															| ❌ | ✔️ | Since BOB is the one who coded it it is easy for him to add new features to it. Which is unlike Roblox's chat where he would have to do time-consuming research to figure out how to add a feature. |
 | Channels																			| ✔️ | ❌ | RBAP's chat dropped support for this as BOB considered it not really needed. Although it doesn't have support for channels it can do equivalent stuff to it. |
 | Enter private messaging via clicking on a name in a message						| ✔️ | ❌ | RBAP's chat does not have support for this due to it logistically not being possible. |
 | System message translation support												| ✔️ | ❌ | RBAP has no translation support so RBAP's chat also has no translation support. |
