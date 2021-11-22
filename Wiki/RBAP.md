@@ -37,3 +37,7 @@ The dev build is often the only build that debug features are enabled in and is 
 ## Revenue
 
 Although the game is pretty high quality (compared to something that can be made in like a week) and is definitely time-consuming to make, the game is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play even if it is at the end of the day a showcase game. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) Is there for the purpose of giving donations for not only work done on the game but also the group or any other game owned by the group.
+
+## Localization Support
+
+RBAP currently has no localization support due to the fact that BOB is the only one that works on it so it'd be way too time consuming to manage not to mention it costs money to upkeep for little to no return. Although what was just said is the true BOB is willing to add support for automatic translations if and when they *finally* get released fully by Roblox.
