@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live
 title: "Dock Entrance Type: Temporarily Open - Closed Live"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Temporarily Open - Closed Live"
 #  color: "#a3a2a5" -- Needs color
