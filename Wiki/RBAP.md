@@ -34,10 +34,21 @@ The imaging build is the only build that is never open to anyone. It is mainly u
 
 The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs in that build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. It is the oldest build and has used 2 Roblox places over the course of its history.
 
-## Revenue
+## Practices
+
+### Your Saved Data
+
+The only data that is linked to in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) of Random Buildings And Parts is: 
+
+* Your preferences for what titles should be equipped.
+* * This is only ever saved if you change the setting so if you leave or set all three title placement settings at their default value the data will be removed.
+
+In case you're concerned about it, how a specific set of data is automatically cleared is also listed. To further add on to that list, in selected builds of the game (which **never** includes the main build) **all** saved data is only kept for a maximum of 30 days (but usually way shorter than that) before it is automatically removed by the Roblox engine.
+
+### Revenue
 
 Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
 
-## Localization Support
+### Localization Support
 
 RBAP currently has no localization support due to the fact that BOB is the only one that works on it so it'd be way too time consuming to manage not to mention it costs money to upkeep for little to no return. Although what was just said is the true BOB is willing to add support for automatic translations if and when it *finally* gets fully released by Roblox.
