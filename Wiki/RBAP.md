@@ -12,7 +12,7 @@ page_subject_info:
   description: "Above is the current icon of the game"
 ---
 
-Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox that BOB (the creator of it) uses it to showcase stuff he's built. It was originally started somewhere in 2018 and has been worked on ever since then and has evolved into what you see today.
+Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox by the BOB of the BOB Development Studio and is used by him to showcase stuff he's built. The main feature of the game is the [docks](/RBAP-Wiki/Docks) which are mostly used to showcase most of what BOB has made. The game was originally started somewhere in 2018 and has been worked on ever since then. Nowadays the (official) design language of a good majority of the game is semi-futuristic yet simple.
 
 ## Builds
 
@@ -28,7 +28,7 @@ The pre-update build is often used to publicly show off updates before they get 
 
 ### Imaging Build
 
-The imaging build is the only build that is never open to anyone. It is mainly used to take images for thumbnails, icons, and images on the wiki. It features RBAP but in a frozen state and things like the season can be controlled. Although it may feel bad to edit the environment an image is taken in for the image the reason for it is not to fake the images but instead to help get more consistent images.
+The imaging build is the only build that is never open to anyone. It is mainly used to take images for game thumbnails, icons, and images used both on Roblox and here on the wiki. It features RBAP but in a frozen state and things like the season can be controlled. Although it may sound bad to edit the environment an image is taken in for the image the reason for it is not to fake the images but instead to help get more consistent images. It is the 4th oldest build and has only used 1 Roblox place over the course of its history.
 
 ### Dev Build
 
@@ -36,8 +36,8 @@ The dev build is often the only build that debug features are enabled in and is 
 
 ## Revenue
 
-Although the game is pretty high quality (compared to something that can be made in like a week) and is definitely time-consuming to make, the game is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play even if it is at the end of the day a showcase game. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) Is there for the purpose of giving donations for not only work done on the game but also the group or any other game owned by the group.
+Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
 
 ## Localization Support
 
-RBAP currently has no localization support due to the fact that BOB is the only one that works on it so it'd be way too time consuming to manage not to mention it costs money to upkeep for little to no return. Although what was just said is the true BOB is willing to add support for automatic translations if and when they *finally* get released fully by Roblox.
+RBAP currently has no localization support due to the fact that BOB is the only one that works on it so it'd be way too time consuming to manage not to mention it costs money to upkeep for little to no return. Although what was just said is the true BOB is willing to add support for automatic translations if and when it *finally* gets fully released by Roblox.
