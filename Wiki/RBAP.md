@@ -24,7 +24,7 @@ Often titled simply as `Random Buildings And Parts` the main nuild is the only b
 
 ### Pre-Update Build
 
-The pre-update build is often used to publicly show off updates before they get officially released to the main build. This build is only used a handful of times throughout the year and has occasionally been used for other (temporary) purposes. Due to that most of the time it is closed so no one can join and updates featured inside of it often become outdated. When it is open to the public only people in certain group ranks are allowed to join. It is the 3rd oldest build and has technically used 2 Roblox places over the course of its history.
+The pre-update build is often used to publicly show off updates before they get officially released to the main build. This build is only used a handful of times throughout the year and has occasionally been used for other (temporary) purposes. Due to that most of the time it is closed so no one can join and updates featured inside of it often become outdated. When it is open to the public only people in certain group ranks are allowed to join. If you have saved data in this build it is automatically removed after 24 hours. It is the 3rd oldest build and has technically used 2 Roblox places over the course of its history.
 
 ### Imaging Build
 
@@ -32,7 +32,7 @@ The imaging build is the only build that is never open to anyone. It is mainly u
 
 ### Dev Build
 
-The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs in that build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. Joining this build is controlled by 2 whitelists (one operated by Roblox and the other one operated by the game). It is the oldest build and has used 2 Roblox places over the course of its history.
+The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs in that build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. It is the oldest build and has used 2 Roblox places over the course of its history.
 
 ## Revenue
 
