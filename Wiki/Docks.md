@@ -9,7 +9,7 @@ mentioned_game_content:
 
 What is a dock? Docks are where BOB showcases his building skills and sometimes his scripting skills. There are many docks in the game and some are years old while others are only months old. Some docks can even be interacted with and those are called Interactive Docks (which you usually see mentioned somewhere in the first paragraph of a dock's page).
 
-Starting [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) *most* docks started getting automatically placed by the newly added Dock Placing System. And with [`V3.1.1`](/RBAP-Wiki/Posts/Update-Log/3-1-1) *all* docks started getting automatically placed. And then [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) docks could be live removed and added due to the old Dock Placing System being officially retired and replaced with the Dock System (which is still in active use to this day).
+Starting [`V3`](/Posts/Update-Log/3-0-0) *most* docks started getting automatically placed by the newly added Dock Placing System. And with [`V3.1.1`](/Posts/Update-Log/3-1-1) *all* docks started getting automatically placed. And then [`V5`](/Posts/Update-Log/5-0-0) docks could be live removed and added due to the old Dock Placing System being officially retired and replaced with the Dock System (which is still in active use to this day).
 
 Most docks don't have any set positions on where they will be placed so for docks like that the system will place them in alphabetical order. So that means most docks are placed completely randomly and can be moved anytime.
 
@@ -19,7 +19,7 @@ Most docks don't have any set positions on where they will be placed so for dock
 |-|-|-|
 | Reserved Dock Entrance | Number or none                                      | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
 | Entrances Used         | Number                                              | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
-| Dock Entrance Types Used        | Table of [`Dock Entrance Types`](/RBAP-Wiki/Wiki/Dock-Entrance-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
+| Dock Entrance Types Used        | Table of [`Dock Entrance Types`](/Wiki/Dock-Entrance-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
 | Side Placed On         | Side name                                           | The side of the map the dock is to be placed on. |
 
 ## Here's the list of categories of docks:

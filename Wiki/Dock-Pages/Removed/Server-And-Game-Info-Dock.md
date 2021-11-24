@@ -21,18 +21,18 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Server-Dock)}"
+          value: "{`1` = [`Server Dock`](/Wiki/Dock-Entrance-Types/Server-Dock)}"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game but for reasons unknown was not added until [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0). The system that runs the dock was completely recoded in [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/Posts/Update-Log/3-0-0) of the game but for reasons unknown was not added until [`V3`](/Posts/Update-Log/3-0-0). The system that runs the dock was completely recoded in [`V4`](/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
 
 | Value Name               | Value |
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Server Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Server-Dock)} |
+| Dock Entrance Types Used | {`1` = [`Server Dock`](/Wiki/Dock-Entrance-Types/Server-Dock)} |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

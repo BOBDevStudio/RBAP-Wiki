@@ -18,18 +18,18 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`NPCs Key Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)}"
+          value: "{`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)}"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
 
-This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined. It was later reconsidered a system dock in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) due to BOB taking some time to think about what "system dock" should mean in the context of this dock.
+This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined. It was later reconsidered a system dock in [`V5`](/Posts/Update-Log/5-0-0) due to BOB taking some time to think about what "system dock" should mean in the context of this dock.
 
 | Value Name               | Value |
 |-|-|
 | Reserved Dock Entrance   | `15` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`NPCs Key Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)} |
+| Dock Entrance Types Used | {`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)} |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

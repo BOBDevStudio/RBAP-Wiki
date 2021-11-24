@@ -61,7 +61,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This dock entrance type was originally added for the [Mine Dock](/RBAP-Wiki/Wiki/Docks/Mine-Dock) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
+This dock entrance type was originally added for the [Mine Dock](/Wiki/Docks/Mine-Dock) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
 
 | Value Name               | Value |
 |-|-|

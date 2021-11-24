@@ -61,7 +61,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in [`V3`](/RBAP-Wiki/Posts/Update-Log/3-0-0) of the game due to limitations of (at the time) newly-implemented systems (like the dock placing system).
+Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in [`V3`](/Posts/Update-Log/3-0-0) of the game due to limitations of (at the time) newly-implemented systems (like the dock placing system).
 
 | Value Name               | Value |
 |-|-|
