@@ -16,7 +16,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
+          value: "{`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
@@ -27,7 +27,7 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types#open)} |
+| Dock Entrance Types Used | {`1` = [`Open`](/Wiki/Dock-Entrance-Types#open)} |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

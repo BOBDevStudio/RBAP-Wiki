@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[Donations Dock]: This dock houses the game's donation system`"
         - key: "Is System Dock"
-          value: "`True` - [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock)"
+          value: "`True` - [Donations Dock](/Wiki/Docks/Donations-Dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"
@@ -68,7 +68,7 @@ page_subject_info:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Donations Dock]: This dock houses the game's donation system` |
-| Is System Dock           | `True` - [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) |
+| Is System Dock           | `True` - [Donations Dock](/Wiki/Docks/Donations-Dock) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |

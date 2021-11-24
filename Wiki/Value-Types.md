@@ -5,21 +5,21 @@ page_categories:
 notices:
   - type: "warning"
     title: "Unmaintained Page"
-    text: "This page is no longer being actively maintained as of RBAP's [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) update. This page will still exist for at least a little while but it will not be actively linked to."
+    text: "This page is no longer being actively maintained as of RBAP's [`V5`](/Posts/Update-Log/5-0-0) update. This page will still exist for at least a little while but it will not be actively linked to."
 ---
 
 ### Here's a list of each of (or most of) the value types used on the wiki:
 
 | Value Type |
 |-|
-| [Number](/RBAP-Wiki/Wiki/Value-Types#number) |
-| [String](/RBAP-Wiki/Wiki/Value-Types#string) |
-| [Table](/RBAP-Wiki/Wiki/Value-Types#table) |
-| [Array](/RBAP-Wiki/Wiki/Value-Types#array) |
-| [Boolean](/RBAP-Wiki/Wiki/Value-Types#boolean) |
-| [Color](/RBAP-Wiki/Wiki/Value-Types#color) |
-| [Blank](/RBAP-Wiki/Wiki/Value-Types#blank) |
-| [RBAP Version](/RBAP-Wiki/Wiki/Value-Types#rbap-version) |
+| [Number](/Wiki/Value-Types#number) |
+| [String](/Wiki/Value-Types#string) |
+| [Table](/Wiki/Value-Types#table) |
+| [Array](/Wiki/Value-Types#array) |
+| [Boolean](/Wiki/Value-Types#boolean) |
+| [Color](/Wiki/Value-Types#color) |
+| [Blank](/Wiki/Value-Types#blank) |
+| [RBAP Version](/Wiki/Value-Types#rbap-version) |
 
 ## Number
 
@@ -71,4 +71,4 @@ A value type that represents a value not being set to anything. On the wiki it i
 
 ## RBAP Version
 
-A value of this type describes a certain version of Random Buildings And Parts. Update logs for the game can be found in two places as of [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0). Those two places are in-game on the [Update Logs Dock](/RBAP-Wiki/Wiki/Docks/Category/In-Game#update-logs-dock) and [here on the wiki](/RBAP-Wiki/Update-Logs). As should be pretty obvious this value type is exclusive to the wiki.
+A value of this type describes a certain version of Random Buildings And Parts. Update logs for the game can be found in two places as of [`V4`](/Posts/Update-Log/4-0-0). Those two places are in-game on the [Update Logs Dock](/Wiki/Docks/Category/In-Game#update-logs-dock) and [here on the wiki](/Update-Logs). As should be pretty obvious this value type is exclusive to the wiki.

@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Sign Text"
           value: "`[NPCs Key Dock]: This dock contains info about each of the NPCs that can be seen in the game`"
         - key: "Is System Dock"
-          value: "`True` - [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks/NPCs-Key-Dock)"
+          value: "`True` - [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock)"
         - key: "Is Bridge Down"
           value: "`True`"
         - key: "Is Gate Down"
@@ -63,12 +63,12 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This dock entrance type is indirectly inspired by the [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks/NPCs-Key-Dock)'s original system dock entrance type.
+This dock entrance type is indirectly inspired by the [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock)'s original system dock entrance type.
 
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[NPCs Key Dock]: This dock contains info about each of the NPCs that can be seen in the game` |
-| Is System Dock           | `True` - [NPCs Key Dock](/RBAP-Wiki/Wiki/Docks/NPCs-Key-Dock) |
+| Is System Dock           | `True` - [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `False` |

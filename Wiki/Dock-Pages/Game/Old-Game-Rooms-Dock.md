@@ -16,16 +16,16 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`3`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed)}"
+          value: "{`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
 
-This is the original game rooms dock. This dock was created to give the player something to do in the game. Although not widely credited for the help, BOB had play testing help from Unbitterness before its release. Before its removal it had remained largely unchanged since it was added. The [replacement for this dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) is in the same location as this dock used to be.
+This is the original game rooms dock. This dock was created to give the player something to do in the game. Although not widely credited for the help, BOB had play testing help from Unbitterness before its release. Before its removal it had remained largely unchanged since it was added. The [replacement for this dock](/Wiki/Docks/Game-Rooms-Dock) is in the same location as this dock used to be.
 
-This dock was removed in a small ceremony added in [`V4`](/RBAP-Wiki/Posts/Update-Log/4-0-0) as (in that same update) the [replacement for the dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had finally been enabled and made playable. The reason for replacement and then removal is pretty simple: The backend of the dock was/is not really up-to-date with BOB's current way of coding and was/is quite dated and pretty inefficient. Before it was removed BOB made sure that the [replacement dock](/RBAP-Wiki/Wiki/Docks/Game-Rooms-Dock) had a good replacement for all the features of this dock so no one would feel like major features were lost.
+This dock was removed in a small ceremony added in [`V4`](/Posts/Update-Log/4-0-0) as (in that same update) the [replacement for the dock](/Wiki/Docks/Game-Rooms-Dock) had finally been enabled and made playable. The reason for replacement and then removal is pretty simple: The backend of the dock was/is not really up-to-date with BOB's current way of coding and was/is quite dated and pretty inefficient. Before it was removed BOB made sure that the [replacement dock](/Wiki/Docks/Game-Rooms-Dock) had a good replacement for all the features of this dock so no one would feel like major features were lost.
 
-Although this dock is largely considered removed it can still be seen in the game on the 24th of any month (in the time zone the game uses). This easter egg was added in [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0) and the day was chosen by Unbitterness. This easter egg is meant to be a tribute to Unbitterness for helping out with the creation of this dock which was largely uncredited for a while.
+Although this dock is largely considered removed it can still be seen in the game on the 24th of any month (in the time zone the game uses). This easter egg was added in [`V5`](/Posts/Update-Log/5-0-0) and the day was chosen by Unbitterness. This easter egg is meant to be a tribute to Unbitterness for helping out with the creation of this dock which was largely uncredited for a while.
 
 Although she did choose the 24th (on June 24th 2021 (that's where it came from)) she had no idea that it would be used for this. BOB decided not to tell her until a little while after she chose it for the fun of it.
 
@@ -33,7 +33,7 @@ Although she did choose the 24th (on June 24th 2021 (that's where it came from))
 |-|-|
 | Reserved Dock Entrance   | `14` |
 | Entrances Used           | `3` |
-| Dock Entrance Types Used | {`1` = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), [`3`](/RBAP-Wiki/Wiki/Value-Types#number) = [`Closed`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Closed)} |
+| Dock Entrance Types Used | {`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), [`3`](/Wiki/Value-Types#number) = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)} |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
