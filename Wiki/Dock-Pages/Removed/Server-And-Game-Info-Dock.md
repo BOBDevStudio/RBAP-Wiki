@@ -33,4 +33,4 @@ This dock shows all sorts of information about the server and the game. It was o
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Server-And-Game-Info-Dock.png" alt="">
+<img class="dock-image" src="{{- "/Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">

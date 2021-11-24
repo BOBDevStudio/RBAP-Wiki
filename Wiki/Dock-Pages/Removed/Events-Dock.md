@@ -31,4 +31,4 @@ This dock was used to display recent events from many different places. When the
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Events-Dock.png" alt="">
+<img class="dock-image" src="{{- "/Assets/Images/Docks/Events-Dock.png" | relative_url -}}" alt="">

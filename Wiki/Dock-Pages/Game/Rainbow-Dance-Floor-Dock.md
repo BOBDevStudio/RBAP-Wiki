@@ -31,4 +31,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" alt="">
+<img class="dock-image" src="{{- "/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" | relative_url -}}" alt="">

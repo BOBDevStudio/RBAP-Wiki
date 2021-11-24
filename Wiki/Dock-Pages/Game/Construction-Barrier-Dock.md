@@ -33,4 +33,4 @@ The project that this is referring to has yet to make it very far in terms of pr
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/Construction-Barrier-Dock.png" alt="">
+<img class="dock-image" src="{{- "/Assets/Images/Docks/Construction-Barrier-Dock.png" | relative_url -}}" alt="">

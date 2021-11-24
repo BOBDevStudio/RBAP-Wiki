@@ -31,4 +31,4 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="/RBAP-Wiki/Assets/Images/Docks/NPCs-Key-Dock.png" alt="">
+<img class="dock-image" src="{{- "/Assets/Images/Docks/NPCs-Key-Dock.png" | relative_url -}}" alt="">
