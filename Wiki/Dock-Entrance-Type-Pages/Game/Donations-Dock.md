@@ -91,4 +91,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Donations-Dock.png" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Donations-Dock.png" | relative_url -}}" alt="">

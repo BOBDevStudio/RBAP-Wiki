@@ -33,4 +33,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Docks/Camp-Fire-Dock.png" alt="">
+<img src="{{- "Assets/Images/Docks/Camp-Fire-Dock.png" | relative_url -}}" alt="">

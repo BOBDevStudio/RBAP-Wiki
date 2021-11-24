@@ -89,4 +89,4 @@ This dock entrance type can never be found inside of the main build but can be f
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Main-Build-Purchases-Closed.png" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Main-Build-Purchases-Closed.png" | relative_url -}}" alt="">

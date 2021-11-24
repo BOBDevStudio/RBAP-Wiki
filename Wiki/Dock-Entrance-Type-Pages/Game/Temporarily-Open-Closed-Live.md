@@ -91,4 +91,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Temporarily-Open-Closed-Live.png" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Temporarily-Open-Closed-Live.png" | relative_url -}}" alt="">

@@ -33,4 +33,4 @@ In this dock you were able to select a color and it would show up on the machine
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Docks/Color-Mixer-Dock.png" alt="">
+<img src="{{- "Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">

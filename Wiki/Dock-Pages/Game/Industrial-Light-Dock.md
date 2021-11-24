@@ -33,4 +33,4 @@ BOB created this light just for the fun of it. He used to use it (or edited vers
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Docks/Industrial-Light-Dock.png" alt="">
+<img src="{{- "Assets/Images/Docks/Industrial-Light-Dock.png" | relative_url -}}" alt="">

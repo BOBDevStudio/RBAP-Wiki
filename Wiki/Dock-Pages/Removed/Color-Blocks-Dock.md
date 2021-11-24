@@ -33,4 +33,4 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Docks/Color-Blocks-Dock.png" alt="">
+<img src="{{- "Assets/Images/Docks/Color-Blocks-Dock.png" | relative_url -}}" alt="">

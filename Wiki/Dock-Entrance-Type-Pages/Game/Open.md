@@ -89,4 +89,4 @@ This dock entrance type is one of the [generic dock entrance types](/Pages-Categ
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Dock-Entrance-Types/Open.png" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Open.png" | relative_url -}}" alt="">

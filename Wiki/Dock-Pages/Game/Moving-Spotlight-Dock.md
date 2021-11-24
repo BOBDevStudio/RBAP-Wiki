@@ -33,4 +33,4 @@ The Moving Spotlight Dock is an interactive dock which contains an edited spotli
 | Side Placed On           | `Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="/RBAP-Wiki/Assets/Images/Docks/Moving-Spotlight-Dock.png" alt="">
+<img src="{{- "Assets/Images/Docks/Moving-Spotlight-Dock.png" | relative_url -}}" alt="">
