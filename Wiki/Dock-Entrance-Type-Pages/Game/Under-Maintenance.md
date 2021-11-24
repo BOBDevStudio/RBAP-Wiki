@@ -4,7 +4,7 @@ title: "Dock Entrance Type: Under Maintenance"
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Under Maintenance"
 #  color: "#a3a2a5" -- Needs color
@@ -63,7 +63,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This dock entrance type is one of the [generic dock entrance types](/RBAP-Wiki/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
+This dock entrance type is one of the [generic dock entrance types](/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
 
 | Value Name               | Value |
 |-|-|

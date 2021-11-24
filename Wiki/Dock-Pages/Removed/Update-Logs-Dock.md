@@ -5,7 +5,7 @@ used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Update Logs Dock"
 #  color: "#a3a2a5" -- Needs color

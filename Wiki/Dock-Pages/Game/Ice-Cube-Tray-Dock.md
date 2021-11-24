@@ -2,7 +2,7 @@
 permalink: /Wiki/Docks/Ice-Cube-Tray-Dock
 title: "Dock: Ice Cube Tray Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Ice Cube Tray Dock"
   color: "#64C8FF"

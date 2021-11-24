@@ -4,7 +4,7 @@ title: "Dock Entrance Type: Open"
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Open"
 #  color: "#a3a2a5" -- Needs color
@@ -63,7 +63,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This dock entrance type is one of the [generic dock entrance types](/RBAP-Wiki/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is the primary dock entrance type that is used when a non-system dock is open.
+This dock entrance type is one of the [generic dock entrance types](/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is the primary dock entrance type that is used when a non-system dock is open.
 
 | Value Name               | Value |
 |-|-|

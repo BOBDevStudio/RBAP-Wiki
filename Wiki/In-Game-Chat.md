@@ -3,15 +3,15 @@ permalink: /Wiki/Chat
 title: "Chat"
 color_coded_table_boolean_enabled: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 ---
 
-As you may know Roblox's default (text) chat is a bit lacking in terms of visuals and features compared to many popular chat apps. Well RBAP's chat is here to fix that! Added in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) it features a visual design overhaul that brings it in line with Roblox's top bar design language among other things.
+As you may know Roblox's default (text) chat is a bit lacking in terms of visuals and features compared to many popular chat apps. Well RBAP's chat is here to fix that! Added in [`V5.2`](/Posts/Update-Log/5-2-0) it features a visual design overhaul that brings it in line with Roblox's top bar design language among other things.
 
 The purpose of this custom chat by BOB was to the merge the following things together:
 * Roblox's design language for the top bar buttons.
 * Bubble chats (aka chat bubbles).
-* All/most of BOB's custom edits from the never released chat fork intended for [`V5`](/RBAP-Wiki/Posts/Update-Log/5-0-0). (It was removed from the update shortly before release due to its incompleteness in case you're wondering.)
+* All/most of BOB's custom edits from the never released chat fork intended for [`V5`](/Posts/Update-Log/5-0-0). (It was removed from the update shortly before release due to its incompleteness in case you're wondering.)
 * New ideas that BOB came up with (like the even more improved system messages compared to the aforementioned chat fork).
 
 ## Here's a list of feature comparison between each chat:

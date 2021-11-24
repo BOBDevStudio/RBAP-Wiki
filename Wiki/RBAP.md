@@ -2,7 +2,7 @@
 permalink: /Wiki/RBAP
 title: "Random Buildings And Parts"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Random Buildings And Parts"
   color: "#a0bed3"
@@ -12,7 +12,7 @@ page_subject_info:
   description: "Above is the current icon of the game"
 ---
 
-Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox by the BOB of the BOB Development Studio and is used by him to showcase stuff he's built. The main feature of the game is the [docks](/RBAP-Wiki/Docks) which are mostly used to showcase most of what BOB has made. The game was originally started somewhere in 2018 and has been worked on ever since then. Nowadays the (official) design language of a good majority of the game is semi-futuristic yet simple.
+Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox by the BOB of the BOB Development Studio and is used by him to showcase stuff he's built. The main feature of the game is the [docks](/Docks) which are mostly used to showcase most of what BOB has made. The game was originally started somewhere in 2018 and has been worked on ever since then. Nowadays the (official) design language of a good majority of the game is semi-futuristic yet simple.
 
 ## Builds
 
@@ -38,7 +38,7 @@ The dev build is often the only build that debug features are enabled in and is 
 
 ### Your Saved Data
 
-The only data that is linked to in [`V5.2`](/RBAP-Wiki/Posts/Update-Log/5-2-0) of Random Buildings And Parts is: 
+The only data that is linked to in [`V5.2`](/Posts/Update-Log/5-2-0) of Random Buildings And Parts is: 
 
 * Your preferences for what titles should be equipped.
 * * This is only ever saved if you change the setting so if you leave or set all three title placement settings at their default value the data will be removed.
@@ -47,7 +47,7 @@ In case you're concerned about it, how a specific set of data is automatically c
 
 ### Revenue
 
-Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock](/RBAP-Wiki/Wiki/Docks/Donations-Dock) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
+Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock](/Wiki/Docks/Donations-Dock) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
 
 ### Localization Support
 
