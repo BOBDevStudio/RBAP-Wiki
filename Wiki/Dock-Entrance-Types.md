@@ -3,6 +3,8 @@ title: Dock Entrance Types
 listed_page_category: "dockentrancetypes_category_page"
 #page_categories:
 #  dockentrancetype_page: true
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 ---
 
 What is a dock entrance type? A dock entrance type is the status of the dock entrance that a dock is connected to. Usually it isn't something that describes the dock unless it is something like a system dock. Dock types can set many appearance settings of the dock entrance for a dock. The list includes stuff like light colors, lights that are on, the text shown on the sign, and more. Currently the text of the sign on each dock entrance is automatically made entirely uppercase.

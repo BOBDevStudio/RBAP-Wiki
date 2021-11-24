@@ -9,6 +9,8 @@ main:
 Wiki:
   - title: "Home"
     url: "/Wiki"
+  - title: "Random Buildings And Parts"
+    url: "/Wiki/RBAP"
   - title: "Docks"
     url: "/Wiki/Docks"
     children:
@@ -32,6 +34,8 @@ Wiki:
 #        url: "/Wiki/Walkway-Transportation#the-traveler"
   - title: "Music"
     url: "/Wiki/Music"
+  - title: "Chat"
+    url: "/Wiki/Chat"
   - title: "The Controller (NPC)"
     url: "/Wiki/Controller-NPC"
   - title: "Snow Cubes"
@@ -45,6 +49,8 @@ UpdateLogs:
   - title: "V5 Series of Updates"
     url: "/Tags#v5"
     children:
+      - title: "V5.2.0"
+        url: "/Posts/Update-Log/5-2-0"
       - title: "V5.1.2"
         url: "/Posts/Update-Log/5-1-2"
       - title: "V5.1.1"

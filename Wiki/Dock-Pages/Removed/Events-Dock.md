@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Events-Dock
 title: "Dock: Events Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Events Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -31,4 +33,4 @@ This dock was used to display recent events from many different places. When the
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Events-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Events-Dock.png" | relative_url -}}" alt="">

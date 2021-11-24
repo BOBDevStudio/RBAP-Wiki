@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Hidden-Dock
 title: "Dock Entrance Type: Hidden Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Hidden Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -59,7 +61,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in [`V3`](/Posts/Update-Log/3-0-0) of the game due to limitations of newly-implemented systems (like the dock placing system). Some of the limitations still have yet to be lifted as of [`V4`](/Posts/Update-Log/4-0-0) the most notable being the dock placing system.
+Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in [`V3`](/Posts/Update-Log/3-0-0) of the game due to limitations of (at the time) newly-implemented systems (like the dock placing system).
 
 | Value Name               | Value |
 |-|-|
@@ -85,4 +87,4 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" | relative_url -}}" alt="">

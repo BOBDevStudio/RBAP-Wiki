@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
 title: "Dock: Wheel of Oddities Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Wheel of Oddities Dock"
   color: "#c8c873"
@@ -12,11 +14,11 @@ page_subject_info:
     - title: "Dock Data"
       data:
         - key: "Reserved Dock Entrance"
-          value: "`2` but on November 3rd at noon it will automatically be changed to *None (unset)*"
+          value: "*None (unset)*"
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open - New Dock`](/Wiki/Dock-Entrance-Types/Open-New-Dock)} but on November 3rd at noon it will automatically be changed to {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
+          value: "{`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -31,13 +33,13 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 
 | Value Name               | Value |
 |-|-|
-| Reserved Dock Entrance   | `2` but on November 3rd at noon it will automatically be changed to *None (unset)* |
+| Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Open - New Dock`](/Wiki/Dock-Entrance-Types/Open-New-Dock)} but on November 3rd at noon it will automatically be changed to {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)} |
+| Dock Entrance Types Used | {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)} |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
 
 ## The rewards:
 
@@ -89,7 +91,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | This doesn't look like the moon?! |
 | Was going to be listed as | Wait this doesn't look like the moon?! |
-| Does                      | Applies low gravity to your character. Specifically the normal amount of gravity divided by 1.25 is the amount of gravity that **isn't** applied to your character. |
+| Does                      | Applies low gravity to your character. Specifically 40% of the normal amount of gravity is applied to your character. |
 | Expires After             | 30 seconds |
 | Other Info                |  |
 

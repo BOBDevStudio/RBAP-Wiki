@@ -1,6 +1,10 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Open
 title: "Dock Entrance Type: Open"
+page_categories:
+  generic_dock_entrance_type: true
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Open"
 #  color: "#a3a2a5" -- Needs color
@@ -59,7 +63,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This is the generic open dock entrance type. It is pretty self-explanatory why it is used.
+This dock entrance type is one of the [generic dock entrance types](/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is the primary dock entrance type that is used when a non-system dock is open.
 
 | Value Name               | Value |
 |-|-|
@@ -85,4 +89,4 @@ This is the generic open dock entrance type. It is pretty self-explanatory why i
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Open.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Open.png" | relative_url -}}" alt="">

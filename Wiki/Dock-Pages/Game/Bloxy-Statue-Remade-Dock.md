@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Bloxy-Statue-Remade-Dock
 title: "Dock: Bloxy Statue Remade Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Bloxy Statue Remade Dock"
   color: "#d7d700"
@@ -31,4 +33,4 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" | relative_url -}}" alt="">

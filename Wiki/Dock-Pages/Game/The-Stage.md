@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Stage-Dock
 title: "Dock: The Stage"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "The Stage"
   color: "#a3a2a5"
@@ -47,4 +49,4 @@ The design of the stage has changed a little bit over the years. Here's a list o
 | Side Placed On           | `Middle Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Stage-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Stage-Dock.png" | relative_url -}}" alt="">

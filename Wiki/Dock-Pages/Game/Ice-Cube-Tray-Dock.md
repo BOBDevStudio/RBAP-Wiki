@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Ice-Cube-Tray-Dock
 title: "Dock: Ice Cube Tray Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Ice Cube Tray Dock"
   color: "#64C8FF"
@@ -31,4 +33,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Ice-Cube-Tray-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Ice-Cube-Tray-Dock.png" | relative_url -}}" alt="">

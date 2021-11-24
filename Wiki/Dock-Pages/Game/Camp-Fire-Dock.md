@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Camp-Fire-Dock
 title: "Dock: Camp Fire Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Camp Fire Dock"
   color: "#ff7300"
@@ -31,4 +33,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Camp-Fire-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Camp-Fire-Dock.png" | relative_url -}}" alt="">

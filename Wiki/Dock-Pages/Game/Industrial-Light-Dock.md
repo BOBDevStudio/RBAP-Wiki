@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Industrial-Light-Dock
 title: "Dock: Industrial Light Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Industrial Light Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -21,7 +23,7 @@ page_subject_info:
           value: "`Main Side 1`"
 ---
 
-BOB created this light just for the fun of it. He uses it (or edited versions of it) in his projects when he needs an industrial looking light.
+BOB created this light just for the fun of it. He used to use it (or edited versions of it) in his projects when he needed an industrial looking light.
 
 | Value Name               | Value |
 |-|-|
@@ -31,4 +33,4 @@ BOB created this light just for the fun of it. He uses it (or edited versions of
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Industrial-Light-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Industrial-Light-Dock.png" | relative_url -}}" alt="">

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Cooldown
 title: "Dock Entrance Type: Cooldown"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Cooldown"
 #  color: "#a3a2a5" -- Needs color
@@ -85,4 +87,4 @@ This dock entrance type was originally added for the [Mine Dock](/Wiki/Docks/Min
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">

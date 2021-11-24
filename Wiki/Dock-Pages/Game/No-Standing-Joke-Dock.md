@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/No-Standing-Joke-Dock
 title: "Dock: No Standing Joke Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "No Standing Joke Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -31,4 +33,4 @@ This was created sometime after BOB was thinking about road signs and then reali
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/No-Standing-Joke-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/No-Standing-Joke-Dock.png" | relative_url -}}" alt="">

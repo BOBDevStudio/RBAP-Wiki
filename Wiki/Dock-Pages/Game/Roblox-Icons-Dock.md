@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Roblox-Icons-Dock
 title: "Dock: Roblox Icons Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Roblox Icons Dock"
   color: "#d31e0a"
@@ -31,4 +33,4 @@ page_subject_info:
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Roblox-Icons-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Roblox-Icons-Dock.png" | relative_url -}}" alt="">

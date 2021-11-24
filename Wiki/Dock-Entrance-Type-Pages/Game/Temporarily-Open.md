@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open
 title: "Dock Entrance Type: Temporarily Open"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Temporarily Open"
 #  color: "#a3a2a5" -- Needs color
@@ -89,4 +91,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Temporarily-Open.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Temporarily-Open.png" | relative_url -}}" alt="">

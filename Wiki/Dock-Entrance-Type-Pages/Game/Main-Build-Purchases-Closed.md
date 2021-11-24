@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed
 title: "Dock Entrance Type: Main Build Purchases Closed"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Main Build Purchases Closed"
 #  color: "#a3a2a5" -- Needs color
@@ -59,7 +61,7 @@ page_subject_info:
           value: "*Default (unset)*"
 ---
 
-This dock entrance type's purpose is to close off a dock that has purchases. The reason for this is because many of the things you can purchase in game (or actually all of them at the time of writing) are uploaded to the main build of the game instead of other special builds of the game like pre-update build. Roblox *theoretically* (or at least logically) allows purchases to be made if the asset behind the purchase is owned by the same thing as the game but in reality BOB has found this functionality to be broken or nonexistent.
+This dock entrance type's purpose is to close off a dock that has purchases. The reason for this is because many of the things you can purchase in game (or actually all of them currently) are uploaded to the main build of the game instead of other special builds of the game like pre-update build. Roblox *theoretically* (or at least logically) allows purchases to be made if the asset behind the purchase is owned by the same thing as the game but in reality BOB has found this functionality to be broken or nonexistent.
 
 This dock entrance type can never be found inside of the main build but can be found in other special builds of the game (with the exception of the dev build (for debugging purposes)). It is currently only being applied to the [Donations Dock](/Wiki/Docks/Donations-Dock) for the reasons listed above.
 
@@ -87,4 +89,4 @@ This dock entrance type can never be found inside of the main build but can be f
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Main-Build-Purchases-Closed.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Main-Build-Purchases-Closed.png" | relative_url -}}" alt="">

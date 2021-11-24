@@ -2,7 +2,10 @@
 permalink: /Wiki/Docks/Server-And-Game-Info-Dock
 title: "Dock: Server And Game Info Dock"
 used_set_notices:
+  removed_dock: true
   v5_game_info_dock_merged: true
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Server And Game Info Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -33,4 +36,4 @@ This dock shows all sorts of information about the server and the game. It was o
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">

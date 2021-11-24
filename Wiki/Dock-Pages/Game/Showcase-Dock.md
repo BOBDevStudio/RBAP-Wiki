@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Showcase-Dock
 title: "Dock: Showcase Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Showcase Dock"
   color: "#fff587d9"
@@ -31,4 +33,4 @@ This was created when BOB wanted to make a window with sunlight coming through i
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Showcase-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Showcase-Dock.png" | relative_url -}}" alt="">

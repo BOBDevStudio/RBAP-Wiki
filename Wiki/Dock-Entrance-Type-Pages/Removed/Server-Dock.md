@@ -4,7 +4,10 @@ title: "Dock Entrance Type: Server Dock"
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
+  removed_dock_entrance_type: true
   system_dock_entrance_type: true
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Server Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -89,4 +92,4 @@ page_subject_info:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img class="dock-entrance-type-image" src="{{- "/Assets/Images/Dock-Entrance-Types/Server-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Dock-Entrance-Types/Server-Dock.png" | relative_url -}}" alt="">

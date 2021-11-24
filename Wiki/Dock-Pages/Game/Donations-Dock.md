@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Donations-Dock
 title: "Dock: Donations Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Donations Dock"
   color: "#96fa96"
@@ -44,4 +46,4 @@ The prices of each of the donation amounts available is meant to be able to help
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Donations-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Donations-Dock.png" | relative_url -}}" alt="">

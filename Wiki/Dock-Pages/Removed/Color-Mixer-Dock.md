@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Color-Mixer-Dock
 title: "Dock: Color Mixer Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Color Mixer Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -31,4 +33,4 @@ In this dock you were able to select a color and it would show up on the machine
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">

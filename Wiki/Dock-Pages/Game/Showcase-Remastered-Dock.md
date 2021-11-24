@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Showcase-Remastered-Dock
 title: "Dock: Showcase Remastered Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Showcase Remastered Dock"
   color: "#fff587d9"
@@ -31,4 +33,4 @@ This is recreation of the [old window showcase](/Wiki/Docks/Showcase-Dock). This
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Showcase-Remastered-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Showcase-Remastered-Dock.png" | relative_url -}}" alt="">

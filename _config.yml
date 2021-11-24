@@ -23,6 +23,8 @@ page_category_names:
   removed_dockentrancetype_page: "Removed Dock Entrance Types"
   system_dock_entrance_type: "System Dock Entrance Types"
   new_dock_dock_entrance_type: "New Dock Dock Entrance Types"
+  generic_dock_entrance_type: "Generic Dock Entrance Types"
+  ease_of_access_category_page: "Ease Of Access Page Categories"
   
 page_subject_info_panel_defaults:
   color: "#a3a2a5"
@@ -73,7 +75,17 @@ defaults:
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
       show_footer: true
+#      mentioned_game_content:
+#        last_status_check_explanation_page: ""
       set_notices:
+        - name: "removed_dock"
+          type: "danger"
+          title: "Dock Removed"
+          text: "The dock described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock will not be changed."
+        - name: "removed_dock_entrance_type"
+          type: "danger"
+          title: "Dock Entrance Type Removed"
+          text: "The dock entrance type described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock entrance type will not be changed."
         - name: "v5_game_info_dock_merged"
           type: "merge"
           title: "Dock Merged"

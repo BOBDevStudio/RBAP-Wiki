@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/NPCs-Key-Dock
 title: "Dock: NPCs Key Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "NPCs Key Dock"
 #  color: "#a3a2a5" -- Needs color
@@ -31,4 +33,4 @@ This dock is used to help people figure out what the NPCs in the game represent.
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/NPCs-Key-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/NPCs-Key-Dock.png" | relative_url -}}" alt="">

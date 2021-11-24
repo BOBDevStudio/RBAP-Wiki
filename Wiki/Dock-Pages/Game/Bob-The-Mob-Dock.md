@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Bob-The-Mob-Dock
 title: "Dock: Bob the Mob Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Bob the Mob Dock"
   color: "#00ffc8"
@@ -31,4 +33,4 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Bob-The-Mob-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Bob-The-Mob-Dock.png" | relative_url -}}" alt="">

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Mine-Dock
 title: "Dock: Mine Dock"
+mentioned_game_content:
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 page_subject_info:
   title: "Mine Dock"
   color: "#FF3232"
@@ -31,4 +33,4 @@ This dock was created just for the fun of it and partly because it was because B
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img class="dock-image" src="{{- "/Assets/Images/Docks/Mine-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "Assets/Images/Docks/Mine-Dock.png" | relative_url -}}" alt="">
