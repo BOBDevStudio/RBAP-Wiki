@@ -16,7 +16,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)}"
+          value: "{`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -27,7 +27,7 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Open`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Open)} |
+| Dock Entrance Types Used | {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)} |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

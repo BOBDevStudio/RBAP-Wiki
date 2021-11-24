@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Update-Logs-Dock)}"
+          value: "{`1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock)}"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
@@ -29,7 +29,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Update Logs Dock`](/RBAP-Wiki/Wiki/Dock-Entrance-Types/Update-Logs-Dock)} |
+| Dock Entrance Types Used | {`1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock)} |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
