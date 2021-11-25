@@ -114,8 +114,9 @@ defaults:
       path: "Wiki/*"
       type: pages
     values:
-      sidebar:
-        nav: "Wiki"
+      sidebars:
+        page_navigation_panel:
+          list_name_used: "Wiki"
       page_categories:
         wiki_page: true
   - scope:
@@ -196,8 +197,9 @@ defaults:
       comments: true
       categories:
         - Update Logs
-      sidebar:
-        nav: "UpdateLogs"
+      sidebars:
+        page_navigation_panel:
+          list_name_used: "UpdateLogs"
       outside_preview:
         twitter:
           writer_username: "ThisBeBOB_"

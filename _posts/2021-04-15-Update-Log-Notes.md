@@ -7,8 +7,9 @@ post_updated_at: "2021-11-15 00:00:00 +00:00"
 pinned: true
 comments: true
 author: "RBAP"
-sidebar:
-  nav: "UpdateLogs"
+sidebars:
+  page_navigation_panel:
+    list_name_used: "UpdateLogs"
 ---
 
 * Most updates before March 9th, 2019 are not logged anywhere due to the update log post on the Roblox dev forum not existing before then.
