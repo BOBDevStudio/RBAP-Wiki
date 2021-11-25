@@ -114,6 +114,7 @@ defaults:
       path: "Wiki/*"
       type: pages
     values:
+      toc: true
       sidebars:
         page_navigation_panel:
           list_name_used: "Wiki"
