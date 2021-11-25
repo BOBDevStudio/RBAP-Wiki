@@ -20,7 +20,7 @@ You may not think about it much but this little model has some history. It is (a
 
 ## The Original
 
-In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its first appearance. Surprisingly the Roblox Union object behind the shape of the Snow Cube model has actually stood the test of time as it has not been edited since.
+In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its first appearance. Surprisingly the Roblox Union object behind the shape of the Snow Cube model has actually stood the test of time as it has not been edited since. (For context on the previous sentence Roblox's CSG engine had a long-standing bug that would cause Union objects to completely break that only got fixed in V3 of the engine opened to public beta in 2021.)
 
 <img src="{{- "Assets/Images/Snow-Cubes/Original.png" | relative_url -}}" alt="">
 
