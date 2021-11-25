@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Color-Mixer-Dock
 title: "Dock: Color Mixer Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Color Mixer Dock"
-#  color: "#a3a2a5" -- Needs color
-#  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Color-Mixer-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Color Mixer Dock"
+#    color: "#a3a2a5" -- Needs color
+#    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Color-Mixer-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "*None (unset)*"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Main Side 1`"
+      - key: "Reserved Dock Entrance"
+        value: "*None (unset)*"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Main Side 1`"
 ---
 
 In this dock you were able to select a color and it would show up on the machine. This dock was removed from the game for multiple reasons among them are it needing to be completely recoded and the concept of it being *too* simple. Unlike the Color Blocks Dock this dock has a chance of returning although it is still unlikely.

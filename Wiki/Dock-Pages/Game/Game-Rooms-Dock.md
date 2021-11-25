@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Game-Rooms-Dock
 title: "Dock: Game Rooms Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Game Rooms Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Game-Rooms-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Game Rooms Dock"
+    color: "#a3a2a5"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Game-Rooms-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "`1`"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Middle Side 2`"
+      - key: "Reserved Dock Entrance"
+        value: "`1`"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Middle Side 2`"
 ---
 
 The Game Rooms Dock is an interactive dock that contains many games a player can play. The original ideas for this dock were originally taken from the [Old Game Rooms Dock](/Wiki/Docks/Old-Game-Rooms-Dock) but then later edited to fit into the game better. BOB considers this dock as good if not better than the [Old Game Rooms Dock](/Wiki/Docks/Old-Game-Rooms-Dock) as (in his opinion) this dock is much more polished compared to that dock. Differences between this dock and the [Old Game Rooms Dock](/Wiki/Docks/Old-Game-Rooms-Dock) include stuff like new animations for text and other stuff and a much more robust and unified backend. This dock hadn't really been changed much since it got enabled in [`V4`](/Posts/Update-Log/4-0-0) until [`V5.2`](/Posts/Update-Log/5-2-0) rolled around and added an entirely new game room that is pretty much nothing like the 2 other game rooms.
