@@ -36,7 +36,7 @@ Somehow the Snow Cubes managed to find their way into being a leaf on a tree. Th
 
 ## [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock)
 
-Much like with the trees the Snow Cubes made another (differently colored and shaped) appearance this time in the [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock) added in [`V5`](/Posts/Update-Log/5-0-0). The colors of them were actually picked by a simple randomizer script BOB wrote (and in case you're wondering there was no maximum or minimum color value set).
+Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock) added in [`V5`](/Posts/Update-Log/5-0-0). The colors of them were actually picked by a simple randomizer script BOB wrote.
 
 ## Snow Day
 
