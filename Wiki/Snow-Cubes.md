@@ -36,10 +36,10 @@ Somehow the Snow Cubes managed to find their way into being a leaf on a tree. Th
 
 ## [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock)
 
-Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock) added in [`V5`](/Posts/Update-Log/5-0-0). The colors of them were actually picked by a simple randomizer script BOB wrote.
+Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock](/Wiki/Docks/Moving-Spotlight-Dock) added in [`V5`](/Posts/Update-Log/5-0-0). The colors of them were actually picked by a simple randomizer script BOB wrote. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
 
 ## Snow Day
 
-Starting in [`V5`](/Posts/Update-Log/5-0-0) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
+Starting in [`V5`](/Posts/Update-Log/5-0-0) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers.
 
 <img src="{{- "Assets/Images/Snow-Cubes/Snow-Day.png" | relative_url -}}" alt="">
