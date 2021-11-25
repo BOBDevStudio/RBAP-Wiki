@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock)} or {`1` = [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)}"
+          value: "`1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock) or [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -42,7 +42,7 @@ The prices of each of the donation amounts available is meant to be able to help
 |-|-|
 | Reserved Dock Entrance   | `2` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock)} or {`1` = [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)} |
+| Dock Entrance Types Used | `1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock)} or {`1` = [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Game Info Dock`](/Wiki/Dock-Entrance-Types/Game-Info-Dock)}"
+          value: "`1` = [`Game Info Dock`](/Wiki/Dock-Entrance-Types/Game-Info-Dock)"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
@@ -29,7 +29,7 @@ The Game Info Dock is a dock added in [`V5`](/Posts/Update-Log/5-0-0). Its purpo
 |-|-|
 | Reserved Dock Entrance   | `1` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Game Info Dock`](/Wiki/Dock-Entrance-Types/Game-Info-Dock)} |
+| Dock Entrance Types Used | `1` = [`Game Info Dock`](/Wiki/Dock-Entrance-Types/Game-Info-Dock) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

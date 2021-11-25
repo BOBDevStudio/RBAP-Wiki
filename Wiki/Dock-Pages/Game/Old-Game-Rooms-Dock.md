@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`3`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)}"
+          value: "`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)[NewLine]`2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open) or [`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon) or [`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live)[NewLine]`3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)"
         - key: "Side Placed On"
           value: "`Main Side 2`"
 ---
@@ -35,7 +35,7 @@ Although she did choose the 24th (on June 24th 2021 (that's where it came from))
 |-|-|
 | Reserved Dock Entrance   | `14` |
 | Entrances Used           | `3` |
-| Dock Entrance Types Used | {`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open)/[`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon)/[`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)} |
+| Dock Entrance Types Used | `1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed), `2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open) or [`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon) or [`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live), `3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

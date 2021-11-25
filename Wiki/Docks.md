@@ -15,11 +15,11 @@ Most docks don't have any set positions on where they will be placed so for dock
 
 ### Here's a list of each of the dock data values:
 
-| Name                   | Value Type                                          | Description |
+| Name | Value Type | Description |
 |-|-|-|
-| Reserved Dock Entrance | Number or none                                      | This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
-| Entrances Used         | Number                                              | This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
-| Dock Entrance Types Used        | Table of [`Dock Entrance Types`](/Wiki/Dock-Entrance-Types) | For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
-| Side Placed On         | Side name                                           | The side of the map the dock is to be placed on. |
+| Reserved Dock Entrance	| Number or none												| This is the predetermined id of the dock entrance where the dock will be placed at. If this value is blank the system will pick the next available dock entrance on the side specified by the `Side Placed On` value. |
+| Entrances Used			| Number														| This specifies the amount of dock entrances that need to be reserved to a dock because of its size. |
+| Dock Entrance Types Used	| List of [`Dock Entrance Types`](/Wiki/Dock-Entrance-Types)	| For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
+| Side Placed On			| Side name														| The side of the map the dock is to be placed on. |
 
 ## Here's the list of categories of docks:

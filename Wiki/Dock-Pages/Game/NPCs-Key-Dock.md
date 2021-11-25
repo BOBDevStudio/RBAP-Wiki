@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)}"
+          value: "`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)"
         - key: "Side Placed On"
           value: "`Main Side 1`"
 ---
@@ -29,7 +29,7 @@ This dock is used to help people figure out what the NPCs in the game represent.
 |-|-|
 | Reserved Dock Entrance   | `15` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)} |
+| Dock Entrance Types Used | `1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

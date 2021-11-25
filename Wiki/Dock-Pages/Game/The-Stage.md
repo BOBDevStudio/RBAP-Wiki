@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
+          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
         - key: "Side Placed On"
           value: "`Middle Side 1`"
 ---
@@ -45,7 +45,7 @@ The design of the stage has changed a little bit over the years. Here's a list o
 |-|-|
 | Reserved Dock Entrance   | `1` |
 | Entrances Used           | `1` - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
-| Dock Entrance Types Used | {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)} |
+| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
 | Side Placed On           | `Middle Side 1` |
 {: .psi-panel-alternative}
 

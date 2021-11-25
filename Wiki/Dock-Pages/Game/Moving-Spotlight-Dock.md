@@ -18,7 +18,7 @@ page_subject_info:
         - key: "Entrances Used"
           value: "`1`"
         - key: "Dock Entrance Types Used"
-          value: "{`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)}"
+          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
         - key: "Side Placed On"
           value: "`Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2`"
 ---
@@ -29,7 +29,7 @@ The Moving Spotlight Dock is an interactive dock which contains an edited spotli
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | {`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)} |
+| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
 | Side Placed On           | `Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2` |
 {: .psi-panel-alternative}
 
