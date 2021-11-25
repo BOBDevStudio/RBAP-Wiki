@@ -11,6 +11,7 @@ As you may know Roblox's default (text) chat is a bit lacking in terms of visual
 The purpose of this custom chat by BOB was to the merge the following things together:
 * Roblox's design language for the top bar buttons.
 * Bubble chats (aka chat bubbles).
+* The already existing design of Roblox's chat.
 * All/most of BOB's custom edits from the never released chat fork intended for [`V5`](/Posts/Update-Log/5-0-0). (It was removed from the update shortly before release due to its incompleteness in case you're wondering.)
 * New ideas that BOB came up with (like the even more improved system messages compared to the aforementioned chat fork).
 
