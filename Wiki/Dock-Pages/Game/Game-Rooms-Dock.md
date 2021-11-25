@@ -39,9 +39,9 @@ The Game Rooms Dock is an interactive dock that contains many games a player can
 
 ## Game Rooms 1 and 2
 
-<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/1.png" | relative_url -}}" alt="">
+<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/1.png" | relative_url -}}" alt="">
 
-<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/2.png" | relative_url -}}" alt="">
+<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/2.png" | relative_url -}}" alt="">
 
 ### Four Corners
 
