@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Rainbow-Dance-Floor-Dock
 title: "Dock: Rainbow Dance Floor"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Rainbow Dance Floor"
-  color: "#323232"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Rainbow Dance Floor"
+    color: "#323232"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "`12`"
-        - key: "Entrances Used"
-          value: "`2`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)[NewLine]`2` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Main Side 1`"
+      - key: "Reserved Dock Entrance"
+        value: "`12`"
+      - key: "Entrances Used"
+        value: "`2`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)[NewLine]`2` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Main Side 1`"
 ---
 
 The Rainbow Dance Floor dock is another classic dock. It features a dance floor that cycles through colors of the rainbow repeatedly. This dock is the only dock currently in the game that was not originally a dock and wasn't one for quite some time until [`V3`](/Posts/Update-Log/3-0-0) rolled around. In [`V3`](/Posts/Update-Log/3-0-0) it was made into a dock for the never fully released rainbow parties. 

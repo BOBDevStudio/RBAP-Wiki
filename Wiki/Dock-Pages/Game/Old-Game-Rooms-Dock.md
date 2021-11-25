@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Old-Game-Rooms-Dock
 title: "Dock: Old Game Rooms Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Old Game Rooms Dock"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Old-Game-Rooms-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Old Game Rooms Dock"
+    color: "#a3a2a5"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Old-Game-Rooms-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "`14`"
-        - key: "Entrances Used"
-          value: "`3`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)[NewLine]`2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open) or [`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon) or [`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live)[NewLine]`3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)"
-        - key: "Side Placed On"
-          value: "`Main Side 2`"
+      - key: "Reserved Dock Entrance"
+        value: "`14`"
+      - key: "Entrances Used"
+        value: "`3`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)[NewLine]`2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open) or [`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon) or [`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live)[NewLine]`3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)"
+      - key: "Side Placed On"
+        value: "`Main Side 2`"
 ---
 
 This is the original game rooms dock. This dock was created to give the player something to do in the game. Although not widely credited for the help, BOB had play testing help from Unbitterness before its release. Before its removal it had remained largely unchanged since it was added. The [replacement for this dock](/Wiki/Docks/Game-Rooms-Dock) is in the same location as this dock used to be.

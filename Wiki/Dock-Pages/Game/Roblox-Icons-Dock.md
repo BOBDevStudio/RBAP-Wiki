@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Roblox-Icons-Dock
 title: "Dock: Roblox Icons Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Roblox Icons Dock"
-  color: "#d31e0a"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Roblox-Icons-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Roblox Icons Dock"
+    color: "#d31e0a"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Roblox-Icons-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "*None (unset)*"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Main Side 2`"
+      - key: "Reserved Dock Entrance"
+        value: "*None (unset)*"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Main Side 2`"
 ---
 
 ###### Read the text on the dock for description of this dock. It's pretty in-depth so didn't feel need to put it here.

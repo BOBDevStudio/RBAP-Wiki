@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Stage-Dock
 title: "Dock: The Stage"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "The Stage"
-  color: "#a3a2a5"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Stage-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "The Stage"
+    color: "#a3a2a5"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Stage-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "`1`"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Middle Side 1`"
+      - key: "Reserved Dock Entrance"
+        value: "`1`"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Middle Side 1`"
 ---
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 

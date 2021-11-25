@@ -3,13 +3,14 @@ permalink: /Wiki/Snow-Cubes
 title: Snow Cubes
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Snow Cubes"
-  color: "#e1e1e1"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Snow-Cubes/Main.png"
-  description: "The Snow Cube model is one of the oldest if not the oldest model still used in the game to this day"
+sidebars:
+  page_subject_info:
+    title: "Snow Cubes"
+    color: "#e1e1e1"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Snow-Cubes/Main.png"
+    description: "The Snow Cube model is one of the oldest if not the oldest model still used in the game to this day"
 ---
 
 You may not think about it much but this little model has some history. It is (as far as BOB knows) currently the oldest still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.

@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
 title: "Dock: Wheel of Oddities Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "Wheel of Oddities Dock"
-  color: "#c8c873"
-  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "Wheel of Oddities Dock"
+    color: "#c8c873"
+    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "*None (unset)*"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
-        - key: "Side Placed On"
-          value: "`Main Side 2`"
+      - key: "Reserved Dock Entrance"
+        value: "*None (unset)*"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+      - key: "Side Placed On"
+        value: "`Main Side 2`"
 ---
 
 The Wheel of Oddities is a dock inspired (although not directly) by wheels you might see at a carnival or on the Wheel of Fortune game show. It features 16 different rewards all of which have the same chance of being selected and all of which (if possible) will expire after 30 seconds. The name for the dock was made by BOB and he surprisingly came up with it pretty quickly as he came up with the name right after he started thinking about names for it.

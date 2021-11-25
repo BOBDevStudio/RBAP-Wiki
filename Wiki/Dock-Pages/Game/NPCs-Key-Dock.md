@@ -3,24 +3,25 @@ permalink: /Wiki/Docks/NPCs-Key-Dock
 title: "Dock: NPCs Key Dock"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
-page_subject_info:
-  title: "NPCs Key Dock"
-#  color: "#a3a2a5" -- Needs color
-#  titles_text_color: "#FFFFFF"
-  main_image:
-    path: "/Assets/Images/Docks/NPCs-Key-Dock.png"
-#  description: ""
-  data:
+sidebars:
+  page_subject_info:
+    title: "NPCs Key Dock"
+#    color: "#a3a2a5" -- Needs color
+#    titles_text_color: "#FFFFFF"
+    main_image:
+      path: "/Assets/Images/Docks/NPCs-Key-Dock.png"
+#    description: ""
+    data:
     - title: "Dock Data"
       data:
-        - key: "Reserved Dock Entrance"
-          value: "`15`"
-        - key: "Entrances Used"
-          value: "`1`"
-        - key: "Dock Entrance Types Used"
-          value: "`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)"
-        - key: "Side Placed On"
-          value: "`Main Side 1`"
+      - key: "Reserved Dock Entrance"
+        value: "`15`"
+      - key: "Entrances Used"
+        value: "`1`"
+      - key: "Dock Entrance Types Used"
+        value: "`1` = [`NPCs Key Dock`](/Wiki/Dock-Entrance-Types/NPCs-Key-Dock)"
+      - key: "Side Placed On"
+        value: "`Main Side 1`"
 ---
 
 This dock is used to help people figure out what the NPCs in the game represent. This dock was originally considered a system dock but that status was later removed when what defines a system dock was redefined. It was later reconsidered a system dock in [`V5`](/Posts/Update-Log/5-0-0) due to BOB taking some time to think about what "system dock" should mean in the context of this dock.
