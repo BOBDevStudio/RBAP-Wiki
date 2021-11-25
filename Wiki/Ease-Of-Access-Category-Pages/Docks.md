@@ -5,4 +5,4 @@ listed_page_category: "dock_page"
 ---
 
 ### In this category:
-{: .pages-in-page-category-lists-header}
+{: .pages-in-page-category-lists-header .toc-excluded}

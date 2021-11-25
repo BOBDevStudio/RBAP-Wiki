@@ -4,6 +4,9 @@ permalink: /Wiki
 title: "RBAP's Official Wiki"
 outside_preview:
   title: "Wiki Home"
+sidebars:
+  table_of_contents:
+    enabled: false
 uses_image_header: true
 header:
   overlay_color: "#FFFFFF"

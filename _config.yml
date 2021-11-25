@@ -129,6 +129,9 @@ defaults:
     values:
       page_categories:
         ease_of_access_category_page: true
+      sidebars:
+        table_of_contents:
+          enabled: false
   - scope:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
@@ -136,6 +139,9 @@ defaults:
       page_categories:
 #        dock_page: true
         docks_category_page: true
+      sidebars:
+        table_of_contents:
+          enabled: false
   - scope:
       path: "Wiki/Dock-Pages/*"
       type: pages
@@ -163,6 +169,9 @@ defaults:
       page_categories:
 #        dockentrancetype_page: true
         dockentrancetypes_category_page: true
+      sidebars:
+        table_of_contents:
+          enabled: false
   - scope:
       path: "Wiki/Dock-Entrance-Type-Pages/*"
       type: pages
@@ -191,6 +200,9 @@ defaults:
       author_profile: true
       related: true
       post_status_icons_visible: true
+      sidebars:
+        table_of_contents:
+          enabled: true
   - scope:
       path: "_posts/Update-Logs/*"
       type: posts

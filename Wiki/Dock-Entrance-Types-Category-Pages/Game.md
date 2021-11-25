@@ -6,4 +6,4 @@ listed_page_category: "game_dockentrancetype_page"
 ---
 
 ### Dock types in this category:
-{: .pages-in-page-category-lists-header}
+{: .pages-in-page-category-lists-header .toc-excluded}

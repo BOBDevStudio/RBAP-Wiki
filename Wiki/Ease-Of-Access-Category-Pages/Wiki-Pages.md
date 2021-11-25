@@ -5,4 +5,4 @@ listed_page_category: "wiki_page"
 ---
 
 ### Pages on the wiki:
-{: .pages-in-page-category-lists-header}
+{: .pages-in-page-category-lists-header .toc-excluded}

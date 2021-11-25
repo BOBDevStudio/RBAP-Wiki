@@ -6,4 +6,4 @@ listed_page_category: "removed_dock_page"
 ---
 
 ### Docks in this category:
-{: .pages-in-page-category-lists-header}
+{: .pages-in-page-category-lists-header .toc-excluded}
