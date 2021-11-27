@@ -43,8 +43,12 @@ The only data that is linked to in [`V5.2`](/Posts/Update-Log/5-2-0) of Random B
 
 * Your preferences for what titles should be equipped.
 * * This is only ever saved if you change the setting so if you leave or set all three title placement settings at their default value the data will be removed.
+* Whether or not you're purchased a donation.
+* * Currently there is no automated system to clear it out and you can't do it yourself. Refer to one of the sentences below this list for a way to clear it.
 
 In case you're concerned about it, how a specific set of data is automatically cleared is also listed. To further add on to that list, in selected builds of the game (which **never** includes the main build) **all** saved data is only kept for a maximum of 30 days (but usually way shorter than that) before it is automatically removed by the Roblox engine.
+
+Another global way to remove saved data about you is to getting contact with BOB (which is easy to do by like posting on BDS's group wall) and asking him to clear out your saved data. Although this isn't exactly recommended if there are other ways to clear out your saved data yourself. If you do use this option please specify which builds you want your data to be removed from or if you want your data to be removed from all of them please specify which ones you may have played in previously (if you can remember).
 
 ### Revenue
 
