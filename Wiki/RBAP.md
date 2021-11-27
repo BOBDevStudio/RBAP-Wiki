@@ -39,7 +39,7 @@ The dev build is often the only build that debug features are enabled in and is 
 
 ### Your Saved Data
 
-The only data that is linked to in [`V5.2`](/Posts/Update-Log/5-2-0) of Random Buildings And Parts is: 
+The only data that is linked to you in [`V5.2`](/Posts/Update-Log/5-2-0) of Random Buildings And Parts is: 
 
 * Your preferences for what titles should be equipped.
 * * This is only ever saved if you change the setting so if you leave or set all three title placement settings at their default value the data will be removed.
