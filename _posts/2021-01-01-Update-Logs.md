@@ -2,7 +2,7 @@
 permalink: /Update-Logs
 title: "Random Buildings And Parts Update Logs"
 layout: categories
-only_list_update_logs: true
+page_reference_id: "update_logs_list"
 author_profile: false
 post_status_icons_visible: false
 show_footer: false
