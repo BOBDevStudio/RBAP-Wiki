@@ -66,7 +66,7 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type is one of the [generic dock entrance types](/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is the primary dock entrance type that is used when a dock entrance is closed. Fun fact: Before the game loads in the docks all docks entrances are set to this dock entrance type.
+This dock entrance type is one of the [generic dock entrance types]({{- "/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types" | relative_url -}}). This dock entrance type is the primary dock entrance type that is used when a dock entrance is closed. Fun fact: Before the game loads in the docks all docks entrances are set to this dock entrance type.
 
 | Value Name               | Value |
 |-|-|

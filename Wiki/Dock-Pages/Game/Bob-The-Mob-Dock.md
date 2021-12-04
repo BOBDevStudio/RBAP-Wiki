@@ -32,7 +32,7 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

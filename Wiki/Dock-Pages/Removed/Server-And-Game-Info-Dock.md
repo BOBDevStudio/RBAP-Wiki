@@ -29,13 +29,13 @@ sidebars:
         value: "`Main Side 1`"
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/Posts/Update-Log/3-0-0) of the game but for reasons unknown was not added until [`V3`](/Posts/Update-Log/3-0-0). The system that runs the dock was completely recoded in [`V4`](/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`]({{- "/Posts/Update-Log/3-0-0" | relative_url -}}) of the game but for reasons unknown was not added until [`V3`]({{- "/Posts/Update-Log/3-0-0" | relative_url -}}). The system that runs the dock was completely recoded in [`V4`]({{- "/Posts/Update-Log/4-0-0" | relative_url -}}). This dock has always been considered a system dock.
 
 | Value Name               | Value |
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Server Dock`](/Wiki/Dock-Entrance-Types/Server-Dock) |
+| Dock Entrance Types Used | `1` = [`Server Dock`]({{- "/Wiki/Dock-Entrance-Types/Server-Dock" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

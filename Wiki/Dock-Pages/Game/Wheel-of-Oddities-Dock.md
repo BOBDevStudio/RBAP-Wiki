@@ -38,7 +38,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
@@ -114,7 +114,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | OOF |
 | Was going to be listed as |  |
-| Does                      | Explodes your character in the same exact way as the [Mine Dock](/Wiki/Docks/Mine-Dock). |
+| Does                      | Explodes your character in the same exact way as the [Mine Dock]({{- "/Wiki/Docks/Mine-Dock" | relative_url -}}). |
 | Expires After             |  |
 | Other Info                |  |
 

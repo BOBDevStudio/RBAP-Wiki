@@ -32,7 +32,7 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

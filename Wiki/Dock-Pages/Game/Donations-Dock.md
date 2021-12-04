@@ -26,7 +26,7 @@ sidebars:
         value: "`Main Side 2`"
 ---
 
-After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`](/Posts/Update-Log/4-0-0) added a little celebration animation after a player purchases any of the donation amounts available. [`V4.1`](/Posts/Update-Log/4-1-0) added another way to thank you for your donation which is when you purchase any of the donation amounts available you will get that donation amount's corresponding title. This dock has not always been considered a system dock.
+After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`]({{- "/Posts/Update-Log/4-0-0" | relative_url -}}) added a little celebration animation after a player purchases any of the donation amounts available. [`V4.1`]({{- "/Posts/Update-Log/4-1-0" | relative_url -}}) added another way to thank you for your donation which is when you purchase any of the donation amounts available you will get that donation amount's corresponding title. This dock has not always been considered a system dock.
 
 The prices of each of the donation amounts available is meant to be able to help the user donate the exact (or close to the) amount of Robux that they want to donate.
 
@@ -45,7 +45,7 @@ The prices of each of the donation amounts available is meant to be able to help
 |-|-|
 | Reserved Dock Entrance   | `2` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock) or [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed) |
+| Dock Entrance Types Used | `1` = [`Donations Dock`]({{- "/Wiki/Dock-Entrance-Types/Donations-Dock" | relative_url -}}) or [`Main Build Purchases Closed`]({{- "/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

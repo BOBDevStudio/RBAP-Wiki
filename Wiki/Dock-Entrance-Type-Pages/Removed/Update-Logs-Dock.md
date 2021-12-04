@@ -74,7 +74,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Update Logs Dock]: This dock contains Random Buildings And Parts update logs` |
-| Is System Dock           | `True` - [Update Logs Dock](/Wiki/Docks/Category/In-Game#update-logs-dock) |
+| Is System Dock           | `True` - [Update Logs Dock]({{- "/Wiki/Docks/Category/In-Game#update-logs-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |

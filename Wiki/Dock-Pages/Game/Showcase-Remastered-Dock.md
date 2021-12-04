@@ -21,18 +21,18 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}})"
       - key: "Side Placed On"
         value: "`Main Side 2`"
 ---
 
-This is recreation of the [old window showcase](/Wiki/Docks/Showcase-Dock). This one was made in the late beta of the newest Roblox lighting technology. BOB decided to make this dock just for the fun of it seeing as the old one doesn't look as good as it did when it was made.
+This is recreation of the [old window showcase]({{- "/Wiki/Docks/Showcase-Dock" | relative_url -}}). This one was made in the late beta of the newest Roblox lighting technology. BOB decided to make this dock just for the fun of it seeing as the old one doesn't look as good as it did when it was made.
 
 | Value Name               | Value |
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

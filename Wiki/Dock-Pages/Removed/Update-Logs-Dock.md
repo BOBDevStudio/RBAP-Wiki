@@ -35,7 +35,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock) |
+| Dock Entrance Types Used | `1` = [`Update Logs Dock`]({{- "/Wiki/Dock-Entrance-Types/Update-Logs-Dock" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

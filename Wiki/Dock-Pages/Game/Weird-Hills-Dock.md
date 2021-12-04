@@ -32,7 +32,7 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
