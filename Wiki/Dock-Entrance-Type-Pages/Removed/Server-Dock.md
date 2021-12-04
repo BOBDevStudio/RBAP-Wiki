@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Server-Dock
 title: "Dock Entrance Type: Server Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Server-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:

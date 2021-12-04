@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Timed-Changes
 title: Timed Changes
+redirect_from:
+  - /Wiki/Timed-Changes
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 ---

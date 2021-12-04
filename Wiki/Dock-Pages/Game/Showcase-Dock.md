@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Showcase-Dock
 title: "Dock: Showcase Dock"
+redirect_from:
+  - /Wiki/Docks/Showcase-Dock
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 sidebars:

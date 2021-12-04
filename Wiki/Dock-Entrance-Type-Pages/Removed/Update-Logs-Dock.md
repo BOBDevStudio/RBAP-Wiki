@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Update-Logs-Dock
 title: "Dock Entrance Type: Update Logs Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Update-Logs-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:

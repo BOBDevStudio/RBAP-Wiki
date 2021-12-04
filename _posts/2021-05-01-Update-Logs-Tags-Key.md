@@ -7,6 +7,8 @@ post_updated_at: "2021-10-12 00:00:00 +00:00"
 pinned: true
 comments: true
 author: "RBAP"
+redirect_from:
+  - /Posts/Update-Logs-Tags
 sidebars:
   page_navigation_panel:
     list_name_used: "UpdateLogs"

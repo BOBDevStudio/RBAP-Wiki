@@ -2,6 +2,8 @@
 layout: single
 permalink: /Wiki
 title: "RBAP's Official Wiki"
+redirect_from:
+  - /Wiki
 outside_preview:
   title: "Wiki Home"
 sidebars:

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Server-And-Game-Info-Dock
 title: "Dock: Server And Game Info Dock"
+redirect_from:
+  - /Wiki/Docks/Server-And-Game-Info-Dock
 used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Game-Info-Dock
 title: "Dock Entrance Type: Game Info Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Game-Info-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:

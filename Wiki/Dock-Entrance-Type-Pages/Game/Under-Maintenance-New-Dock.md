@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Under-Maintenance-New-Dock
 title: "Dock Entrance Type: Under Maintenance - New Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Under-Maintenance-New-Dock
 page_categories:
   new_dock_dock_entrance_type: true
 mentioned_game_content:

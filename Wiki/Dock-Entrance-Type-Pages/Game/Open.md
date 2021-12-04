@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Open
 title: "Dock Entrance Type: Open"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Open
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:

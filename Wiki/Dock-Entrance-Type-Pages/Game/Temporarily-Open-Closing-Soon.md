@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon
 title: "Dock Entrance Type: Temporarily Open - Closing Soon"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 sidebars:

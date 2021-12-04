@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Weird-Hills-Dock
 title: "Dock: Weird Hills Dock"
+redirect_from:
+  - /Wiki/Docks/Weird-Hills-Dock
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 sidebars:

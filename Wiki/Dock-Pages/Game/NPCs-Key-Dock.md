@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/NPCs-Key-Dock
 title: "Dock: NPCs Key Dock"
+redirect_from:
+  - /Wiki/Docks/NPCs-Key-Dock
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 sidebars:

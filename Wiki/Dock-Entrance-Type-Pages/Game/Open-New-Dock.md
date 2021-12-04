@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Open-New-Dock
 title: "Dock Entrance Type: Open - New Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Open-New-Dock
 page_categories:
   new_dock_dock_entrance_type: true
 mentioned_game_content:

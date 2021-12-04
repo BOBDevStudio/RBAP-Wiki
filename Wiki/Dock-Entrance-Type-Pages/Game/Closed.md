@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Closed
 title: "Dock Entrance Type: Closed"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Closed
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:

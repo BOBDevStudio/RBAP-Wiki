@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Closed-New-Dock
 title: "Dock Entrance Type: Closed - New Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Closed-New-Dock
 page_categories:
   new_dock_dock_entrance_type: true
 mentioned_game_content:

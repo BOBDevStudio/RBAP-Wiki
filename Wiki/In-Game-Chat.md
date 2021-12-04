@@ -2,6 +2,8 @@
 permalink: /Wiki/Chat
 title: "Chat"
 color_coded_table_boolean_enabled: true
+redirect_from:
+  - /Wiki/Chat
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 ---

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Docks/Update-Logs-Dock
 title: "Dock: Update Logs Dock"
+redirect_from:
+  - /Wiki/Docks/Update-Logs-Dock
 used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true

@@ -1,6 +1,8 @@
 ---
 permalink: /Wiki/Dock-Entrance-Types/Cooldown
 title: "Dock Entrance Type: Cooldown"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Cooldown
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
 sidebars:
