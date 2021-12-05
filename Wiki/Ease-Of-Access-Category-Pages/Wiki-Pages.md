@@ -1,5 +1,5 @@
 ---
-permalink: /Pages-Categories/Ease-Of-Access/Wiki-Pages
+permalink: /pages-categories/ease-of-access/wiki-pages
 title: "Wiki Pages"
 listed_page_category: "wiki_page"
 redirect_from:
