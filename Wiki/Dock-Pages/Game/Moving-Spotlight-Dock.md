@@ -26,7 +26,7 @@ sidebars:
         value: "`Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2`"
 ---
 
-The Moving Spotlight Dock is an interactive dock which contains an edited spotlight model which has the ability to move using Roblox's physics engine. When a player is on the dock the spotlight will keep attempting to focus on their character's head. This dock was made sort of as the test to see if BOB could make a spotlight move using only Roblox physics. This dock also holds one of the [Snow Cubes]({{- "/Wiki/Snow-Cubes" | relative_url -}}) model's many appearances.
+The Moving Spotlight Dock is an interactive dock which contains an edited spotlight model which has the ability to move using Roblox's physics engine. When a player is on the dock the spotlight will keep attempting to focus on their character's head. This dock was made sort of as the test to see if BOB could make a spotlight move using only Roblox physics. This dock also holds one of the [Snow Cubes]({{- "/wiki/snow-cubes" | relative_url -}}) model's many appearances.
 
 | Value Name               | Value |
 |-|-|

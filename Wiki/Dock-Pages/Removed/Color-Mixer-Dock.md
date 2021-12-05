@@ -32,7 +32,7 @@ In this dock you were able to select a color and it would show up on the machine
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types#open" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types#open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

@@ -32,7 +32,7 @@ This dock was used to display recent events from many different places. When the
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types#open" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types#open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
