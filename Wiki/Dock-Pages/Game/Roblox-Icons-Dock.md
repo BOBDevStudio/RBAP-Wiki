@@ -1,5 +1,5 @@
 ---
-permalink: /wiki/docks/Roblox-Icons-Dock
+permalink: /wiki/docks/roblox-icons-dock
 title: "Dock: Roblox Icons Dock"
 redirect_from:
   - /Wiki/Docks/Roblox-Icons-Dock
