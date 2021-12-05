@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Chat
+permalink: /wiki/chat
 title: "Chat"
 color_coded_table_boolean_enabled: true
 redirect_from:

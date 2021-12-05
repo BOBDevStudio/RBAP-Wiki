@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks
+permalink: /wiki/docks
 title: Docks
 redirect_from:
   - /Wiki/Docks

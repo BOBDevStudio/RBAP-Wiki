@@ -1,5 +1,5 @@
 ---
-permalink: /Pages-Categories/Ease-Of-Access
+permalink: /pages-categories/ease-of-access
 title: "Ease Of Access Page Categories"
 listed_page_category: "ease_of_access_category_page"
 redirect_from:

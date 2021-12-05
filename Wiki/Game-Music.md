@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Music
+permalink: /wiki/music
 title: "Music"
 color_coded_table_boolean_enabled: true
 redirect_from:

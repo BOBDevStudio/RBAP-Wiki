@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Snow-Cubes
+permalink: /wiki/snow-cubes
 title: Snow Cubes
 redirect_from:
   - /Wiki/Snow-Cubes

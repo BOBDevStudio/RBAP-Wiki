@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Controller-NPC
+permalink: /wiki/controller-npc
 title: The Controller (NPC)
 redirect_from:
   - /Wiki/Controller-NPC

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Wiki
+permalink: /wiki
 title: "RBAP's Official Wiki"
 redirect_from:
   - /Wiki

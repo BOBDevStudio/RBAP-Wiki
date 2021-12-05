@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/RBAP
+permalink: /wiki/rbap
 title: "Random Buildings And Parts"
 redirect_from:
   - /Wiki/RBAP

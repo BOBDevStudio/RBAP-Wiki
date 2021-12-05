@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Walkway-Transportation
+permalink: /wiki/walkway-transportation
 title: Walkway Transportation
 redirect_from:
   - /Wiki/Walkway-Transportation

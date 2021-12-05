@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Timed-Changes
+permalink: /wiki/timed-changes
 title: Timed Changes
 redirect_from:
   - /Wiki/Timed-Changes
