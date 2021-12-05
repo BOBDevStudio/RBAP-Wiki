@@ -38,4 +38,4 @@ During most of the dock's history it has had its own music zone (although the mu
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Rainbow-Dance-Floor-Dock.png" | relative_url -}}" alt="">

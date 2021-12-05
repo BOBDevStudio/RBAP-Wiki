@@ -36,4 +36,4 @@ BOB was inspired to make this dock after a reply to a post that BOB made on Twit
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Bob-The-Mob-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Bob-The-Mob-Dock.png" | relative_url -}}" alt="">

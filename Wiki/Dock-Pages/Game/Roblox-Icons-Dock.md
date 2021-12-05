@@ -36,4 +36,4 @@ sidebars:
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Roblox-Icons-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Roblox-Icons-Dock.png" | relative_url -}}" alt="">

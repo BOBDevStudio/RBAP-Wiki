@@ -36,4 +36,4 @@ In this dock you were able to select a color and it would show up on the machine
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">

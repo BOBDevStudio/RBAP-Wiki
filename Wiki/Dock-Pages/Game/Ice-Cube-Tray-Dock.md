@@ -36,4 +36,4 @@ sidebars:
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Ice-Cube-Tray-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Ice-Cube-Tray-Dock.png" | relative_url -}}" alt="">

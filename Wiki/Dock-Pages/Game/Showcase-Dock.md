@@ -36,4 +36,4 @@ This was created when BOB wanted to make a window with sunlight coming through i
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Showcase-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Showcase-Dock.png" | relative_url -}}" alt="">

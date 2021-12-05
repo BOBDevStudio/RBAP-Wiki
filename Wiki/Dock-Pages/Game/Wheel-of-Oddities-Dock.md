@@ -42,7 +42,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
 
 ## The rewards:
 

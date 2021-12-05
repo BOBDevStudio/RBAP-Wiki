@@ -36,4 +36,4 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Weird-Hills-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Weird-Hills-Dock.png" | relative_url -}}" alt="">

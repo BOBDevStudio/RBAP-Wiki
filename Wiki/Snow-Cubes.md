@@ -17,7 +17,7 @@ sidebars:
 
 You may not think about it much but this little model has some history. It is (as far as BOB knows) currently the oldest still being used model in the game. As far as anyone knows the shape of it has not been changed in any way since it was created.
 
-<img src="{{- "Assets/Images/Snow-Cubes/Main.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Snow-Cubes/Main.png" | relative_url -}}" alt="">
 
 # Here's the list of all the Snow Cubes' appearances currently:
 
@@ -25,13 +25,13 @@ You may not think about it much but this little model has some history. It is (a
 
 In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its first appearance. Surprisingly the Roblox Union object behind the shape of the Snow Cube model has actually stood the test of time as it has not been edited since. (For context on the previous sentence Roblox's CSG engine had a long-standing bug that would cause Union objects to completely break that only got fixed in V3 of the engine opened to public beta in 2021.)
 
-<img src="{{- "Assets/Images/Snow-Cubes/Original.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Snow-Cubes/Original.png" | relative_url -}}" alt="">
 
 ## [Ice Cube Tray Dock]({{- "/Wiki/Docks/Ice-Cube-Tray-Dock" | relative_url -}})
 
 Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock]({{- "/Wiki/Docks/Ice-Cube-Tray-Dock" | relative_url -}}) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
 
-<img src="{{- "Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" | relative_url -}}" alt="">
 
 ## Trees?
 
@@ -45,4 +45,4 @@ Much like with the trees the Snow Cubes made another (differently colored and si
 
 Starting in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers.
 
-<img src="{{- "Assets/Images/Snow-Cubes/Snow-Day.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Snow-Cubes/Snow-Day.png" | relative_url -}}" alt="">

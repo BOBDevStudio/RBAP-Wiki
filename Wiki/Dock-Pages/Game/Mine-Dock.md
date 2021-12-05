@@ -36,4 +36,4 @@ This dock was created just for the fun of it and partly because it was because B
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Mine-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Mine-Dock.png" | relative_url -}}" alt="">

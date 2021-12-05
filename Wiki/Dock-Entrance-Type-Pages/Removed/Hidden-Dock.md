@@ -90,4 +90,4 @@ Hidden docks are docks that are hidden by default unless they are triggered to a
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" | relative_url -}}" alt="">

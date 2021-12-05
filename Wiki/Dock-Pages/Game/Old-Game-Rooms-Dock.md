@@ -42,4 +42,4 @@ Although she did choose the 24th (on June 24th 2021 (that's where it came from))
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Old-Game-Rooms-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Old-Game-Rooms-Dock.png" | relative_url -}}" alt="">

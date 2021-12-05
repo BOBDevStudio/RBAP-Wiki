@@ -94,4 +94,4 @@ This dock entrance type is indirectly inspired by the [NPCs Key Dock]({{- "/Wiki
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" | relative_url -}}" alt="">

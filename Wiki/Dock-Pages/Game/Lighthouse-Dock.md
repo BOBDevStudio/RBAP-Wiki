@@ -36,4 +36,4 @@ BOB originally created this dock when he was trying to make cylinders out of mul
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Lighthouse-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Lighthouse-Dock.png" | relative_url -}}" alt="">

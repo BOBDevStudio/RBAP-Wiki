@@ -36,7 +36,7 @@ The Game Info Dock is a dock added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" 
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Game-Info-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Game-Info-Dock.png" | relative_url -}}" alt="">
 
 ## Signs on the dock:
 

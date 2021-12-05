@@ -36,4 +36,4 @@ This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" | relative_url -}}" alt="">

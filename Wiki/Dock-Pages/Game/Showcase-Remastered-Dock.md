@@ -36,4 +36,4 @@ This is recreation of the [old window showcase]({{- "/Wiki/Docks/Showcase-Dock" 
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Showcase-Remastered-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Showcase-Remastered-Dock.png" | relative_url -}}" alt="">

@@ -90,4 +90,4 @@ This dock entrance type was used in the winter of 2019 and 2020 due to the snow 
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Seasonally-Closed.png" | relative_url -}}" alt="">

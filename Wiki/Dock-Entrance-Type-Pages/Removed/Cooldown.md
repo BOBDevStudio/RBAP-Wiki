@@ -90,4 +90,4 @@ This dock entrance type was originally added for the [Mine Dock]({{- "/Wiki/Dock
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">

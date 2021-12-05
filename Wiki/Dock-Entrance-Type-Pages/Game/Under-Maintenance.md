@@ -92,4 +92,4 @@ This dock entrance type is one of the [generic dock entrance types]({{- "/Pages-
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" | relative_url -}}" alt="">

@@ -17,7 +17,7 @@ sidebars:
 
 The Controller is an NPC in the game whose job it is to type out lines of code into a fake console. Each line of code that he types can actually work in Roblox's Lua implementation, provided you have the correct modules and values set. Most of lines of code are just picked randomly while some happen at certain times. Scroll down for the full list of the all.
 
-<img src="{{- "Assets/Images/The-Controller-NPC.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/The-Controller-NPC.png" | relative_url -}}" alt="">
 
 # Here's every line of code available currently:
 

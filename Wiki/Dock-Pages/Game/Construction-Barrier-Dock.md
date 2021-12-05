@@ -38,4 +38,4 @@ The project that this is referring to is a secret abandoned project that BOB was
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Construction-Barrier-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Construction-Barrier-Dock.png" | relative_url -}}" alt="">
