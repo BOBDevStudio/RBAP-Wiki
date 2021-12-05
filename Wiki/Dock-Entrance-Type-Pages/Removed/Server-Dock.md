@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Server-Dock
+permalink: /wiki/dock-entrance-types/server-dock
 title: "Dock Entrance Type: Server Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Server-Dock

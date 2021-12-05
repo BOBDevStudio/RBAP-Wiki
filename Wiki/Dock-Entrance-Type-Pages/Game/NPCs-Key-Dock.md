@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/NPCs-Key-Dock
+permalink: /wiki/dock-entrance-types/npcs-key-dock
 title: "Dock Entrance Type: NPCs Key Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/NPCs-Key-Dock

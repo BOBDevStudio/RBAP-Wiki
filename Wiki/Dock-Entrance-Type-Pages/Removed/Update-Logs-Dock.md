@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Update-Logs-Dock
+permalink: /wiki/dock-entrance-types/update-logs-dock
 title: "Dock Entrance Type: Update Logs Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Update-Logs-Dock

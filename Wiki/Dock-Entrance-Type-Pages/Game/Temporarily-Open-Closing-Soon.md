@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon
+permalink: /wiki/dock-entrance-types/temporarily-open-closing-soon
 title: "Dock Entrance Type: Temporarily Open - Closing Soon"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon

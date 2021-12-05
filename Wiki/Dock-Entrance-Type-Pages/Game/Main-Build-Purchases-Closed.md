@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed
+permalink: /wiki/dock-entrance-types/main-build-purchases-closed
 title: "Dock Entrance Type: Main Build Purchases Closed"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed

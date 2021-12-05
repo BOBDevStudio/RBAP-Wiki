@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Closed
+permalink: /wiki/dock-entrance-types/closed
 title: "Dock Entrance Type: Closed"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Closed

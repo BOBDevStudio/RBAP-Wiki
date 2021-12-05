@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Under-Maintenance
+permalink: /wiki/dock-entrance-types/under-maintenance
 title: "Dock Entrance Type: Under Maintenance"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Under-Maintenance

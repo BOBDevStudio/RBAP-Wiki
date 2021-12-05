@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Hidden-Dock
+permalink: /wiki/dock-entrance-types/hidden-dock
 title: "Dock Entrance Type: Hidden Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Hidden-Dock

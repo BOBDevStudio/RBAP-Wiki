@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Donations-Dock
+permalink: /wiki/dock-entrance-types/donations-dock
 title: "Dock Entrance Type: Donations Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Donations-Dock

@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Open-New-Dock
+permalink: /wiki/dock-entrance-types/open-new-dock
 title: "Dock Entrance Type: Open - New Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Open-New-Dock

@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open
+permalink: /wiki/dock-entrance-types/temporarily-open
 title: "Dock Entrance Type: Temporarily Open"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Temporarily-Open

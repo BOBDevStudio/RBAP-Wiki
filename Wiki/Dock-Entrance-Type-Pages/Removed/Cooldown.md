@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Cooldown
+permalink: /wiki/dock-entrance-types/cooldown
 title: "Dock Entrance Type: Cooldown"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Cooldown

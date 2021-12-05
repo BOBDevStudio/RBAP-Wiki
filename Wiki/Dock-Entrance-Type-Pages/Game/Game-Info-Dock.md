@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Game-Info-Dock
+permalink: /wiki/dock-entrance-types/game-info-dock
 title: "Dock Entrance Type: Game Info Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Game-Info-Dock

@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Closed-New-Dock
+permalink: /wiki/dock-entrance-types/closed-new-dock
 title: "Dock Entrance Type: Closed - New Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Closed-New-Dock

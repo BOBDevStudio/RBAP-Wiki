@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Open
+permalink: /wiki/dock-entrance-types/open
 title: "Dock Entrance Type: Open"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Open

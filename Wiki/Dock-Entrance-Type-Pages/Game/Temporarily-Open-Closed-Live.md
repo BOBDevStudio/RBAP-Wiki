@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live
+permalink: /wiki/dock-entrance-types/temporarily-open-closed-live
 title: "Dock Entrance Type: Temporarily Open - Closed Live"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live

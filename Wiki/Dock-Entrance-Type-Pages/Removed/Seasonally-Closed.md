@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Seasonally-Closed
+permalink: /wiki/dock-entrance-types/seasonally-closed
 title: "Dock Entrance Type: Seasonally Closed"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Seasonally-Closed
