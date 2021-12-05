@@ -36,12 +36,6 @@ enabled_features:
   new_footer: true
   old_footer: false
 
-footer:
-  links:
-    - label: "License"
-      icon: "fas fa-scroll"
-      url: "https://bobdevstudio.github.io/RBAP-Wiki/License"
-
 exclude:
   - Readme.md
   - License
