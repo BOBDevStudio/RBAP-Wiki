@@ -1,5 +1,8 @@
 ---
+permalink: /Wiki/Dock-Entrance-Types
 title: Dock Entrance Types
+redirect_from:
+  - /Wiki/Dock-Entrance-Types
 listed_page_category: "dockentrancetypes_category_page"
 #page_categories:
 #  dockentrancetype_page: true

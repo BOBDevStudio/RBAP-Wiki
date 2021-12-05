@@ -1,5 +1,8 @@
 ---
+permalink: /Wiki/Docks
 title: Docks
+redirect_from:
+  - /Wiki/Docks
 listed_page_category: "docks_category_page"
 #page_categories:
 #  dock_page: true

@@ -1,5 +1,8 @@
 ---
+permalink: /Wiki/Walkway-Transportation
 title: Walkway Transportation
+redirect_from:
+  - /Wiki/Walkway-Transportation
 notices:
   - type: "warning"
     title: "Unmaintained Page"
