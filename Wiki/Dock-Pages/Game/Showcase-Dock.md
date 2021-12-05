@@ -26,7 +26,7 @@ sidebars:
         value: "`Main Side 2`"
 ---
 
-This was created when BOB wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game the second oldest being the [Stage]({{- "/Wiki/Docks/Stage-Dock" | relative_url -}}) (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed due to its historical value.
+This was created when BOB wanted to make a window with sunlight coming through it like he saw in other showcases (because the lighting system back then was pretty minimalistic compared to how it is now). This **is** the oldest part of the game the second oldest being the [Stage]({{- "/wiki/docks/stage-dock" | relative_url -}}) (more or less). This was created in the now no longer existent Roblox Legacy lighting technology and that is why it does not look as good as it did when it was made. It is very unlikely that this dock will ever be removed due to its historical value.
 
 | Value Name               | Value |
 |-|-|

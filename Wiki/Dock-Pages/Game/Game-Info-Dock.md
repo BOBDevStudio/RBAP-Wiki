@@ -42,11 +42,11 @@ The Game Info Dock is a dock added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" 
 
 ### Server And Game Info Sign
 
-This sign was originally pulled from the old [Server And Game Info Dock]({{- "/Wiki/Docks/Server-And-Game-Info-Dock" | relative_url -}}) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, currently nothing else has changed.
+This sign was originally pulled from the old [Server And Game Info Dock]({{- "/wiki/docks/server-and-game-info-dock" | relative_url -}}) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, currently nothing else has changed.
 
 ### Update Logs Sign
 
-This sign was originally pulled from the old [Update Logs Dock]({{- "/Wiki/Docks/Update-Logs-Dock" | relative_url -}}) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, currently nothing else has changed.
+This sign was originally pulled from the old [Update Logs Dock]({{- "/wiki/docks/update-logs-dock" | relative_url -}}) at the time that this dock was created. Besides going through a visual redesign when the dock was being created, currently nothing else has changed.
 
 ### Credits Sign
 

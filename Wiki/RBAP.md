@@ -54,7 +54,7 @@ Another global way to remove saved data about you is to getting contact with BOB
 
 ### Revenue
 
-Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock]({{- "/Wiki/Docks/Donations-Dock" | relative_url -}}) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
+Although it may seem weird at first Random Buildings And Parts is not made for the purpose of gaining revenue. BOB makes it purely for self enjoyment but at the same time also tries to make it so it's fun for the player to play. And in case you were wondering, the [Donations Dock]({{- "/wiki/docks/donations-dock" | relative_url -}}) is there for the purpose of giving donations for not only work done on the game but also BDS or any other game owned by the BDS.
 
 ### Localization Support
 

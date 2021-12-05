@@ -64,7 +64,7 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type was originally added for the [Mine Dock]({{- "/Wiki/Docks/Mine-Dock" | relative_url -}}) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
+This dock entrance type was originally added for the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
 
 | Value Name               | Value |
 |-|-|

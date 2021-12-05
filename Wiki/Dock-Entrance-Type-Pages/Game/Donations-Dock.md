@@ -23,7 +23,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Donations Dock]: This dock houses the game's donation system`"
       - key: "Is System Dock"
-        value: "`True` - [Donations Dock](/Wiki/Docks/Donations-Dock)"
+        value: "`True` - [Donations Dock](/wiki/docks/donations-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -73,7 +73,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Donations Dock]: This dock houses the game's donation system` |
-| Is System Dock           | `True` - [Donations Dock]({{- "/Wiki/Docks/Donations-Dock" | relative_url -}}) |
+| Is System Dock           | `True` - [Donations Dock]({{- "/wiki/docks/donations-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |

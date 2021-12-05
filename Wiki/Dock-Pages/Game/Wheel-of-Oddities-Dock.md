@@ -114,7 +114,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | OOF |
 | Was going to be listed as |  |
-| Does                      | Explodes your character in the same exact way as the [Mine Dock]({{- "/Wiki/Docks/Mine-Dock" | relative_url -}}). |
+| Does                      | Explodes your character in the same exact way as the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}). |
 | Expires After             |  |
 | Other Info                |  |
 

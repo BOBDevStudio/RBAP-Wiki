@@ -13,13 +13,13 @@ In Random Buildings And Parts there are multiple things that happen at different
 
 The following list is listed in order by how soon it can be witnessed starting at the beginning of the year. Currently all of them use the game's time zone. Each of them can happen live in existing servers unless otherwise noted.
 
-## An easter egg in the Game Says game on the [Game Rooms Dock]({{- "/Wiki/Docks/Game-Rooms-Dock" | relative_url -}}).
+## An easter egg in the Game Says game on the [Game Rooms Dock]({{- "/wiki/docks/game-rooms-dock" | relative_url -}}).
 
 Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) this has a chance appear anytime during the 24th of any month. Now there is no guarantee that you'll be able to see it as it has been tested to be quite (unintentionally) rare but be looking out for it when it says to do a command. Note that the test that was conducted on it and mentioned here was done before the chance of it appearing was set to triple the normal chance.
 
-## The [Old Game Rooms Dock]({{- "/Wiki/Docks/Old-Game-Rooms-Dock" | relative_url -}}) appears.
+## The [Old Game Rooms Dock]({{- "/wiki/docks/old-game-rooms-dock" | relative_url -}}) appears.
 
-Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) the [Old Game Rooms Dock]({{- "/Wiki/Docks/Old-Game-Rooms-Dock" | relative_url -}}) appears on the 24th of any month. There is a 15-minute warning time frame before the dock is removed in existing servers.
+Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) the [Old Game Rooms Dock]({{- "/wiki/docks/old-game-rooms-dock" | relative_url -}}) appears on the 24th of any month. There is a 15-minute warning time frame before the dock is removed in existing servers.
 
 ## The seasonal color palette is changed to Spring.
 

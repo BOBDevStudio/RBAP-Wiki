@@ -27,19 +27,19 @@ In a RBAP dev build version from 6:18 AM on 2/19/19 the Snow Cubes made its firs
 
 <img src="{{- "/Assets/Images/Snow-Cubes/Original.png" | relative_url -}}" alt="">
 
-## [Ice Cube Tray Dock]({{- "/Wiki/Docks/Ice-Cube-Tray-Dock" | relative_url -}})
+## [Ice Cube Tray Dock]({{- "/wiki/docks/ice-cube-tray-dock" | relative_url -}})
 
-Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock]({{- "/Wiki/Docks/Ice-Cube-Tray-Dock" | relative_url -}}) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
+Later on the same day as the original appearance at 8:33 PM the Snow Cubes made its second appearance in the new (at the time) [Ice Cube Tray Dock]({{- "/wiki/docks/ice-cube-tray-dock" | relative_url -}}) (although it was not originally called a dock). This is the oldest appearance of the Snow Cubes that is still in the game to this day. The Snow Cubes that are used in the dock have remained untouched ever since the dock was added.
 
 <img src="{{- "/Assets/Images/Snow-Cubes/Ice-Cube-Tray.png" | relative_url -}}" alt="">
 
 ## Trees?
 
-Somehow the Snow Cubes managed to find their way into being a leaf on a tree. That's right, the leaves of the trees in the middle of the map use a differently colored and sized Snow Cube model. Before [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) (which brought the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}})) this was the only appearance of the Snow Cubes that did not use the original design of the Snow Cubes.
+Somehow the Snow Cubes managed to find their way into being a leaf on a tree. That's right, the leaves of the trees in the middle of the map use a differently colored and sized Snow Cube model. Before [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) (which brought the [Moving Spotlight Dock]({{- "/wiki/docks/moving-spotlight-dock" | relative_url -}})) this was the only appearance of the Snow Cubes that did not use the original design of the Snow Cubes.
 
-## [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}})
+## [Moving Spotlight Dock]({{- "/wiki/docks/moving-spotlight-dock" | relative_url -}})
 
-Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}}) added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}). The colors of them were actually picked by a simple randomizer script BOB wrote. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
+Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock]({{- "/wiki/docks/moving-spotlight-dock" | relative_url -}}) added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}). The colors of them were actually picked by a simple randomizer script BOB wrote. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
 
 ## Snow Day
 

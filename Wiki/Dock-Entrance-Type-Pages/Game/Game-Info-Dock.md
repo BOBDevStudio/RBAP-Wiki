@@ -23,7 +23,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Game Info Dock]: This dock contains signs that give all sorts of info about the game`"
       - key: "Is System Dock"
-        value: "`True` - [Game Info Dock](/Wiki/Docks/Game-Info-Dock)"
+        value: "`True` - [Game Info Dock](/wiki/docks/game-info-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -73,7 +73,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Game Info Dock]: This dock contains signs that give all sorts of info about the game` |
-| Is System Dock           | `True` - [Game Info Dock]({{- "/Wiki/Docks/Game-Info-Dock" | relative_url -}}) |
+| Is System Dock           | `True` - [Game Info Dock]({{- "/wiki/docks/game-info-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |
