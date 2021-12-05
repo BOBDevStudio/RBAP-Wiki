@@ -4,7 +4,7 @@ title: "Dock: Color Blocks Dock"
 redirect_from:
   - /Wiki/Docks/Color-Blocks-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Color Blocks Dock"

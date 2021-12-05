@@ -4,7 +4,7 @@ title: "Random Buildings And Parts"
 redirect_from:
   - /Wiki/RBAP
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Random Buildings And Parts"
@@ -41,7 +41,7 @@ The dev build is often the only build that debug features are enabled in and is 
 
 ### Your Saved Data
 
-The only data that is linked to you in [`V5.2`]({{- "/Posts/Update-Log/5-2-0" | relative_url -}}) of Random Buildings And Parts is: 
+The only data that is linked to you in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}) of Random Buildings And Parts is: 
 
 * Your preferences for what titles should be equipped.
 * * This is only ever saved if you change the setting so if you leave or set all three title placement settings at their default value the data will be removed.

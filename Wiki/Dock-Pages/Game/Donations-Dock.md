@@ -4,7 +4,7 @@ title: "Dock: Donations Dock"
 redirect_from:
   - /Wiki/Docks/Donations-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Donations Dock"
@@ -26,7 +26,7 @@ sidebars:
         value: "`Main Side 2`"
 ---
 
-After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`]({{- "/Posts/Update-Log/4-0-0" | relative_url -}}) added a little celebration animation after a player purchases any of the donation amounts available. [`V4.1`]({{- "/Posts/Update-Log/4-1-0" | relative_url -}}) added another way to thank you for your donation which is when you purchase any of the donation amounts available you will get that donation amount's corresponding title. This dock has not always been considered a system dock.
+After a lot of the screen UI in the game was removed this dock was added to replace the old donation screen UI. As a thank you for purchasing a donation an update before [`V4`]({{- "/wiki/posts/update-log/4-0-0" | relative_url -}}) added a little celebration animation after a player purchases any of the donation amounts available. [`V4.1`]({{- "/wiki/posts/update-log/4-1-0" | relative_url -}}) added another way to thank you for your donation which is when you purchase any of the donation amounts available you will get that donation amount's corresponding title. This dock has not always been considered a system dock.
 
 The prices of each of the donation amounts available is meant to be able to help the user donate the exact (or close to the) amount of Robux that they want to donate.
 

@@ -4,7 +4,7 @@ title: Snow Cubes
 redirect_from:
   - /Wiki/Snow-Cubes
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Snow Cubes"
@@ -35,14 +35,14 @@ Later on the same day as the original appearance at 8:33 PM the Snow Cubes made 
 
 ## Trees?
 
-Somehow the Snow Cubes managed to find their way into being a leaf on a tree. That's right, the leaves of the trees in the middle of the map use a differently colored and sized Snow Cube model. Before [`V5`]({{- "/Posts/Update-Log/5-0-0" | relative_url -}}) (which brought the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}})) this was the only appearance of the Snow Cubes that did not use the original design of the Snow Cubes.
+Somehow the Snow Cubes managed to find their way into being a leaf on a tree. That's right, the leaves of the trees in the middle of the map use a differently colored and sized Snow Cube model. Before [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) (which brought the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}})) this was the only appearance of the Snow Cubes that did not use the original design of the Snow Cubes.
 
 ## [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}})
 
-Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}}) added in [`V5`]({{- "/Posts/Update-Log/5-0-0" | relative_url -}}). The colors of them were actually picked by a simple randomizer script BOB wrote. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
+Much like with the trees the Snow Cubes made another (differently colored and sized) appearance this time in the [Moving Spotlight Dock]({{- "/Wiki/Docks/Moving-Spotlight-Dock" | relative_url -}}) added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}). The colors of them were actually picked by a simple randomizer script BOB wrote. The reason for the Snow Cubes model being used here is because due to the spotlight's ability to track the character's movements BOB wanted some way for the character to go up in height as well.
 
 ## Snow Day
 
-Starting in [`V5`]({{- "/Posts/Update-Log/5-0-0" | relative_url -}}) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers.
+Starting in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) from December 18th to the 26th the Snow Cubes make yet another appearance in a tower inspired by the Snow Cubes original appearance. The location of the tower is very close to the entrance elevator. Once it hits that time frame the tower will appear in all existing and new servers.
 
 <img src="{{- "Assets/Images/Snow-Cubes/Snow-Day.png" | relative_url -}}" alt="">
