@@ -91,4 +91,4 @@ The indicators for each note are listed after the name of a song.
 |-|-|-|-|-|-|-|
 | `Christmas Party` [x5]					| [Roblox](https://www.roblox.com/library/1841446876) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0803/KPM_KPM_0803_02901)				| ✔️ | ✔️ | ❌ | ✔️ | [`V5`]({{- "/Posts/Update-Log/5-0-0" | relative_url -}})	|
 
-{%- comment -%} | ` `	| [Roblox](https://www.roblox.com/library/) + [APM]()	| ❌ | ❌ | ❌ | ❌ | [`V0`]({{- "/Posts/Update-Log/0-0-0" | relative_url -}})	| -- FYI this is used as a template {%- endcomment -%}
+{%- comment -%} | ` `	| [Roblox](https://www.roblox.com/library/) + [APM]()	| ❌ | ❌ | ❌ | ❌ | [`V0`]({{- "/wiki/posts/update-log/0-0-0" | relative_url -}})	| -- FYI this is used as a template {%- endcomment -%}
