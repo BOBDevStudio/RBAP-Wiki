@@ -1,5 +1,5 @@
 ---
-permalink: /Posts/Update-Logs-Tags
+permalink: /wiki/posts/update-logs-tags
 title: "Update logs tags key"
 short_description: "List of tags from the update log system"
 post_created_at: "2021-05-01 00:00:00 +00:00"

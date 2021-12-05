@@ -1,5 +1,5 @@
 ---
-permalink: /Update-Logs
+permalink: /update-logs
 title: "Random Buildings And Parts Update Logs"
 layout: categories
 page_reference_id: "update_logs_list"

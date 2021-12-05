@@ -1,5 +1,5 @@
 ---
-permalink: /Posts/Update-Log-Notes
+permalink: /wiki/posts/update-log-notes
 title: "Notes about the update log system"
 short_description: "List of notes related to the update log system."
 post_created_at: "2021-04-15 00:00:00 +00:00"
