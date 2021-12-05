@@ -1,5 +1,5 @@
 ---
-permalink: /pages-categories/ease-of-access/generic-dock-entrance-types
+permalink: /wiki/pages-categories/ease-of-access/generic-dock-entrance-types
 title: "Generic Dock Entrance Types"
 listed_page_category: "generic_dock_entrance_type"
 redirect_from:

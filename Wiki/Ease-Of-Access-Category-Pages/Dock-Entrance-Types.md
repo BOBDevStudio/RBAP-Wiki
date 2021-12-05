@@ -1,5 +1,5 @@
 ---
-permalink: /pages-categories/ease-of-access/dock-entrance-types
+permalink: /wiki/pages-categories/ease-of-access/dock-entrance-types
 title: "Dock Entrance Types (Full List)"
 listed_page_category: "dockentrancetype_page"
 redirect_from:
