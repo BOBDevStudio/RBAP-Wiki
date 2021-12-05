@@ -318,7 +318,7 @@ atom_feed:
   hide: true
 category_archive:
   type: liquid
-  path: /Categories
+  path: /wIki/posts/list/categories
 tag_archive:
   type: liquid
-  path: /Tags
+  path: /wIki/posts/list/tags
