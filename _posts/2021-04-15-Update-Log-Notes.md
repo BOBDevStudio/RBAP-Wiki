@@ -1,5 +1,5 @@
 ---
-permalink: /Posts/Update-Log-Notes
+permalink: /wiki/posts/update-log-notes
 title: "Notes about the update log system"
 short_description: "List of notes related to the update log system."
 post_created_at: "2021-04-15 00:00:00 +00:00"
@@ -7,6 +7,8 @@ post_updated_at: "2021-11-15 00:00:00 +00:00"
 pinned: true
 comments: true
 author: "RBAP"
+redirect_from:
+  - /Posts/Update-Log-Notes
 sidebars:
   page_navigation_panel:
     list_name_used: "UpdateLogs"
@@ -23,7 +25,7 @@ sidebars:
 * * * Many of the old update logs have unnecessary hype like for example some of them may say "`ALL-NEW`". BOB has stopped using this style of update log for quite some time now.
 * * * * Also there are more differences between the styles of update logs in between the old update logs and the new update logs. Overall the newer ones are of higher quality than the older ones.
 * * * Many of the changes listed in them are either changed or removed.
-* All updates after and including [`V5`](/Posts/Update-Log/5-0-0) use a new way of determining version numbers which is as follows (starting from the left):
+* All updates after and including [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) use a new way of determining version numbers which is as follows (starting from the left):
 * * The first number indicates a future focused update that is so impactful that It is hard to not notice a change from it (at the time of it being released). These usually contain many future focused changes.
 * * The second number Indicates update that is at least partly future focused. These usually contain future focused changes but not many of them.
 * * The third number indicates a pretty small update. These usually only contain bug fixes and/or minor improvements. They also have a chance of being made on the spot (like a quick maintenance update that wasn't planned ahead of time).

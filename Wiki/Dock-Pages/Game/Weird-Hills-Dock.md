@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Weird-Hills-Dock
+permalink: /wiki/docks/weird-hills-dock
 title: "Dock: Weird Hills Dock"
+redirect_from:
+  - /Wiki/Docks/Weird-Hills-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Weird Hills Dock"
@@ -19,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Main Side 2`"
 ---
@@ -30,8 +32,8 @@ BOB can never be sure why exactly he made this dock as he doesn't remember why a
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Weird-Hills-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Weird-Hills-Dock.png" | relative_url -}}" alt="">

@@ -1,11 +1,13 @@
 ---
-permalink: /Wiki/Docks/Server-And-Game-Info-Dock
+permalink: /wiki/docks/server-and-game-info-dock
 title: "Dock: Server And Game Info Dock"
+redirect_from:
+  - /Wiki/Docks/Server-And-Game-Info-Dock
 used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Server And Game Info Dock"
@@ -22,19 +24,19 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Server Dock`](/Wiki/Dock-Entrance-Types/Server-Dock)"
+        value: "`1` = [`Server Dock`](/wiki/dock-entrance-types/server-dock)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`](/Posts/Update-Log/3-0-0) of the game but for reasons unknown was not added until [`V3`](/Posts/Update-Log/3-0-0). The system that runs the dock was completely recoded in [`V4`](/Posts/Update-Log/4-0-0). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}) of the game but for reasons unknown was not added until [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}). The system that runs the dock was completely recoded in [`V4`]({{- "/wiki/posts/update-log/4-0-0" | relative_url -}}). This dock has always been considered a system dock.
 
 | Value Name               | Value |
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Server Dock`](/Wiki/Dock-Entrance-Types/Server-Dock) |
+| Dock Entrance Types Used | `1` = [`Server Dock`]({{- "/wiki/dock-entrance-types/server-dock" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">

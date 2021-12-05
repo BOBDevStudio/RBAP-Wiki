@@ -1,13 +1,15 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Update-Logs-Dock
+permalink: /wiki/dock-entrance-types/update-logs-dock
 title: "Dock Entrance Type: Update Logs Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Update-Logs-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   removed_dock_entrance_type: true
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Update Logs Dock"
@@ -22,7 +24,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`"
       - key: "Is System Dock"
-        value: "`True` - [Update Logs Dock](/Wiki/Docks/Category/In-Game#update-logs-dock)"
+        value: "`True` - [Update Logs Dock](/wiki/docks/update-logs-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -72,7 +74,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Update Logs Dock]: This dock contains Random Buildings And Parts update logs` |
-| Is System Dock           | `True` - [Update Logs Dock](/Wiki/Docks/Category/In-Game#update-logs-dock) |
+| Is System Dock           | `True` - [Update Logs Dock]({{- "/wiki/docks/update-logs-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |
@@ -93,4 +95,4 @@ sidebars:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Update-Logs-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Update-Logs-Dock.png" | relative_url -}}" alt="">

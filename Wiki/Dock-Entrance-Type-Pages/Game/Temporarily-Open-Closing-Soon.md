@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon
+permalink: /wiki/dock-entrance-types/temporarily-open-closing-soon
 title: "Dock Entrance Type: Temporarily Open - Closing Soon"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Temporarily Open - Closing Soon"
@@ -92,4 +94,4 @@ sidebars:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Temporarily-Open-Closing-Soon.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Temporarily-Open-Closing-Soon.png" | relative_url -}}" alt="">

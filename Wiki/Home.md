@@ -1,7 +1,9 @@
 ---
 layout: single
-permalink: /Wiki
+permalink: /wiki
 title: "RBAP's Official Wiki"
+redirect_from:
+  - /Wiki
 outside_preview:
   title: "Wiki Home"
 sidebars:
@@ -18,14 +20,14 @@ feature_row:
     alt: "Docks Page"
     title: "Docks"
     excerpt: "Docks are the most essential part of the game."
-    url: "/Wiki/Docks"
+    url: "/wiki/docks"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: "Assets/Images/Page-Previews/Home/Dock%20Types%20Page.png"
     alt: "Dock Entrance Types Page"
     title: "Dock Entrance Types"
     excerpt: "Dock types give the docks some personality."
-    url: "/Wiki/Dock-Entrance-Types"
+    url: "/wiki/dock-entrance-types"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: "Assets/Images/Page-Previews/Home/Walkway%20Transportation%20Page.png"

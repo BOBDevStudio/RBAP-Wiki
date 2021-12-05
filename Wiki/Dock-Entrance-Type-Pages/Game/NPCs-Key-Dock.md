@@ -1,12 +1,14 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/NPCs-Key-Dock
+permalink: /wiki/dock-entrance-types/npcs-key-dock
 title: "Dock Entrance Type: NPCs Key Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/NPCs-Key-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "NPCs Key Dock"
@@ -21,7 +23,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[NPCs Key Dock]: This dock contains info about each of the NPCs that can be seen in the game`"
       - key: "Is System Dock"
-        value: "`True` - [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock)"
+        value: "`True` - [NPCs Key Dock](/wiki/docks/npcs-key-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -66,12 +68,12 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type is indirectly inspired by the [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock)'s original system dock entrance type.
+This dock entrance type is indirectly inspired by the [NPCs Key Dock]({{- "/wiki/docks/npcs-key-dock" | relative_url -}})'s original system dock entrance type.
 
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[NPCs Key Dock]: This dock contains info about each of the NPCs that can be seen in the game` |
-| Is System Dock           | `True` - [NPCs Key Dock](/Wiki/Docks/NPCs-Key-Dock) |
+| Is System Dock           | `True` - [NPCs Key Dock]({{- "/wiki/docks/npcs-key-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `False` |
@@ -92,4 +94,4 @@ This dock entrance type is indirectly inspired by the [NPCs Key Dock](/Wiki/Dock
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/NPCs-Key-Dock.png" | relative_url -}}" alt="">

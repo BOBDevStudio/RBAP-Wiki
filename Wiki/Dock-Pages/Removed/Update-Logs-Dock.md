@@ -1,11 +1,13 @@
 ---
-permalink: /Wiki/Docks/Update-Logs-Dock
+permalink: /wiki/docks/update-logs-dock
 title: "Dock: Update Logs Dock"
+redirect_from:
+  - /Wiki/Docks/Update-Logs-Dock
 used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Update Logs Dock"
@@ -22,7 +24,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock)"
+        value: "`1` = [`Update Logs Dock`](/wiki/dock-entrance-types/update-logs-dock)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
@@ -33,8 +35,8 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock) |
+| Dock Entrance Types Used | `1` = [`Update Logs Dock`]({{- "/wiki/dock-entrance-types/update-logs-dock" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Update-Logs-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Update-Logs-Dock.png" | relative_url -}}" alt="">

@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Category/In-Game
+permalink: /wiki/docks/category/in-game
 title: "Docks: In-Game"
 short_description: "List of docks in the game"
 listed_page_category: "game_dock_page"
+redirect_from:
+  - /Wiki/Docks/Category/In-Game
 ---
 
 ### Docks in this category:

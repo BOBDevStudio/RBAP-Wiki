@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
+permalink: /wiki/docks/wheel-of-oddities-dock
 title: "Dock: Wheel of Oddities Dock"
+redirect_from:
+  - /Wiki/Docks/Wheel-of-Oddities-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Wheel of Oddities Dock"
@@ -19,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Main Side 2`"
 ---
@@ -36,11 +38,11 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
 
 ## The rewards:
 
@@ -112,7 +114,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 |-|-|
 | Listed As                 | OOF |
 | Was going to be listed as |  |
-| Does                      | Explodes your character in the same exact way as the [Mine Dock](/Wiki/Docks/Mine-Dock). |
+| Does                      | Explodes your character in the same exact way as the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}). |
 | Expires After             |  |
 | Other Info                |  |
 

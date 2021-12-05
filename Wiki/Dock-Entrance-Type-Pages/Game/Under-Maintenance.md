@@ -1,10 +1,12 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Under-Maintenance
+permalink: /wiki/dock-entrance-types/under-maintenance
 title: "Dock Entrance Type: Under Maintenance"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Under-Maintenance
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Under Maintenance"
@@ -64,7 +66,7 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type is one of the [generic dock entrance types](/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
+This dock entrance type is one of the [generic dock entrance types]({{- "/wiki/pages-categories/ease-of-access/generic-dock-entrance-types" | relative_url -}}). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
 
 | Value Name               | Value |
 |-|-|
@@ -90,4 +92,4 @@ This dock entrance type is one of the [generic dock entrance types](/Pages-Categ
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Under-Maintenance.png" | relative_url -}}" alt="">

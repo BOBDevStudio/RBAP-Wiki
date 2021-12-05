@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Color-Mixer-Dock
+permalink: /wiki/docks/color-mixer-dock
 title: "Dock: Color Mixer Dock"
+redirect_from:
+  - /Wiki/Docks/Color-Mixer-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Color Mixer Dock"
@@ -19,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
@@ -30,8 +32,8 @@ In this dock you were able to select a color and it would show up on the machine
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types#open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types#open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Color-Mixer-Dock.png" | relative_url -}}" alt="">

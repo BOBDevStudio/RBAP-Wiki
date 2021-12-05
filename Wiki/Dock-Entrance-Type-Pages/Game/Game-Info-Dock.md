@@ -1,12 +1,14 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Game-Info-Dock
+permalink: /wiki/dock-entrance-types/game-info-dock
 title: "Dock Entrance Type: Game Info Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Game-Info-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Game Info Dock"
@@ -21,7 +23,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Game Info Dock]: This dock contains signs that give all sorts of info about the game`"
       - key: "Is System Dock"
-        value: "`True` - [Game Info Dock](/Wiki/Docks/Game-Info-Dock)"
+        value: "`True` - [Game Info Dock](/wiki/docks/game-info-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -71,7 +73,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Game Info Dock]: This dock contains signs that give all sorts of info about the game` |
-| Is System Dock           | `True` - [Game Info Dock](/Wiki/Docks/Game-Info-Dock) |
+| Is System Dock           | `True` - [Game Info Dock]({{- "/wiki/docks/game-info-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |
@@ -92,4 +94,4 @@ sidebars:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Game-Info-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Game-Info-Dock.png" | relative_url -}}" alt="">

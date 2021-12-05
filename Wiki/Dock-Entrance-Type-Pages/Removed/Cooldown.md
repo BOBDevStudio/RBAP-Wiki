@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Cooldown
+permalink: /wiki/dock-entrance-types/cooldown
 title: "Dock Entrance Type: Cooldown"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Cooldown
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Cooldown"
@@ -62,7 +64,7 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type was originally added for the [Mine Dock](/Wiki/Docks/Mine-Dock) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
+This dock entrance type was originally added for the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
 
 | Value Name               | Value |
 |-|-|
@@ -88,4 +90,4 @@ This dock entrance type was originally added for the [Mine Dock](/Wiki/Docks/Min
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">

@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Stage-Dock
+permalink: /wiki/docks/stage-dock
 title: "Dock: The Stage"
+redirect_from:
+  - /Wiki/Docks/Stage-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "The Stage"
@@ -19,14 +21,14 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Middle Side 1`"
 ---
 
 The stage is one of the oldest docks in the game. It is not as old as the original window showcase but it is older than anything besides that still in the game. 
 
-This dock has a history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`](/Posts/Update-Log/3-0-0) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
+This dock has a history of not actually being in the game. Although nowadays BOB can barely remember the reasons for this, he assumed that the dock was removed temporarily because he probably wanted to remake it at the time (which he did eventually end up doing in [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}) of the game). The reason also could have been because of lag or some code of it needing to be updated when BOB didn't feel like it.
 
 The design of the stage has changed a little bit over the years. Here's a list of those changes or at least the ones BOB can remember:
 
@@ -46,8 +48,8 @@ The design of the stage has changed a little bit over the years. Here's a list o
 |-|-|
 | Reserved Dock Entrance   | `1` |
 | Entrances Used           | `1` - This is set to 1 due to it causing technical issues if it is bigger but the stage does take up more than 1 dock entrance. |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types/Open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
 | Side Placed On           | `Middle Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Stage-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Stage-Dock.png" | relative_url -}}" alt="">

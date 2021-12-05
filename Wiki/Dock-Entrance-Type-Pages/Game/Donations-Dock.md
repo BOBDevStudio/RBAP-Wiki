@@ -1,12 +1,14 @@
 ---
-permalink: /Wiki/Dock-Entrance-Types/Donations-Dock
+permalink: /wiki/dock-entrance-types/donations-dock
 title: "Dock Entrance Type: Donations Dock"
+redirect_from:
+  - /Wiki/Dock-Entrance-Types/Donations-Dock
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Donations Dock"
@@ -21,7 +23,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Donations Dock]: This dock houses the game's donation system`"
       - key: "Is System Dock"
-        value: "`True` - [Donations Dock](/Wiki/Docks/Donations-Dock)"
+        value: "`True` - [Donations Dock](/wiki/docks/donations-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -71,7 +73,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Donations Dock]: This dock houses the game's donation system` |
-| Is System Dock           | `True` - [Donations Dock](/Wiki/Docks/Donations-Dock) |
+| Is System Dock           | `True` - [Donations Dock]({{- "/wiki/docks/donations-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |
@@ -92,4 +94,4 @@ sidebars:
 | Gate Color 2             | *Default (unset)* |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Dock-Entrance-Types/Donations-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Dock-Entrance-Types/Donations-Dock.png" | relative_url -}}" alt="">

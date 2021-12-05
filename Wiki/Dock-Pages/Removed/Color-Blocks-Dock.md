@@ -1,8 +1,10 @@
 ---
-permalink: /Wiki/Docks/Color-Blocks-Dock
+permalink: /wiki/docks/color-blocks-dock
 title: "Dock: Color Blocks Dock"
+redirect_from:
+  - /Wiki/Docks/Color-Blocks-Dock
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/Posts/Update-Log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
   page_subject_info:
     title: "Color Blocks Dock"
@@ -19,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
@@ -30,8 +32,8 @@ This is an old dock that was used to test out Roblox's [`ClickDetector`](https:/
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`](/Wiki/Dock-Entrance-Types#open) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types#open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 
-<img src="{{- "Assets/Images/Docks/Color-Blocks-Dock.png" | relative_url -}}" alt="">
+<img src="{{- "/Assets/Images/Docks/Color-Blocks-Dock.png" | relative_url -}}" alt="">
