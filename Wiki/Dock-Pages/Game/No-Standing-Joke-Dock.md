@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/No-Standing-Joke-Dock
+permalink: /wiki/docks/no-standing-joke-dock
 title: "Dock: No Standing Joke Dock"
 redirect_from:
   - /Wiki/Docks/No-Standing-Joke-Dock

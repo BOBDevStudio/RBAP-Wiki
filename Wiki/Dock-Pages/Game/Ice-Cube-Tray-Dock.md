@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Ice-Cube-Tray-Dock
+permalink: /wiki/docks/ice-cube-tray-dock
 title: "Dock: Ice Cube Tray Dock"
 redirect_from:
   - /Wiki/Docks/Ice-Cube-Tray-Dock

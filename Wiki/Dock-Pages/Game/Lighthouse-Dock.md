@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Lighthouse-Dock
+permalink: /wiki/docks/lighthouse-dock
 title: "Dock: Lighthouse Dock"
 redirect_from:
   - /Wiki/Docks/Lighthouse-Dock

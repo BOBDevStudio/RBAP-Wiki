@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Update-Logs-Dock
+permalink: /wiki/docks/update-logs-dock
 title: "Dock: Update Logs Dock"
 redirect_from:
   - /Wiki/Docks/Update-Logs-Dock

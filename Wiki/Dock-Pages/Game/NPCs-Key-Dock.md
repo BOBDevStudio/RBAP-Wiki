@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/NPCs-Key-Dock
+permalink: /wiki/docks/npcs-key-dock
 title: "Dock: NPCs Key Dock"
 redirect_from:
   - /Wiki/Docks/NPCs-Key-Dock

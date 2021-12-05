@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Game-Info-Dock
+permalink: /wiki/docks/game-info-dock
 title: "Dock: Game Info Dock"
 redirect_from:
   - /Wiki/Docks/Game-Info-Dock

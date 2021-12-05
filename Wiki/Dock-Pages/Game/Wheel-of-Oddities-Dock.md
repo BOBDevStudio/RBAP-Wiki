@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Wheel-of-Oddities-Dock
+permalink: /wiki/docks/wheel-of-oddities-dock
 title: "Dock: Wheel of Oddities Dock"
 redirect_from:
   - /Wiki/Docks/Wheel-of-Oddities-Dock

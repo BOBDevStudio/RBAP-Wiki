@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Industrial-Light-Dock
+permalink: /wiki/docks/industrial-light-dock
 title: "Dock: Industrial Light Dock"
 redirect_from:
   - /Wiki/Docks/Industrial-Light-Dock

@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Rainbow-Dance-Floor-Dock
+permalink: /wiki/docks/rainbow-dance-floor-dock
 title: "Dock: Rainbow Dance Floor"
 redirect_from:
   - /Wiki/Docks/Rainbow-Dance-Floor-Dock

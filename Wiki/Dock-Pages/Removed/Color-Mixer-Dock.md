@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Color-Mixer-Dock
+permalink: /wiki/docks/color-mixer-dock
 title: "Dock: Color Mixer Dock"
 redirect_from:
   - /Wiki/Docks/Color-Mixer-Dock

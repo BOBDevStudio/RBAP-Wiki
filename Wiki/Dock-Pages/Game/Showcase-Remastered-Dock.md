@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Showcase-Remastered-Dock
+permalink: /wiki/docks/showcase-remastered-dock
 title: "Dock: Showcase Remastered Dock"
 redirect_from:
   - /Wiki/Docks/Showcase-Remastered-Dock

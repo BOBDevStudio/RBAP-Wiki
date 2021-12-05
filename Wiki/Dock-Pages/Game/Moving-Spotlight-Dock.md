@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Moving-Spotlight-Dock
+permalink: /wiki/docks/moving-spotlight-dock
 title: "Dock: Moving Spotlight Dock"
 redirect_from:
   - /Wiki/Docks/Moving-Spotlight-Dock

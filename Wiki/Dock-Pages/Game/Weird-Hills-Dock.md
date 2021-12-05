@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Weird-Hills-Dock
+permalink: /wiki/docks/weird-hills-dock
 title: "Dock: Weird Hills Dock"
 redirect_from:
   - /Wiki/Docks/Weird-Hills-Dock

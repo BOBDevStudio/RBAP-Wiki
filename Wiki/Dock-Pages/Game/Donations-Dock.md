@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Donations-Dock
+permalink: /wiki/docks/donations-dock
 title: "Dock: Donations Dock"
 redirect_from:
   - /Wiki/Docks/Donations-Dock

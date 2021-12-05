@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Events-Dock
+permalink: /wiki/docks/events-dock
 title: "Dock: Events Dock"
 redirect_from:
   - /Wiki/Docks/Events-Dock

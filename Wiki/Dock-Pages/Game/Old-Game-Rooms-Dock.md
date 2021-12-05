@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Old-Game-Rooms-Dock
+permalink: /wiki/docks/old-game-rooms-dock
 title: "Dock: Old Game Rooms Dock"
 redirect_from:
   - /Wiki/Docks/Old-Game-Rooms-Dock

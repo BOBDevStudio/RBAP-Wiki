@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Construction-Barrier-Dock
+permalink: /wiki/docks/construction-barrier-dock
 title: "Dock: Construction Barrier Dock"
 redirect_from:
   - /Wiki/Docks/Construction-Barrier-Dock

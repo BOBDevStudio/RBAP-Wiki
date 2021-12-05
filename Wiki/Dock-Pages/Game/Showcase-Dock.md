@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Showcase-Dock
+permalink: /wiki/docks/showcase-dock
 title: "Dock: Showcase Dock"
 redirect_from:
   - /Wiki/Docks/Showcase-Dock

@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Color-Blocks-Dock
+permalink: /wiki/docks/color-blocks-dock
 title: "Dock: Color Blocks Dock"
 redirect_from:
   - /Wiki/Docks/Color-Blocks-Dock

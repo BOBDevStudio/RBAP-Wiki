@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Camp-Fire-Dock
+permalink: /wiki/docks/camp-fire-dock
 title: "Dock: Camp Fire Dock"
 redirect_from:
   - /Wiki/Docks/Camp-Fire-Dock

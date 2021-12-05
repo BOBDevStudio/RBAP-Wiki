@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Mine-Dock
+permalink: /wiki/docks/mine-dock
 title: "Dock: Mine Dock"
 redirect_from:
   - /Wiki/Docks/Mine-Dock

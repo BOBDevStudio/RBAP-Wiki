@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Stage-Dock
+permalink: /wiki/docks/stage-dock
 title: "Dock: The Stage"
 redirect_from:
   - /Wiki/Docks/Stage-Dock

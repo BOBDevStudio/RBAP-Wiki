@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Bloxy-Statue-Remade-Dock
+permalink: /wiki/docks/bloxy-statue-remade-dock
 title: "Dock: Bloxy Statue Remade Dock"
 redirect_from:
   - /Wiki/Docks/Bloxy-Statue-Remade-Dock

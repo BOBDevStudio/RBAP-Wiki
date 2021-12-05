@@ -1,5 +1,5 @@
 ---
-permalink: /Wiki/Docks/Bob-The-Mob-Dock
+permalink: /wiki/docks/bob-the-mob-dock
 title: "Dock: Bob the Mob Dock"
 redirect_from:
   - /Wiki/Docks/Bob-The-Mob-Dock
