@@ -66,7 +66,7 @@ sidebars:
         value: "*Default (unset)*"
 ---
 
-This dock entrance type is one of the [generic dock entrance types]({{- "/Pages-Categories/Ease-Of-Access/Generic-Dock-Entrance-Types" | relative_url -}}). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
+This dock entrance type is one of the [generic dock entrance types]({{- "/wiki/pages-categories/ease-of-access/generic-dock-entrance-types" | relative_url -}}). This dock entrance type is used when a dock is in need of maintenance in some way. An example of this being used is when the code running a dock stops working for whatever reason. This dock entrance type isn't used too often anymore as it has been largely replaced by a system that can prevent docks from being loaded without having to update the game.
 
 | Value Name               | Value |
 |-|-|
