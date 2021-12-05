@@ -24,7 +24,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Server Dock]: This dock contains statistics about the server and the game`"
       - key: "Is System Dock"
-        value: "`True` - [Server And Game Info Dock](/Wiki/Docks/Category/In-Game#server-and-game-info-dock)"
+        value: "`True` - [Server And Game Info Dock](/wiki/docks/server-and-game-info-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -74,7 +74,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Server Dock]: This dock contains statistics about the server and the game` |
-| Is System Dock           | `True` - [Server And Game Info Dock]({{- "/Wiki/Docks/Category/In-Game#server-and-game-info-dock" | relative_url -}}) |
+| Is System Dock           | `True` - [Server And Game Info Dock]({{- "/wiki/docks/server-and-game-info-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |

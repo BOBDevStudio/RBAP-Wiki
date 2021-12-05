@@ -24,7 +24,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`"
       - key: "Is System Dock"
-        value: "`True` - [Update Logs Dock](/Wiki/Docks/Category/In-Game#update-logs-dock)"
+        value: "`True` - [Update Logs Dock](/wiki/docks/update-logs-dock)"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -74,7 +74,7 @@ sidebars:
 | Value Name               | Value |
 |-|-|
 | Sign Text                | `[Update Logs Dock]: This dock contains Random Buildings And Parts update logs` |
-| Is System Dock           | `True` - [Update Logs Dock]({{- "/Wiki/Docks/Category/In-Game#update-logs-dock" | relative_url -}}) |
+| Is System Dock           | `True` - [Update Logs Dock]({{- "/wiki/docks/update-logs-dock" | relative_url -}}) |
 | Is Bridge Down           | `True` |
 | Is Gate Down             | `True` |
 | Main Light 1 On          | `True` |
