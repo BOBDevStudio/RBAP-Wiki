@@ -24,7 +24,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Update Logs Dock`](/Wiki/Dock-Entrance-Types/Update-Logs-Dock)"
+        value: "`1` = [`Update Logs Dock`](/wiki/dock-entrance-types/update-logs-dock)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
@@ -35,7 +35,7 @@ This dock houses the game's update logs. Update logs listed on the dock are retr
 |-|-|
 | Reserved Dock Entrance   |  |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Update Logs Dock`]({{- "/Wiki/Dock-Entrance-Types/Update-Logs-Dock" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Update Logs Dock`]({{- "/wiki/dock-entrance-types/update-logs-dock" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

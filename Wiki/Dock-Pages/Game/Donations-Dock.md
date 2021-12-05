@@ -21,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Donations Dock`](/Wiki/Dock-Entrance-Types/Donations-Dock) or [`Main Build Purchases Closed`](/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed)"
+        value: "`1` = [`Donations Dock`](/wiki/dock-entrance-types/donations-dock) or [`Main Build Purchases Closed`](/wiki/dock-entrance-types/main-build-purchases-closed)"
       - key: "Side Placed On"
         value: "`Main Side 2`"
 ---
@@ -45,7 +45,7 @@ The prices of each of the donation amounts available is meant to be able to help
 |-|-|
 | Reserved Dock Entrance   | `2` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Donations Dock`]({{- "/Wiki/Dock-Entrance-Types/Donations-Dock" | relative_url -}}) or [`Main Build Purchases Closed`]({{- "/Wiki/Dock-Entrance-Types/Main-Build-Purchases-Closed" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Donations Dock`]({{- "/wiki/dock-entrance-types/donations-dock" | relative_url -}}) or [`Main Build Purchases Closed`]({{- "/wiki/dock-entrance-types/main-build-purchases-closed" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 

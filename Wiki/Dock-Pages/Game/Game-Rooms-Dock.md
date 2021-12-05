@@ -21,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Middle Side 2`"
 ---
@@ -32,7 +32,7 @@ The Game Rooms Dock is an interactive dock that contains many games a player can
 |-|-|
 | Reserved Dock Entrance   | `1` |
 | Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
 | Side Placed On           | `Middle Side 2` |
 {: .psi-panel-alternative}
 

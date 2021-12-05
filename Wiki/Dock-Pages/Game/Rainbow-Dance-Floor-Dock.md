@@ -21,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`2`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/Wiki/Dock-Entrance-Types/Open)[NewLine]`2` = [`Open`](/Wiki/Dock-Entrance-Types/Open)"
+        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)[NewLine]`2` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
         value: "`Main Side 1`"
 ---
@@ -34,7 +34,7 @@ During most of the dock's history it has had its own music zone (although the mu
 |-|-|
 | Reserved Dock Entrance   | `12` |
 | Entrances Used           | `2` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}), `2` = [`Open`]({{- "/Wiki/Dock-Entrance-Types/Open" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}), `2` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
 | Side Placed On           | `Main Side 1` |
 {: .psi-panel-alternative}
 

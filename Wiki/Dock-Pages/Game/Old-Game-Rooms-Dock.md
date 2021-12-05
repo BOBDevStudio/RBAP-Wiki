@@ -21,7 +21,7 @@ sidebars:
       - key: "Entrances Used"
         value: "`3`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)[NewLine]`2` = [`Temporarily Open`](/Wiki/Dock-Entrance-Types/Temporarily-Open) or [`Temporarily Open - Closing Soon`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon) or [`Temporarily Open - Closed Live`](/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live)[NewLine]`3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)"
+        value: "`1` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)[NewLine]`2` = [`Temporarily Open`](/wiki/dock-entrance-types/temporarily-open) or [`Temporarily Open - Closing Soon`](/wiki/dock-entrance-types/temporarily-open-closing-soon) or [`Temporarily Open - Closed Live`](/wiki/dock-entrance-types/temporarily-open-closed-live)[NewLine]`3` = [`Closed`](/Wiki/Dock-Entrance-Types/Closed)"
       - key: "Side Placed On"
         value: "`Main Side 2`"
 ---
@@ -38,7 +38,7 @@ Although she did choose the 24th (on June 24th 2021 (that's where it came from))
 |-|-|
 | Reserved Dock Entrance   | `14` |
 | Entrances Used           | `3` |
-| Dock Entrance Types Used | `1` = [`Closed`]({{- "/Wiki/Dock-Entrance-Types/Closed" | relative_url -}}), `2` = [`Temporarily Open`]({{- "/Wiki/Dock-Entrance-Types/Temporarily-Open" | relative_url -}}) or [`Temporarily Open - Closing Soon`]({{- "/Wiki/Dock-Entrance-Types/Temporarily-Open-Closing-Soon" | relative_url -}}) or [`Temporarily Open - Closed Live`]({{- "/Wiki/Dock-Entrance-Types/Temporarily-Open-Closed-Live" | relative_url -}}), `3` = [`Closed`]({{- "/Wiki/Dock-Entrance-Types/Closed" | relative_url -}}) |
+| Dock Entrance Types Used | `1` = [`Closed`]({{- "/Wiki/Dock-Entrance-Types/Closed" | relative_url -}}), `2` = [`Temporarily Open`]({{- "/wiki/dock-entrance-types/temporarily-open" | relative_url -}}) or [`Temporarily Open - Closing Soon`]({{- "/wiki/dock-entrance-types/temporarily-open-closing-soon" | relative_url -}}) or [`Temporarily Open - Closed Live`]({{- "/wiki/dock-entrance-types/temporarily-open-closed-live" | relative_url -}}), `3` = [`Closed`]({{- "/Wiki/Dock-Entrance-Types/Closed" | relative_url -}}) |
 | Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
