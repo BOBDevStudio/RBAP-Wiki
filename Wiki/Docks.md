@@ -3,9 +3,7 @@ permalink: /wiki/docks
 title: Docks
 redirect_from:
   - /Wiki/Docks
-listed_page_category: "docks_category_page"
-#page_categories:
-#  dock_page: true
+listed_page_category: "DockPage"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 ---
@@ -25,4 +23,11 @@ Most docks don't have any set positions on where they will be placed so for dock
 | Dock Entrance Types Used	| List of [`Dock Entrance Types`]({{- "/wiki/dock-entrance-types" | relative_url -}})	| For each dock entrance that is taken up by a dock this value specifies what the dock entrance type of each of those dock entrances is. |
 | Side Placed On			| Side name																				| The side of the map the dock is to be placed on. |
 
-## Here's the list of categories of docks:
+## Sorted docks list pages
+
+For your convenience some pages exist on the wiki that further sort the list of docks. The list includes:
+
+* [Docks: In-Game]({{- "/wiki/docks/in-game" | relative_url -}})
+* [Docks: Removed]({{- "/wiki/docks/removed" | relative_url -}})
+
+## Here's the list of docks:
