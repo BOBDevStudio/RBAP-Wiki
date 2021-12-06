@@ -15,11 +15,9 @@ update_logs_list_page: "update_logs_list"
 # In order for a page category to be listed in a page's title there must be a homepage for that category and a name defined in the table below.
 page_category_names:
   DockPage: "Docks"
-  docks_category_page: "Docks Category Pages"
   DockPageExisting: "In-Game Docks"
   DockPageRemoved: "Removed Docks"
   DockEntranceTypePage: "Dock Entrance Types"
-  dockentrancetypes_category_page: "Dock Entrance Types Category Pages"
   DockEntranceTypePageExisting: "In-Game Dock Entrance Types"
   DockEntranceTypePageRemoved: "Removed Dock Entrance Types"
   system_dock_entrance_type: "System Dock Entrance Types"
