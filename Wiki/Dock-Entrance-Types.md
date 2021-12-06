@@ -3,6 +3,8 @@ permalink: /wiki/dock-entrance-types
 title: Dock Entrance Types
 redirect_from:
   - /Wiki/Dock-Entrance-Types
+  - /Pages-Categories/Ease-Of-Access/Dock-Entrance-Types
+  - /wiki/pages-categories/ease-of-access/dock-entrance-types
 listed_page_category: "DockEntranceTypePage"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"

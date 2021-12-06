@@ -3,6 +3,8 @@ permalink: /wiki/docks
 title: Docks
 redirect_from:
   - /Wiki/Docks
+  - /Pages-Categories/Ease-Of-Access/Docks
+  - /wiki/pages-categories/ease-of-access/docks
 listed_page_category: "DockPage"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
