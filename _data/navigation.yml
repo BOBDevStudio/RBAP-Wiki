@@ -34,6 +34,8 @@ Wiki:
     url: "/wiki/music"
   - title: "Chat"
     url: "/wiki/chat"
+  - title: "Timed Changes"
+    url: "/wiki/timed-changes"
   - title: "The Controller (NPC)"
     url: "/wiki/controller-npc"
   - title: "Snow Cubes"
