@@ -19,7 +19,7 @@ Wiki:
       - title: "Removed/Unused"
         url: "/wiki/docks/category/removed"
   - title: "Dock Entrance Types"
-    url: "/wiki/Dock-Entrance-Types"
+    url: "/wiki/dock-entrance-types"
     children:
       - title: "In-Game"
         url: "/wiki/dock-entrance-types/category/in-game"
