@@ -1,8 +1,11 @@
 ---
-permalink: /wiki/rbap
+permalink: /wiki
 title: "Random Buildings And Parts"
 redirect_from:
   - /Wiki/RBAP
+  - /wiki/rbap
+  - /Wiki
+  - /
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:
@@ -16,6 +19,15 @@ sidebars:
 ---
 
 Random Buildings And Parts (spelled like that) or RBAP for short is a showcase game on Roblox by the BOB of the BOB Development Studio and is used by him to showcase stuff he's built. The main feature of the game is the [docks]({{- "/wiki/docks" | relative_url -}}) which are mostly used to showcase most of what BOB has made. The game was originally started somewhere in 2018 and has been worked on ever since then. Nowadays the (official) design language of a good majority of the game is semi-futuristic yet simple.
+
+## Major Features
+
+Random Buildings And Parts currently has four major features that are documented here on the wiki. Among them are:
+
+* [Docks](({{- "/wiki/docks" | relative_url -}}))
+* [Dock Entrance Types](({{- "/wiki/ck-entrance-types" | relative_url -}}))
+* [Music](({{- "/wiki/music" | relative_url -}}))
+* [(Text) Chat](({{- "/wiki/chat" | relative_url -}}))
 
 ## Builds
 

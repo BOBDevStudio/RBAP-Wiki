@@ -3,9 +3,9 @@ permalink: /wiki/dock-entrance-types
 title: Dock Entrance Types
 redirect_from:
   - /Wiki/Dock-Entrance-Types
-listed_page_category: "dockentrancetypes_category_page"
-#page_categories:
-#  dockentrancetype_page: true
+  - /Pages-Categories/Ease-Of-Access/Dock-Entrance-Types
+  - /wiki/pages-categories/ease-of-access/dock-entrance-types
+listed_page_category: "DockEntranceTypePage"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 ---
@@ -14,7 +14,7 @@ What is a dock entrance type? A dock entrance type is the status of the dock ent
 
 What is a system dock? System docks are currently being classified as docks that are not a thing for showcase purposes but rather for informational purposes or something else integrated with the game itself (an example of that is the [Game Info Dock]({{- "/wiki/docks/game-info-dock" | relative_url -}})). Each system dock gets its own custom dock entrance type which the text of the sign is automatically prefixed with `[System Dock]:`.
 
-## Dock Entrance Type Data Default Values:
+## Dock entrance type data default values
 
 The following list is a list of the default values for dock entrance type data values. When a dock entrance type data value on a dock entrance type page says "*Default (unset)*" it means the value from this list will be used. If a dock entrance type does not specify a value for a dock entrance type data value then the value from this list will be used hence the word unset being used to describe the default value as mentioned earlier. (If a value on this list is blank then that means no default exists for that dock entrance type data value.)
 
@@ -41,4 +41,11 @@ The following list is a list of the default values for dock entrance type data v
 | Gate Color 1             | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
 | Gate Color 2             | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
 
-### Here's the list of categories of dock entrance types:
+## Sorted dock entrance types list pages
+
+For your convenience some pages exist on the wiki that further sort the list of dock entrance types. The list includes:
+
+* [Dock Entrance Types: In-Game]({{- "/wiki/dock-entrance-types/in-game" | relative_url -}})
+* [Dock Entrance Types: Removed]({{- "/wiki/dock-entrance-types/removed" | relative_url -}})
+
+## Here's the list of dock entrance types:

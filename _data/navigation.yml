@@ -7,24 +7,22 @@ main:
     url: "/wiki/posts"
 
 Wiki:
-  - title: "Home"
-    url: "/wiki"
   - title: "Random Buildings And Parts"
-    url: "/wiki/rbap"
+    url: "/wiki"
   - title: "Docks"
     url: "/wiki/docks"
     children:
       - title: "In-Game"
-        url: "/wiki/docks/category/in-game"
+        url: "/wiki/docks/in-game"
       - title: "Removed/Unused"
-        url: "/wiki/docks/category/removed"
+        url: "/wiki/docks/removed"
   - title: "Dock Entrance Types"
     url: "/wiki/dock-entrance-types"
     children:
       - title: "In-Game"
-        url: "/wiki/dock-entrance-types/category/in-game"
+        url: "/wiki/dock-entrance-types/in-game"
       - title: "Removed/Unused"
-        url: "/wiki/dock-entrance-types/category/removed"
+        url: "/wiki/dock-entrance-types/removed"
 #  - title: "Walkway Transportation"
 #    url: "/wiki/walkway-transportation"
 #    children:
@@ -36,6 +34,8 @@ Wiki:
     url: "/wiki/music"
   - title: "Chat"
     url: "/wiki/chat"
+  - title: "Timed Changes"
+    url: "/wiki/timed-changes"
   - title: "The Controller (NPC)"
     url: "/wiki/controller-npc"
   - title: "Snow Cubes"

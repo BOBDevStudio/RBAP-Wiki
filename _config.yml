@@ -14,14 +14,12 @@ update_logs_list_page: "update_logs_list"
 
 # In order for a page category to be listed in a page's title there must be a homepage for that category and a name defined in the table below.
 page_category_names:
-  dock_page: "Docks"
-  docks_category_page: "Docks Category Pages"
-  game_dock_page: "In-Game Docks"
-  removed_dock_page: "Removed Docks"
-  dockentrancetype_page: "Dock Entrance Types"
-  dockentrancetypes_category_page: "Dock Entrance Types Category Pages"
-  game_dockentrancetype_page: "In-Game Dock Entrance Types"
-  removed_dockentrancetype_page: "Removed Dock Entrance Types"
+  DockPage: "Docks"
+  DockPageExisting: "In-Game Docks"
+  DockPageRemoved: "Removed Docks"
+  DockEntranceTypePage: "Dock Entrance Types"
+  DockEntranceTypePageExisting: "In-Game Dock Entrance Types"
+  DockEntranceTypePageRemoved: "Removed Dock Entrance Types"
   system_dock_entrance_type: "System Dock Entrance Types"
   new_dock_dock_entrance_type: "New Dock Dock Entrance Types"
   generic_dock_entrance_type: "Generic Dock Entrance Types"
@@ -128,9 +126,6 @@ defaults:
       path: "Wiki/Docks-Category-Pages/*"
       type: pages
     values:
-      page_categories:
-#        dock_page: true
-        docks_category_page: true
       sidebars:
         table_of_contents:
           enabled: false
@@ -138,29 +133,25 @@ defaults:
       path: "Wiki/Dock-Pages/*"
       type: pages
     values:
-      title: "[Dock Name N/A]"
       short_description: ""
       page_categories:
-        dock_page: true
+        DockPage: true
   - scope:
       path: "Wiki/Dock-Pages/Game/*"
       type: pages
     values:
       page_categories:
-        game_dock_page: true
+        DockPageExisting: true
   - scope:
       path: "Wiki/Dock-Pages/Removed/*"
       type: pages
     values:
       page_categories:
-        removed_dock_page: true
+        DockPageRemoved: true
   - scope:
       path: "Wiki/Dock-Entrance-Types-Category-Pages/*"
       type: pages
     values:
-      page_categories:
-#        dockentrancetype_page: true
-        dockentrancetypes_category_page: true
       sidebars:
         table_of_contents:
           enabled: false
@@ -168,22 +159,21 @@ defaults:
       path: "Wiki/Dock-Entrance-Type-Pages/*"
       type: pages
     values:
-      title: "[Dock Entrance Type Name N/A]"
       short_description: ""
       page_categories:
-        dockentrancetype_page: true
+        DockEntranceTypePage: true
   - scope:
       path: "Wiki/Dock-Entrance-Type-Pages/Game/*"
       type: pages
     values:
       page_categories:
-        game_dockentrancetype_page: true
+        DockEntranceTypePageExisting: true
   - scope:
       path: "Wiki/Dock-Entrance-Type-Pages/Removed/*"
       type: pages
     values:
       page_categories:
-        removed_dockentrancetype_page: true
+        DockEntranceTypePageRemoved: true
   - scope:
       path: ""
       type: posts
