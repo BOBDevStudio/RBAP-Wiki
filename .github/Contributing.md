@@ -1,7 +1,0 @@
-If you have a suggestion related to something on the wiki then please post it as an [issue](https://github.com/BOBDevStudio/RBAP-Wiki/issues/new/choose). When creating a suggestion please use one of the issue templates available. If there is not one available for your certain use case please suggest it to be added. Make sure to include what the use case is and give some clear details about use case and what were you going to use the new template for.
-
-If your suggestion contains constructive criticism please make sure to at the very least double-check that what you're about to post would be considered constructive criticism to a reasonable person.
-
-Note that contributing via pull requests is not allowed. Any pull requests created by non staff members of the BOB Development Studio's Github operations or any other authorized individuals will result in them being declined. Note that BOB reserves the right to overrule that decision but it is incredibly unlikely. Trying to ask BOB to overrule the decision or trying to ask to be exempt from that rule will not get you anywhere.
-
-Any rules set in the [Code of Conduct](https://github.com/BOBDevStudio/RBAP-Wiki/blob/Wiki/Code%20of%20Conduct.md) file also apply here. If a rule is mentioned in both files take the version in **that** file as the most accurate unless stated otherwise.
