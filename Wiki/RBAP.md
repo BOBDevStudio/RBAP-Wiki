@@ -1,8 +1,11 @@
 ---
-permalink: /wiki/rbap
+permalink: /wiki
 title: "Random Buildings And Parts"
 redirect_from:
   - /Wiki/RBAP
+  - /wiki/rbap
+  - /Wiki
+  - /
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 sidebars:

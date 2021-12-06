@@ -7,10 +7,8 @@ main:
     url: "/wiki/posts"
 
 Wiki:
-  - title: "Home"
-    url: "/wiki"
   - title: "Random Buildings And Parts"
-    url: "/wiki/rbap"
+    url: "/wiki"
   - title: "Docks"
     url: "/wiki/docks"
     children:
