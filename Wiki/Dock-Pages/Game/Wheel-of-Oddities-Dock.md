@@ -49,6 +49,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 {% include page-notice type="danger" title="Spoilers Ahead!" text="It is **highly** advised that you experience all of the rewards yourself before reading the following as it could ruin the fun of finding out what each of them do." %}
 
 ### 1. Your screen gets blacked out
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -59,6 +60,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 2. Be put in a jail
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -69,6 +71,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                | This was originally going to have a balloon attached to it which would take you up but due to physics limitations it was way too complicated to fix. That is why it was originally going to be listed as solitary entertainment. |
 
 ### 3. Your character's walk speed gets increased
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -79,6 +82,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 4. You get to see what happens when you go really far up
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -89,6 +93,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 5. Your character is affected by low gravity
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -99,6 +104,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 6. Your screen gets blurred
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -109,6 +115,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 7. Your character explodes
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -119,6 +126,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 8. Your character gees invisible
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -129,6 +137,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 9. Your character gets a balloon ride
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -139,6 +148,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 10. Your character gets flung across the map
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -149,6 +159,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 11. Your character gets teleported to the top of the top floor of the entrance elevator
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -159,6 +170,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                | This was originally just going to teleport your character somewhere random on the map but due to that being somewhat complicated and it being cooler to be teleported to an usually off-limits area with a good view that idea got scrapped. |
 
 ### 12. Your character gets spun
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -169,6 +181,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 13. Your screen goes black and white
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -179,6 +192,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 14. Your character rockets away
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -189,6 +203,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 15. Your character's walk speed gets decreased
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
@@ -199,6 +214,7 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Other Info                |  |
 
 ### 16. You are given a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap)
+{: .toc-excluded}
 
 | Data Name                 | Data |
 |-|-|
