@@ -1,5 +1,5 @@
 ---
-permalink: /wiki/docks/category/in-game
+permalink: /wiki/docks/in-game
 title: "Docks: In-Game"
 short_description: "List of docks in the game"
 listed_page_category: "DockPageExisting"
