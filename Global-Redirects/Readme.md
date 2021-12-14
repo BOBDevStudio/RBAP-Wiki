@@ -1,0 +1,1 @@
+This directory holds files for pages that redirect to other pages which are usually off-site pages. These exist so if the URL of the page that they redirect to ever changes it is easy to update them to the new URL (among other reasons).
