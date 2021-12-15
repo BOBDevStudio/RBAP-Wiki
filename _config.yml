@@ -33,7 +33,7 @@ page_subject_info_panel_defaults:
 enabled_features:
   new_footer: true
   old_footer: false
-  sidebar_structuring_use_float: false
+  sidebar_structuring_use_float: true
 
 exclude:
   - Readme.md
