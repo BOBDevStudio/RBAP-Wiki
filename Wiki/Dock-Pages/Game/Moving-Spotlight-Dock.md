@@ -5,10 +5,6 @@ redirect_from:
   - /Wiki/Docks/Moving-Spotlight-Dock
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
-notices:
-  - type: "info"
-    title: "Dock Offline Temporarily"
-    text: "The Moving Spotlight Dock has been taken offline temporarily due to the fact that the snow placed from the ["snow day" holiday](/wiki/timed-changes#christmas-music-becomes-available-and-the-map-gets-covered-in-snow) is messing up the physics of the spotlight. The dock will be brought back online after an update or the holiday ending whichever one comes first."
 sidebars:
   page_subject_info:
     title: "Moving Spotlight Dock"
