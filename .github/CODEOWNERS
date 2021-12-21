@@ -2,9 +2,10 @@
 * @TheOneBOB
 
 # Specific default overwrites:
-#/Gemfile @TheOneBOB
-#/.github/ @TheOneBOB
-#/License @TheOneBOB
+/CNAME @TheOneBOB
+/Gemfile @TheOneBOB
+/.github/ @TheOneBOB
+/License @TheOneBOB
 
 # To make sure this file is protected:
 /.github/CODEOWNERS @TheOneBOB
