@@ -5,7 +5,7 @@ color_coded_table_boolean_enabled: true
 redirect_from:
   - /Wiki/Chat
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.3`](/wiki/posts/update-log/5-3-0)"
 ---
 
 As you may know Roblox's default (text) chat is a bit lacking in terms of visuals and features compared to many popular chat apps. Well RBAP's chat is here to fix that! Added in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}) it features a visual design overhaul that brings it in line with Roblox's top bar design language among other things.
@@ -21,7 +21,7 @@ The purpose of this custom chat by BOB was to the merge the following things tog
 
 This list does not include stuff like features that were ported over from the default chat with no frontend changes and backend features that weren't ported over.
 
-| Feature | Roblox | RBAP | Other Notes |
+| Feature																													| Roblox | RBAP | Other Notes |
 |-|-|-|-|
 | Private messaging																											| ✔️ | ✔️ | Roblox's chat uses a command (like `/w 11MR_BOB Hello`) while RBAP's chat uses a mention placed at the very beginning of the message (like `@11MR_BOB Hello`). |
 | @mention support																											| ❌ | ✔️ | Works with usernames, display names, and user ids. |
