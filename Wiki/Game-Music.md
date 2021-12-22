@@ -28,25 +28,25 @@ The indicators for each note are listed after the name of a song.
 
 | Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Added In |
 |-|-|-|-|-|-|-|
-| `Carnival Time`							| [Roblox](https://www.roblox.com/library/1848366912) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1034/TIM_TIMLP_1034_00501)			| ✔️ | ❌ | ❌ | ❌ | 															|
-| `Marching To Honolulu`					| [Roblox](https://www.roblox.com/library/1845891274) + [APM](https://www.apmmusic.com/albums/SON_SAS_0050/SON_SAS_0050_02201)				| ✔️ | ❌ | ❌ | ❌ | 															|
-| `On The Beach`							| [Roblox](https://www.roblox.com/library/1845891180) + [APM](https://www.apmmusic.com/albums/SON_SAS_0050/SON_SAS_0050_01801)				| ✔️ | ❌ | ❌ | ❌ | 															|
-| `Seaside Parade`							| [Roblox](https://www.roblox.com/library/1848368912) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1034/TIM_TIMLP_1034_00401)			| ✔️ | ❌ | ❌ | ❌ | 															|
-| `Stadium Rave (A)`						| [Roblox](https://www.roblox.com/library/1846368080) + [APM](https://www.apmmusic.com/albums/SON_SCD_0309/SON_SCD_0309_01401)				| ❌ | ❌ | ✔️ | ❌ | 															|
-| `Tin Hat Party Time (c)`					| [Roblox](https://www.roblox.com/library/1838076985) + [APM](https://www.apmmusic.com/albums/JMP_JMP_0053/JMP_JMP_0053_02001)				| ❌ | ❌ | ✔️ | ❌ | 															|
-| `Hard Bass`								| [Roblox](https://www.roblox.com/library/1839247090) + [APM](https://www.apmmusic.com/albums/KOS_KOS_0194/KOS_KOS_0194_02301)				| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Invincible`								| [Roblox](https://www.roblox.com/library/1845426851) + [APM](https://www.apmmusic.com/albums/SOHO_SOHO_0191/SOHO_SOHO_0191_01801)			| ❌ | ✔️ | ✔️ | ❌ | 															|
-| `K-kook A`								| [Roblox](https://www.roblox.com/library/1847515957) + [APM](https://www.apmmusic.com/albums/SON_SCDV_0335/SON_SCDV_0335_02301)			| ❌ | ✔️ | ✔️ | ❌ | 															|
-| `Looking at Me`							| [Roblox](https://www.roblox.com/library/1837350830) + [APM](https://www.apmmusic.com/albums/CEZ_GMT_8042/CEZ_GMT_8042_00801)				| ❌ | ✔️ | ✔️ | ❌ | 															|
-| `Paradise Falls`							| [Roblox](https://www.roblox.com/library/1837879082) + [APM](https://www.apmmusic.com/albums/HARD_HARD_0032/HARD_HARD_0032_05501)			| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Pop In Fashion`							| [Roblox](https://www.roblox.com/library/1848347365) + [APM](https://www.apmmusic.com/albums/TIM_TIM_0028/TIM_TIM_0028_01801)				| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Robotic Dance C`							| [Roblox](https://www.roblox.com/library/1847853099) + [APM](https://www.apmmusic.com/albums/SON_SCDV_0724/SON_SCDV_0724_00701)			| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Route 666 (a)`							| [Roblox](https://www.roblox.com/library/1837711893) + [APM](https://www.apmmusic.com/albums/DED_DED_0147/DED_DED_0147_00601)				| ❌ | ✔️ | ✔️ | ❌ | 															|
-| `Shake Shake`								| [Roblox](https://www.roblox.com/library/1841590316) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0851/KPM_KPM_0851_01801)				| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Sunrise Workout` [i]						| [Roblox](https://www.roblox.com/library/1837324500) + [APM](https://www.apmmusic.com/albums/CEZ_CEZ_4324/CEZ_CEZ_4324_00501)				| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Uptown`									| [Roblox](https://www.roblox.com/library/1845554017) + [APM](https://www.apmmusic.com/albums/SON_AFRO_0135/SON_AFRO_0135_01001)			| ❌ | ✔️ | ❌ | ❌ | 															|
-| `Winners Ahead (a)`						| [Roblox](https://www.roblox.com/library/1848366549) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1053/TIM_TIMLP_1053_00101)			| ❌ | ❌ | ✔️ | ❌ | 															|
-| `Wonderful Day`							| [Roblox](https://www.roblox.com/library/1843397729) + [APM](https://www.apmmusic.com/albums/MYMA_JUST_0136/MYMA_JUST_0136_03601)			| ❌ | ✔️ | ❌ | ❌ | 															|
+| `Carnival Time`							| [Roblox](https://www.roblox.com/library/1848366912) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1034/TIM_TIMLP_1034_00501)			| ✔️ | ❌ | ❌ | ❌ | 																|
+| `Marching To Honolulu`					| [Roblox](https://www.roblox.com/library/1845891274) + [APM](https://www.apmmusic.com/albums/SON_SAS_0050/SON_SAS_0050_02201)				| ✔️ | ❌ | ❌ | ❌ | 																|
+| `On The Beach`							| [Roblox](https://www.roblox.com/library/1845891180) + [APM](https://www.apmmusic.com/albums/SON_SAS_0050/SON_SAS_0050_01801)				| ✔️ | ❌ | ❌ | ❌ | 																|
+| `Seaside Parade`							| [Roblox](https://www.roblox.com/library/1848368912) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1034/TIM_TIMLP_1034_00401)			| ✔️ | ❌ | ❌ | ❌ | 																|
+| `Stadium Rave (A)`						| [Roblox](https://www.roblox.com/library/1846368080) + [APM](https://www.apmmusic.com/albums/SON_SCD_0309/SON_SCD_0309_01401)				| ❌ | ❌ | ✔️ | ❌ | 																|
+| `Tin Hat Party Time (c)`					| [Roblox](https://www.roblox.com/library/1838076985) + [APM](https://www.apmmusic.com/albums/JMP_JMP_0053/JMP_JMP_0053_02001)				| ❌ | ❌ | ✔️ | ❌ | 																|
+| `Hard Bass`								| [Roblox](https://www.roblox.com/library/1839247090) + [APM](https://www.apmmusic.com/albums/KOS_KOS_0194/KOS_KOS_0194_02301)				| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Invincible`								| [Roblox](https://www.roblox.com/library/1845426851) + [APM](https://www.apmmusic.com/albums/SOHO_SOHO_0191/SOHO_SOHO_0191_01801)			| ❌ | ✔️ | ✔️ | ❌ | 																|
+| `K-kook A`								| [Roblox](https://www.roblox.com/library/1847515957) + [APM](https://www.apmmusic.com/albums/SON_SCDV_0335/SON_SCDV_0335_02301)			| ❌ | ✔️ | ✔️ | ❌ | 																|
+| `Looking at Me`							| [Roblox](https://www.roblox.com/library/1837350830) + [APM](https://www.apmmusic.com/albums/CEZ_GMT_8042/CEZ_GMT_8042_00801)				| ❌ | ✔️ | ✔️ | ❌ | 																|
+| `Paradise Falls`							| [Roblox](https://www.roblox.com/library/1837879082) + [APM](https://www.apmmusic.com/albums/HARD_HARD_0032/HARD_HARD_0032_05501)			| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Pop In Fashion`							| [Roblox](https://www.roblox.com/library/1848347365) + [APM](https://www.apmmusic.com/albums/TIM_TIM_0028/TIM_TIM_0028_01801)				| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Robotic Dance C`							| [Roblox](https://www.roblox.com/library/1847853099) + [APM](https://www.apmmusic.com/albums/SON_SCDV_0724/SON_SCDV_0724_00701)			| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Route 666 (a)`							| [Roblox](https://www.roblox.com/library/1837711893) + [APM](https://www.apmmusic.com/albums/DED_DED_0147/DED_DED_0147_00601)				| ❌ | ✔️ | ✔️ | ❌ | 																|
+| `Shake Shake`								| [Roblox](https://www.roblox.com/library/1841590316) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0851/KPM_KPM_0851_01801)				| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Sunrise Workout` [i]						| [Roblox](https://www.roblox.com/library/1837324500) + [APM](https://www.apmmusic.com/albums/CEZ_CEZ_4324/CEZ_CEZ_4324_00501)				| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Uptown`									| [Roblox](https://www.roblox.com/library/1845554017) + [APM](https://www.apmmusic.com/albums/SON_AFRO_0135/SON_AFRO_0135_01001)			| ❌ | ✔️ | ❌ | ❌ | 																|
+| `Winners Ahead (a)`						| [Roblox](https://www.roblox.com/library/1848366549) + [APM](https://www.apmmusic.com/albums/TIM_TIMLP_1053/TIM_TIMLP_1053_00101)			| ❌ | ❌ | ✔️ | ❌ | 																|
+| `Wonderful Day`							| [Roblox](https://www.roblox.com/library/1843397729) + [APM](https://www.apmmusic.com/albums/MYMA_JUST_0136/MYMA_JUST_0136_03601)			| ❌ | ✔️ | ❌ | ❌ | 																|
 | `Fight Together`							| [Roblox](https://www.roblox.com/library/1843324336) + [APM](https://www.apmmusic.com/albums/MYMA_JUST_0097/MYMA_JUST_0097_01401)			| ❌ | ✔️ | ❌ | ❌ | [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}})	|
 | `Heavy Stepper`							| [Roblox](https://www.roblox.com/library/1841675430) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0877/KPM_KPM_0877_01501)				| ❌ | ❌ | ✔️ | ❌ | [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}})	|
 | `Moonlight Party`							| [Roblox](https://www.roblox.com/library/1843367152) + [APM](https://www.apmmusic.com/albums/MYMA_JUST_0075/MYMA_JUST_0075_00601)			| ❌ | ✔️ | ❌ | ❌ | [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}})	|
