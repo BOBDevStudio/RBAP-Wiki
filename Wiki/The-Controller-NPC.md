@@ -4,7 +4,7 @@ title: The Controller (NPC)
 redirect_from:
   - /Wiki/Controller-NPC
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update [`V5.3`](/wiki/posts/update-log/5-3-0)"
 sidebars:
   page_subject_info:
     title: "The Controller"
@@ -15,7 +15,7 @@ sidebars:
     description: "The Controller NPC doing some typing"
 ---
 
-The Controller is an NPC in the game whose job it is to type out lines of code into a fake console. Each line of code that he types can actually work in Roblox's Lua implementation, provided you have the correct modules and values set. Most of lines of code are just picked randomly while some happen at certain times. Scroll down for the full list of the all.
+The Controller is an NPC in the game whose job it is to type out lines of code into a fake console. Each line of code that he types can actually work in Roblox's Lua implementation, provided you have the correct modules and values set. Most of lines of code are just picked [randomly](#uncontrolled) while some happen at [certain times]((#controlled)). Scroll down for the full list of the all.
 
 <img src="{{- "/Assets/Images/The-Controller-NPC.png" | relative_url -}}" alt="">
 
