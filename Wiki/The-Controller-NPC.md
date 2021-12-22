@@ -28,7 +28,7 @@ The lists are in no particular order.
 All of the uncontrolled lines are used at random and have no control over when they are used.
 
 | Input																														| Output																						| Added In | Other Notes |
-|-|-|-|
+|-|-|-|-|
 | Players:RemoveAll()																										| Error: Code [Players:RemoveAll()] failed to yeet players										| |  |
 | print("Hello world!")																										| Hello world!																					| |  |
 | print("Hello world!")																										| !dlrow olleH																					| |  |
