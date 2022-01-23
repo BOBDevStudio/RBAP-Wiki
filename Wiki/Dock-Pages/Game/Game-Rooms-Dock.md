@@ -86,13 +86,13 @@ In case you're wondering this abandoned project is the same as the one talked ab
 
 ### Door Master
 
-This game along with Game Room 3 in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field of 50 numbered doors to which you have 108 seconds to find the randomly selected door. Each door can be opened by standing on the center of it. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
+This game along with Game Room 3 waz added in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field of 50 numbered doors to which you have 108 seconds to find the randomly selected door. Each door can be opened by standing on the center of it. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
 
 <img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Door-Master.png" | relative_url -}}" alt="">
 
 ### Path Finder
 
-This game along with Game Room 3 in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field full of many rows of invisible barriers with one barrier in each row missing. In order to win you have to find your way through each of the rows of barriers to the end platform before the time of 50 seconds runs out. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
+This game along with Game Room 3 was added in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field full of many rows of invisible barriers with one barrier in each row missing. In order to win you have to find your way through each of the rows of barriers to the end platform before the time of 50 seconds runs out. This game is entirely possible to do while in single player and it is a port of a game from the abandoned project.
 
 The map that is used by this game is also **heavily** inspired by the original map which was what the construction barrier model on the [Construction Barrier Dock]({{- "/wiki/docks/construction-barrier-dock" | relative_url -}}) was made for before it ever came to RBAP. In fact both uses of the construction barrier in either of the maps is the same.
 
@@ -100,6 +100,6 @@ The map that is used by this game is also **heavily** inspired by the original m
 
 ### Path Finder: Minefield
 
-This game along with Game Room 3 in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field full of many hidden randomly placed mines to which you have to navigate your way through to the end platform in order to win. This game is entirely possible to do while in single player.
+This game along with Game Room 3 was added in [`V5.2`]({{- "/wiki/posts/update-log/5-2-0" | relative_url -}}). It features a field full of many hidden randomly placed mines to which you have to navigate your way through to the end platform in order to win. This game is entirely possible to do while in single player.
 
 <img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Path-Finder-Minefield.png" | relative_url -}}" alt="">
