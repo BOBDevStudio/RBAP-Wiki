@@ -80,7 +80,7 @@ Now you may be wondering where did BOB get the idea for this game room. Well the
 
 The games that are crossover from that abandoned project don't actually contain the same maps. The maps may still be heavily inspired by previous ones in the abandoned project. And a fun fact is the maps in the game room have the same exact X and Z dimensions as in the abandoned project.
 
-In case you're wondering this abandoned project is the same as the one talked about in [this Tweet](https://twitter.com/ThisBeBOB_/status/1369425968931176448)) and on the page for the [Construction Barrier Dock]({{- "/wiki/docks/construction-barrier-dock" | relative_url -}}) (and on the dock itself).
+In case you're wondering this abandoned project is the same as the one talked about in [this Tweet](https://twitter.com/ThisBeBOB_/status/1369425968931176448) and on the page for the [Construction Barrier Dock]({{- "/wiki/docks/construction-barrier-dock" | relative_url -}}) (and on the dock itself).
 
 <img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/3.png" | relative_url -}}" alt="">
 
