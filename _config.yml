@@ -274,6 +274,11 @@ whitelist:
   - jekyll-gist
 #  - jekyll-sitemap
 
+# --//Markdown to HTML settings:
+
+kramdown:
+  auto_ids: false
+
 # --//Comment settings:
 
 repository: "BOBDevStudio/RBAP-Wiki-Comments"
