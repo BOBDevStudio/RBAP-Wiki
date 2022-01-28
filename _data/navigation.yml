@@ -46,6 +46,11 @@ UpdateLogs:
     url: "/wiki/posts/update-log-notes"
   - title: "Update logs tags key"
     url: "/wiki/posts/update-logs-tags"
+  - title: "V6 Series of Updates"
+#    url: "/wiki/posts/list/tags#v5"
+    children:
+      - title: "V6.0.0"
+        url: "/wiki/posts/update-log/6-0-0"
   - title: "V5 Series of Updates"
 #    url: "/wiki/posts/list/tags#v5"
     children:
