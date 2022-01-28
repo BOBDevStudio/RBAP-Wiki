@@ -52,6 +52,12 @@ Four Corners is a classic game where there are four corners and only one of them
 
 <img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Four-Corners.png" | relative_url -}}" alt="">
 
+### Four Corners: Elimination
+
+Info coming soon...
+
+<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Four-Corners-Elimination.png" | relative_url -}}" alt="">
+
 ### Four Corners: Reversed
 
 This is basically the exact same game as the Four Corners game but of course only one color is safe instead of three being safe. Like the normal Four Corners, this game was made to be a remake of the Four Corners: Reversed game of the [Old Game Rooms Dock]({{- "/wiki/docks/old-game-rooms-dock" | relative_url -}}).
