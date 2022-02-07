@@ -24,6 +24,7 @@ Random Buildings And Parts (spelled like that) or RBAP for short is a showcase g
 
 Random Buildings And Parts currently has four major features that are documented here on the wiki. Among them are:
 
+* [Shop]({{- "/wiki/shop" | relative_url -}})
 * [Docks]({{- "/wiki/docks" | relative_url -}})
 * [Dock Entrance Types]({{- "/wiki/ck-entrance-types" | relative_url -}})
 * [Music]({{- "/wiki/music" | relative_url -}})
