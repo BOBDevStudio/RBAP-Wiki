@@ -3,7 +3,7 @@ permalink: /wiki/posts/update-logs-tags
 title: "Update logs tags key"
 short_description: "List of tags from the update log system"
 post_created_at: "2021-05-01 00:00:00 +00:00"
-post_updated_at: "2021-10-12 00:00:00 +00:00"
+post_updated_at: "2022-02-07 00:00:00 +00:00"
 pinned: true
 comments: true
 author: "RBAP"
@@ -21,6 +21,4 @@ sidebars:
 | Biggest Yet							| The update is what BOB considers to be the biggest and/or most impactful one yet. It might not actually be the biggest and/or most impactful one yet as it is just based off what BOB thinks. |
 | Improvements Only						| The update mainly/only improves upon stuff already in the game. |
 | Bug Fixes Only						| The update mainly/only includes bug fixes. |
-| Only In Pre-Update Build]				| The update is not yet released to the [Main Build]({{- "/wiki/rbap#main-build" | relative_url -}}) but is released to the [Pre-Update Build]({{- "/wiki/rbap#pre-update-build" | relative_url -}}). |
-| Changelog Not Finalized				| The changelog for the update is still being actively worked on thus making it so it should **not** be taken as 100% accurate and correct. |
 | RBAP Beta								| The changelog was made back when the Random Buildings And Parts was still considered to be in beta. |
