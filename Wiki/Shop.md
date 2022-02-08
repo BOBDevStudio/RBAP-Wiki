@@ -43,7 +43,7 @@ Want to suggest a new body pack? Great! As usual here are the rules for deciding
 * You can only suggest one of each body part at a time.
 * Each body part must not look very similar to a body part in an already existing body pack although exceptions can be made in certain circumstances. If you're not sure if a body part fits this requirement feel free to suggest it anyway and BOB will look over it and judge based on what he thinks.
 * When trying to provide a URL to a body part (which is recommended btw) please instead provide the URL of the package/bundle from which it comes from and just say what body part(s) you want from it. If it is a head that does not come with a package/bundle feel free to provide the direct URL to it.
-* If you cannot provide the URL to an item on the Roblox catalog, providing the ID to it instead is fine (that's that number in the URL).
+* If you cannot provide the URL to an item on the Roblox catalog, providing the ID to it instead is fine (that's that (first and probably only) number in the URL).
 
 Your suggestion fits within the guidelines? Great! That means you're ready to show it to BOB! As usual there are many ways of doing this but the highly recommended way is to post a message containing your suggestion on BDS's group wall. It is also possible that BOB may have some feedback and/or questions on or about your suggestion as well.
 
