@@ -26,7 +26,7 @@ sidebars:
         value: "`Main Side 1`"
 ---
 
-The ice cube tray on this dock was created when BOB thought of it when he was off to go to bed but because of him thinking that it would be entirely possible to make it he went back to his computer and created it shortly after coming up with it. It was entirely made just based on memory and completely from scratch. For the most part the ice cube tray (and the snow cubes) have remained unchanged ever since.
+The ice cube tray on this dock was created when BOB thought of it when he was off to go to bed but because of him thinking that it would be entirely possible to make it he went back to his computer and created it shortly after coming up with it. It was entirely made just based on memory and completely from scratch. The ice cube tray (with the exception of stuff like the water) (and the snow cubes) have remained unchanged ever since.
 
 | Value Name               | Value |
 |-|-|
