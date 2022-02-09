@@ -29,7 +29,7 @@ Your suggestion fits within the rules? Great! That means you're ready to show it
 
 ## Accessories
 
-Info coming soon.
+Accessories are equivalent to accessories on the Roblox catalog with the difference of the accessories in the shop all don't have specific textures. Accessories as the name suggests are accessories for your character which are added someplace on your character. Unlike most other item types there is no accessory marked as default (as in this case unlike body packs there really isn't a default accessory). All accessories in the shop are sourced from Roblox on the Roblox catalog with their texture then being removed before being put into the game.
 
 ### Suggesting new ones
 
@@ -45,7 +45,7 @@ Your suggestion fits within the rules? Great! That means you're ready to show it
 
 ## Body packs
 
-Body packs are mostly equivalent to packages (now called bundles) on the Roblox catalog. Body packs as the name suggests contain a varying number of body parts for your character. At their maximum they can contain a head, left arm, right arm, left leg, right leg, and a torso but usually contain all but a head. Unlike other item types there is no body pack marked as default. The body parts in the body packs are all sourced from Roblox packages/bundles on the Roblox catalog.
+Body packs are mostly equivalent to packages (now called bundles) on the Roblox catalog. Body packs as the name suggests contain a varying number of body parts for your character. At their maximum they can contain a head, left arm, right arm, left leg, right leg, and a torso but usually contain all but a head. Unlike most other item types there is no body pack marked as default. The body parts in the body packs are all sourced from Roblox on the Roblox catalog. Also all body parts that have a texture (other than the equipped shirt or pants) on the Roblox catalog have their texture removed.
 
 ### Suggesting new ones
 
@@ -65,7 +65,7 @@ Your suggestion fits within the rules? Great! That means you're ready to show it
 
 ## Faces
 
-Info coming soon.
+Faces are equivalent to faces on the Roblox catalog. Faces as the name suggests is a face for your character. Faces usually only use around one color in their entire design. Like most other item types there is a face marked as default. All faces in the shop are sourced from Roblox on the Roblox catalog.
 
 ### Suggesting new ones
 
