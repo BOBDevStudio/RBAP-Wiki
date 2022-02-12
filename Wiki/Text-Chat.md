@@ -16,6 +16,7 @@ The purpose of this custom chat by BOB was to the merge the following things tog
 * The already existing design of Roblox's chat.
 * All/most of BOB's custom edits from the never released chat fork intended for [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}). (It was removed from the update shortly before release due to its incompleteness in case you're wondering.)
 * New ideas that BOB came up with (like the even more improved system messages compared to the aforementioned chat fork).
+* ["Cmdr"](https://eryn.io/Cmdr/).
 
 ## Here's a list of feature comparison between each chat:
 
