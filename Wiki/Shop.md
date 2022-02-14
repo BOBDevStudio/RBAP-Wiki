@@ -79,3 +79,17 @@ Want to suggest a new face to be added to the shop? Great! As usual here are the
 * If you cannot provide the URL to an accessory, providing the ID to it instead is fine (that's that (first and probably only) number in the URL).
 
 Your suggestion fits within the rules? Great! That means you're ready to show it to BOB! As usual there are many ways of doing this but the highly recommended way is to post a message containing your suggestion on BDS's group wall. It is also possible that BOB may have some feedback and/or questions on or about your suggestion as well.
+
+# History
+
+Sometime in late December BOB came up with the idea for a concept of what could be a new design for both player characters and NPC alike. Unbitterness just happened to be online at the same time while BOB was making the prototype for new character design and so BOB asked her if he could bounce some ideas off her. He ultimately did and that conversation got BOB thinking about actually trying to make a shop even though he had previously failed to do se in and for the old abandoned project that has been mentioned previously on pages like the [Construction Barrier Dock]({{- "/wiki/docks/construction-barrier-dock" | relative_url -}}).
+
+Later that day BOB started working on what would become the shop and that continued for many weeks straight. Along the way BOB had a hard time to avoid burnout from the entire project which Inevitably ended the shop's progress as previously mentioned. But he managed to avoid this for many weeks straight due to him setting an easy to achieve personal goal of one minor change a day at least. It helped to avoid getting tired of working on the myriad complexity that is making a flexible shop from scratch with no (existing) prior knowledge or references on how to do it.
+
+Work on the shop do the ultimately slow down In mid-January in favor of making other changes for what would become [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}). Notably after this break started there were a few changes still being made to the shop among them were adding faces and accessories but the bulk of the shop was made before the break started. This break along with some other reasons led to the shop being released as a public beta [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) due to the shop still having (among a few other issues) some rendering related bugs in it at the time.
+
+So in conclusion, making a shop from scratch is super complex and difficult (especially one of this caliber) and BOB had a hard time not getting burnt out from working on it but it was worth it. Thanks for reading the initial history of the shop, hope you enjoyed it.
+
+Also as an added bonus fact: [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) was originally named `V5.3` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
+
+{% include page-notice type="info" title="Pretty detailed" text="The previously listed chain of events that led up to the release of the shop are considered to be very accurate compared to other history pieces on the wiki due to the fact that it was fresh in BOB's mind at the time it was originally written." %}
