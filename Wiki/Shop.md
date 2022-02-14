@@ -88,7 +88,7 @@ Later that day BOB started working on what would become the shop and that contin
 
 Work on the shop do the ultimately slow down In mid-January in favor of making other changes for what would become [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}). Notably after this break started there were a few changes still being made to the shop among them were adding faces and accessories but the bulk of the shop was made before the break started. This break along with some other reasons led to the shop being released as a public beta [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) due to the shop still having (among a few other issues) some rendering related bugs in it at the time.
 
-So in conclusion, making a shop from scratch is super complex and difficult (especially one of this caliber) and BOB had a hard time not getting burnt out from working on it but it was worth it. Thanks for reading the initial history of the shop, hope you enjoyed it.
+So in conclusion, making a shop from scratch is super complex and difficult (especially one of this caliber) and BOB had a hard time not getting burnt out from working on it but it was both worth it and fun. Thanks for reading the initial history of the shop, hope you enjoyed it.
 
 Also as an added bonus fact: [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) was originally named `V5.3` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
 
