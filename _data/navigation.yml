@@ -49,7 +49,7 @@ UpdateLogs:
   - title: "Update logs tags key"
     url: "/wiki/posts/update-logs-tags"
   - title: "V6 Series of Updates"
-#    url: "/wiki/posts/list/tags#v5"
+#    url: "/wiki/posts/list/tags#v6"
     children:
       - title: "V6.0.0"
         url: "/wiki/posts/update-log/6-0-0"
