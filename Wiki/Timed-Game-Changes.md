@@ -7,7 +7,7 @@ mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
 ---
 
-In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all with the exception of stuff related to items in the shop.
+In Random Buildings And Parts there are multiple things that happen at different times of the year, each year. This page houses the list that will list them all (with the exception of stuff related to items in the shop).
 
 # Here's the list of timed changes in the game currently:
 
