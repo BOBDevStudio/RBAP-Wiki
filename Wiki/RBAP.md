@@ -42,7 +42,7 @@ A few months after some new Roblox data save listing API came out BOB looked thr
 
 ## Randomness Points
 
-{% include page-notice type="warning" title="Public beta" text="Randomness Points are currently **not** being given in the main build as they along with the shop are in a public beta in the pre-update build currently." %}
+{% include page-notice type="warning" title="Public Beta" text="Randomness Points are currently **not** being given in the main build as they along with the shop are in a public beta in the pre-update build currently." %}
 
 Randomness Points is the newest and the only currency in the game currently. Randomness Points was added as a public test along with the [Shop]({{- "/wiki/shop" | relative_url -}}) in [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}). The name Randomness Points is based on two things the first being the name of the game and the second being Roblox's old points system that no longer exists.
 
