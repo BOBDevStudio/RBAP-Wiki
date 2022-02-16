@@ -3,17 +3,23 @@ permalink: /wiki/shop
 title: "Shop"
 mentioned_game_content:
   last_status_check: "Wiki update for RBAP update [`V6`](/wiki/posts/update-log/6-0-0)"
+notices:
+  - type: "warning"
+    title: "Public Beta"
+    text: "The shop is in a public beta in the pre-update build currently so it's not in the main build."
 ---
 
 
 
 # Types of items available currently
 
-Info coming soon.
+The following is a list of every item type that is in the shop currently. In order to help preserve page size a bit this list does not list out what items of a certain type are in the shop currently.
 
 ## Colors
 
-Info coming soon.
+Colors (in the context of the shop) are colors and textures that can be equipped to many different places on your character. The closest thing to colors on the Roblox platform would be skin tones in the Roblox avatar editor although these lack many features that colors in the shop don't. For example colors (in the context of the shop) don't just have to be a color they can optionally have a custom texture and/or be an animated color although both of these are rarely used outside of limited time colors. Like most other item types there is a color marked as default but unlike most other item types there's actually 2 colors marked as default as both of them are equipped to different parts of your character. Both of the colors that are equipped by default are in the exact same positions as they were in the prototype for the idea of making the shop.
+
+One of the default colors was very notably the first purchasable ever added to the shop "even before it worked" as its description states. It was also used to test out a good majority of the shop's features (like item purchasing) before the release of the shop.
 
 ### Suggesting new ones
 
