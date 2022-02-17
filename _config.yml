@@ -274,6 +274,11 @@ whitelist:
   - jekyll-gist
 #  - jekyll-sitemap
 
+# --//Markdown to HTML settings:
+
+kramdown:
+  auto_ids: false
+
 # --//Comment settings:
 
 repository: "BOBDevStudio/RBAP-Wiki-Comments"
@@ -300,7 +305,7 @@ atom_feed:
   hide: true
 category_archive:
   type: liquid
-  path: /wIki/posts/list/categories
+  path: /wiki/posts/list/categories
 tag_archive:
   type: liquid
-  path: /wIki/posts/list/tags
+  path: /wiki/posts/list/tags
