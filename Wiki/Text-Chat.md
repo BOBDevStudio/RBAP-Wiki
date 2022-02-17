@@ -35,7 +35,7 @@ This list does not include stuff like features that were ported over from the de
 | Better system messages																									| ❌ | ✔️ | This includes stuff like indicating an error or success message and indicating what command a system message came from. |
 | Joining friend gets notified that they have joined a server with their friend(s)											| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
 | Mute and unmute commands can run on multiple players at a time															| ❌ | ✔️ |  |
-| A command autofill																										| ❌ | ✔️ | With the command autofill it's super easy to find out information about a certain perimeter in a command and maybe even get the possible inputs for whatever you're typing. There's more to it than just those things but they're the highlights. |
+| A command autocomplete menu																								| ❌ | ✔️ | With the command autocomplete menu it's super easy to find out information about a certain perimeter in a command and maybe even get the possible inputs for whatever you're typing. There's more to it than just those things but they're the highlights. |
 | Direct integration with [Roblox's Avatar Context Menu](https://developer.roblox.com/en-us/articles/Avatar-Context-Menu)	| ❌ | ✔️ |  |
 | You see your own message when running commands																			| ❌ | ✔️ | The command has to directly support it in order for it to work but all or most commands do. |
 | Clicking on certain (system or self sent) messages will revive the text that was sent										| ❌ | ✔️ |  |
