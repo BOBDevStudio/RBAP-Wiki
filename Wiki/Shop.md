@@ -96,6 +96,6 @@ Work on the shop do the ultimately slow down In mid-January in favor of making o
 
 So in conclusion, making a shop from scratch is super complex and difficult (especially one of this caliber) and BOB had a hard time not getting burnt out from working on it but it was both worth it and fun. Thanks for reading the initial history of the shop, hope you enjoyed it.
 
-Also as an added bonus fact: [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) was originally named `V5.3` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
+Also as an added bonus fact: [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) was originally named `V5.4` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
 
 {% include page-notice type="info" title="Pretty detailed" text="The previously listed chain of events that led up to the release of the shop are considered to be very accurate compared to other history pieces on the wiki due to the fact that it was fresh in BOB's mind at the time it was originally written." %}
