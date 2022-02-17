@@ -52,6 +52,14 @@ Four Corners is a classic game where there are four corners and only one of them
 
 <img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Four-Corners.png" | relative_url -}}" alt="">
 
+### Four Corners: Elimination
+
+`Four Corners: Elimination` is the classic game of Four Corners but with the difference of when a color gets selected it also gets eliminated. The game starts with 4 colors but is then lowered down to 2 colors in the final round. This game is forever locked at 3 rounds due to the fact that each round a color gets removed and there's only 4 colors available. This game was added [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}).
+
+And as a fun fact all colors that are still around after one has been eliminated were originally going to be moved around so that they were all close to each other instead of possibly being on the complete opposite position on the grid. But BOB later decided it didn't really look as good (as some colors would no longer be in the corners of the grid) so he decided against it. When he decided against it he had already coded the entire game meaning he had to remake the entire game from scratch again (in order to remove the core functionality that was the color moving). So this means the game was actually made twice before it even got released.
+
+<img class="dock-image" src="{{- "Assets/Images/Docks/Game-Rooms/Games/Four-Corners-Elimination.png" | relative_url -}}" alt="">
+
 ### Four Corners: Reversed
 
 This is basically the exact same game as the Four Corners game but of course only one color is safe instead of three being safe. Like the normal Four Corners, this game was made to be a remake of the Four Corners: Reversed game of the [Old Game Rooms Dock]({{- "/wiki/docks/old-game-rooms-dock" | relative_url -}}).

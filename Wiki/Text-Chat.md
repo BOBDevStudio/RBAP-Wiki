@@ -16,6 +16,7 @@ The purpose of this custom chat by BOB was to the merge the following things tog
 * The already existing design of Roblox's chat.
 * All/most of BOB's custom edits from the never released chat fork intended for [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}). (It was removed from the update shortly before release due to its incompleteness in case you're wondering.)
 * New ideas that BOB came up with (like the even more improved system messages compared to the aforementioned chat fork).
+* "[Cmdr](https://eryn.io/Cmdr/)".
 
 ## Here's a list of feature comparison between each chat:
 
@@ -32,8 +33,9 @@ This list does not include stuff like features that were ported over from the de
 | Toggling on or off chat bubbles																							| ❌ | ✔️ | Refer to the help command for more info. |
 | Properly adapting to screen size changes																					| ❌ | ✔️ |  |
 | Better system messages																									| ❌ | ✔️ | This includes stuff like indicating an error or success message and indicating what command a system message came from. |
-| Joining friend gets notified that they have joined a server with their friends											| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
+| Joining friend gets notified that they have joined a server with their friend(s)											| ❌ | ✔️ | Not really possible to even add a custom edit for this in Roblox's chat. |
 | Mute and unmute commands can run on multiple players at a time															| ❌ | ✔️ |  |
+| A command autocomplete menu																								| ❌ | ✔️ | With the command autocomplete menu it's super easy to find out information about a certain perimeter in a command and maybe even get the possible inputs for whatever you're typing. There's more to it than just those things but they're the highlights. |
 | Direct integration with [Roblox's Avatar Context Menu](https://developer.roblox.com/en-us/articles/Avatar-Context-Menu)	| ❌ | ✔️ |  |
 | You see your own message when running commands																			| ❌ | ✔️ | The command has to directly support it in order for it to work but all or most commands do. |
 | Clicking on certain (system or self sent) messages will revive the text that was sent										| ❌ | ✔️ |  |

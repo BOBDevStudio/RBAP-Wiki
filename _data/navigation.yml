@@ -34,6 +34,8 @@ Wiki:
     url: "/wiki/music"
   - title: "Chat"
     url: "/wiki/chat"
+  - title: "Shop"
+    url: "/wiki/shop"
   - title: "Timed Changes"
     url: "/wiki/timed-changes"
   - title: "The Controller (NPC)"
@@ -46,6 +48,11 @@ UpdateLogs:
     url: "/wiki/posts/update-log-notes"
   - title: "Update logs tags key"
     url: "/wiki/posts/update-logs-tags"
+  - title: "V6 Series of Updates"
+#    url: "/wiki/posts/list/tags#v6"
+    children:
+      - title: "V6.0.0"
+        url: "/wiki/posts/update-log/6-0-0"
   - title: "V5 Series of Updates"
 #    url: "/wiki/posts/list/tags#v5"
     children:
