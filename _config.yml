@@ -277,7 +277,7 @@ whitelist:
 # --//Markdown to HTML settings:
 
 kramdown:
-  auto_ids: false
+  auto_ids: true
 
 # --//Comment settings:
 
