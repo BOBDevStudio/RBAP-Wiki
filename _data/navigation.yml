@@ -51,6 +51,8 @@ UpdateLogs:
   - title: "V6 Series of Updates"
 #    url: "/wiki/posts/list/tags#v6"
     children:
+      - title: "V6.0.1"
+        url: "/wiki/posts/update-log/6-0-1"
       - title: "V6.0.0"
         url: "/wiki/posts/update-log/6-0-0"
   - title: "V5 Series of Updates"
