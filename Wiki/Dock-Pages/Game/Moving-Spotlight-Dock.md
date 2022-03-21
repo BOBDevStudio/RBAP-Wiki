@@ -23,7 +23,7 @@ sidebars:
       - key: "Dock Entrance Types Used"
         value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
       - key: "Side Placed On"
-        value: "`Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2`"
+        value: "`Main Side 2`"
 ---
 
 The Moving Spotlight Dock is an interactive dock which contains an edited spotlight model which has the ability to move using Roblox's physics engine. When a player is on the dock the spotlight will keep attempting to focus on their character's head. This dock was made sort of as the test to see if BOB could make a spotlight move using only Roblox physics. This dock also holds one of the [Snow Cubes]({{- "/wiki/snow-cubes" | relative_url -}}) model's many appearances.
@@ -33,7 +33,7 @@ The Moving Spotlight Dock is an interactive dock which contains an edited spotli
 | Reserved Dock Entrance   | *None (unset)* |
 | Entrances Used           | `1` |
 | Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
-| Side Placed On           | `Main Side 1` but on November 3rd at noon it will automatically be changed to `Main Side 2` |
+| Side Placed On           | `Main Side 2` |
 {: .psi-panel-alternative}
 
 <img src="{{- "/Assets/Images/Docks/Moving-Spotlight-Dock.png" | relative_url -}}" alt="">
