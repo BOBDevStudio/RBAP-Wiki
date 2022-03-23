@@ -41,11 +41,11 @@ Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) for the m
 
 The seasonal color palette changes to Winter at the beginning of December.
 
-## [Christmas music]({{- "/wiki/music#christmas-appears-december-18th-26th" | relative_url -}}) becomes available and the map gets covered in snow.
+## [Christmas music]({{- "/wiki/music#christmas-appears-december-18th-25th" | relative_url -}}) becomes available and the map gets covered in snow.
 
-Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) [Christmas music]({{- "/wiki/music#christmas-appears-december-18th-26th" | relative_url -}}) becomes available starting December 18th and ends after the 26th.
+Added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) [Christmas music]({{- "/wiki/music#christmas-appears-december-18th-25th" | relative_url -}}) becomes available starting December 18th and ends after the 25th.
 
-Also added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) the map gets covered in snow and a [Snow Cubes]({{- "/wiki/snow-cubes" | relative_url -}}) tower appears near the start of the map. This also starts December 18th and ends after the 26th. This was originally going to be added along with the winter season color palette change and stay active until the color palette changed again but due to performance concerns it was limited to about a week instead. This is often referred to as the "snow day" holiday even though it's not really a holiday and doesn't last one day.
+Also added in [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}}) the map gets covered in snow and a [Snow Cubes]({{- "/wiki/snow-cubes" | relative_url -}}) tower appears near the start of the map. This also starts December 18th and ends after the 25th. This was originally going to be added along with the winter season color palette change and stay active until the color palette changed again but due to performance concerns it was limited to about a week instead. This is often referred to as the "snow day" holiday even though it's not really a holiday and doesn't last one day.
 
 ## [Christmas day music]({{- "/wiki/music#christmas-day-appears-december-24th-25th" | relative_url -}}) becomes available.
 
