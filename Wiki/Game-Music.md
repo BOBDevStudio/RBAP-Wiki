@@ -69,7 +69,7 @@ The indicators for each note are listed after the name of a song.
 | `Good Morning Goodbye (b)`				| [Roblox](https://www.roblox.com/library/1840058466) + [APM](https://www.apmmusic.com/albums/KPM_JM_0164/KPM_JM_0164_04901)				| ❌ | ✔️ | ❌ | ✔️ | [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}})	|
 | `Limehouse Frog`							| [Roblox](https://www.roblox.com/library/1841462563) + [APM](https://www.apmmusic.com/albums/KPM_KPM_0801/KPM_KPM_0801_01701)				| ❌ | ✔️ | ❌ | ❌ | [`V5`]({{- "/wiki/posts/update-log/5-0-0" | relative_url -}})	|
 
-## Christmas (appears December 18th-26th):
+## Christmas (appears December 18th-25th):
 
 | Name | Links | Default Zone | Stage Zone | Game Rooms Dock Zone | Dance Floor Zone | Added In |
 |-|-|-|-|-|-|-|
