@@ -38,7 +38,7 @@ RBAP has had two types of currencies over the course of its history. One of whic
 
 The simply named coins currency was the first currency ever added to the game and (somewhat ironically) the first to be removed. It was added to the game and was intended to be used but ultimately was never obtainable or spendable. New players (as in players who didn't previously have the currency) would have started with 0 coins.
 
-A few months after some new Roblox data save listing API came out BOB looked through the old data saves and found out that 118 players were given the starting amount of coins (which as I mentioned earlier was 0). As a thank you to these players for playing back when the coins currency existed, all of them start with 600 Randomness Points instead of the usual 500. The exact list of players is being kept private for the time being to protect their privacy if they would prefer that. The list of players was also compiled from both the main build and the dev build.
+A few months after some new Roblox data save listing API came out BOB looked through the old data saves and found out that 118 players were given the starting amount of coins (which as mentioned previously was 0). As a thank you to these players for playing back when the coins currency existed, all of them start with 600 Randomness Points instead of the usual 500. The exact list of players is being kept private for the time being to protect their privacy if they would prefer that. The list of players was also compiled from both the main build and the dev build (the only builds of RBAP back then).
 
 ## Randomness Points
 
@@ -62,7 +62,7 @@ Here's all the ways of using Randomness Points currency:
 
 # Builds
 
-RBAP has many different types of builds. Each builds has its own characteristic that defines what it's used for. The titles builds are usually prefixed with `Random Buildings And Parts:` with the exception of the main one.
+RBAP has many different types of builds. Each builds has its own characteristic that defines what it's used for. The titles builds are usually prefixed with `Random Buildings And Parts:` with the exception of the main build.
 
 ## Main Build
 
@@ -70,7 +70,7 @@ Often titled simply as `Random Buildings And Parts` the main nuild is the only b
 
 ## Pre-Update Build
 
-The pre-update build is often used to publicly show off updates before they get officially released to the main build. This build is only used a handful of times throughout the year and has occasionally been used for other (temporary) purposes. Due to that most of the time it is closed so no one can join and updates featured inside of it often become outdated. When it is open to the public only people in certain group ranks are allowed to join. If you have saved data in this build it is automatically removed after 24 hours. It is the 3rd oldest build and has technically used 2 Roblox places over the course of its history.
+The pre-update build is often used to publicly show off updates before they get released to the main build. This build is only used a handful of times throughout the year and has occasionally been used for other (temporary) purposes. Due to that most of the time it is closed so no one can join and updates featured inside of it often become outdated. When it is open to the public only people in certain group ranks are allowed to join. If you have saved data in this build it is automatically removed after 24 hours. It is the 3rd oldest build and has technically used 2 Roblox places over the course of its history.
 
 ## Imaging Build
 
@@ -78,7 +78,15 @@ The imaging build is the only build that is never open to anyone. It is mainly u
 
 ## Dev Build
 
-The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs in that build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. It is the oldest build and has used 2 Roblox places over the course of its history.
+The dev build is often the only build that debug features are enabled in and is never open to the public but is occasionally open to select people. It can also contain some game breaking bugs that BOB hasn't had time to fix as bugs (including game breaking bugs) in this build are not always fixed immediately. It also contains the most recent changes to the game (although a lot of the time they are a bit buggy when just added). When BOB is working on the game this build often gets updated constantly throughout the hour especially when he play tests with multiple accounts or in the Roblox Client. It is the oldest build and has used 2 Roblox places over the course of its history.
+
+# Player Conveyors
+
+The Player Conveyors are the primary source of transportation to each of end of the RBAP's map. They have been in the game in many different forms since at least around late 2018. Their current form was introduced in [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}) of the game and is of a futuristic looking conveyor belt featuring moving textures and is inspired by RB Battles' Season 2 hub and older versions of the game (like early fourth quarter of 2018 old).
+
+The speed of the texture moving inside of the conveyor belts and the speed of the conveyor belts is the exact same (pretending like Roblox doesn't add visual glitches to the texture). The speed of both of them is currently set to a Roblox character's default walking speed. So if you ride and walk on it at the same time you'll be going twice the speed you normally would if you were just walking. Fun fact: The speed of each of them remains the same no matter what the length of the conveyor belts is (or in other words the distance from end to end).
+
+<img src="{{- "/Assets/Images/Player%20Conveyors.png" | relative_url -}}" alt="">
 
 # Practices
 
@@ -88,7 +96,7 @@ The only data that is linked to you in [`V6`]({{- "/wiki/posts/update-log/6-0-0"
 
 * Your preferences for what titles should be equipped.
 * * Currently there is no automated system to clear it out and you can't do it yourself. Refer to one of the sentences below this list for a way to clear it.
-* * This was only ever saved if you changed the setting in the old settings panel so if you left or set all three title placement settings at their default value the data of this type would have been removed.
+* * This was only ever saved if you changed any of the three title placement settings in the old settings panel. If you left or set all three title placement settings at their default value the data of this type would have been removed.
 * * **Important note:** As of [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) the game currently no longer accesses existing data of this type and saves new data of this type.
 * Items you own in the [Shop]({{- "/wiki/shop" | relative_url -}}).
 * * Currently there is no automated system to clear it out and you can't do it yourself. Refer to one of the sentences below this list for a way to clear it.

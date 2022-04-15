@@ -23,13 +23,6 @@ Wiki:
         url: "/wiki/dock-entrance-types/in-game"
       - title: "Removed/Unused"
         url: "/wiki/dock-entrance-types/removed"
-#  - title: "Walkway Transportation"
-#    url: "/wiki/walkway-transportation"
-#    children:
-#      - title: "Player Conveyors"
-#        url: "/wiki/walkway-transportation#player-conveyors"
-#      - title: "The Traveler"
-#        url: "/wiki/walkway-transportation#the-traveler"
   - title: "Music"
     url: "/wiki/music"
   - title: "Chat"
