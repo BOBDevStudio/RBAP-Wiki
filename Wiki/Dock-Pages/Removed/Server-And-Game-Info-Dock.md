@@ -3,11 +3,16 @@ permalink: /wiki/docks/server-and-game-info-dock
 title: "Dock: Server And Game Info Dock"
 redirect_from:
   - /Wiki/Docks/Server-And-Game-Info-Dock
+easy_links:
+  list:
+    - link_name: "Server And Game Info Dock"
+      search:
+        name: "Server And Game Info Dock"
 used_set_notices:
   removed_dock: true
   v5_game_info_dock_merged: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Server And Game Info Dock"
@@ -24,19 +29,34 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Server Dock`](/wiki/dock-entrance-types/server-dock)"
+        value: "`1` = <code>Dock Entrance Type / Server Dock</code>"
       - key: "Side Placed On"
         value: "`Main Side 1`"
+history:
+  - time: "<code>RBAP Update / V3.0.0</code>"
+    changes:
+      - "Added this dock."
+  - time: "<code>RBAP Update / V3.0.1</code>"
+    changes:
+      - "The ground material has been changed from the default gray + no detail."
+  - time: "<code>RBAP Update / V4.0.0</code>"
+    changes:
+      - "The backend of this dock has been completely recoded."
+      - "Some statistics have been removed."
+  - time: "<code>RBAP Update / V4.1.0</code>"
+    changes:
+      - "Removed the is the server officially recognized statistic (due to it being pretty pointless)."
+  - time: "<code>RBAP Update / V4.1.1</code>"
+    changes:
+      - "Fixed this dock."
+  - time: "<code>RBAP Update / V5.0.0</code>"
+    changes:
+      - "Took the contents of this dock and moved them to the <code>Dock / Game Info Dock</code>."
+      - "Removed this dock."
 ---
 
-This dock shows all sorts of information about the server and the game. It was originally made before [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}) of the game but for reasons unknown was not added until [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}). The system that runs the dock was completely recoded in [`V4`]({{- "/wiki/posts/update-log/4-0-0" | relative_url -}}). This dock has always been considered a system dock.
+This dock shows all sorts of information about the server and the game. It was originally made before <code>RBAP Update / V3.0.0</code> of the game but for reasons unknown was not added until <code>RBAP Update / V3.0.0</code>. The system that runs the dock was completely recoded in <code>RBAP Update / V4.0.0</code>. This dock has always been considered a system dock.
 
-| Value Name               | Value |
-|-|-|
-| Reserved Dock Entrance   |  |
-| Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Server Dock`]({{- "/wiki/dock-entrance-types/server-dock" | relative_url -}}) |
-| Side Placed On           | `Main Side 1` |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Docks/Server-And-Game-Info-Dock.png" | relative_url -}}" alt="">
+{% include history %}

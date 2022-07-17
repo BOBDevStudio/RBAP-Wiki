@@ -9,5 +9,5 @@ sidebars:
     enabled: false
 ---
 
-### In this category:
-{: .pages-in-page-category-lists-header .toc-excluded}
+# In this category:
+{: .pages-in-page-category-lists-header .toc-hide}

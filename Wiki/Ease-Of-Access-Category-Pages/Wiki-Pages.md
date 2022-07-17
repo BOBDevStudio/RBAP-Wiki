@@ -6,5 +6,5 @@ redirect_from:
   - /Pages-Categories/Ease-Of-Access/Wiki-Pages
 ---
 
-### Pages on the wiki:
-{: .pages-in-page-category-lists-header .toc-excluded}
+# Pages on the wiki:
+{: .pages-in-page-category-lists-header .toc-hide}

@@ -1,18 +1,27 @@
 ---
 permalink: /wiki/dock-entrance-types
-title: Dock Entrance Types
+title: "Dock Entrance Types"
 redirect_from:
   - /Wiki/Dock-Entrance-Types
   - /Pages-Categories/Ease-Of-Access/Dock-Entrance-Types
   - /wiki/pages-categories/ease-of-access/dock-entrance-types
+easy_links:
+  list:
+    - link_name: "Docks Entrance Types"
+      search:
+        name: "Docks Entrance Types"
 listed_page_category: "DockEntranceTypePage"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
+history:
+  - time: "<code>RBAP Update / V3.0.0</code>"
+    changes:
+      - "Dock entrance types now support more points of light emission instead of just one point."
 ---
 
 What is a dock entrance type? A dock entrance type is the status of the dock entrance that a dock is connected to. Usually it isn't something that describes the dock unless it is something like a system dock. Dock types can set many appearance settings of the dock entrance for a dock. The list includes stuff like light colors, lights that are on, the text shown on the sign, and more. Currently the text of the sign on each dock entrance is automatically made entirely uppercase.
 
-What is a system dock? System docks are currently being classified as docks that are not a thing for showcase purposes but rather for informational purposes or something else integrated with the game itself (an example of that is the [Game Info Dock]({{- "/wiki/docks/game-info-dock" | relative_url -}})). Each system dock gets its own custom dock entrance type which the text of the sign is automatically prefixed with `[System Dock]:`.
+What is a system dock? System docks are currently being classified as docks that are not a thing for showcase purposes but rather for informational purposes or something else integrated with the game itself (an example of that is the <code>Dock / Game Info Dock</code>). Each system dock gets its own custom dock entrance type which the text of the sign is automatically prefixed with `[System Dock]:`.
 
 ## Dock entrance type data default values
 
@@ -41,11 +50,16 @@ The following list is a list of the default values for dock entrance type data v
 | Gate Color 1             | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
 | Gate Color 2             | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
 
-## Sorted dock entrance types list pages
+# History
+
+{% include history %}
+
+# Sorted dock entrance types list pages
 
 For your convenience some pages exist on the wiki that further sort the list of dock entrance types. The list includes:
 
-* [Dock Entrance Types: In-Game]({{- "/wiki/dock-entrance-types/in-game" | relative_url -}})
-* [Dock Entrance Types: Removed]({{- "/wiki/dock-entrance-types/removed" | relative_url -}})
+* <code>Global / Dock Entrance Types / Game</code>
+* <code>Global / Dock Entrance Types / Removed</code>
 
-## Here's the list of dock entrance types:
+# Here's the list of dock entrance types:
+{: .pages-in-page-category-lists-header}

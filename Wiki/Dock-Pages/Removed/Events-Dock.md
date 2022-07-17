@@ -3,8 +3,13 @@ permalink: /wiki/docks/events-dock
 title: "Dock: Events Dock"
 redirect_from:
   - /Wiki/Docks/Events-Dock
+easy_links:
+  list:
+    - link_name: "Events Dock"
+      search:
+        name: "Events Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Events Dock"
@@ -21,19 +26,14 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
+        value: "`1` = <code>Dock Entrance Type / Open</code>"
       - key: "Side Placed On"
         value: "`Main Side 2`"
+history:
 ---
 
-This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while BOB tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the [Color Mixer Dock]({{- "/wiki/docks/color-mixer-dock" | relative_url -}}) it is very unlikely that this will ever be added back.
+This dock was used to display recent events from many different places. When there was an event the dock entrance would be open and the dock would have a specially-designed set on it for the event. After a little while BOB tended to not use it as much then as a result it later became pretty irrelevant so it got removed. Like the <code>Dock / Color Mixer Dock</code> it is very unlikely that this will ever be added back.
 
-| Value Name               | Value |
-|-|-|
-| Reserved Dock Entrance   |  |
-| Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types#open" | relative_url -}}) |
-| Side Placed On           | `Main Side 2` |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Docks/Events-Dock.png" | relative_url -}}" alt="">
+{% include history %}

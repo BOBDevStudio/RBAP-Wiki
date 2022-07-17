@@ -3,8 +3,13 @@ permalink: /wiki/docks/camp-fire-dock
 title: "Dock: Camp Fire Dock"
 redirect_from:
   - /Wiki/Docks/Camp-Fire-Dock
+easy_links:
+  list:
+    - link_name: "Camp Fire Dock"
+      search:
+        name: "Camp Fire Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Camp Fire Dock"
@@ -21,19 +26,16 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
+        value: "`1` = <code>Dock Entrance Type / Open</code>"
       - key: "Side Placed On"
         value: "`Main Side 1`"
+history:
+  - time: "<code>RBAP Update / V3.0.0</code>"
+    changes:
+      - "The camp fire no longer deals damage when stepped on."
+      - "The warning text stating that fire deals damage has been removed."
 ---
 
+# History
 
-
-| Value Name               | Value |
-|-|-|
-| Reserved Dock Entrance   | *None (unset)* |
-| Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
-| Side Placed On           | `Main Side 1` |
-{: .psi-panel-alternative}
-
-<img src="{{- "/Assets/Images/Docks/Camp-Fire-Dock.png" | relative_url -}}" alt="">
+{% include history %}

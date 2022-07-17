@@ -3,8 +3,13 @@ permalink: /wiki/docks/wheel-of-oddities-dock
 title: "Dock: Wheel of Oddities Dock"
 redirect_from:
   - /Wiki/Docks/Wheel-of-Oddities-Dock
+easy_links:
+  list:
+    - link_name: "Wheel of Oddities Dock"
+      search:
+        name: "Wheel of Oddities Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Wheel of Oddities Dock"
@@ -21,9 +26,19 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
+        value: "`1` = <code>Dock Entrance Type / Open</code>"
       - key: "Side Placed On"
         value: "`Main Side 2`"
+history:
+  - time: "<code>RBAP Update / V5.0.0</code>"
+    changes:
+      - "Added this dock and positioned this dock at a temporary location."
+  - time: "Noon of 11/3/2020 (unknown time zone - either PT or UTC)"
+    changes:
+      - "This dock is now no longer located at the temporary location."
+  - time: "<code>RBAP Update / V6.1.0</code>"
+    changes:
+      - "The rocket from this dock will now stop accelerating and get frozen in place at Y levels above 9500."
 ---
 
 The Wheel of Oddities is a dock inspired (although not directly) by wheels you might see at a carnival or on the Wheel of Fortune game show. It features 16 different rewards all of which have the same chance of being selected and all of which (if possible) will expire after 30 seconds. The name for the dock was made by BOB and he surprisingly came up with it pretty quickly as he came up with the name right after he started thinking about names for it.
@@ -32,24 +47,14 @@ There are two determining factors that help in selecting a reward. They are Robl
 
 The wheel can be spun for 12 to 20 seconds. When the wheel is being spun the arrow doesn't try to center itself meaning it just gets pushed off to the side by the rapidly accelerating wheel. After the wheel is no longer being spun the arrow will start to try to center itself (meaning the wheel gets slowed down) and the light on the tip of it gets turned on.
 
-Once the arrow starts to try to center itself it has 30 seconds to land on something or the wheel will be hard reset. This is due to the fact that although rare the arrow can get stuck on one of the pegs in the wheel.
+Once the arrow starts to try to center itself it has 30 seconds to land on something or the wheel will be hard reset. This is due to the fact that although rare the arrow can get stuck on one of the pegs on the wheel.
 
-| Value Name               | Value |
-|-|-|
-| Reserved Dock Entrance   | *None (unset)* |
-| Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
-| Side Placed On           | `Main Side 2` |
-{: .psi-panel-alternative}
+# The rewards:
 
-<img src="{{- "/Assets/Images/Docks/Wheel-of-Oddities-Dock.png" | relative_url -}}" alt="">
+{% include page-notice md=true type="danger" title="Spoilers Ahead!" text="It is **highly** advised that you experience all of the rewards yourself before reading the following as it could ruin the fun of finding out what each of them do." %}
 
-## The rewards:
-
-{% include page-notice type="danger" title="Spoilers Ahead!" text="It is **highly** advised that you experience all of the rewards yourself before reading the following as it could ruin the fun of finding out what each of them do." %}
-
-### 1. Your screen gets blacked out
-{: .toc-excluded}
+## 1. Your screen gets blacked out
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -59,8 +64,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 2. Be put in a jail
-{: .toc-excluded}
+## 2. Be put in a jail
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -70,8 +75,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                | This was originally going to have a balloon attached to it which would take you up but due to physics limitations it was way too complicated to fix. That is why it was originally going to be listed as solitary entertainment. |
 
-### 3. Your character's walk speed gets increased
-{: .toc-excluded}
+## 3. Your character's walk speed gets increased
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -81,8 +86,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 4. You get to see what happens when you go really far up
-{: .toc-excluded}
+## 4. You get to see what happens when you go really far up
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -92,8 +97,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 5. Your character is affected by low gravity
-{: .toc-excluded}
+## 5. Your character is affected by low gravity
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -103,8 +108,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 6. Your screen gets blurred
-{: .toc-excluded}
+## 6. Your screen gets blurred
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -114,19 +119,19 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 7. Your character explodes
-{: .toc-excluded}
+## 7. Your character explodes
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
 | Listed As                 | OOF |
 | Was going to be listed as |  |
-| Does                      | Explodes your character in the same exact way as the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}). |
+| Does                      | Explodes your character in the same exact way as the <code>Dock / Mine Dock</code>. |
 | Expires After             |  |
 | Other Info                |  |
 
-### 8. Your character gees invisible
-{: .toc-excluded}
+## 8. Your character gees invisible
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -136,8 +141,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 9. Your character gets a balloon ride
-{: .toc-excluded}
+## 9. Your character gets a balloon ride
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -147,8 +152,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds or after you reach a Y level of 2500 |
 | Other Info                |  |
 
-### 10. Your character gets flung across the map
-{: .toc-excluded}
+## 10. Your character gets flung across the map
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -158,8 +163,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             |  |
 | Other Info                |  |
 
-### 11. Your character gets teleported to the top of the top floor of the entrance elevator
-{: .toc-excluded}
+## 11. Your character gets teleported to the top of the top floor of the entrance elevator
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -169,8 +174,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                | This was originally just going to teleport your character somewhere random on the map but due to that being somewhat complicated and it being cooler to be teleported to an usually off-limits area with a good view that idea got scrapped. |
 
-### 12. Your character gets spun
-{: .toc-excluded}
+## 12. Your character gets spun
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -180,8 +185,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 13. Your screen goes black and white
-{: .toc-excluded}
+## 13. Your screen goes black and white
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -191,8 +196,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 14. Your character rockets away
-{: .toc-excluded}
+## 14. Your character rockets away
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -202,8 +207,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 15. Your character's walk speed gets decreased
-{: .toc-excluded}
+## 15. Your character's walk speed gets decreased
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -213,8 +218,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Expires After             | 30 seconds |
 | Other Info                |  |
 
-### 16. You are given a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap)
-{: .toc-excluded}
+## 16. You are given a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap)
+{: .toc-hide}
 
 | Data Name                 | Data |
 |-|-|
@@ -222,4 +227,8 @@ Once the arrow starts to try to center itself it has 30 seconds to land on somet
 | Was going to be listed as |  |
 | Does                      | Gives you a [Teddy Trap](https://www.roblox.com/catalog/12890798/Teddy-Trap) *with **one** minor difference*: No matter what it will be activated eventually. If you do not activate it yourself within 30 seconds it will be activated by itself. |
 | Expires After             | 30 seconds (sort of) |
-| Other Info                | BOB originally wanted to give the player a time bomb but figured doing it this way would be more funny for the player to experience. |
+| Other Info                | BOB originally wanted to give the player a time bomb but figured doing it this way would be more fun for the player to experience. |
+
+# History
+
+{% include history %}

@@ -1,12 +1,25 @@
 ---
 permalink: /wiki/shop
 title: "Shop"
+easy_links:
+  list:
+    - link_name: "Shop"
+      search:
+        name: "Shop"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V6`](/wiki/posts/update-log/6-0-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V6.0.0</code>"
 notices:
   - type: "warning"
     title: "Public Beta"
-    text: "The shop is in a public beta in the pre-update build currently so it's not in the main build."
+    text: "The shop is in a public beta in the <code>Global / Pre-Update Build</code> currently so it's not in the <code>Global / Main Build</code>."
+history:
+  - time: "<code>RBAP Update / V6.0.0</code>"
+    changes:
+      - "Added the shop as a public beta."
+  - time: "<code>RBAP Update / V6.0.1</code>"
+    changes:
+      - "Fixed a bug that caused the music system to act like you changed music zones when customizing your character."
+      - "Fixed a bug that caused the equip and unequip buttons to be improperly sized resulting in text clipping."
 ---
 
 
@@ -31,7 +44,7 @@ Want to suggest a new color to be added to the shop? Great! As usual here are th
 
 Your suggestion fits within the rules? Great! That means you're ready to show it to BOB! As usual there are many ways of doing this but the highly recommended way is to post a message containing your suggestion on BDS's group wall. It is also possible that BOB may have some feedback and/or questions on or about your suggestion as well.
 
-{% include page-notice type="info" title="Note" text="Colors that are suggested may be <b>very</b> lightly edited by BOB without any notice before he puts them into the game. Although this will likely be unnoticeable." %}
+{% include page-notice md=true type="info" title="Note" text="Colors that are suggested may be <b>very</b> lightly edited by BOB without any notice before he puts them into the game. Although this will likely be unnoticeable." %}
 
 ## Accessories
 
@@ -61,7 +74,7 @@ Want to suggest a new body pack to be added to the shop? Great! As usual here ar
 * Please **try** to have all of the body parts suggested (with the exception of heads) come from the same package/bundle.
 * No Rthro. It doesn't fit the theme of the game and generally doesn't look that good so if any part is of Rthro it'll likely be denied.
 * Every body part suggested must be uploaded by the [official account of Roblox](https://www.roblox.com/users/1/profile). Due to copyright issues no exceptions will be made for this rule.
-* You can suggest a minimum of 1 body part at a time (obviously).
+* You can suggest a minimum of 1 body pack at a time (obviously).
 * You can only suggest one of each body part at a time.
 * Each body part must not look very similar to a body part in an already existing body pack although exceptions can be made in certain circumstances. If you're not sure if a body part fits this requirement feel free to suggest it anyway and BOB will look over it and judge based on what he thinks.
 * When trying to provide a URL to a body part (which is **recommended** btw) please instead provide the URL of the package/bundle from which it comes from and just say what body part(s) you want from it. If it is a head that does not come with a package/bundle feel free to provide the direct URL to it.
@@ -86,16 +99,20 @@ Want to suggest a new face to be added to the shop? Great! As usual here are the
 
 Your suggestion fits within the rules? Great! That means you're ready to show it to BOB! As usual there are many ways of doing this but the highly recommended way is to post a message containing your suggestion on BDS's group wall. It is also possible that BOB may have some feedback and/or questions on or about your suggestion as well.
 
-# History
+# Timeline
 
-Sometime in late December BOB came up with the idea for a concept of what could be a new design for both player characters and NPC alike. Unbitterness just happened to be online at the same time while BOB was making the prototype for new character design and so BOB asked her if he could bounce some ideas off her. He ultimately did and that conversation got BOB thinking about actually trying to make a shop even though he had previously failed to do se in and for the old abandoned project that has been mentioned previously on pages like the [Construction Barrier Dock]({{- "/wiki/docks/construction-barrier-dock" | relative_url -}}).
+Sometime in late December BOB came up with the idea for a concept of what could be a new design for both player characters and NPC alike. Unbitterness just happened to be online at the same time while BOB was making the prototype for new character design and so BOB asked her if he could bounce some ideas off her. He ultimately did and that conversation got BOB thinking about actually trying to make a shop even though he had previously failed to do se in and for the old abandoned project that has been mentioned previously on pages like the <code>Dock / Construction Barrier Dock</code>.
 
 Later that day BOB started working on what would become the shop and that continued for many weeks straight. Along the way BOB had a hard time to avoid burnout from the entire project which Inevitably ended the shop's progress as previously mentioned. But he managed to avoid this for many weeks straight due to him setting an easy to achieve personal goal of one minor change a day at least. It helped to avoid getting tired of working on the myriad complexity that is making a flexible shop from scratch with no (existing) prior knowledge or references on how to do it.
 
-Work on the shop do the ultimately slow down In mid-January in favor of making other changes for what would become [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}). Notably after this break started there were a few changes still being made to the shop among them were adding faces and accessories but the bulk of the shop was made before the break started. This break along with some other reasons led to the shop being released as a public beta [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) due to the shop still having (among a few other issues) some rendering related bugs in it at the time.
+Work on the shop do the ultimately slow down In mid-January in favor of making other changes for what would become <code>RBAP Update / V6.0.0</code>. Notably after this break started there were a few changes still being made to the shop among them were adding faces and accessories but the bulk of the shop was made before the break started. This break along with some other reasons led to the shop being released as a public beta <code>RBAP Update / V6.0.0</code> due to the shop still having (among a few other issues) some rendering related bugs in it at the time.
 
 So in conclusion, making a shop from scratch is super complex and difficult (especially one of this caliber) and BOB had a hard time not getting burnt out from working on it but it was both worth it and fun. Thanks for reading the initial history of the shop, hope you enjoyed it.
 
-Also as an added bonus fact: [`V6`]({{- "/wiki/posts/update-log/6-0-0" | relative_url -}}) was originally named `V5.4` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
+Also as an added bonus fact: <code>RBAP Update / V6.0.0</code> was originally named `V5.4` for much of December (and an unknown amount of time before that) as originally only the (text) chat command improvements were to be included in it with a few other very minor changes. It was changed mainly due to the fact that the shop was being added to it (along with some probably unintentional influence from Unbitterness).
 
-{% include page-notice type="info" title="Pretty detailed" text="The previously listed chain of events that led up to the release of the shop are considered to be very accurate compared to other history pieces on the wiki due to the fact that it was fresh in BOB's mind at the time it was originally written." %}
+{% include page-notice md=true type="info" title="Pretty detailed" text="The previously listed chain of events that led up to the release of the shop is considered to be very accurate compared to other history pieces on the wiki due to the fact that it was fresh in BOB's mind at the time it was originally written." %}
+
+# History
+
+{% include history %}

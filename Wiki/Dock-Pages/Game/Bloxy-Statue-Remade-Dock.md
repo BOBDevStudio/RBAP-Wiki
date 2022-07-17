@@ -3,8 +3,13 @@ permalink: /wiki/docks/bloxy-statue-remade-dock
 title: "Dock: Bloxy Statue Remade Dock"
 redirect_from:
   - /Wiki/Docks/Bloxy-Statue-Remade-Dock
+easy_links:
+  list:
+    - link_name: "Bloxy Statue Remade Dock"
+      search:
+        name: "Bloxy Statue Remade Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Bloxy Statue Remade Dock"
@@ -21,19 +26,20 @@ sidebars:
       - key: "Entrances Used"
         value: "`1`"
       - key: "Dock Entrance Types Used"
-        value: "`1` = [`Open`](/wiki/dock-entrance-types/open)"
+        value: "`1` = <code>Dock Entrance Type / Open</code>"
       - key: "Side Placed On"
         value: "`Main Side 1`"
+history:
+  - time: "<code>RBAP Update / V3.1.2</code>"
+    changes:
+      - "The statue no longer rotates. Originally going to be temporary but with the release of <code>RBAP Update / V4.0.0</code> it was decided to make the change permanent."
+  - time: "<code>RBAP Update / V4.0.0</code>"
+    changes:
+      - "Fixed some collision related issues relating to the statue."
 ---
 
 This is BOB's re-creation of Roblox Bloxy Statue. It was made sometime after the 2018 Bloxy Awards.
 
-| Value Name               | Value |
-|-|-|
-| Reserved Dock Entrance   | *None (unset)* |
-| Entrances Used           | `1` |
-| Dock Entrance Types Used | `1` = [`Open`]({{- "/wiki/dock-entrance-types/open" | relative_url -}}) |
-| Side Placed On           | `Main Side 1` |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Docks/Bloxy-Statue-Remade-Dock.png" | relative_url -}}" alt="">
+{% include history %}

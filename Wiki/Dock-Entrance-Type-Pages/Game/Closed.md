@@ -3,10 +3,15 @@ permalink: /wiki/dock-entrance-types/closed
 title: "Dock Entrance Type: Closed"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Closed
+easy_links:
+  list:
+    - link_name: "Closed"
+      search:
+        name: "Closed"
 page_categories:
   generic_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Closed"
@@ -64,32 +69,11 @@ sidebars:
         value: "*Default (unset)*"
       - key: "Gate Color 2"
         value: "*Default (unset)*"
+history:
 ---
 
-This dock entrance type is one of the [generic dock entrance types]({{- "/wiki/pages-categories/ease-of-access/generic-dock-entrance-types" | relative_url -}}). This dock entrance type is the primary dock entrance type that is used when a dock entrance is closed. Fun fact: Before the game loads in the docks all docks entrances are set to this dock entrance type.
+This dock entrance type is one of the <code text="generic dock entrance types">Global / Dock Entrance Types / Generic</code>. This dock entrance type is the primary dock entrance type that is used when a dock entrance is closed. Fun fact: Before the game loads in the docks all docks entrances are set to this dock entrance type.
 
-| Value Name               | Value |
-|-|-|
-| Sign Text                | `This dock is currently closed` |
-| Is System Dock           | `False` |
-| Is Bridge Down           | `False` |
-| Is Gate Down             | `False` |
-| Main Light 1 On          | `True` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
-| Main Light 2 On          | `False` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
-| Main Light 3 On          | `False` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
-| Warning Light 1 Light On | *Default (unset)* |
-| Warning Light 1 Spinning | *Default (unset)* |
-| Warning Light 1 Color    | *Default (unset)* |
-| Warning Light 1 Speed    | *Default (unset)* |
-| Warning Light 2 Light On | *Default (unset)* |
-| Warning Light 2 Spinning | *Default (unset)* |
-| Warning Light 2 Color    | *Default (unset)* |
-| Warning Light 2 Speed    | *Default (unset)* |
-| Gate Color 1             | *Default (unset)* |
-| Gate Color 2             | *Default (unset)* |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Dock-Entrance-Types/Closed.png" | relative_url -}}" alt="">
+{% include history %}

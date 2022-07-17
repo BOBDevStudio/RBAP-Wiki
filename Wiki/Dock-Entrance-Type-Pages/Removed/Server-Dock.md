@@ -3,13 +3,18 @@ permalink: /wiki/dock-entrance-types/server-dock
 title: "Dock Entrance Type: Server Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Server-Dock
+easy_links:
+  list:
+    - link_name: "Server Dock"
+      search:
+        name: "Server Dock"
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   removed_dock_entrance_type: true
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Server Dock"
@@ -24,7 +29,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Server Dock]: This dock contains statistics about the server and the game`"
       - key: "Is System Dock"
-        value: "`True` - [Server And Game Info Dock](/wiki/docks/server-and-game-info-dock)"
+        value: "`True` - <code>Dock / Server And Game Info Dock</code>"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -67,32 +72,15 @@ sidebars:
         value: "*Default (unset)*"
       - key: "Gate Color 2"
         value: "*Default (unset)*"
+history:
+  - time: "<code>RBAP Update / V3.0.0</code>"
+    changes:
+      - "Added this dock entrance type."
+  - time: "<code>RBAP Update / V5.0.0</code>"
+    changes:
+      - "Removed this dock entrance type."
 ---
 
+# History
 
-
-| Value Name               | Value |
-|-|-|
-| Sign Text                | `[Server Dock]: This dock contains statistics about the server and the game` |
-| Is System Dock           | `True` - [Server And Game Info Dock]({{- "/wiki/docks/server-and-game-info-dock" | relative_url -}}) |
-| Is Bridge Down           | `True` |
-| Is Gate Down             | `True` |
-| Main Light 1 On          | `True` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
-| Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
-| Main Light 3 On          | `True` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
-| Warning Light 1 Light On | *Default (unset)* |
-| Warning Light 1 Spinning | *Default (unset)* |
-| Warning Light 1 Color    | *Default (unset)* |
-| Warning Light 1 Speed    | *Default (unset)* |
-| Warning Light 2 Light On | *Default (unset)* |
-| Warning Light 2 Spinning | *Default (unset)* |
-| Warning Light 2 Color    | *Default (unset)* |
-| Warning Light 2 Speed    | *Default (unset)* |
-| Gate Color 1             | *Default (unset)* |
-| Gate Color 2             | *Default (unset)* |
-{: .psi-panel-alternative}
-
-<img src="{{- "/Assets/Images/Dock-Entrance-Types/Server-Dock.png" | relative_url -}}" alt="">
+{% include history %}

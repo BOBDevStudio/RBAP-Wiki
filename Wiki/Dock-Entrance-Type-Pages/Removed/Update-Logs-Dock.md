@@ -3,13 +3,18 @@ permalink: /wiki/dock-entrance-types/update-logs-dock
 title: "Dock Entrance Type: Update Logs Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Update-Logs-Dock
+easy_links:
+  list:
+    - link_name: "Update Logs Dock"
+      search:
+        name: "Update Logs Dock"
 page_categories:
   system_dock_entrance_type: true
 used_set_notices:
   removed_dock_entrance_type: true
   system_dock_entrance_type: true
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Update Logs Dock"
@@ -24,7 +29,7 @@ sidebars:
       - key: "Sign Text"
         value: "`[Update Logs Dock]: This dock contains Random Buildings And Parts update logs`"
       - key: "Is System Dock"
-        value: "`True` - [Update Logs Dock](/wiki/docks/update-logs-dock)"
+        value: "`True` - <code>Dock / Update Logs Dock</code>"
       - key: "Is Bridge Down"
         value: "`True`"
       - key: "Is Gate Down"
@@ -67,32 +72,15 @@ sidebars:
         value: "*Default (unset)*"
       - key: "Gate Color 2"
         value: "*Default (unset)*"
+history:
+  - time: "<code>RBAP Update / V4.0.0</code>"
+    changes:
+      - "Removed this dock entrance type."
+  - time: "<code>RBAP Update / V5.0.0</code>"
+    changes:
+      - "Removed this dock entrance type."
 ---
 
+# History
 
-
-| Value Name               | Value |
-|-|-|
-| Sign Text                | `[Update Logs Dock]: This dock contains Random Buildings And Parts update logs` |
-| Is System Dock           | `True` - [Update Logs Dock]({{- "/wiki/docks/update-logs-dock" | relative_url -}}) |
-| Is Bridge Down           | `True` |
-| Is Gate Down             | `True` |
-| Main Light 1 On          | `True` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Orange" alt="" -%} |
-| Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="White" alt="" -%} |
-| Main Light 3 On          | `True` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Orange" alt="" -%} |
-| Warning Light 1 Light On | *Default (unset)* |
-| Warning Light 1 Spinning | *Default (unset)* |
-| Warning Light 1 Color    | *Default (unset)* |
-| Warning Light 1 Speed    | *Default (unset)* |
-| Warning Light 2 Light On | *Default (unset)* |
-| Warning Light 2 Spinning | *Default (unset)* |
-| Warning Light 2 Color    | *Default (unset)* |
-| Warning Light 2 Speed    | *Default (unset)* |
-| Gate Color 1             | *Default (unset)* |
-| Gate Color 2             | *Default (unset)* |
-{: .psi-panel-alternative}
-
-<img src="{{- "/Assets/Images/Dock-Entrance-Types/Update-Logs-Dock.png" | relative_url -}}" alt="">
+{% include history %}

@@ -6,5 +6,5 @@ redirect_from:
   - /Pages-Categories/Ease-Of-Access/New-Dock-Dock-Entrance-Types
 ---
 
-### In this category:
-{: .pages-in-page-category-lists-header .toc-excluded}
+# In this category:
+{: .pages-in-page-category-lists-header .toc-hide}

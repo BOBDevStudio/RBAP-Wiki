@@ -3,8 +3,13 @@ permalink: /wiki/dock-entrance-types/cooldown
 title: "Dock Entrance Type: Cooldown"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Cooldown
+easy_links:
+  list:
+    - link_name: "Cooldown"
+      search:
+        name: "Cooldown"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Cooldown"
@@ -62,32 +67,11 @@ sidebars:
         value: "*Default (unset)*"
       - key: "Gate Color 2"
         value: "*Default (unset)*"
+history:
 ---
 
-This dock entrance type was originally added for the [Mine Dock]({{- "/wiki/docks/mine-dock" | relative_url -}}) but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
+This dock entrance type was originally added for the <code>Dock / Mine Dock</code> but the idea of using it there was later scrapped before the update that it was in came out. So this dock entrance type was never actually used. It still has a possibility of being used but is unlikely.
 
-| Value Name               | Value |
-|-|-|
-| Sign Text                | `This dock is currently on cooldown` |
-| Is System Dock           | `False` |
-| Is Bridge Down           | `True` |
-| Is Gate Down             | `False` |
-| Main Light 1 On          | `False` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
-| Main Light 2 On          | `True` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Blue" alt="" -%} |
-| Main Light 3 On          | `False` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Green" alt="" -%} |
-| Warning Light 1 Light On | *Default (unset)* |
-| Warning Light 1 Spinning | *Default (unset)* |
-| Warning Light 1 Color    | *Default (unset)* |
-| Warning Light 1 Speed    | *Default (unset)* |
-| Warning Light 2 Light On | *Default (unset)* |
-| Warning Light 2 Spinning | *Default (unset)* |
-| Warning Light 2 Color    | *Default (unset)* |
-| Warning Light 2 Speed    | *Default (unset)* |
-| Gate Color 1             | *Default (unset)* |
-| Gate Color 2             | *Default (unset)* |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Dock-Entrance-Types/Cooldown.png" | relative_url -}}" alt="">
+{% include history %}

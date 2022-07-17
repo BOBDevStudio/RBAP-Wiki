@@ -1,0 +1,8 @@
+* -linguist-detectable
+*.md linguist-detectable
+*.html linguist-detectable
+*.yml linguist-detectable
+/Gemfile linguist-detectable
+/.github/** -linguist-detectable
+**/Readme.md -linguist-detectable
+**/Readme.txt -linguist-detectable

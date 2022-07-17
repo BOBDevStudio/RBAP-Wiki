@@ -3,8 +3,13 @@ permalink: /wiki/dock-entrance-types/hidden-dock
 title: "Dock Entrance Type: Hidden Dock"
 redirect_from:
   - /Wiki/Dock-Entrance-Types/Hidden-Dock
+easy_links:
+  list:
+    - link_name: "Hidden Dock"
+      search:
+        name: "Hidden Dock"
 mentioned_game_content:
-  last_status_check: "Wiki update for RBAP update [`V5.2`](/wiki/posts/update-log/5-2-0)"
+  last_status_check: "Wiki update for RBAP update <code>RBAP Update / V5.2.0</code>"
 sidebars:
   page_subject_info:
     title: "Hidden Dock"
@@ -62,32 +67,11 @@ sidebars:
         value: "*Default (unset)*"
       - key: "Gate Color 2"
         value: "*Default (unset)*"
+history:
 ---
 
-Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in [`V3`]({{- "/wiki/posts/update-log/3-0-0" | relative_url -}}) of the game due to limitations of (at the time) newly-implemented systems (like the dock placing system).
+Hidden docks are docks that are hidden by default unless they are triggered to appear by some in-game event. There are currently none in the game that use this dock entrance type as previous ones were removed in <code>RBAP Update / V3.0.0</code> of the game due to limitations of (at the time) newly-implemented systems (like the dock placing system).
 
-| Value Name               | Value |
-|-|-|
-| Sign Text                | `This dock is currently open` |
-| Is System Dock           | `False` |
-| Is Bridge Down           | `True` |
-| Is Gate Down             | `True` |
-| Main Light 1 On          | `False` |
-| Main Light 1 Color       | {%- include color-image fordockentrancetypecolor=true name="Red" alt="" -%} |
-| Main Light 2 On          | `False` |
-| Main Light 2 Color       | {%- include color-image fordockentrancetypecolor=true name="Yellow" alt="" -%} |
-| Main Light 3 On          | `True` |
-| Main Light 3 Color       | {%- include color-image fordockentrancetypecolor=true name="Purple" alt="" -%} |
-| Warning Light 1 Light On | *Default (unset)* |
-| Warning Light 1 Spinning | *Default (unset)* |
-| Warning Light 1 Color    | *Default (unset)* |
-| Warning Light 1 Speed    | *Default (unset)* |
-| Warning Light 2 Light On | *Default (unset)* |
-| Warning Light 2 Spinning | *Default (unset)* |
-| Warning Light 2 Color    | *Default (unset)* |
-| Warning Light 2 Speed    | *Default (unset)* |
-| Gate Color 1             | *Default (unset)* |
-| Gate Color 2             | *Default (unset)* |
-{: .psi-panel-alternative}
+# History
 
-<img src="{{- "/Assets/Images/Dock-Entrance-Types/Hidden-Dock.png" | relative_url -}}" alt="">
+{% include history %}

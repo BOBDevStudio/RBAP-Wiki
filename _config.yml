@@ -2,15 +2,12 @@ remote_theme: "BOBDevStudio/Minimal-Mistakes-Fork-Theme"
 
 # --//Main customisation:
 
-#baseurl: /RBAP
 logo: "/Assets/Images/Page-Icons/Page-Icon.ico"
 tab_icon: "/Assets/Images/Page-Icons/Page-Icon.ico"
-redirect_update_logs_category: true
+color_coded_table_boolean_multicolumn_enabled: false
 color_images_base_path: "/Assets/Images/Colors/"
 color_images_file_type: "png"
 name: "BOB Development Studio"
-remade_author_panel_enabled: false
-update_logs_list_page: "update_logs_list"
 
 # In order for a page category to be listed in a page's title there must be a homepage for that category and a name defined in the table below.
 page_category_names:
@@ -29,16 +26,18 @@ page_subject_info_panel_defaults:
   color: "#a3a2a5"
   titles_text_color: "#FFFFFF"
 
-# Disables or enables new or old major website features.
+# Disables or enables major website features.
 enabled_features:
-  new_footer: true
-  old_footer: false
-  sidebar_structuring_use_float: true
+  easy_links: true
+  update_logs: true
+  heading_auto_ids: true
+  js_table_of_contents: true
 
 exclude:
   - Readme.md
   - License
   - .github
+  - .gitattributes
 
 # --//Page defaults:
 
@@ -55,9 +54,7 @@ defaults:
       comments: false
       is_update_log: false
       is_post: false
-      only_list_update_logs: false
-      published_time_uses_pst: false
-      published_time_uses_pdt: false
+      update_published_at_time_zone: "PST/PDT"
       pinned: false
       listed: true
       locked: false # This is technically wrong but this is supposed to be used if the issue behind the comments gets locked
@@ -65,6 +62,8 @@ defaults:
       preview_image_path: "/Assets/Images/Page-Previews/Unset.png"
       post_status_icons_visible: false
       show_footer: true
+      copyright_notice_text: "© [Year] BOB of BOB Development Studio. Rendered by [Jekyll](https://jekyllrb.com/) with design elements of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)."
+      heading_auto_ids: true
 #      mentioned_game_content:
 #        last_status_check_explanation_page: ""
       sidebars:
@@ -74,15 +73,15 @@ defaults:
         - name: "removed_dock"
           type: "danger"
           title: "Dock Removed"
-          text: "The dock described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock will not be changed."
+          text: "The dock described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock will likely not be changed."
         - name: "removed_dock_entrance_type"
           type: "danger"
           title: "Dock Entrance Type Removed"
-          text: "The dock entrance type described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock entrance type will not be changed."
+          text: "The dock entrance type described on this page has been completely removed from the game. This page is currently being kept for archival purposes. All listed data and images related to the dock entrance type will likely not be changed."
         - name: "v5_game_info_dock_merged"
           type: "merge"
           title: "Dock Merged"
-          text: "This dock was merged into the [Game Info Dock](/wiki/docks/game-info-dock) in [`V5`](/Posts/Update-Log/5-0-0)."
+          text: "This dock was merged into the <code>Dock / Game Info Dock</code> in <code>RBAP Update / V5.0.0</code>."
         - name: "system_dock_entrance_type"
           type: "info"
           title: "System Dock Entrance Type"
@@ -98,6 +97,31 @@ defaults:
         twitter:
           owner_username: "TheBOBDevStudio"
           writer_username: "TheBOBDevStudio"
+      easy_links:
+        enabled: true
+        search:
+          page_type: "Global"
+      history_notes:
+        - "Note: The following list only talks about content documented on this page. Update logs for updates older than <code>RBAP Update / V3.0.0</code> are too unreliable to include in this list even If they're applicable. And lastly the primary source of information for this list is update logs meaning if the text in an update log is vague the text on here will likely be as well."
+      posts_list_settings:
+        posts:
+          - can_not_show:
+              update_logs_list: true
+        categories:
+          - display:
+              update_logs:
+                type: "NothingExcept"
+                show_total_amount: false
+                can_show:
+                  update_logs_list: true
+              listed_update_logs:
+                type: "Nothing"
+        tags:
+          - place_holder: true
+      post_categories_not_show_as_in:
+        listed_update_logs: true
+      post_categories_link_overwrites:
+        update_logs: "/update-logs"
 #  - scope:
 #      path: ""
 #      type: pages
@@ -137,6 +161,9 @@ defaults:
       short_description: ""
       page_categories:
         DockPage: true
+      easy_links:
+        search:
+          page_type: "Dock"
   - scope:
       path: "Wiki/Dock-Pages/Game/*"
       type: pages
@@ -163,6 +190,9 @@ defaults:
       short_description: ""
       page_categories:
         DockEntranceTypePage: true
+      easy_links:
+        search:
+          page_type: "Dock Entrance Type"
   - scope:
       path: "Wiki/Dock-Entrance-Type-Pages/Game/*"
       type: pages
@@ -187,29 +217,40 @@ defaults:
         table_of_contents:
           enabled: true
   - scope:
-      path: "_posts/Update-Logs/*"
+      path: "_posts/Normal Posts/*"
       type: posts
     values:
+      categories:
+        - Normal Posts
+  - scope:
+      path: "_posts/Update Logs/*"
+      type: posts
+    values:
+      layout: update-log
       is_update_log: true
       author_profile: true
       author: "BOB"
       comments: true
       categories:
         - Update Logs
+        - Listed Update Logs
       sidebars:
         page_navigation_panel:
           list_name_used: "UpdateLogs"
       outside_preview:
         twitter:
           writer_username: "ThisBeBOB_"
+      easy_links:
+        search:
+          page_type: "RBAP Update"
   - scope:
-      path: "_posts/Update-Logs/Unmaintained/*"
+      path: "_posts/Update Logs/Unmaintained/*"
       type: posts
     values:
       update_log_old: true
       short_description: ""
   - scope:
-      path: "_posts/Update-Logs/Unmaintained/Decent/*"
+      path: "_posts/Update Logs/Unmaintained/Decent/*"
       type: posts
     values:
       listed: true
@@ -224,9 +265,9 @@ defaults:
           text: "Although this update log is old it is still considered pretty decent so comments are still allowed on it."
       categories:
         - Old Update Logs
-        - Listed Old Update Logs
+        - Listed Update Logs
   - scope:
-      path: "_posts/Update-Logs/Unmaintained/Unfavored/*"
+      path: "_posts/Update Logs/Unmaintained/Unfavored/*"
       type: posts
     values:
       listed: false
@@ -239,7 +280,7 @@ defaults:
       categories:
         - Old Update Logs
   - scope:
-      path: "_posts/Update-Logs/Unmaintained/Ancient/*"
+      path: "_posts/Update Logs/Unmaintained/Ancient/*"
       type: posts
     values:
       listed: false
@@ -257,6 +298,17 @@ defaults:
         - Old Update Log System Extracted
       tags:
         - RBAP Beta
+      easy_links:
+        search:
+          page_type: "RBAP Dated Update"
+  - scope:
+      path: "Assets/Compiled/*"
+    values:
+      layout: none
+  - scope:
+      path: "Assets/Compiled/Update-Logs/*"
+    values:
+      layout: update-log-data-file
 
 # --//Plugin related stuff:
 
@@ -265,19 +317,16 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
-  - jekyll-gist
-#  - jekyll-sitemap
 whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
-  - jekyll-gist
-#  - jekyll-sitemap
 
 # --//Markdown to HTML settings:
 
 kramdown:
-  auto_ids: true
+  auto_ids: false
+  parse_block_html: true
 
 # --//Comment settings:
 
