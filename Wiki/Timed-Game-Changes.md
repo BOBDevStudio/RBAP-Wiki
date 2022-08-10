@@ -9,11 +9,11 @@ easy_links:
       search:
         name: "Timed Changes"
     - link_name: "Timed Change: Easter egg in the Game Says appears"
-#      added_url_info: "#"
+      added_url_info: "#game-says-24th-easter-egg-command-appears"
       search:
         name: "Timed Change / Easter egg in the Game Says"
     - link_name: "Timed Change: Old Game Rooms Dock appears"
-#      added_url_info: "#"
+      added_url_info: "#old-game-rooms-dock-appears"
       search:
         name: "Timed Change / Old Game Rooms Dock appears"
     - link_name: "Timed Change: Seasonal color palette gets changed to Spring"
@@ -37,15 +37,15 @@ easy_links:
       search:
         name: "Timed Change / Seasonal Color Palette / Winter"
     - link_name: "Timed Change: \"Snow day\" starts"
-#      added_url_info: "#"
+      added_url_info: "#snow-day-holiday-starts"
       search:
         name: "Timed Change / Snow day"
-    - link_name: "Timed Change: \"Snow day\" starts"
-#      added_url_info: "#"
+    - link_name: "Timed Change: Christmas music becomes available"
+      added_url_info: "#christmas-music-becomes-available"
       search:
         name: "Timed Change / Christmas music"
     - link_name: "Timed Change: Christmas day music becomes available"
-#      added_url_info: "#"
+      added_url_info: "#christmas-day-music-becomes-available"
       search:
         name: "Timed Change / Christmas day music"
 mentioned_game_content:
@@ -86,7 +86,7 @@ The following list is listed in order by how soon it can be witnessed starting a
 ## 24th of any month
 
 ### An easter egg in the <code>Dock / Game Rooms Dock / Game Says</code> game on the <code>Dock / Game Rooms Dock</code>.
-{: #game-says-24th-easter-egg-command}
+{: #game-says-24th-easter-egg-command-appears}
 
 Added in <code>RBAP Update / V5.0.0</code> this easter egg in the <code>Dock / Game Rooms Dock / Game Says</code> game on the <code>Dock / Game Rooms Dock</code> has a chance appear anytime during the 24th of any month. Now there is no guarantee that you'll be able to see it as it has been tested to be quite (unintentionally) rare but be looking out for it when it says to a command. Note that the test that was conducted on it and mentioned here was done before the chance of it appearing was set to triple the normal chance.
 
